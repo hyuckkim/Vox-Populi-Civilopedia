@@ -3,173 +3,108 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Specialists and Great People - Vox Populi Civilopedia</title>
+    <title>전문가와 위인 - Vox Populi 시빌로피디아</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="searchIndex.js"></script>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Specialists and Great People</h1>
+            <h1>전문가와 위인</h1>
             <div class="search-container">
-                <input type="text" id="globalSearch" placeholder="Search Civilopedia... (Press S)" autocomplete="off">
+                <input type="text" id="globalSearch" placeholder="시빌로피디아 검색... (S키)" autocomplete="off">
                 <div id="searchResults" class="search-results"></div>
             </div>
             <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation menu">☰</button>
         </header>
 
         <nav class="main-nav">
-            <a href="index.html">Civilopedia Home Page</a>
-            <a href="concepts.html">Game Concepts</a>
-            <a href="civilizations.html">Civilizations and Leaders</a>
-            <a href="units.html">Units</a>
-            <a href="buildings.html">Buildings</a>
-            <a href="wonders.html">Wonders</a>
-            <a href="technologies.html">Technologies</a>
-            <a href="policies.html">Social Policies</a>
-            <a href="beliefs.html">Religion</a>
-            <a href="promotions.html">Promotions</a>
-            <a href="resources.html">Resources</a>
-            <a href="improvements.html">Improvements</a>
-            <a href="terrain.html">Terrain and Features</a>
-            <a href="greatPeople.html" class="active">Specialists and Great People</a>
-            <a href="cityStates.html">City-States</a>
-            <a href="worldCongress.html">World Congress</a>
-            <a href="corporations.html">Corporations</a>
+            <a href="index.html">문명 백과사전 홈페이지</a>
+            <a href="concepts.html">게임 개념</a>
+            <a href="civilizations.html">문명과 지도자</a>
+            <a href="units.html">유닛</a>
+            <a href="buildings.html">건물</a>
+            <a href="wonders.html">불가사의</a>
+            <a href="technologies.html">기술</a>
+            <a href="policies.html">사회 정책</a>
+            <a href="beliefs.html">종교</a>
+            <a href="promotions.html">승급</a>
+            <a href="resources.html">자원</a>
+            <a href="improvements.html">시설</a>
+            <a href="terrain.html">지형과 특징</a>
+            <a href="greatPeople.html" class="active">전문가와 위인</a>
+            <a href="cityStates.html">도시 국가</a>
+            <a href="worldCongress.html">세계 의회</a>
+            <a href="corporations.html">기업</a>
         </nav>
 
         <main class="pediapage-layout">
             <aside class="pediapage-sidebar">
-                <div class="sidebar-header" onclick="showHomePage(); return false;" style="cursor: pointer;">Specialists and Great People</div>
+                <div class="sidebar-header" onclick="showHomePage(); return false;" style="cursor: pointer;">전문가와 위인</div>
                     <div class="sidebar-section collapsed">
                         <div class="sidebar-section-header" onclick="toggleSection(this)">
-                            <span class="section-icon">▶</span> Specialists
+                            <span class="section-icon">▶</span> 전문가
                         </div>
                         <ul class="sidebar-list" style="display: none;">
-                            <li><a href="#item-SPECIALIST_ARTIST" onclick="return true;">Artist</a></li>
-                            <li><a href="#item-SPECIALIST_CIVIL_SERVANT" onclick="return true;">Civil Servant</a></li>
-                            <li><a href="#item-SPECIALIST_ENGINEER" onclick="return true;">Engineer</a></li>
-                            <li><a href="#item-SPECIALIST_CITIZEN" onclick="return true;">Laborer</a></li>
-                            <li><a href="#item-SPECIALIST_MERCHANT" onclick="return true;">Merchant</a></li>
-                            <li><a href="#item-SPECIALIST_MUSICIAN" onclick="return true;">Musician</a></li>
-                            <li><a href="#item-SPECIALIST_SCIENTIST" onclick="return true;">Scientist</a></li>
-                            <li><a href="#item-SPECIALIST_WRITER" onclick="return true;">Writer</a></li>
+                            <li><a href="#item-SPECIALIST_CIVIL_SERVANT" onclick="return true;">공무원</a></li>
+                            <li><a href="#item-SPECIALIST_SCIENTIST" onclick="return true;">과학자</a></li>
+                            <li><a href="#item-SPECIALIST_CITIZEN" onclick="return true;">근로자</a></li>
+                            <li><a href="#item-SPECIALIST_ENGINEER" onclick="return true;">기술자</a></li>
+                            <li><a href="#item-SPECIALIST_MERCHANT" onclick="return true;">상인</a></li>
+                            <li><a href="#item-SPECIALIST_ARTIST" onclick="return true;">예술가</a></li>
+                            <li><a href="#item-SPECIALIST_MUSICIAN" onclick="return true;">음악가</a></li>
+                            <li><a href="#item-SPECIALIST_WRITER" onclick="return true;">작가</a></li>
                         </ul>
                     </div>
                     <div class="sidebar-section collapsed">
                         <div class="sidebar-section-header" onclick="toggleSection(this)">
-                            <span class="section-icon">▶</span> Great People
+                            <span class="section-icon">▶</span> 위인
                         </div>
                         <ul class="sidebar-list" style="display: none;">
-                            <li><a href="#item-UNIT_GREAT_ADMIRAL" onclick="return true;">Great Admiral</a></li>
-                            <li><a href="#item-UNIT_ARTIST" onclick="return true;">Great Artist</a></li>
-                            <li><a href="#item-UNIT_GREAT_DIPLOMAT" onclick="return true;">Great Diplomat</a></li>
-                            <li><a href="#item-UNIT_ENGINEER" onclick="return true;">Great Engineer</a></li>
-                            <li><a href="#item-UNIT_GREAT_GENERAL" onclick="return true;">Great General</a></li>
-                            <li><a href="#item-UNIT_MERCHANT" onclick="return true;">Great Merchant</a></li>
-                            <li><a href="#item-UNIT_MUSICIAN" onclick="return true;">Great Musician</a></li>
-                            <li><a href="#item-UNIT_PROPHET" onclick="return true;">Great Prophet</a></li>
-                            <li><a href="#item-UNIT_SCIENTIST" onclick="return true;">Great Scientist</a></li>
-                            <li><a href="#item-UNIT_WRITER" onclick="return true;">Great Writer</a></li>
-                            <li><a href="#item-UNIT_TADODAHO" onclick="return true;"><span class="positive">(Iroquois)</span> Tadodaho</a></li>
-                            <li><a href="#item-UNIT_MONGOLIAN_KHAN" onclick="return true;"><span class="positive">(Mongolian)</span> Khan</a></li>
-                            <li><a href="#item-UNIT_VENETIAN_MERCHANT" onclick="return true;"><span class="positive">(Venetian)</span> Merchant of Venice</a></li>
-                            <li><a href="#item-UNIT_INDUNA" onclick="return true;"><span class="positive">(Zulu)</span> InDuna</a></li>
+                            <li><a href="#item-UNIT_TADODAHO" onclick="return true;"><span class="positive">([COLOR:150:150:160:255]이로쿼이</span>의) 도다호</a></li>
+                            <li><a href="#item-UNIT_MONGOLIAN_KHAN" onclick="return true;"><span class="positive">([COLOR:170:100:0:255]몽골</span>의) 칸</a></li>
+                            <li><a href="#item-UNIT_INDUNA" onclick="return true;"><span class="positive">([COLOR:170:120:80:255]줄루</span>의) 인두나</a></li>
+                            <li><a href="#item-UNIT_VENETIAN_MERCHANT" onclick="return true;"><span class="positive">([COLOR:173:112:215:255]베네치아</span>의) 베니스의 상인</a></li>
+                            <li><a href="#item-UNIT_SCIENTIST" onclick="return true;">위대한 과학자</a></li>
+                            <li><a href="#item-UNIT_ENGINEER" onclick="return true;">위대한 기술자</a></li>
+                            <li><a href="#item-UNIT_MERCHANT" onclick="return true;">위대한 상인</a></li>
+                            <li><a href="#item-UNIT_PROPHET" onclick="return true;">위대한 선지자</a></li>
+                            <li><a href="#item-UNIT_ARTIST" onclick="return true;">위대한 예술가</a></li>
+                            <li><a href="#item-UNIT_GREAT_DIPLOMAT" onclick="return true;">위대한 외교관</a></li>
+                            <li><a href="#item-UNIT_MUSICIAN" onclick="return true;">위대한 음악가</a></li>
+                            <li><a href="#item-UNIT_WRITER" onclick="return true;">위대한 작가</a></li>
+                            <li><a href="#item-UNIT_GREAT_GENERAL" onclick="return true;">위대한 장군</a></li>
+                            <li><a href="#item-UNIT_GREAT_ADMIRAL" onclick="return true;">위대한 제독</a></li>
                         </ul>
                     </div>
             </aside>
 
             <div class="pediapage-content" id="itemContent">
-                <button class="sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar"><span class="toggle-icon">☰</span> <span class="toggle-text">Show all Specialists and Great People</span></button>
+                <button class="sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar"><span class="toggle-icon">☰</span> <span class="toggle-text">Show all 전문가와 위인</span></button>
                 <div class="placeholder">
                     <section class="welcome">
-                        <h2>Specialists and Great People</h2>
+                        <h2>전문가와 위인</h2>
                         <div class="summary">
                             <div class="text-box">
-                                <br>&emsp;&emsp;"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them."<br>&emsp;&emsp;  - William Shakespeare<br>&emsp;
+                                <br>&emsp;&emsp;"위대함을 두려워 말라. 어떤 이는 위대하게 태어나고, 어떤 이는 위대함을 성취하고, 어떤 이는 위대함을 추진하는 위대함을 가지고 있다."<br>&emsp;&emsp;  - 윌리엄 셰익스피어<br>&emsp;
                             </div>
                         </div>
                         <div class="summary">
                             <div class="text-box">
-                                Time and again throughout history, there have arisen men and women who have profoundly changed the world around them - artists, scientists, generals, merchants and others, whose genius sets them head and shoulders above the rest. In this game such visionaries are called "Great People."<br><br>There are five different kinds of great people in the game: Great Merchants, Great Artists, Great Scientists, Great Engineers, and Great Generals (a sixth, the Great Diplomat, is added in CSD). Each has a special ability.<br><br>Your civilization acquires Great People by constructing certain buildings and wonders, and then staffing them with "specialists", citizens from your cities who have given up working in the field or the mines. While specialists do not work city tiles, they do greatly speed the arrival of Great People. Balancing the need for food and the desire for Great People is an important challenge of city management.<br><br>When a civilization has advanced technologically enough to be able to support citizens who are not directly involved in providing food, those citizens can be assigned as "specialists." Specialists can increase a city's output of culture, gold, science or production. In addition, specialists speed the creation of "Great People."<br><br>Great People are the artists, merchants, engineers, scientists and warriors who can, singlehandedly, change the course of a civilization. They're people like Leonardo Da Vinci, Andrew Carnegie, Louis Pasteur, and Robert E. Lee. Great People are extremely powerful. Great People are cool.
+                                시간과 역사 속에는 항상 세계에 변화를 가져오는 남성과 여성들이 있었습니다. 이들은 예술가, 과학자, 장군, 상인 등 누구보다도 뛰어난 사람으로 역사 속에 등장했습니다. 이 게임에서 이들은 "위인"으로 등장합니다.<br><br>게임에는 위대한 상인, 위대한 예술가, 위대한 음악가, 위대한 작가, 위대한 과학자, 위대한 기술자, 위대한 장군, 위대한 제독, 위대한 선지자 이렇게 총 9종류의 위인이 등장합니다. (CSD모드를 사용한다면 위대한 외교관이 포함됩니다.) 각각의 위인에게는 특수 능력이 있습니다.<br><br>당신의 문명은 특정 건물과 불가사의를 짓고 이들 건물에 "전문가"를 배치함으로써 위인들을 얻을 수 있습니다. "전문가"는 일반적인 타일이나 광산에서 일하지 않는 사람들을 뜻합니다. 전문가는 도시 주변 타일에서 일하지는 않지만, 위인들이 탄생하는 데 큰 도움을 줍니다. 도시를 운영할 때 식량 생산이나 위인 출현을 위한 전가를 적절히 배치하는 것은 매우 중요합니다.<br><br>문명이 식량을 생산하는데 직접적으로 관련되어 있지 않은 시민을 지탱할 수 있을 충분히 기술적으로 발전하였을 때, 이러한 시민은 "전문가"로 고용될 수 있습니다. 전문가는 도시의 문화, 골드, 과학 그리고 생산을 증가시킬 수 있습니다. 추가로 전문가는 "위인"의 탄생을 앞당깁니다.<br><br>위인은 예술가, 상인, 기술자, 과학자 그리고 장군인데 이들은 단독으로 문명의 흐름을 바꿀 수 있습니다. 그들은 레오나르도 다 빈치, 앤드류 카네기, 루이스 파스퇴르 그리고 로버트 E. 리와 같은 사람들입니다. 위인은 굉장히 강력합니다. 위인은 끝내줍니다.
                             </div>
                         </div>
                     </section>
                 </div>
-                    <div class="article-detail" id="item-SPECIALIST_ARTIST" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Artist</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    Create Artists to increase a city's 🎵 Cultural output and to speed the creation of Great Artists.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
                     <div class="article-detail" id="item-SPECIALIST_CIVIL_SERVANT" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Civil Servant</h2>
+                                <h2 style="margin: 0;">공무원</h2>
                             </div>
                             <div class="summary">
-                                <h3>Strategy:</h3>
+                                <h3>전략</h3>
                                 <div class="text-box">
-                                    Civil Servants produce 1 ⚗️ Science, 1 🎵 Culture, and 2 💰 Gold, and speed the creation of Great Diplomats.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-SPECIALIST_ENGINEER" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Engineer</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    Create Engineers to increase a city's 🔨 Production output and to speed the creation of Great Engineers.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-SPECIALIST_CITIZEN" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Laborer</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    Unemployed Citizens (Laborers) each provides a small amount of yields compared to other specialists, but you can assign as many of your citizens to this position as desired. They should, when possible, be assigned to work tiles or made into specialists.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-SPECIALIST_MERCHANT" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Merchant</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    Create Merchants to increase a city's 💰 Gold output and to speed the creation of Great Merchants.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-SPECIALIST_MUSICIAN" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Musician</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    Create Musicians to increase a city's 🎵 Cultural output and to speed the creation of Great Musicians.
+                                    공무원을 생산하여 도시의 산출량을 늘리고 위대한 외교관의 출현을 앞당길 수 있습니다.
                                 </div>
                             </div>
                         </section>
@@ -177,12 +112,77 @@
                     <div class="article-detail" id="item-SPECIALIST_SCIENTIST" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Scientist</h2>
+                                <h2 style="margin: 0;">과학자</h2>
                             </div>
                             <div class="summary">
-                                <h3>Strategy:</h3>
+                                <h3>전략</h3>
                                 <div class="text-box">
-                                    Create Scientists to increase a city's ⚗️ Science output and to speed the creation of Great Scientists.
+                                    과학자를 생산하여 도시의 ⚗️과학을 늘리고 위대한 과학자의 출현을 앞당길 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-SPECIALIST_CITIZEN" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">근로자</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                    실직한 시민 (근로자) 은 다른 전문가들에 비해 적은 양의 산출량을 제공하지만, 원한다면 많은 시민을 이 자리에 배치할 수 있습니다. 가능하다면 이들을 작업 가능한 타일에 배치하거나 전문가로 만들어야 합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-SPECIALIST_ENGINEER" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">기술자</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                    기술자를 생산하여 도시의 🔨생산을 늘리고 위대한 기술자의 출현을 앞당길 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-SPECIALIST_MERCHANT" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">상인</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                    상인을 생산하여 도시의 💰골드를 늘리고 위대한 상인의 출현을 앞당길 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-SPECIALIST_ARTIST" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">예술가</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                    예술가를 생산하여 도시의 🎵문화를 늘리고 위대한 예술가의 출현을 앞당길 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-SPECIALIST_MUSICIAN" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">음악가</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                    음악가를 생산하여 도시의 🎵문화를 늘리고 위대한 음악가의 출현을 앞당길 수 있습니다.
                                 </div>
                             </div>
                         </section>
@@ -190,304 +190,12 @@
                     <div class="article-detail" id="item-SPECIALIST_WRITER" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Writer</h2>
+                                <h2 style="margin: 0;">작가</h2>
                             </div>
                             <div class="summary">
-                                <h3>Strategy:</h3>
+                                <h3>전략</h3>
                                 <div class="text-box">
-                                    Create Writers to increase a city's 🎵 Cultural output and to speed the creation of Great Writers.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_GREAT_ADMIRAL" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great Admiral</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 6<br>----------------<br>Free Promotions:<br>• Naval Leadership<br>• Military Tradition<br>Improvements:<br>• Tersane<br>Voyage of Discovery: +2 Random Luxury Resources
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Free Promotions:</h3>
-                                <div class="text-box">
-                                    <ul class="item-list">
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_ADMIRAL'); return false;">Naval Leadership</a></li>
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_MILITARY_TRADITION'); return false;">Military Tradition</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    The Great Admiral can immediately cross oceans for free, making it a useful (if vulnerable) exploration vessel. Furthermore, while in owned territory, the Great Admiral can be sent on a <span class="positive">Voyage of Discovery</span> that expends the Unit and gives you two copies of a Luxury Resource not available on the current map.<br><br>The Great Admiral has the ability to instantly <span class="positive">Repair</span> every Naval and Embarked Unit in the same hex, as well as in adjacent hexes. The Great Admiral is consumed when performing this action. The Great Admiral also provides +15% ⚔️ Combat Strength to all player-owned Naval Units within 2 tiles. The Great Admiral is NOT consumed when he provides this bonus. When the Great Admiral is expended for a <span class="positive">Voyage of Discovery</span> or <span class="positive">Repair</span>, it increases your Military Unit Supply Cap by 1.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    "Great Admirals" provide the leadership necessary to guide powerful navies to victory on the open sea. They plan, implement, and execute the complex maneuvers necessary to maintain naval superiority, providing the coastal security that every civilization needs.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_ARTIST" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great Artist</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 2<br>----------------<br>Start a Golden Age
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    A Great Artist can create a  Great Work of Art (generates both 🎵 Culture and 🗿 Tourism) that is placed in the nearest city that has an appropriate building with an empty slot (like the Palace, a Museum, or a Cathedral). A Great Artist can also generate a large sum of Golden Age Points, scaling with 🌟 Golden Age Point output, 🗿 Tourism output, and the number of <span class="positive">themed</span> sets of  Great Works. Great Artists are expended when used either of these ways.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    "Great Artists" are the visionaries of civilization. They interpret the world, bringing beauty, brilliance, form and color where none may have been found before. They carve the statues, paint the pictures, take the photos and make the films that define our humanity. Often their work surpasses its time and place, enlighten and elevate a people, making a civilization far greater than its material possessions and power.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_GREAT_DIPLOMAT" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great Diplomat</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 5<br>----------------<br>Free Promotions:<br>• Master Diplomat<br>Improvements:<br>• Embassy<br>When Expended: +1  Paper<br>Conduct Diplomatic Mission: +30 Resting  Influence with Target  City-State<br>----------------<br>Diplomatic Missions of this Unit grant 100 base  Influence with the target  City-State, plus 15 extra  Influence per Era passed, and reduce the same amount of  Influence of the target  City-State with all other Civilizations.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Free Promotions:</h3>
-                                <div class="text-box">
-                                    <ul class="item-list">
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_DIPLOMAT'); return false;">Master Diplomat</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    Receives <span class="positive">Master Diplomat</span> Promotion for free, which grants 100  Influence from Diplomatic Missions, plus additional  Influence for each completed era.<br><br>You may 👣 move this unit to a City-State you are not at war with and choose one of two options:<br>• Conduct a <span class="positive">Diplomatic Mission</span> which will grant you  Influence and reduce the Influence of other Civilizations by the same amount while also increasing the resting point with that City-State.<br>• Construct an <span class="positive">Embassy</span>, which grants an additional vote in the World Congress. For more on the Embassy, see its civilopedia page in the 'Improvements' section.<br><br>The Great Diplomat is expended when used in either of these ways. When expended, gain +1  Paper.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    Throughout every civilization's history, great mediators, counsellors, and dignitaries have emerged during times of strife or times of great power. Great Diplomats represent these important historical figures and, as such, have the ability to greatly increase a player's diplomatic power. Players may use them to immediately gain a large amount of influence with a city-state, or, if they are looking towards the future, they may be used to build an Embassy in a city-state's land, thus granting the player an additional vote in the World Congress when it is founded.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_ENGINEER" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great Engineer</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 2<br>----------------<br>Improvements:<br>• Manufactory<br>• Oppidum<br>Hurry Production
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    Great Engineers can construct the special Manufactory improvement. It counts as every type of improvement for adjacency bonuses, and when worked, it provides a lot of 🔨 Production for a city. The Great Engineer can also hurry the production of a unit, building or Wonder in a city, increased by 10% per Manufactory created and owned. The Great Engineer is expended when used in either of these ways.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    "Great Engineers" are the men and women who get things done. They construct the monuments, the roads, the information networks that improve the lives of those around them. They invent new processes for building high-rises or rolling steel; they dig canals; they irrigate deserts. They keep a civilization moving forward.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_GREAT_GENERAL" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great General</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 2<br>----------------<br>Free Promotions:<br>• Leadership<br>• Military Tradition<br>Improvements:<br>• Citadel<br>• Oppidum<br>• Tersane
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Free Promotions:</h3>
-                                <div class="text-box">
-                                    <ul class="item-list">
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_GENERAL'); return false;">Leadership</a></li>
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_MILITARY_TRADITION'); return false;">Military Tradition</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    The Great General can construct the special <span class="positive">Citadel</span> improvement which gives a big defensive bonus to any Unit occupying it, damages Enemy Units that finish their turn in tiles adjacent to it, puts all adjacent tiles into your territory, and increases your Military Unit Supply Cap by 1. The Great General is consumed when it builds the <span class="positive">Citadel</span>. The Great General provides +15% ⚔️ Combat Strength to all player-owned Land Units within 2 tiles. The Great General is NOT consumed when he provides this bonus.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    "Great Generals" are the supreme warriors of civilization. They create the weapons and train the soldiers. They plan the strategies to protect a civilization from its enemies, creating bold offensives, strong fortifications and cunning traps. They are the first out of the trench or onto the enemy's ship. They lead the charge into battle, carrying the fate of the people on their broad shoulders.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_MERCHANT" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great Merchant</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 2<br>----------------<br>Improvements:<br>• Town<br>• Oppidum<br>Conduct Diplomatic Mission
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    The Great Merchant can construct the special Town improvement which, when worked, produces 💰 Gold and 🌾 Food. The Great Merchant can also journey to a city-state and perform a "trade mission" which produces a large sum of 💰 Gold and starts a "We Love the King Day" in all owned cities, increased by 25% per Town created and owned. The Great Merchant is expended when used in either of these ways.<br><br>Towns receive +1 💰 Gold and 🔨 Production if built on a Road that connects two owned Cities, and +2 💰 Gold and 🔨 Production if a Railroad. Receive additional 💰 Gold and 🔨 Production (+1 for Roads, +2 for Railroads) if a Trade Route, either internal or international, passes over this Town.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    "Great Merchants" provide the goods and services civilizations need to survive. They import food, medicines, and luxuries, and they export a civilization's manufactured goods. They provide the financing needed for great works to be accomplished. They create a civilization's wealth.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_MUSICIAN" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great Musician</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 2<br>----------------<br>Free Promotions:<br>• Can Enter Rival Territory<br>Perform Concert Tour
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Free Promotions:</h3>
-                                <div class="text-box">
-                                    <ul class="item-list">
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_RIVAL_TERRITORY'); return false;">Can Enter Rival Territory</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    A Great Musician can create a  Great Work of Music (generates both 🎵 Culture and 🗿 Tourism) that is placed in the nearest city that has an appropriate building with an empty slot (like an Opera House or Broadcast Tower).<br><br>A Great Musician can also travel to another civilization and perform a <span class="positive">Concert Tour</span>, increasing your 🗿 Tourism with the target Civilization by 100%, and all other Civilizations by 50%, for 10 Turns plus 1 additional Turn for every owned  Great Work of Music. You also receive 1 😊 Happiness in every City. This action consumes the unit.<br><br>You cannot perform a Concert Tour if at war with the target Civilization, or if your 🗿 Cultural Influence over the Civilization is <span class="magenta">Influential</span> or greater.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    It has been said that "music is the soul of a people." If that is indeed the case, then "Great Musicians" are the guardians of that soul. Whatever the form, whatever the instruments, no other art speaks to our emotions like music. From the time that men first beat out a rhythm on logs, to the modern electronic orchestra, great composers and performers have expressed the collective sorrows and joys of each civilization.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_PROPHET" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great Prophet</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 4<br>•  Sight: 1<br>----------------<br>Spread Religion<br>Found a Religion<br>Free Promotions:<br>• Can Enter Rival Territory<br>Improvements:<br>• Holy Site
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Free Promotions:</h3>
-                                <div class="text-box">
-                                    <ul class="item-list">
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_RIVAL_TERRITORY'); return false;">Can Enter Rival Territory</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    The Great Prophet is the only unit who can found or enhance a religion. He can also construct the special Holy Site improvement which, when worked, produces lots of 🕊️ Faith. Alternatively, the Great Prophet can spread religion 4 times (displacing any previous religions in these cities). The Great Prophet is expended when used in any of these ways.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    "Great Prophets" explore the boundaries of religious belief, conveying their unique insights to guide the moral and ethical decisions of a civilization. They found religions, spread the word of god, and bring faith to the people. They provide hope to the nation during even the direst of times.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_SCIENTIST" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great Scientist</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 2<br>----------------<br>Improvements:<br>• Academy<br>• Oppidum
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    The Great Scientist can construct the special Academy improvement which, when worked, produces lots of ⚗️ Science. Further, a Great Scientist can give you a considerable boost towards your next tech, increased by <span class="positive">10%</span> per Academy created and owned. The Great Scientist is expended when used in any of these ways.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    "Great Scientists" figure out how the world works. They discover that the earth orbits the sun. They sequence DNA and invent quantum mechanics. They cure polio and predict eclipses. They make a civilization smarter. They invent the future.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_WRITER" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Great Writer</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    👣 Moves: 2<br>----------------<br>Discover Technology<br>Write Political Treatise
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    A Great Writer can create a  Great Work of Writing (generates both 🎵 Culture and 🗿 Tourism) that is placed in the nearest city that has an appropriate building with an empty slot (like an Amphitheater, National Epic, Heroic Epic, or Royal Library). A Great Writer can also write a Political Treatise, which grants the player an amount of Culture that scales with the number of owned  Great Works. Great Writers are expended when used either of these ways.
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    "Great Writers" are those gifted men and women who express our desires, insights, fancies, foibles, fears and joys in the written word. Whether in poetry, in novels and stories, for the stage or screen, these are the artists who have defined their civilizations and cultures. Some write prose and poetry about imaginary worlds; others write tracts of philosophy, politics, religion and science about how our world is or should be. Their words echo through time, binding us all together.
+                                    작가를 생산하여 도시의 🎵문화를 늘리고 위대한 작가의 출현을 앞당길 수 있습니다
                                 </div>
                             </div>
                         </section>
@@ -495,42 +203,42 @@
                     <div class="article-detail" id="item-UNIT_TADODAHO" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;"><span class="positive">(Iroquois)</span> Tadodaho</h2>
+                                <h2 style="margin: 0;"><span class="positive">([COLOR:150:150:160:255]이로쿼이</span>의) 도다호</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Iroquois Unique <span class="yellow">Great Diplomat</span><br>----------------<br>👣 Moves: 5<br>----------------<br>When Expended: Adds Tile Yield to 🏛️ Capital<br>Free Promotions:<br>• Master Diplomat<br>Improvements:<br>• Embassy<br>When Expended: +1  Paper<br>Conduct Diplomatic Mission: +45 Resting  Influence with Target  City-State
+                                    [COLOR:150:150:160:255]이로쿼이의 고유 <span class="yellow">위대한 외교관</span><br>----------------<br>👣이동력 : <span class="positive">5</span><br>----------------<br>소비 시: 🏛️ 수도에 타일 산출량 추가<br>무료 승급:<br>• 마스터 외교<br>시설:<br>• 대사관<br>소비 시:  종이 +1<br>외교 임무 수행: 목표  도시 국가에 대해 남은  영향력 +45
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Free Promotions:</h3>
+                                <h3>무료 승급:</h3>
                                 <div class="text-box">
                                     <ul class="item-list">
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_DIPLOMAT'); return false;">Master Diplomat</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_DIPLOMAT'); return false;">마스터 외교</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Replaces:</h3>
+                                <h3>다음을 대체</h3>
                                 <div class="text-box">
                                     <ul class="item-list">
-                                        <li><a href="#" onclick="showGreatPerson('UNIT_GREAT_DIPLOMAT'); return false;">Great Diplomat</a></li>
+                                        <li><a href="#" onclick="showGreatPerson('UNIT_GREAT_DIPLOMAT'); return false;">위대한 외교관</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Civilization:</h3>
+                                <h3>문명</h3>
                                 <div class="text-box">
                                     <ul class="item-list">
-                                        <li><a href="#" onclick="showCivilization('CIVILIZATION_IROQUOIS'); return false;">The Iroquois</a></li>
+                                        <li><a href="#" onclick="showCivilization('CIVILIZATION_IROQUOIS'); return false;">[COLOR:150:150:160:255]이로쿼이[ENDCOLOR]</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Historical Info:</h3>
+                                <h3>역사적 정보</h3>
                                 <div class="text-box">
-                                    The Tadodaho, also called the Fire Keeper, refers to the head of the Grand Council of the Six Nations that includes the Cayuga, Mohawk, Oneida, Onondaga, Seneca, and Tuscarora people. A spiritual and political leader, the position dates back to the original founding of the Iroquois Confederacy; the hoyenah (chieftain) of the Onondaga Nation in the time of Hiawatha and the Great Peacemaker was named Tadodaho. The leadership of the Grand Council, and the honorific title of its founder, has been passed down for centuries, and is a lifetime appointment. It is said there have been 27 Tadodahos since the original founding of the Haudenosaunee (also called Iroquois) Confederacy.<br><br>The Great Council Fire of the Iroquois League is still located within the Onondaga reservation in present-day New York. The Tadodahos of recent history have continued to fight for the repatriation and preservation of Haudenosaunee culture, language, and history, as well as petition the American and Canadian governments in defense of their people's lands and treaty rights.
+                                    타도다호족은 불의 수호자라고도 불리며, 카유가족, 모호크족, 오네이다족, 오논다가족, 세네카족, 투스카로라족을 포함하는 6개 부족의 대의회의 수장을 가리킵니다. 정신적, 정치적 지도자인 이 직책은 이로쿼이 연방의 원래 창립 당시부터 존재했습니다. 하이아와타와 위대한 평화주의자 시대에 오논다가의 호이에나(hoyenah, 족장)는 타도다호라고 불렸습니다. 대의회의 리더십과 창립자의 명예 칭호는 수 세기 동안 이어져 왔으며, 종신 임명직입니다. 호데노쇼니족(이로쿼이족이라고도 함) 연합이 처음 건국된 이래로 타도다호족은 27명이었다고 전해집니다.<br><br>이로쿼이 연맹 대의회의 불은 현재 뉴욕주에 위치한 오논다가 보호구역 내에 아직도 남아 있습니다. 최근 역사 속 타도다호족은 호데노쇼니족의 문화, 언어, 역사를 되찾고 보존하기 위해 계속 싸워왔으며, 그들의 땅과 조약상의 권리를 수호하기 위해 미국과 캐나다 정부에 청원하기도 했습니다.
                                 </div>
                             </div>
                         </section>
@@ -538,101 +246,52 @@
                     <div class="article-detail" id="item-UNIT_MONGOLIAN_KHAN" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;"><span class="positive">(Mongolian)</span> Khan</h2>
+                                <h2 style="margin: 0;"><span class="positive">([COLOR:170:100:0:255]몽골</span>의) 칸</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Mongolian Unique <span class="yellow">Great General</span><br>----------------<br>👣 Moves: 5<br>----------------<br>Free Promotions:<br>• Leadership<br>• Medic I<br>• Khaaaan!<br>• Medic II<br>• Military Tradition<br>Improvements:<br>• Ordo
+                                    [COLOR:170:100:0:255]몽골의 고유 <span class="yellow">위대한 장군</span><br>----------------<br>👣이동력 : <span class="positive">5</span><br>----------------<br>무료 승급:<br>• 지도력<br>• 위생병 I<br>• 카아아안!<br>• 의무병 II<br>• 군사 전통<br>시설:<br>• 오르도
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Free Promotions:</h3>
+                                <h3>무료 승급:</h3>
                                 <div class="text-box">
                                     <ul class="item-list">
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_GENERAL'); return false;">Leadership</a></li>
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_MEDIC'); return false;">Medic I</a></li>
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_MEDIC_GENERAL'); return false;">Khaaaan!</a></li>
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_MEDIC_II'); return false;">Medic II</a></li>
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_MILITARY_TRADITION'); return false;">Military Tradition</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_GENERAL'); return false;">지도력</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_MEDIC'); return false;">위생병 I</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_MEDIC_GENERAL'); return false;">카아아안!</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_MEDIC_II'); return false;">의무병 II</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_MILITARY_TRADITION'); return false;">군사 전통</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Replaces:</h3>
+                                <h3>다음을 대체</h3>
                                 <div class="text-box">
                                     <ul class="item-list">
-                                        <li><a href="#" onclick="showGreatPerson('UNIT_GREAT_GENERAL'); return false;">Great General</a></li>
+                                        <li><a href="#" onclick="showGreatPerson('UNIT_GREAT_GENERAL'); return false;">위대한 장군</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Civilization:</h3>
+                                <h3>문명</h3>
                                 <div class="text-box">
                                     <ul class="item-list">
-                                        <li><a href="#" onclick="showCivilization('CIVILIZATION_MONGOL'); return false;">Mongolia</a></li>
+                                        <li><a href="#" onclick="showCivilization('CIVILIZATION_MONGOL'); return false;">[COLOR:170:100:0:255]몽골[ENDCOLOR]</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Strategy:</h3>
+                                <h3>전략</h3>
                                 <div class="text-box">
-                                    The Khan is the Mongolian unique unit, replacing the Great General. It moves much faster, heals stacked and adjacent units for additional HP per turn, and damages adjacent enemies if they end their turn next to it. It can also be expended to construct an <span class="positive">Ordo</span> and claim all adjacent tiles.
+                                    칸은 위대한 장군을 대체하는 몽골의 고유 위인입니다. 더 빨리 이동할 수 있고, 주변 아군 유닛을 회복시키고, 인접한 적 유닛에게 피해를 줍니다. <span class="positive">오르도</span>를 건설해 인접 영토를 얻을 수 있습니다.
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Historical Info:</h3>
+                                <h3>역사적 정보</h3>
                                 <div class="text-box">
-                                    Originally the Khans were tribal chieftains of the Mongol people, ruling anywhere from one tribe to a loose confederation of many smaller ones.  At the time of Genghis' rise to power, the title was generally reserved for military leaders, but was later used to denote the civil leaders of the Mongolian Empire as well.  The Khans were the elected rulers of the empire provinces, holding their titles based on merit and loyalty rather than blood ties.  These leaders often served as generals as well, leading the large Mongolian armies in their successful raids and conquests. Later, an extension of the word was created, "Khagan", to denote the grand ruler, the Khan of Khans so to speak, but this wasn't used until after Genghis Khan's death in 1227 AD.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-UNIT_VENETIAN_MERCHANT" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;"><span class="positive">(Venetian)</span> Merchant of Venice</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Venetian Unique <span class="yellow">Great Merchant</span><br>----------------<br>👣 Moves: 4<br>----------------<br>Buy City-State<br>Can Found Colony (Puppet City)<br><span class="negative">Cannot found Cities next to anyone's border or if your Empire is very unhappy.</span><br>Free Buildings on Found (subject to location requirements): Monument, Market<br>Free Promotions:<br>• Trade Mission Bonus<br>Improvements:<br>• Town<br>Conduct Diplomatic Mission
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Free Promotions:</h3>
-                                <div class="text-box">
-                                    <ul class="item-list">
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_TRADE_MISSION_BONUS'); return false;">Trade Mission Bonus</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Replaces:</h3>
-                                <div class="text-box">
-                                    <ul class="item-list">
-                                        <li><a href="#" onclick="showGreatPerson('UNIT_MERCHANT'); return false;">Great Merchant</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Civilization:</h3>
-                                <div class="text-box">
-                                    <ul class="item-list">
-                                        <li><a href="#" onclick="showCivilization('CIVILIZATION_VENICE'); return false;">Venice</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Strategy:</h3>
-                                <div class="text-box">
-                                    The Merchant of Venice is the Venetian unique unit, replacing the Great Merchant. It generates more 💰 when performing a trade mission. It can acquire a City-State outright, bringing it under Venetian control as a puppet. It can also found a Colonia, which is a city that starts puppeted with 3  Citizens, claims 3 additional tiles, and immediately receives a Monument and a Market. The Merchant of Venice is expended when used in any of these ways.<br><br>Note: the bonuses for constructing buildings from the Progress and Industry policy branches do not apply to the buildings automatically constructed on founding!
-                                </div>
-                            </div>
-                            <div class="summary">
-                                <h3>Historical Info:</h3>
-                                <div class="text-box">
-                                    The merchants operating out of Venice in the 13th through 16th centuries were more than just traders; they were explorers, diplomats, geographers and authors. Besides bringing wealth to the Venetian Republic, they brought back knowledge and culture, and set them down in writing. The exploits of individuals such as Marco Polo, Gasparo Balbi and Ambrogio Contarini not only made Venice rich, but famous as well.
+                                    본래 칸은 몽골인의 부족장으로 어디서든 한 부족부터 다른 소부족들과의 느슨한 연합까지 지배한다.  징기즈칸이 권력을 잡은 시기에는 이 칭호가 일반적으로 군 지휘자를 위한 것이었으나, 이후에는 몽골 제국의 지배자들을 의미하는데도 쓰였다.  칸들은 제국 지역에서 선출된 지배자들로 혈연보다는 능력과 충성심에 기반하여 칭호를 가졌다. 이 지도자들은 대개 장군이기도 해서, 침략과 정복을 할 때 거대한 몽골 군단을 지휘했다. 이후에 단어의 의미가 확장되면서 '카칸'이란 단어가 만들어졌는데, 말하자면 위대한 지배자, 칸 의 칸을 의미하는 것이었다. 그러나 이 단어는 징기즈칸이 1227년에 사망할 때까지는 쓰이지 않았다.
                                 </div>
                             </div>
                         </section>
@@ -640,49 +299,390 @@
                     <div class="article-detail" id="item-UNIT_INDUNA" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;"><span class="positive">(Zulu)</span> InDuna</h2>
+                                <h2 style="margin: 0;"><span class="positive">([COLOR:170:120:80:255]줄루</span>의) 인두나</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Zulu Unique <span class="yellow">Great General</span><br>----------------<br>👣 Moves: 3<br>----------------<br>Free Promotions:<br>• Leadership<br>• Military Tradition<br>Improvements:<br>• Isibaya<br>When Expended: +30 XP to Units on Tile
+                                    [COLOR:170:120:80:255]줄루의 고유 <span class="yellow">위대한 장군</span><br>----------------<br>👣이동력 : <span class="positive">3</span><br>----------------<br>무료 승급:<br>• 지도력<br>• 군사 전통<br>시설:<br>• 이시바야<br>소비 시: 타일 위의 유닛에 경험치 +30
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Free Promotions:</h3>
+                                <h3>무료 승급:</h3>
                                 <div class="text-box">
                                     <ul class="item-list">
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_GENERAL'); return false;">Leadership</a></li>
-                                        <li><a href="#" onclick="showPromotion('PROMOTION_MILITARY_TRADITION'); return false;">Military Tradition</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_GENERAL'); return false;">지도력</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_MILITARY_TRADITION'); return false;">군사 전통</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Replaces:</h3>
+                                <h3>다음을 대체</h3>
                                 <div class="text-box">
                                     <ul class="item-list">
-                                        <li><a href="#" onclick="showGreatPerson('UNIT_GREAT_GENERAL'); return false;">Great General</a></li>
+                                        <li><a href="#" onclick="showGreatPerson('UNIT_GREAT_GENERAL'); return false;">위대한 장군</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Civilization:</h3>
+                                <h3>문명</h3>
                                 <div class="text-box">
                                     <ul class="item-list">
-                                        <li><a href="#" onclick="showCivilization('CIVILIZATION_ZULU'); return false;">The Zulus</a></li>
+                                        <li><a href="#" onclick="showCivilization('CIVILIZATION_ZULU'); return false;">[COLOR:170:120:80:255]줄루[ENDCOLOR]</a></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Strategy:</h3>
+                                <h3>전략</h3>
                                 <div class="text-box">
-                                    The InDuna's primary unique bonuses over a Great General are that when expended it provides experience to the unit it's stacked with and creates an Isibaya which places a  Cattle Resource adjacent to it and adjacent Pastures receive +1 🎵 Culture.<br><br>The Isibaya should still primarily be used for military purposes like a Citadel but where possible trying to build it within the working radius of a city and adjacent to Pastures should be considered so you get the economic bonuses.<br><br>You should always make sure to have a military unit stacked with the InDuna when constructing an Isibaya and its usually best to try to give the bonus experience to higher level units especially ranged or siege units. This is due to these unit types being easier to keep alive longer compared to melee units and that they tend to gain experience slower so the bonus experience is more impactful.
+                                    인두나가 위대한 장군에 비해 갖는 주요 고유 보너스는 소모 시 함께 배치된 유닛에게 경험치를 제공하고, 인접한 목장에  소 자원을 배치하는 이시바야를 생성하며, 인접한 목장에 🎵 문화 +1을 부여한다는 점입니다.<br><br>이시바야는 여전히 요새처럼 주로 군사 목적으로 사용해야 하지만, 가능하면 도시의 활동 범위 내에 목장과 인접하게 건설하여 경제적 보너스를 얻는 것을 고려해야 합니다.<br><br>이시바야를 건설할 때는 항상 인두나를 장착한 군사 유닛을 함께 배치해야 하며, 특히 원거리 유닛이나 공성 유닛과 같이 레벨이 높은 유닛에게 보너스 경험치를 주는 것이 가장 좋습니다. 이는 이러한 유형의 유닛이 근접 유닛에 비해 더 오래 생존시키기 쉽고, 경험치 획득 속도가 느리기 때문에 추가 경험치가 더 큰 효과를 발휘하기 때문입니다.
                                 </div>
                             </div>
                             <div class="summary">
-                                <h3>Historical Info:</h3>
+                                <h3>역사적 정보</h3>
                                 <div class="text-box">
-                                    An InDuna can widely be translated to any leader of men, in commerce, in politics, and in war. An InDuna guided each regiment, or 'ibutho', of young Zulu men and he in turn answered to senior izinDuna who controlled the corps. One or more of these elder chiefs might accompany a big force on an important mission, but there was no single "field marshal" in command of all Zulu forces. Regimental izinDuna, like the non-commissioned officers of today's army, were important for morale and discipline. This was demonstrated during the battle of Isandlwana, where the army led by Ntshingwayo kaMahole outmaneuvered and destroyed a British column. Ntshingwayo kaMahole and his fellow izinDuna snuck a Zulu force of 20,000 men behind the British, hiding them in a valley only 7 miles from the British camp. When discovered sitting in complete silence by scouts, the izinDuna spurred their men into action and closed the remaining distance with lightning speed.
+                                    인두나(InDuna)는 상업, 정치, 전쟁 등 각 분야에서 활동하는 모든 지도자를 가리키는 말로 널리 번역될 수 있습니다. 인두나는 젊은 줄루족 남자들로 구성된 각 연대, 즉 '이부토(Ibutho)'를 지휘했고, 그는 다시 군단을 지휘하는 선임 이진나(izinDuna, 인두나의 복수형)에게 보고했습니다. 이들 원로 족장 중 한 명 이상이 중요한 임무에 대규모 부대를 수행했을 수는 있지만, 줄루족 전체의 군대를 지휘하는 단일 "야전 사령관"은 존재하지 않았습니다. 오늘날 군대의 부사관과 마찬가지로 연대의 이진두나도 사기와 규율을 유지하는 데 중요했습니다. 이는 이산들와나(Isandlwana) 전투에서 잘 드러났는데, 은칭와요 카마홀레(Ntshingwayo kaMahole)가 이끄는 군대가 영국군 부대를 따돌리고 격파했기 때문입니다. 은팅와요 카마홀레와 그의 동료 이진두나는 2만 명의 줄루군을 영국군 뒤로 몰래 숨겨 영국군 진영에서 불과 7마일 떨어진 계곡에 숨겼습니다. 정찰병들이 그들이 완전히 침묵한 채 앉아 있는 것을 발견하자, 이진두나는 부하들을 행동에 나서도록 독려하고 번개같이 빠른 속도로 남은 거리를 좁혔습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_VENETIAN_MERCHANT" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;"><span class="positive">([COLOR:173:112:215:255]베네치아</span>의) 베니스의 상인</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    [COLOR:173:112:215:255]베네치아의 고유 <span class="yellow">위대한 상인</span><br>----------------<br>👣이동력 : <span class="positive">4</span><br>----------------<br>도시 국가 매수<br>식민지 개척 가능 (괴뢰 도시)<br><span class="negative">다른 나라의 국경 근처거나 문명이 매우 불행하면 도시를 세울 수 없습니다.</span><br>개척시 무료 건물 (위치 요구 사항에 따라): 기념비, 시장<br>무료 승급:<br>• 무역 임무 보너스<br>시설:<br>• 소도시<br>외교 임무 수행
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>무료 승급:</h3>
+                                <div class="text-box">
+                                    <ul class="item-list">
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_TRADE_MISSION_BONUS'); return false;">무역 임무 보너스</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>다음을 대체</h3>
+                                <div class="text-box">
+                                    <ul class="item-list">
+                                        <li><a href="#" onclick="showGreatPerson('UNIT_MERCHANT'); return false;">위대한 상인</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>문명</h3>
+                                <div class="text-box">
+                                    <ul class="item-list">
+                                        <li><a href="#" onclick="showCivilization('CIVILIZATION_VENICE'); return false;">[COLOR:173:112:215:255]베네치아[ENDCOLOR]</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                    베니스의 상인은 위대한 상인을 대체하는 베네치아의 고유 유닛입니다. 무역 임무 시 더 많은 💰 골드를 생성합니다. 또한 도시 국가를 사들여, 베네치아의 괴뢰 도시로 만들 수 있습니다. 또한 <span class="positive">식민지</span>를 설립할 수 있습니다. 식민지는 3  시민으로 시작하고, 3 타일을 추가로 얻고, 기념비 및 시장을 무료로 얻습니다. 베니스의 상인는 이 중 하나를 사용하면 소모됩니다.<br><br>참고: 진보와 산업 정책의 건물 건설 보너스는 자동으로 건설된 건물에 적용되지 않습니다!
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    13세기부터 16세기에 베네치아에서 활동했던 상인들은 그저 무상이 아니라 탐험가이자 외교관이자 지리학자이자 작가였다. 이들은 베네치아 공화국에 부뿐만 아니라, 지식과 문화를 가져왔고, 이를 기록했다. 마르코 폴로, 가스파로 발비, 암브로지오 콘타리니 같은 사람들의 업적으로 베네치아는 부유할 뿐만 아니라 유명해졌다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_SCIENTIST" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 과학자</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">2</span><br>----------------<br>시설:<br>• 아카데미<br>• 오피둠
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                     위대한 과학자는 특별한 <span class="positive">아카데미</span> 시설을 건설할 수 있습니다. 시민을 투입한 아카데미는 대량의 ⚗️ 과학을 제공합니다. 또한 위대한 과학자로 다음 기술의 발견을 돕는 <span class="positive">연구 가속</span>을 수행할 수 있습니다. 연구 가속은 소유한 아카데미마다 효과가 10% 증가합니다.<br><br>위 능력 중 하나를 사용하면 위대한 과학자가 사라집니다.
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    위대한 과학자는 세상이 어떻게 돌아가는지 알아낸 사람들입니다. 그들은 지구가 태양을 공전한다는 것을 알아냈습니다. 그들은 양자역학과 DNA 사슬을 알아냈습니다. 그들은 소아마비를 치료하였으며 일식을 예언하였습니다. 그들은 문명을 지혜롭게 만들며, 미래를 만들어냅니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_ENGINEER" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 기술자</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">2</span><br>----------------<br>시설:<br>• 제조소<br>• 오피둠<br>생산 가속
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                     위대한 기술자는 특별한 <span class="positive">제조소</span> 시설을 건설할 수 있습니다. 시민을 투입한 제조소는 대량의 🔨 생산을 제공합니다. 또한 위대한 기술자로 도시의 유닛, 건물, 불가사의의 생산 속도를 증가시키는 <span class="positive">생산 가속</span>을 수행할 수 있습니다. 생산 가속은 소유한 제조소마다 효과가 10% 증가합니다. <br><br>위 능력 중 하나를 사용하면 위대한 기술자가 사라집니다.
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    위대한 기술자는 무언가를 완성시킨 사람들입니다. 그들은 우리의 삶을 향상시키는 기념물과 길, 그리고 정보망을 건설합니다. 그들은 고층 건물을 짓는 방법, 터널을 파는 방법, 그리고 사막을 관개시키는 방법을 발견해냅니다. 그들은 문명을 진보시킵니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_MERCHANT" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 상인</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">2</span><br>----------------<br>시설:<br>• 소도시<br>• 오피둠<br>외교 임무 수행
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                     위대한 상인은 특별한 <span class="positive">소도시</span> 시설을 건설할 수 있습니다. 시민을 투입한 소도시는 많은 💰 골드와 🌾 식량을 제공합니다. 또한 위대한 상인은 도시 국가로 이동하여 <span class="positive">무역 임무</span>를 할 수 있습니다. 무역 임무는 대량의 💰 골드를 벌어들이고 즉시 모든 도시가 국왕 경축일을 맞이하게 합니다. 무역 임무는 소유한 소도시마다 효과가 25% 증가합니다. <br><br>위 능력 중 하나를 사용하면 위대한 상인이 사라집니다.<br><br>소도시는 두 도시 사이를 연결하는 도로 위에 있다면 💰 골드와 🔨 생산을 +1 제공합니다. 철도라면 💰 골드와 🔨 생산을 +2 제공합니다. 소도시를 지나가는 교역로가 있다면 추가 💰 골드와 🔨 생산을 제공합니다(도로에서 +1, 철도에서 +2).
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    "위대한 상인"은 문명이 살아남기 위해 필요한 상품과 서비스를 제공합니다. 그들은 식량, 약, 그리고 사치 자원들을 수입하고, 문명의 주 생산품을 수출합니다. 그들은 중요한 작업이 이루어질 수 있게 자금을 지원합니다. 그들은 문명의 부를 창출합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_PROPHET" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 선지자</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">4</span><br>•  시야: 1<br>----------------<br>종교 전파<br>종교 창시<br>무료 승급:<br>• 영토 침입 가능<br>시설:<br>• 성지
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>무료 승급:</h3>
+                                <div class="text-box">
+                                    <ul class="item-list">
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_RIVAL_TERRITORY'); return false;">영토 침입 가능</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                    위대한 선지자는 종교를 창시하거나 강화할 수 있는 유일한 유닛입니다. 위대한 선지자는 대량의 🕊️신앙을 획득할 수 있는 <span class="positive">성지</span>를 건설할 수 있습니다.  해당 도시의 이전 종교를 모두 대체하면서 종교를 <span class="positive">4번</span> 전파할 수 있습니다. <br><br>위 능력 중 하나를 사용하면 위대한 선지자는 사라집니다.
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    위대한 선지자'는 종교적 믿음의 영역을 탐사하며 문명의 윤리 도덕적 결정을 인도하는 데에 독특한 통찰력을 사용합니다. 종교를 창시하고 신의 말을 전파하며 민중에게 신앙심을 갖게 합니다. 가장 가혹한 시기에도 그들은 국가에 희망을 제공할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_ARTIST" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 예술가</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">2</span><br>----------------<br>🌟황금기 시작
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                     위대한 예술가는  <span class="positive">걸작 예술품</span>(🎵 문화 및 🗿 관광 제공)을 만들 수 있습니다. 걸작 예술품은 빈 슬롯이 있는 적절한 건물(궁전, 박물관, 대성당 등)이 건설된 가장 가까운 도시에 배치됩니다. 또한 위대한 예술가는 대량의 황금기를 제공합니다. 이 점수는 🌟 황금기 점수 산출량, 🗿 관광 산출량, 테마가 맞춰진  걸작의 세트 수에 따라 증가합니다. <br><br>위 능력 중 하나를 사용하면 위대한 예술가는 사라집니다.
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    위대한 예술가는 문명의 선지자이다. 거장은 그때까지 누구도 본 적 없었던 아름다움, 광채, 형태, 색깔을 가져와 세계를 해석한다. 거장은 조각을 깎고, 그림을 그리고, 사진을 찍고, 영화를 만들면서 인간성을 정의한다. 때때로 거장의 작품은 시대와 장소를 초월하며, 민족에게 깨달음과 발달을 주고, 물질적 부와 권력보다 훨씬 더 위대한 문명을 만든다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_GREAT_DIPLOMAT" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 외교관</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">5</span><br>----------------<br>무료 승급:<br>• 마스터 외교<br>시설:<br>• 대사관<br>소비 시:  종이 +1<br>외교 임무 수행: 목표  도시 국가에 대해 남은  영향력 +30
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>무료 승급:</h3>
+                                <div class="text-box">
+                                    <ul class="item-list">
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_DIPLOMAT'); return false;">마스터 외교</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                    위대한 외교관은 외교력을 크게 증가시킬 수 있는 능력을 가지고 있습니다. 마스터 외교 승급이 부여된 채 시작하며 위대한 외교관을 전쟁 중이 아닌 도시 국가로 이동시켜 다음의 임무를 수행할 수 있습니다. 우선 <span class="positive">외교 임무</span>를 통해 영향력을 증가시키고 다른 문명의 영향력을 감소시킬 수 있습니다. 또한 <span class="positive">대사관</span>을 건설해 세계 의회 추가 대표단을 확보할 수 있습니다. <br><br>위 능력중 하나를 사용하면 위대한 외교관이 사라지고 <span class="positive">종이</span> 자원 1개를 획득합니다.
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    모든 문명의 역사를 통해, 위대한 중재자, 상담자, 그리고 관료들은 분쟁의 시기나 위대한 힘의 시기에 등장했습니다. 위대한 외교관은 이러한 중요한 역사적 인물들을 대표하며, 따라서 선수의 외교력을 크게 높일 수 있는 능력을 가지고 있습니다. 플레이어는 도시국가와 함께 즉시 큰 영향력을 얻기 위해 사용할 수 있으며, 미래를 내다보고 있는 경우 도시국가 땅에 대사관을 건설하는 데 사용할 수 있으며, 따라서 설립 시 세계 의회에서 플레이어에게 추가 투표권을 부여할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_MUSICIAN" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 음악가</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">2</span><br>----------------<br>무료 승급:<br>• 영토 침입 가능<br>순회 공연 수행
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>무료 승급:</h3>
+                                <div class="text-box">
+                                    <ul class="item-list">
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_RIVAL_TERRITORY'); return false;">영토 침입 가능</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                     위대한 음악가는  <span class="positive">걸작 음악</span>(🎵 문화 🗿 관광 제공)을 만들 수 있습니다. 걸작 음악은 빈 슬롯이 있는 적절한 건물(오페라 극장, 방송탑 등)이 건설된 가장 가까운 도시에 배치됩니다. 또한 위대한 음악가는 다른 문명으로 건너가 <span class="positive">순회 공연</span>을 열 수 있습니다. 순회 공연을 마치면 해당 문명에 대한 🗿 관광이 10턴 동안, 소유한  걸작 음악 1개마다 1턴씩 더 100% 증가하고 🏛️ 모든 도시의 😊 행복이 1 증가합니다.<br><br>위 능력 중 하나를 사용하면 위대한 음악가는 사라집니다. 해당 문명과 전쟁 중이거나 해당 문명에 대한 당신의 문화적인 영향력이 <span class="magenta">매우 유명함</span> 이상이면 공연을 열 수 없습니다.
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    음악은 민족의 영혼이라는 말이 있다. 그게 사실이라면 위대한 음악가는 영혼의 수호자이다. 어떤 형태를 취하든, 어떤 도구를 쓰든, 음악만큼 인간의 감정을 흔드는 예술은 없다. 인류가 최초로 통나무를 박자에 맞춰 두드렸던 시대부터 현대 전자 오케스트라까지, 위대한 작곡가와 연주자는 각 문명의 슬픔과 기쁨을 표현했다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_WRITER" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 작가</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">2</span><br>----------------<br>기술 발견<br>정치 논문 집필
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                     위대한 작가는  <span class="positive">걸작 문학</span>(🎵 문화 및 🗿 관광 제공)을 만들 수 있습니다. 걸작 문학은 빈 슬롯이 있는 적절한 건물(원형극장, 영웅 서사시, 왕립 도서관 등)이 건설된 가장 가까운 도시에 배치됩니다. 또한 위대한 작가는 <span class="positive">정치 논문</span>을 집필하여 대량의 🎵 문화를 획득할 수도 있습니다. 해당 문화는 소유한 걸작의 수에 따라 증가합니다. <br><br>위 능력 중 하나를 사용하면 위대한 작가는 사라집니다.
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    위대한 작가는 글로 인간의 욕망, 통찰, 환상, 약점, 공포, 즐거움을 표현하는 재능을 가진 사람들이다. 시든 소설이든 동화든, 무대든 화면이든 간에 작가는 자신이 속한 문명과 문화를 정의하는 예술가이다. 어떤 이들은 상상 속 세계에 대한 산문이나 시를 쓰고, 어떤 이들은 철학, 정치, 종교, 과학 분야에서 우리 세계가 어떤지, 그리고 어때야 하는지에 대해 쓴다. 작가의 글은 시간을 초월해 인간을 하나로 묶어준다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_GREAT_GENERAL" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 장군</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">2</span><br>----------------<br>무료 승급:<br>• 지도력<br>• 군사 전통<br>시설:<br>• 성채<br>• 오피둠<br>• 테르사네
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>무료 승급:</h3>
+                                <div class="text-box">
+                                    <ul class="item-list">
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_GENERAL'); return false;">지도력</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_MILITARY_TRADITION'); return false;">군사 전통</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                    위대한 장군은 <span class="positive">성채</span>라는 특수 시설을 건설할 수 있는데, 성채와 같은 타일에 있는 유닛은 큰 방어 보너스를 받습니다. 성채를 건설하면 주변 타일이 플레이어의 영토가 되며 성채 옆에서 턴을 마치는 적 유닛에게 피해를 주고, 군사 유닛 보급 한도를 1 증가시킵니다. 성채를 건설하면 위대한 장군이 사라집니다. 위대한 장군은 2타일 내의 모든 플레이어 소유 유닛에  15%의 전투력 보너스를 제공합니다. 보너스 제공 때문에 장군이 사라지지는 않습니다.
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    위대한 장군은 문명 최고의 전사입니다. 그들은 무기를 만들고 병사들을 훈련시킵니다. 그들은 적으로부터 문명을 보호할 전략을 세우고, 대담한 공세를 취하며, 강력한 요새와 적절한 함정을 만듭니다. 그들은 가장 먼저 참호에서 오거나 적의 배로 들어갑니다. 그들은 사람들을 전장으로 이끌며, 사람들의 운명을 그들의 넓은 어깨에 짊어지게 합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-UNIT_GREAT_ADMIRAL" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">위대한 제독</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    👣이동력 : <span class="positive">6</span><br>----------------<br>무료 승급:<br>• 해상 지도력<br>• 군사 전통<br>시설:<br>• 테르사네<br>발견 항해: 무작위 사치 자원 +2
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>무료 승급:</h3>
+                                <div class="text-box">
+                                    <ul class="item-list">
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_GREAT_ADMIRAL'); return false;">해상 지도력</a></li>
+                                        <li><a href="#" onclick="showPromotion('PROMOTION_MILITARY_TRADITION'); return false;">군사 전통</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>전략</h3>
+                                <div class="text-box">
+                                     위대한 제독은 즉시 <span class="positive">대양</span>을 건널 수 있어 유용한 탐사선이 될 수 있습니다. 국내 영토에서 <span class="positive">발견 항해</span>를 수행할 수 있습니다. 이는 위인을 소모해 지도상에 드러나지 않은 사치 자원 복제품 2개를 제공합니다. 또한 위대한 제독은 자신과 같은 타과 주변 타일의 모든 해상 및 승선 유닛의 피해를 즉시 회복시키는 <span class="positive">함대 수리</span>를 수행할 수 있습니다. 2타일 이내의 모든 아군 해상 유닛에 ⚔️ 전투력 보너스를 15% 제공합니다. <br><br>함대 수리 또는 발견 항해 능력을 사용한 위대한 제독은 소모되어 사라지며 군사 유닛 보급 한도를 1 증가시킵니다.
+                                </div>
+                            </div>
+                            <div class="summary">
+                                <h3>역사적 정보</h3>
+                                <div class="text-box">
+                                    위대한 제독은 드넓은 바다에서 승리할 수 있는 강한 해군을 지휘하는 지도력을 제공합니다. 해군력 우위를 점할 수 있는 전략을 짜고 시행하며 복잡한 전술을 구사하여, 어느 문명에서나 필요한 해안 경비를 제공합니다.
                                 </div>
                             </div>
                         </section>
@@ -691,7 +691,7 @@
         </main>
 
         <footer>
-            <p>Vox Populi Civilopedia - Version 5.1</p>
+            <p>Vox Populi 시빌로피디아 - Version 5.1</p>
         </footer>
     </div>
 
@@ -927,7 +927,7 @@
                     });
                     searchResults.style.display = 'block';
                 } else {
-                    searchResults.innerHTML = '<div class="search-result-item no-results">No results found</div>';
+                    searchResults.innerHTML = '<div class="search-result-item no-results">검색 결과 없음</div>';
                     searchResults.style.display = 'block';
                 }
             });
@@ -1057,9 +1057,9 @@
                 const toggleText = sidebarToggle.querySelector('.toggle-text');
                 if (toggleText) {
                     if (pediaSidebar.classList.contains('open')) {
-                        toggleText.textContent = 'Hide all Specialists and Great People';
+                        toggleText.textContent = 'Hide all 전문가와 위인';
                     } else {
-                        toggleText.textContent = 'Show all Specialists and Great People';
+                        toggleText.textContent = 'Show all 전문가와 위인';
                     }
                 }
             });

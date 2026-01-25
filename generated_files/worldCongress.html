@@ -3,278 +3,122 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>World Congress - Vox Populi Civilopedia</title>
+    <title>세계 의회 - Vox Populi 시빌로피디아</title>
     <link rel="stylesheet" href="css/style.css">
     <script src="searchIndex.js"></script>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>World Congress</h1>
+            <h1>세계 의회</h1>
             <div class="search-container">
-                <input type="text" id="globalSearch" placeholder="Search Civilopedia... (Press S)" autocomplete="off">
+                <input type="text" id="globalSearch" placeholder="시빌로피디아 검색... (S키)" autocomplete="off">
                 <div id="searchResults" class="search-results"></div>
             </div>
             <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation menu">☰</button>
         </header>
 
         <nav class="main-nav">
-            <a href="index.html">Civilopedia Home Page</a>
-            <a href="concepts.html">Game Concepts</a>
-            <a href="civilizations.html">Civilizations and Leaders</a>
-            <a href="units.html">Units</a>
-            <a href="buildings.html">Buildings</a>
-            <a href="wonders.html">Wonders</a>
-            <a href="technologies.html">Technologies</a>
-            <a href="policies.html">Social Policies</a>
-            <a href="beliefs.html">Religion</a>
-            <a href="promotions.html">Promotions</a>
-            <a href="resources.html">Resources</a>
-            <a href="improvements.html">Improvements</a>
-            <a href="terrain.html">Terrain and Features</a>
-            <a href="greatPeople.html">Specialists and Great People</a>
-            <a href="cityStates.html">City-States</a>
-            <a href="worldCongress.html" class="active">World Congress</a>
-            <a href="corporations.html">Corporations</a>
+            <a href="index.html">문명 백과사전 홈페이지</a>
+            <a href="concepts.html">게임 개념</a>
+            <a href="civilizations.html">문명과 지도자</a>
+            <a href="units.html">유닛</a>
+            <a href="buildings.html">건물</a>
+            <a href="wonders.html">불가사의</a>
+            <a href="technologies.html">기술</a>
+            <a href="policies.html">사회 정책</a>
+            <a href="beliefs.html">종교</a>
+            <a href="promotions.html">승급</a>
+            <a href="resources.html">자원</a>
+            <a href="improvements.html">시설</a>
+            <a href="terrain.html">지형과 특징</a>
+            <a href="greatPeople.html">전문가와 위인</a>
+            <a href="cityStates.html">도시 국가</a>
+            <a href="worldCongress.html" class="active">세계 의회</a>
+            <a href="corporations.html">기업</a>
         </nav>
 
         <main class="pediapage-layout">
             <aside class="pediapage-sidebar">
-                <div class="sidebar-header" onclick="showHomePage(); return false;" style="cursor: pointer;">World Congress Home Page</div>
+                <div class="sidebar-header" onclick="showHomePage(); return false;" style="cursor: pointer;">세계 의회 홈페이지</div>
                     <div class="sidebar-section collapsed">
                         <div class="sidebar-section-header" onclick="toggleSection(this)">
-                            <span class="section-icon">▶</span> Resolutions
+                            <span class="section-icon">▶</span> 결의안
                         </div>
                         <ul class="sidebar-list" style="display: none;">
-                            <li><a href="#item-RESOLUTION_BAN_LUXURY_HAPPINESS" onclick="return true;">Ban Luxury</a></li>
-                            <li><a href="#item-RESOLUTION_WORLD_WAR" onclick="return true;">Casus Belli</a></li>
-                            <li><a href="#item-RESOLUTION_CHANGE_LEAGUE_HOST" onclick="return true;">Choose Host</a></li>
-                            <li><a href="#item-RESOLUTION_ALL_CITY_STATES_EMBARGO" onclick="return true;">City-State Sanctions</a></li>
-                            <li><a href="#item-RESOLUTION_COLD_WAR" onclick="return true;">Cold War</a></li>
-                            <li><a href="#item-RESOLUTION_CULTURAL_HERITAGE_SITES" onclick="return true;">Cultural Heritage Sites</a></li>
-                            <li><a href="#item-RESOLUTION_DECOLONIZATION" onclick="return true;">Decolonization</a></li>
-                            <li><a href="#item-RESOLUTION_ARTS_FUNDING" onclick="return true;">Endowment for the Arts</a></li>
-                            <li><a href="#item-RESOLUTION_DIPLOMATIC_VICTORY" onclick="return true;">Global Hegemony</a></li>
-                            <li><a href="#item-RESOLUTION_PLAYER_VASSAL_TAX" onclick="return true;">Global Liberation</a></li>
-                            <li><a href="#item-RESOLUTION_STANDING_ARMY_TAX" onclick="return true;">Global Peace Accords</a></li>
-                            <li><a href="#item-RESOLUTION_WARGAMES" onclick="return true;">Global Wargames</a></li>
-                            <li><a href="#item-RESOLUTION_HISTORICAL_LANDMARKS" onclick="return true;">Historical Landmarks</a></li>
-                            <li><a href="#item-RESOLUTION_WORLD_GAMES" onclick="return true;">International Games</a></li>
-                            <li><a href="#item-RESOLUTION_INTERNATIONAL_SPACE_STATION" onclick="return true;">International Space Station</a></li>
-                            <li><a href="#item-RESOLUTION_NATURAL_HERITAGE_SITES" onclick="return true;">Natural Heritage Sites</a></li>
-                            <li><a href="#item-RESOLUTION_NUCLEAR_NON_PROLIFERATION" onclick="return true;">Nuclear Non-Proliferation</a></li>
-                            <li><a href="#item-RESOLUTION_OPEN_DOOR" onclick="return true;">Open Door</a></li>
-                            <li><a href="#item-RESOLUTION_TOURISM_BONUS" onclick="return true;">Passport System</a></li>
-                            <li><a href="#item-RESOLUTION_PLAYER_EMBARGO" onclick="return true;">Sanction</a></li>
-                            <li><a href="#item-RESOLUTION_MEMBER_DISCOVERED_TECH_DISCOUNT" onclick="return true;">Scholars In Residence</a></li>
-                            <li><a href="#item-RESOLUTION_SPACESHIP_INSPECTION" onclick="return true;">Spaceflight Regulations</a></li>
-                            <li><a href="#item-RESOLUTION_SPHERE_OF_INFLUENCE" onclick="return true;">Sphere of Influence</a></li>
-                            <li><a href="#item-RESOLUTION_TOURISM_PENALTY" onclick="return true;">Travel Ban</a></li>
-                            <li><a href="#item-RESOLUTION_TREASURE_FLEET" onclick="return true;">Treasure Fleet</a></li>
-                            <li><a href="#item-RESOLUTION_UNITED_NATIONS" onclick="return true;">United Nations</a></li>
-                            <li><a href="#item-RESOLUTION_WORLD_IDEOLOGY" onclick="return true;">World Ideology</a></li>
-                            <li><a href="#item-RESOLUTION_WORLD_RELIGION" onclick="return true;">World Religion</a></li>
-                            <li><a href="#item-RESOLUTION_SCIENCES_FUNDING" onclick="return true;">World Science Initiative</a></li>
-                            <li><a href="#item-RESOLUTION_WORLD_FAIR" onclick="return true;">World's Fair</a></li>
+                            <li><a href="#item-RESOLUTION_WARGAMES" onclick="return true;">국제 군사 훈련</a></li>
+                            <li><a href="#item-RESOLUTION_WORLD_GAMES" onclick="return true;">국제 스포츠 대회</a></li>
+                            <li><a href="#item-RESOLUTION_UNITED_NATIONS" onclick="return true;">국제 연합</a></li>
+                            <li><a href="#item-RESOLUTION_INTERNATIONAL_SPACE_STATION" onclick="return true;">국제 우주 정거장</a></li>
+                            <li><a href="#item-RESOLUTION_COLD_WAR" onclick="return true;">냉전</a></li>
+                            <li><a href="#item-RESOLUTION_ALL_CITY_STATES_EMBARGO" onclick="return true;">도시 국가 통상 금지</a></li>
+                            <li><a href="#item-RESOLUTION_WORLD_FAIR" onclick="return true;">만국 박람회</a></li>
+                            <li><a href="#item-RESOLUTION_OPEN_DOOR" onclick="return true;">문호 개방</a></li>
+                            <li><a href="#item-RESOLUTION_CULTURAL_HERITAGE_SITES" onclick="return true;">문화 유산</a></li>
+                            <li><a href="#item-RESOLUTION_TREASURE_FLEET" onclick="return true;">보물 선단</a></li>
+                            <li><a href="#item-RESOLUTION_BAN_LUXURY_HAPPINESS" onclick="return true;">사치 자원 수입 금지</a></li>
+                            <li><a href="#item-RESOLUTION_STANDING_ARMY_TAX" onclick="return true;">상비군 세금</a></li>
+                            <li><a href="#item-RESOLUTION_MEMBER_DISCOVERED_TECH_DISCOUNT" onclick="return true;">상주 학자</a></li>
+                            <li><a href="#item-RESOLUTION_SCIENCES_FUNDING" onclick="return true;">세계 과학 기금</a></li>
+                            <li><a href="#item-RESOLUTION_WORLD_IDEOLOGY" onclick="return true;">세계 이념</a></li>
+                            <li><a href="#item-RESOLUTION_WORLD_RELIGION" onclick="return true;">세계 종교</a></li>
+                            <li><a href="#item-RESOLUTION_DIPLOMATIC_VICTORY" onclick="return true;">세계 패권</a></li>
+                            <li><a href="#item-RESOLUTION_PLAYER_VASSAL_TAX" onclick="return true;">세계 해방</a></li>
+                            <li><a href="#item-RESOLUTION_TOURISM_BONUS" onclick="return true;">여권 시스템</a></li>
+                            <li><a href="#item-RESOLUTION_TOURISM_PENALTY" onclick="return true;">여행 금지</a></li>
+                            <li><a href="#item-RESOLUTION_HISTORICAL_LANDMARKS" onclick="return true;">역사적 랜드마크</a></li>
+                            <li><a href="#item-RESOLUTION_SPHERE_OF_INFLUENCE" onclick="return true;">영향권</a></li>
+                            <li><a href="#item-RESOLUTION_ARTS_FUNDING" onclick="return true;">예술 기금</a></li>
+                            <li><a href="#item-RESOLUTION_SPACESHIP_INSPECTION" onclick="return true;">우주 비행 규제</a></li>
+                            <li><a href="#item-RESOLUTION_NATURAL_HERITAGE_SITES" onclick="return true;">자연 문화 유산</a></li>
+                            <li><a href="#item-RESOLUTION_CHANGE_LEAGUE_HOST" onclick="return true;">주최국 선택</a></li>
+                            <li><a href="#item-RESOLUTION_WORLD_WAR" onclick="return true;">카수스 벨리</a></li>
+                            <li><a href="#item-RESOLUTION_DECOLONIZATION" onclick="return true;">탈식민지화</a></li>
+                            <li><a href="#item-RESOLUTION_PLAYER_EMBARGO" onclick="return true;">통상 금지</a></li>
+                            <li><a href="#item-RESOLUTION_NUCLEAR_NON_PROLIFERATION" onclick="return true;">핵 확산 금지</a></li>
                         </ul>
                     </div>
                     <div class="sidebar-section collapsed">
                         <div class="sidebar-section-header" onclick="toggleSection(this)">
-                            <span class="section-icon">▶</span> International Projects
+                            <span class="section-icon">▶</span> 국제 프로젝트
                         </div>
                         <ul class="sidebar-list" style="display: none;">
-                            <li><a href="#item-LEAGUE_PROJECT_WARGAMES" onclick="return true;">Global Wargames</a></li>
-                            <li><a href="#item-LEAGUE_PROJECT_WORLD_GAMES" onclick="return true;">International Games</a></li>
-                            <li><a href="#item-LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION" onclick="return true;">International Space Station</a></li>
-                            <li><a href="#item-LEAGUE_PROJECT_TREASURE_FLEET" onclick="return true;">Treasure Fleet</a></li>
-                            <li><a href="#item-LEAGUE_PROJECT_UNITED_NATIONS" onclick="return true;">United Nations</a></li>
-                            <li><a href="#item-LEAGUE_PROJECT_WORLD_FAIR" onclick="return true;">World's Fair</a></li>
+                            <li><a href="#item-LEAGUE_PROJECT_WARGAMES" onclick="return true;">국제 군사 훈련</a></li>
+                            <li><a href="#item-LEAGUE_PROJECT_WORLD_GAMES" onclick="return true;">국제 스포츠 대회</a></li>
+                            <li><a href="#item-LEAGUE_PROJECT_UNITED_NATIONS" onclick="return true;">국제 연합</a></li>
+                            <li><a href="#item-LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION" onclick="return true;">국제 우주 정거장</a></li>
+                            <li><a href="#item-LEAGUE_PROJECT_WORLD_FAIR" onclick="return true;">만국 박람회</a></li>
+                            <li><a href="#item-LEAGUE_PROJECT_TREASURE_FLEET" onclick="return true;">보물 선단</a></li>
                         </ul>
                     </div>
             </aside>
 
             <div class="pediapage-content" id="itemContent">
-                <button class="sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar"><span class="toggle-icon">☰</span> <span class="toggle-text">Show all World Congress</span></button>
+                <button class="sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar"><span class="toggle-icon">☰</span> <span class="toggle-text">Show all 세계 의회</span></button>
                 <div class="placeholder">
                     <section class="welcome">
-                        <h2>World Congress</h2>
+                        <h2>세계 의회</h2>
                         <div class="summary">
                             <div class="text-box">
-                                <br>&emsp;&emsp;"More than ever before in human history, we share a common destiny. We can master it only if we face it together. And that is why we have the United Nations."<br>&emsp;&emsp; - Kofi Annan<br>&emsp;
+                                <br>&emsp;&emsp;"인류 역사상 여느 때보다, 우리는 공통의 운명을 가지게 되었습니다. 우리는 오직 그 운명을 함께 마주할 때에만, 그것을 제어할 수 있다. 그리고 그것이 우리가 유엔을 설립한 이유입니다."<br>&emsp;&emsp; - 코피 아난<br>&emsp;
                             </div>
                         </div>
                         <div class="summary">
                             <div class="text-box">
-                                Some great things are only possible through international cooperation. History has seen many examples of nations coming together for mutual benefit and decision making, from the trade-focused Hanseatic League to the more recent League of Nations. The twentieth century saw a new level of international cooperation begin with the United Nations.<br><br>In Civilization V, the "World Congress" represents these diplomatic interactions between multiple parties and acts as the path to Diplomatic Victory. In this diplomatic body, all civilizations have the chance to decide on game-changing effects in the form of "Resolutions." In addition, "International Projects" can be built, which combine the production efforts of multiple civilizations to benefit those who contribute.
+                                국제 협력을 통해서만 이룰 수 있는 중한 일이 있습니다. 원활한 무역을 도모하기 위한 한자 동맹이나 그보다 근대에 결성된 국제 연맹 등 국가가 상호 이익을 도모하기 위해 서로 협력을 한 사례는 많습니다. 20세기에는 국제 연합을 필두로 새로운 수준의 국제 협력이 이루어지고 있습니다.<br><br>이와 같은 다자간 외교 교류를 문명 5의 "세계 의회"가 반영하고 있으며 이를 통해 외교 승리를 달성할 수 있습니다. 세계 의회에서 모든 문명은 "결의안"을 통해 게임의 여러 효과를 바꿀 수 있는 기회를 잡습니다.  "국제 프로젝트"를 착수해 여러 문명이 공동으로 생산에 참여할 수 있으며, 기여도에 따라 이익 분배가 이루어집니다.
                             </div>
                         </div>
                     </section>
                 </div>
-                    <div class="article-detail" id="item-RESOLUTION_BAN_LUXURY_HAPPINESS" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Ban Luxury</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    A Luxury resource is designated as immoral, endangered, or otherwise inappropriate for use by the general population. As long as the ban is in place, Civilizations receive no 😊 Happiness or Monopoly benefits from this Luxury resource.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_WORLD_WAR" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Casus Belli</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    The world recognizes the need for justifiable war to resolve diplomatic disputes.<br><br>While this resolution is active, unit maintenance costs are lowered by 15% 💰 Gold. 0.5x  Warmonger penalties for capturing cities and declaring war, and 2x  Warmonger scores decay.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_CHANGE_LEAGUE_HOST" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Choose Host</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Designate a Civilization to host the Congress.  Being the host grants additional Delegates and the ability to propose resolutions.<br><br>May not be proposed by a Civilization.  Automatically proposed as Civilizations advance to later eras.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_ALL_CITY_STATES_EMBARGO" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">City-State Sanctions</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    No  Trade Routes can be established with City-States, and all Corporation Franchises are removed from City-States. 0.5x Warmonger penalty when declaring war on City-States or conquering cities owned by them.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_COLD_WAR" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Cold War</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Ideological differences have pushed the world into a cold war, and economic and political factions are forming based on ideology alone.<br><br>While this resolution is active, players may only make  Trade Routes with civilizations that follow the same ideology, or with allied City-States. Furthermore,  Influence levels with allied City-States do not decline.<br><br>Available once any Civilization discovers Atomic Theory.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_CULTURAL_HERITAGE_SITES" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Cultural Heritage Sites</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Each World Wonder provides +2 🎵 Culture to its city, and each Great Work provides +1 ⚗️ Science to its city.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_DECOLONIZATION" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Decolonization</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Enforce global decolonization. If successful, the  Influence of all Players with all City-States is lowered to 50, unless they are permanent allies.<br><br>Available once any Civilization discovers Radio.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_ARTS_FUNDING" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Endowment for the Arts</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Increases up to 33% generation of Great Writers, Artists, and Musicians. Decreases up to 33% generation of Great Scientists, Engineers, and Merchants.<br><br>Civilizations with Scores from Policies and Great Works <span class="positive">below the global median</span> will receive a boost to 🔨 Production and 🎵 Culture up to 33%.<br><br>Details: The boosts are proportional to the difference between the score of the Civilization and the leader.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_DIPLOMATIC_VICTORY" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Global Hegemony</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Designate a player that could achieve Global Hegemony. If a Civilization receives support from enough Delegates in the Congress, that leader will attain <span class="positive">Diplomatic Victory</span>. The number of Delegates needed depends on the number of Civilizations and City-States in the game, and can be seen on the World Congress screen.<br><br>If no Civilization receives enough support to win, the two Civilizations who received the most support permanently gain <span class="positive">5 additional Delegates</span> to use in future sessions.<br><br>May not be proposed by a Civilization. Automatically proposed at regular intervals once a <span class="positive">World Ideology Resolution</span> is active.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_PLAYER_VASSAL_TAX" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Global Liberation</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    All Master-Vassal relationships are immediately and peacefully annulled.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_STANDING_ARMY_TAX" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Global Peace Accords</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Unit maintenance costs are raised by 25% 💰 Gold. 2.0x  Warmonger penalties for capturing cities and declaring war, and 0.5x  Warmonger scores decay.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
                     <div class="article-detail" id="item-RESOLUTION_WARGAMES" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Global Wargames</h2>
+                                <h2 style="margin: 0;">국제 군사 훈련</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Begins the Global Wargames project. Once underway, Civilizations can contribute 🔨 Production towards its completion by selecting it in the city production list. When complete, Civilizations receive bonuses based on how much they contributed.<br><br>🥇: Menin Gate wonder appears in 🏛️ Capital. (Receive +2 😊 Happiness in the City in which it is built. Receive 2 🎵 Culture and 🌟 Golden Age Points whenever an owned unit is killed, scaling with Era. Forts, Citadels and Landmarks provide +2 🎵 Culture and 🌟 Golden Age Points when worked.)<br>🥈: Receive a +25% attack bonus to all Military Units for the next 30 turns and 4 of your military units will be maintenance-free.<br>🥉: Receive one Infantry and 3 of your military units will be maintenance-free.<br><br>Available once any Civilization discovers Replaceable Parts.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_HISTORICAL_LANDMARKS" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Historical Landmarks</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Great Person tile improvements provide +1 to 🌾 Food, 🔨 Production, and 💰 Gold when worked, and Landmarks built by Archaeologists provide +1 ⚗️ Science, 🎵 Culture, and 🕊️ Faith when worked.<br><br>Available once any Civilization discovers Archaeology.
+                                    <span class="positive">국제 군사 훈련</span> 프로젝트를 시작합니다. 프로젝트가 시작되면 도시의 생산 목록에서 해당 프로젝트를 선택해 프로젝트에 기여할 수 있습니다. 프로젝트가 완료되면, 프로젝트에 참여한 문명은 기여한 🔨생산에 따라 보너스를 받게 됩니다.<br><br>🥇: 🏛️수도에 <span class="positive">메닝 문</span> 불가사의가 출현합니다. (건설 시 +2 😊 행복을 제공합니다. 아군 유닛이 사망할 때마다 +2 🎵 문화와 +2 🌟 황금기 점수를 얻습니다. (시대별 보정) 요새, 성채, 랜드마크가 +2 🎵 문화와 +2 🌟 황금기 점수를 제공합니다.)<br>🥈: 다음 30턴 동안 모든 군사 유닛의 ⚔️전투력 보너스가 <span class="positive">25%</span> 증가합니다. 군사 유닛 <span class="positive">4개</span>의 유지비가 들지 않습니다.<br>🥉: <span class="positive">보병</span> 1개가 출현하고 군사 유닛 <span class="positive">3개</span>의 유지비가 들지 않습니다. <br><br>교환부품을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
                                 </div>
                             </div>
                         </section>
@@ -282,155 +126,12 @@
                     <div class="article-detail" id="item-RESOLUTION_WORLD_GAMES" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">International Games</h2>
+                                <h2 style="margin: 0;">국제 스포츠 대회</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Begins the International Games project.  Once underway, Civilizations can contribute 🔨 Production towards its completion by selecting it in the city production list.  When complete, Civilizations receive bonuses based on how much they contributed.<br><br>🥇: Olympic Village wonder appears in 🏛️ Capital. (Receive +3 😊 Happiness and +3 🎵 Culture in the City in which it is built. 25% of the 🎵 Culture from World Wonders and Tiles is added to the 🗿 Tourism output of the City. All Stadiums receive +2 💰 Gold and 🗿 Tourism.)<br>🥈:  Receive a free Great Person of your choice.<br>🥉: 🗿 Tourism increases by 50% for 20 Turns.<br><br>Available once any Civilization discovers Radio.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_INTERNATIONAL_SPACE_STATION" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">International Space Station</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Begins the International Space Station project. Once underway, Civilizations can contribute 🔨 Production towards its completion by selecting it in the city production list. When complete, Civilizations receive bonuses based on how much they contributed.<br><br>🥇: International Space Station wonder appears in 🏛️ Capital. (+1 🔨 Production from Scientists, and +1 ⚗️ Science from Engineers.  Great Scientists provide 33% more ⚗️ Science when used to discover new Technology. +100 🔨 in City where it is built when you unlock a new Technology, scaling with Era.)<br>🥈: Free Great Scientist.<br>🥉: One time Research boost.<br><br>Available once any Civilization discovers Rocketry.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_NATURAL_HERITAGE_SITES" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Natural Heritage Sites</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Each Natural Wonder provides +2 to all Yields when worked.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_NUCLEAR_NON_PROLIFERATION" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Nuclear Non-Proliferation</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    All Civilizations are prevented from constructing new nuclear weapons (Atomic Bomb and Nuclear Missile).  Weapons already constructed, however, are not disarmed.<br><br>Available once any Civilization discovers Advanced Ballistics.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_OPEN_DOOR" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Open Door</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Enact an Open Door policy for a City-State. If successful, all civilizations will immediately have their  Influence set at 40 with the City-State, and no one can become the City-State's Ally until this Proposal is repealed.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_TOURISM_BONUS" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Passport System</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Increases international travel between Civilizations. Increases the 🗿 Tourism modifier for all Civilizations by 50%.<br><br>Available once any Civilization discovers Flight.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_PLAYER_EMBARGO" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Sanction</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    No  Trade Routes, Deals, or Corporation Franchises can be established with the chosen Civilization (excluding Vassals). Their Corporation Franchises are removed from foreign cities. 0.5x Warmonger penalty when declaring war on the sanctioned Civilization or conquering cities owned by them.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_MEMBER_DISCOVERED_TECH_DISCOUNT" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Scholars In Residence</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Civilizations have -20% ⚗️ Research cost for Technologies already discovered by another Civilization. Additional -2% for every City-State Ally, up to -50%.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_SPACESHIP_INSPECTION" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Spaceflight Regulations</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Spaceflight Regulations control the proliferation of modern ballistic technology, oversee national space programs, and limit the advance of pontentially-dangerous technology.<br><br>As long as this resolution is active, all players will suffer a global -25% 🔨 Production penalty for  Spaceship Parts and +25% 💰 Gold purchase costs for  Spaceship Parts.<br><br>Available once any Civilization discovers Atomic Theory.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_SPHERE_OF_INFLUENCE" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Sphere of Influence</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Demand a Sphere of Influence over a City-State. If successful, the proposing player becomes the permanent Ally of the City-State (unless this Proposal is repealed). The proposer must be the current ally of the City-State.<br><br>Available once any Civilization discovers Steam Power.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_TOURISM_PENALTY" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Travel Ban</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Restricts international travel between Civilizations. Reduces the 🗿 Tourism modifier for all Civilizations by 35%.<br><br>Available once any Civilization discovers Flight.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-RESOLUTION_TREASURE_FLEET" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Treasure Fleet</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    Begins the Treasure Fleet project. Once underway, Civilizations can contribute 🔨 Production towards its completion by selecting it in the city production list. When complete, Civilizations receive bonuses based on how much they contributed.<br><br>🥇: Grand Canal wonder appears in 🏛️ Capital. (Receive 1 <span class="positive">Additional</span>  Trade Route. Grants all Naval Units except Submarines and Carriers the <span class="positive">Treasure Fleet</span> Promotion, which grants +10% ⚔️ Combat Strength when attacking, +1  Sight, and the ability to heal <span class="positive">Outside of Friendly Territory</span>.)<br>🥈: Receive a free Great Admiral and 3 of your military units will be maintenance-free.<br>🥉: Receive one Frigate. 300 points towards next 🌟 Golden Age.
+                                    <span class="positive">국제 스포츠 대회</span> 프로젝트를 시작합니다. 프로젝트가 시작되면 도시의 생산 목록에서 해당 프로젝트를 선택해 프로젝트에 기여할 수 있습니다. 프로젝트가 완료되면, 프로젝트에 참여한 문명은 기여한 🔨생산에 따라 보너스를 받게 됩니다.<br><br>🥇 : 🏛️수도에 <span class="positive">올림픽 선수촌</span> 불가사의가 출현합니다. (건설 시 +3 😊 행복과 +3 🎵 문화를 얻습니다. 세계 불가사의, 자연 불가사의, 시설(랜드마크, 모아이, 샤토) 🎵문화의 25%가 도시 🗿 관광에 추가됩니다. 모든 경기장이 +2 💰 골드와 +2 🗿 관광을 얻습니다.)<br>🥈 :  원하는 ⭐<span class="positive">위인</span>을 1명 제공합니다.<br>🥉 : 20턴 동안 🗿관광이 <span class="positive">50%</span> 증가합니다.<br><br>라디오를 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
                                 </div>
                             </div>
                         </section>
@@ -438,51 +139,51 @@
                     <div class="article-detail" id="item-RESOLUTION_UNITED_NATIONS" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">United Nations</h2>
+                                <h2 style="margin: 0;">국제 연합</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Begins the United Nations project. Once underway, Civilizations can contribute 🔨 Production towards its completion by selecting it in the city production list. When complete, Civilizations receive bonuses based on how much they contributed.<br><br>🥇: United Nations wonder appears in 🏛️ Capital. (Receive 1 <span class="positive">Additional</span>  Delegate in the World Congress for every 8  City-States originally in the World. Also, when you expend a ⭐ Great Person, earn 25  Influence with all  City-States you have met. Triggers a 🌟 Golden Age, as well as the <span class="positive">United Nations</span> Special Session of the World Congress if the world has reached the Atomic Era.)<br>🥈: Receive an immediate boost of 25  Influence with all City-States. The Consulate National Wonder appears in 🏛️ Capital. (Receive 1 <span class="positive">Additional</span>  Delegate in the World Congress for every 8  City-States originally in the World.)<br>🥉: Receive a free Great Diplomat.<br><br>Available once any Civilization discovers Atomic Theory.
+                                    <span class="positive">국제 연합</span> 프로젝트를 시작합니다. 프로젝트가 시작되면 도시의 생산 목록에서 해당 프로젝트를 선택해 프로젝트에 기여할 수 있습니다. 프로젝트가 완료되면, 프로젝트에 참여한 문명은 기여한 🔨생산에 따라 보너스를 받게 됩니다.<br><br>🥇: 🏛️수도에 <span class="positive">국제 연합</span> 불가사의가 출현합니다. (세계의 원래 도시 국가 8개마다 세계 의회 추가 대표단을 1명 확보합니다. ⭐ 위인을 소모할 때마다, 만난 모든 도시국가가 25 영향력을 얻고, 원자력 시대 이후 <span class="positive">국제 연합</span> 특별 회기가 열리면 🌟 황금기를 시작합니다.)<br>🥈: 모든 도시 국가에 대한 영향력을 즉시 <span class="positive">25</span>만큼 제공합니다. 🏛️수도에 <span class="positive">영사관</span> 국가 불가사의가 출현합니다. (세계의 원래 도시 국가 8개마다 세계 의회 추가 대표단을 1명 확보합니다.)<br>🥉: <span class="positive">위대한 외교관</span>이 1명 출현합니다. <br><br>원자론을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
                                 </div>
                             </div>
                         </section>
                     </div>
-                    <div class="article-detail" id="item-RESOLUTION_WORLD_IDEOLOGY" style="display: none;">
+                    <div class="article-detail" id="item-RESOLUTION_INTERNATIONAL_SPACE_STATION" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">World Ideology</h2>
+                                <h2 style="margin: 0;">국제 우주 정거장</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Designate an Ideology as the official World Ideology. Civilizations following the Ideology get an additional Delegate, plus 1 Delegate for every other Civilization that follows the Ideology. Public opinion in favor of that Ideology is increased for all Civilizations. Enables the <span class="positive">Diplomatic Victory</span> if the United Nations has been constructed.<br><br>Available once any Civilization discovers Nuclear Fission.
+                                    <span class="positive">국제 우주 정거장</span> 프로젝트를 시작합니다. 프로젝트가 시작되면 시의 생산 목록에서 해당 프로젝트를 선택해 프로젝트에 기여할 수 있습니다. 프로젝트가 완료되면, 프로젝트에 참여한 문명은 기여한 🔨생산에 따라 보너스를 받게 됩니다.<br><br>🥇: 🏛️수도에 <span class="positive">국제 우주 정거장</span> 불가사의가 출현합니다. (과학자에서 +1 🔨 생산, 기술자에서 +1 ⚗️ 과학,  위대한 과학자가 기술 연구에 사용되면 ⚗️과학을 33% 더 제공합니다. 기술이 연구될 때 마다 도시에 +100 🔨 생산을 제공합니다. (시대별 보정))<br>🥈: <span class="positive">위대한 과학자</span>가 1명 출현합니다.<br>🥉: 한 번의 <span class="positive">연구 가속</span>이 발생합니다.<br><br>로켓공학을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
                                 </div>
                             </div>
                         </section>
                     </div>
-                    <div class="article-detail" id="item-RESOLUTION_WORLD_RELIGION" style="display: none;">
+                    <div class="article-detail" id="item-RESOLUTION_COLD_WAR" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">World Religion</h2>
+                                <h2 style="margin: 0;">냉전</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Designate a religion as the official World Religion. Civilizations who have a majority of the cities in their empire following the religion get an additional Delegate. The founder of the religion and/or the controller of its Holy City receives additional votes based on the number of Civilizations following the religion. The religion spreads 25% faster, and its Holy City receives +50% 🗿 Tourism. There can only be one World Religion at a time.
+                                    이념의 차이가 세계를 냉전으로 몰아붙였고 이념에 기반한 경제적, 정치적인 파벌이 형성되었습니다.<br><br>이 결의안이 활성되면, <span class="positive">같은 이념</span>을 따르는 문명 또는 동맹인 도시 국가에만  교역로를 보낼 수 있습니다. 동맹인 도시 국가와의 영향력이 감소하지 않습니다.<br><br>원자론을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
                                 </div>
                             </div>
                         </section>
                     </div>
-                    <div class="article-detail" id="item-RESOLUTION_SCIENCES_FUNDING" style="display: none;">
+                    <div class="article-detail" id="item-RESOLUTION_ALL_CITY_STATES_EMBARGO" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">World Science Initiative</h2>
+                                <h2 style="margin: 0;">도시 국가 통상 금지</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Increases up to 33% generation of Great Scientists, Engineers, and Merchants. Decreases up to 33% generation of Great Writers, Artists, and Musicians.<br><br>Civilizations with Scores from Technologies and Future Tech <span class="positive">below the global median</span> will receive a boost to 🌾 Food and ⚗️ Science up to 33%.<br><br>Details: The boosts are proportional to the difference between the score of the Civilization and the leader.
+                                    도시 국가와 교역로를 연결할 수 없고 기존 교역로는 <span class="negative">취소</span>되며 다른 장소와 연결해야 합니다. 도시 국가의 모든 기업 프랜차이즈가 제거됩니다. 도시 국가에 전쟁을 선포하거나 해당 도시를 점령할 때의 전쟁광 수치가 0.5배가 됩니다.
                                 </div>
                             </div>
                         </section>
@@ -490,12 +191,311 @@
                     <div class="article-detail" id="item-RESOLUTION_WORLD_FAIR" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">World's Fair</h2>
+                                <h2 style="margin: 0;">만국 박람회</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    Begins the World`s Fair project. Once underway, Civilizations can contribute 🔨 Production towards its completion by selecting it in the city production list. When complete, Civilizations receive bonuses based on how much they contributed.<br><br>🥇: Crystal Palace wonder appears in 🏛️ Capital. (Receive +2 🔨 Production and +2 ⚗️ Science for all Factories in owned Cities. The Empire enters a 🌟 Golden Age.)<br>🥈: 🎵 Culture increases by 33% for 20 Turns.<br>🥉: Free Social Policy.<br><br>Available once any Civilization discovers Industrialization.
+                                    <span class="positive">만국 박람회</span> 프로젝트를 시작합니다. 프로젝트가 시작되면 도시의 생산 목록에서 해당 프로젝트를 선택해 프로젝트에 기여할 수 있습니다. 프로젝트가 완료되면, 프로젝트에 참여한 문명은 기여한 🔨생산에 따라 보너스를 받게 됩니다.<br><br>🥇: 🏛️수도에 <span class="positive">수정궁</span> 불가사의가 출현합니다. (모든 도시의 공장이 +2 🔨 생산과 +2 ⚗️ 과학을 얻습니다.🌟 황금기를 시작합니다.)<br>🥈: 20턴 동안 🎵문화가 <span class="positive">33%</span> 증가합니다.<br>🥉: <span class="magenta">무료 정책</span>을 1개 제공합니다. <br><br>산업화를 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_OPEN_DOOR" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">문호 개방</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    도시 국가를 위한 문호 개방을 제안합니다. 이 결의안이 활성되면, 도시 국가에 대한 모든 문명의 영향력을 즉시 <span class="positive">40</span>으로 설정합니다. 이 제안이 철회되기 전까지는 아무도 도시 국가와 동맹을 맺을 수 없습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_CULTURAL_HERITAGE_SITES" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">문화 유산</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    모든 세계 불가사의의 🎵문화가 <span class="positive">2</span> 증가하고 모든 걸작에서 오는 ⚗️과학이 <span class="positive">1</span> 증가합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_TREASURE_FLEET" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">보물 선단</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    <span class="positive">보물 선단</span> 프로젝트를 시작합니다. 프로젝트가 시작되면 도시의 생산 목록에서 해당 프로젝트를 선택해 프로젝트에 기여할 수 있습니다. 프로젝트가 완료되면, 프로젝트에 참여한 문명은 기여한 🔨 생산에 따라 보너스를 받게 됩니다.<br><br>🥇: 🏛️ 수도에 <span class="positive">대운하</span> 불가사의가 출현합니다.(<span class="positive">추가</span>  교역로를 얻습니다. 잠수함과 항공모함을 제외한 모든 해군 유닛이 <span class="positive">보물 선단</span> 승급을 얻어, 공격할 때 +10% ⚔️ 전투력 보너스,  시야 +1을 얻고, <span class="positive">아군 영토 밖</span>에서 회복할 수 있게 됩니다.)<br>🥈: <span class="positive">위대한 제독</span>이 1명 출현하고 군사 유닛 <span class="positive">3개</span>의 유지비가 들지 않습니다.<br>🥉: 무료 <span class="positive">프리깃이</span> 1개 출현합니다. 🌟황금기 점수를 <span class="positive">300</span> 제공합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_BAN_LUXURY_HAPPINESS" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">사치 자원 수입 금지</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    비도덕적이거나 멸종 위기에 처했거나 기타 이유가 있는 사치 자원은 일반 대중이 구매할 수 없습니다. 금지령이 내려져 있는 한, 이 사치 자원으로부터 😊<span class="negative">행복</span> 및 <span class="negative">독점 혜택</span>을 획득할 수 없습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_STANDING_ARMY_TAX" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">상비군 세금</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    유닛 유지에 필요한 💰골드가 <span class="negative">25%</span> 증가합니다. 도시를 점령하고 전쟁을 선포할 때의 전쟁광 페널티가 2.0배가 됩니다. 전쟁광 수치의 감소가 평소의 0.5배가 됩니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_MEMBER_DISCOVERED_TECH_DISCOUNT" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">상주 학자</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    최소한 한 문명에 의해 연구된 기술을 개발할 때 필요한 ⚗️연구 비용이 <span class="positive">20%</span> 감소하고 추가적으로 모든 도시 국가 동맹마다 <span class="positive">2%</span> [COLOR:105:105:105:255](한도:50%) 감소합니다. 
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_SCIENCES_FUNDING" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">세계 과학 기금</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    위대한 과학자/기술자/상인의 출현율이 <span class="positive">33%</span> 증가합니다. 위대한 작가/예술가/음악가의 출현율이 <span class="negative">33%</span> 감소합니다. <br><br>기술 점수가 세계 중앙값보다 낮은 문명은 🌾식량 및 ⚗️과학이 <span class="positive">33%</span>까지 증가합니다.<br><br>참고: 보너스는 문명 및 지도자의 점수 차이와 비례합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_WORLD_IDEOLOGY" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">세계 이념</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    한 <span class="positive">이념</span>을 공식 세계 이념으로 지정합니다.<br><br>해당 이념을 따르는 문명은 세계 대회 추가 <span class="positive">대표단</span> 1명을 확보하고 해당 이념을 따르는 다른 문명 1개마다 세계 대회 추가 <span class="positive">대표단</span> 1명을 확보합니다. 해당 이념을 지지하는 여론이 모든 문명에서 증가합니다. <span class="positive">국제 연합</span>이 개설되면 <span class="positive">외교 승리</span>를 위한 투표를 시행할 수 있습니다.<br><br>핵분열을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_WORLD_RELIGION" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">세계 종교</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    한 <span class="positive">종교</span>를 공식 세계 종교로 지정합니다.<br><br>소유한 도시의 다수가 해당 종교를 따르는 문명은 세계 대회 추가 <span class="positive">대표단</span>을 1명 확보합니다. 종교를 창시한 문명 또는 성도를 통제하고 있는 문명은 해당 종교를 따르는 문명의 수 1개마다 추가 <span class="positive">대표단</span>을 확보합니다. 해당 종교는 <span class="positive">25%</span> 더 빨리 전파되며 해당 종교의 성도는 🗿관광이 <span class="positive">50%</span> 증가합니다.<br><br>세계 종교는 한 번에 하나만 존재할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_DIPLOMATIC_VICTORY" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">세계 패권</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    <span class="positive">세계 패권</span>을 위한 투표를 시행합니다. 한 문명이 세계 대회에서 충분한 표를 확보하면 <span class="positive">외교 승리</span>를 달성하게 됩니다. 외교 승리를 달성하는 데 필요한 대표단의 수는 게임 내 문명과 도시 국가의 수에 따라 달라지며 세계 대회 화면에서 확인할 수 있습니다.<br><br>해당 결의안 조건을 충족시킬 정도의 지지를 확보한 문명이 없다면 가장 많은 지지를 확보한 상위 <span class="positive">2개</span>의 문명이 향후 회기에서 사용할 수 있는 추가 <span class="positive">대표단</span> 5명을 영구히 확보합니다.<br><br><span class="negative">한 문명이 단독으로 제안할 수 없습니다.</span> <span class="positive">세계 이념</span>이 활성화되면 정기적으로 자동 제안이 이루어집니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_PLAYER_VASSAL_TAX" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">세계 해방</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    모든 속주 관계가 평화적으로 즉시 <span class="positive">무효화</span>됩니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_TOURISM_BONUS" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">여권 시스템</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    문명 사이의 국제 여행이 증가합니다. 모든 문명의 🗿 관광 수치가 <span class="positive">50%</span> 증가합니다.<br><br>비행을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_TOURISM_PENALTY" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">여행 금지</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    문명 사이의 국제 여행을 제한합니다. 모든 문명의 🗿관광 수치가 <span class="negative">35%</span> 감소합니다.<br><br>비행을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_HISTORICAL_LANDMARKS" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">역사적 랜드마크</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    위인 타일 시설의 🔨생산, 🌾식량, 💰골드가 <span class="positive">1</span> 증가합니다. 고고학자가 건설하는 랜드마크의 🎵문화, ⚗️과학, 🕊️신앙이 <span class="positive">1</span> 증가합니다.<br><br>고고학을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_SPHERE_OF_INFLUENCE" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">영향권</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    도시 국가에 대한 <span class="positive">영향권</span>을 청구합니다. 이 결의안이 활성되면, 이를 제안한 문명은 해당 도시 국가의 영구적인 <span class="positive">동맹</span>이 됩니다. (안건이 폐지되면 효과가 사라집니다) 제안자는 도시 국가와 동맹 상태여야 합니다.<br><br>증기력을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_ARTS_FUNDING" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">예술 기금</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    위대한 작가/예술가/음악가의 출현율이 <span class="positive">33%</span> 증가합니다. 위대한 과학자/기술자/상인의 출현율이 <span class="negative">33%</span> 감소합니다.<br><br>정책 및 걸작 점수가 세계 중앙값보다 낮은 문명은 🔨생산 및 🎵문화가 <span class="positive">33%</span>까지 증가합니다.<br><br>참고: 보너스는 문명 및 지도자의 점수 차이와 비례합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_SPACESHIP_INSPECTION" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">우주 비행 규제</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    <span class="positive">우주 비행 규제</span>는 현대 탄도 기술의 확산을 통제하고 국가 우주 프로그램을 감독하며 잠재적으로 위험한 기술의 발전을 제한합니다.<br><br>이 결의안이 활성되면, 모든 문명의 우주선 부품 🔨 생산 페널티가 <span class="negative">-25%</span> 발생하고 우주선 부품을 구매하는 💰 비용이 <span class="negative">25%</span> 증가합니다. 위대한 기술자를 구매하기 위해 필요한 🕊️ 신앙이 <span class="negative">25%</span> 증가합니다.<br><br>원자론을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_NATURAL_HERITAGE_SITES" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">자연 문화 유산</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    시민을 투입한 자연 경관의 모든 산출량이 <span class="positive">2</span> 증가합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_CHANGE_LEAGUE_HOST" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">주최국 선택</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    세계 의회 주최국을 선정합니다. 주최국이 되면 <span class="positive">추가 대표단</span>을 확보하며 결의안을 제안할 수 있습니다.<br><br>한 문명이 단독으로 제안할 수 없습니다. 후기 시대로 접어들면 자동으로 제안이 이루어집니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_WORLD_WAR" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">카수스 벨리</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    세계는 외교 분쟁을 해결하기 위한 정당한 전쟁의 필요성을 인식하고 있습니다. <br><br>이 결의안이 활성되면, 유닛 유지 💰비용이 <span class="positive">15%</span> 감소합니다. 도시를 정복하고 전쟁을 선포할 때 전쟁광 페널티가 크게 감소하고 전쟁광 수치가 평소보다 빠르게 감소합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_DECOLONIZATION" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">탈식민지화</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    모든 문명에 강제로 탈식민지화를 시행합니다. 이 결의안이 활성되면, 모든 비영구적인 도시 국가 동맹에 대한 모든 문명의 영향력이 <span class="negative">50</span>으로 감소합니다.<br><br>라디오를 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_PLAYER_EMBARGO" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">통상 금지</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    해당 문명과 <span class="negative">교역로</span>를 연결할 수 없고 <span class="negative">거래</span>를 할 수 없습니다. 기존 교역로는 취소되며 다른 장소와 연결해야 합니다. 기업 <span class="negative">프랜차이즈</span>를 설립할 수 없습니다. [COLOR:105:105:105:255](종속국은 제외됩니다.) 해당 문명의 외국 도시에 있는 기업 프랜차이즈가 제거됩니다. 제재를 받은 문명에 전쟁을 선포하거나 해당 도시를 점령한다면 전쟁광 수치가 0.5배가 됩니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-RESOLUTION_NUCLEAR_NON_PROLIFERATION" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">핵 확산 금지</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    모든 문명은 새로운 <span class="negative">원자폭탄</span> 및 <span class="negative">핵미사일</span>을 생산할 수 없습니다. 이미 제조된 핵무기는 유지할 수 있습니다.<br><br>고등 탄도학을 연구한 문명이 있어야 안건으로 채택할 수 있습니다.
                                 </div>
                             </div>
                         </section>
@@ -503,12 +503,12 @@
                     <div class="article-detail" id="item-LEAGUE_PROJECT_WARGAMES" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Global Wargames</h2>
+                                <h2 style="margin: 0;">국제 군사 훈련</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    🥇 Field Marshal: Menin Gate wonder appears in 🏛️ Capital. (Receive +2 😊 Happiness in the City in which it is built. Receive 2 🎵 Culture and 🌟 Golden Age Points whenever an owned unit is killed, scaling with Era. Forts, Citadels and Landmarks provide +2 🎵 Culture and 🌟 Golden Age Points when worked.)<br><br>🥈 Major General: Receive a +25% attack bonus to all Military Units for the next 30 turns and 4 of your military units will be maintenance-free.<br><br>🥉 Colonel: Receive one Infantry and 3 of your military units will be maintenance-free.
+                                    🥇 원수: 🏛️수도에 <span class="positive">메닝 문</span> 불가사의가 출현합니다. (건설 시 +2 😊 행복을 제공합니다. 아군 유닛이 사망할 때마다 +2 🎵 문화와 +2 🌟 황금기 점수를 얻습니다. (시대별 보정) 요새, 성채, 랜드마크가 +2 🎵 문화와 +2 🌟 황금기 점수를 제공합니다.)<br><br>🥈 소장: 다음 30턴 동안 모든 군사 유닛의 ⚔️전투력 보너스가 <span class="positive">25%</span> 증가합니다. 군사 유닛 <span class="positive">4개</span>의 유지비가 들지 않습니다.<br><br>🥉 대령: <span class="positive">보병</span> 1개가 출현하고 군사 유닛 <span class="positive">3개</span>의 유지비가 들지 않습니다.
                                 </div>
                             </div>
                         </section>
@@ -516,38 +516,12 @@
                     <div class="article-detail" id="item-LEAGUE_PROJECT_WORLD_GAMES" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">International Games</h2>
+                                <h2 style="margin: 0;">국제 스포츠 대회</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    🥇 Hosted Games: Olympic Village wonder appears in 🏛️ Capital. (Receive +3 😊 Happiness and +3 🎵 Culture in the City in which it is built. 25% of the 🎵 Culture from World Wonders and Tiles is added to the 🗿 Tourism output of the City. All Stadiums receive +2 💰 Gold and 🗿 Tourism.)<br><br>🥈 Won Medals:  Receive a free Great Person of your choice.<br><br>🥉 Parade of Nations: 🗿 Tourism increases by 50% for 20 Turns.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">International Space Station</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    🥇 Mission Control: International Space Station wonder appears in 🏛️ Capital. (+1 🔨 Production from Scientists, and +1 ⚗️ Science from Engineers.  Great Scientists provide 33% more ⚗️ Science when used to discover new Technology. +100 🔨 in City where it is built when you unlock a new Technology, scaling with Era.)<br><br>🥈 Crew On Board: Free Great Scientist.<br><br>🥉 Constructed Parts: One time Research boost.
-                                </div>
-                            </div>
-                        </section>
-                    </div>
-                    <div class="article-detail" id="item-LEAGUE_PROJECT_TREASURE_FLEET" style="display: none;">
-                        <section class="welcome">
-                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">Treasure Fleet</h2>
-                            </div>
-                            <div class="summary">
-                                <h3>Game Info:</h3>
-                                <div class="text-box">
-                                    🥇 Master of the Fleet: Grand Canal wonder appears in 🏛️ Capital. (Receive 1 <span class="positive">Additional</span>  Trade Route. Grants all Naval Units except Submarines and Carriers the <span class="positive">Treasure Fleet</span> Promotion, which grants +10% ⚔️ Combat Strength when attacking, +1  Sight, and the ability to heal <span class="positive">Outside of Friendly Territory</span>.)<br><br>🥈 Skilled Navigator: Receive a free Great Admiral and 3 of your military units will be maintenance-free.<br><br>🥉 Prize Shipbuilder: Receive one Frigate. 300 points towards next 🌟 Golden Age.
+                                    🥇 경기 개최: 🏛️수도에 <span class="positive">올림픽 선수촌</span> 불가사의가 출현합니다. (건설 시 +3 😊 행복과 +3 🎵 문화를 얻습니다. 세계 불가사의, 자연 불가사의, 시설(랜드마크, 모아이, 샤토) 🎵문화의 25%가 도시 🗿 관광에 추가됩니다. 모든 경기장이 +2 💰 골드와 +2 🗿 관광을 얻습니다.)<br><br>🥈 메달 획득:  원하는 ⭐<span class="positive">위인</span>을 1명 제공합니다.<br><br>🥉 만국 행진: 20턴 동안 🗿관광이 <span class="positive">50%</span> 증가합니다.
                                 </div>
                             </div>
                         </section>
@@ -555,12 +529,25 @@
                     <div class="article-detail" id="item-LEAGUE_PROJECT_UNITED_NATIONS" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">United Nations</h2>
+                                <h2 style="margin: 0;">국제 연합</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    🥇 Secretary-General: United Nations wonder appears in 🏛️ Capital. (Receive 1 <span class="positive">Additional</span>  Delegate in the World Congress for every 8  City-States originally in the World. Also, when you expend a ⭐ Great Person, earn 25  Influence with all  City-States you have met. Triggers a 🌟 Golden Age, as well as the <span class="positive">United Nations</span> Special Session of the World Congress if the world has reached the Atomic Era.)<br><br>🥈 Permanent Member: Receive an immediate boost of 25  Influence with all City-States. The Consulate National Wonder appears in 🏛️ Capital. (Receive 1 <span class="positive">Additional</span>  Delegate in the World Congress for every 8  City-States originally in the World.)<br><br>🥉 High Commissioner: Receive a free Great Diplomat.
+                                    🥇 사무 총장: 🏛️수도에 <span class="positive">국제 연합</span> 불가사의가 출현합니다. (세계의 원래 도시 국가 8개마다 세계 의회 추가 대표단을 1명 확보합니다. ⭐ 위인을 소모할 때마다, 만난 모든 도시국가가 25 영향력을 얻고, 원자력 시대 이후 <span class="positive">국제 연합</span> 특별 회기가 열리면 🌟 황금기를 시작합니다.)<br><br>🥈 상임이사국: 모든 도시 국가에 대한 영향력을 즉시 <span class="positive">25</span>만큼 제공합니다. 🏛️수도에 <span class="positive">영사관</span> 국가 불가사의가 출현합니다. (세계의 원래 도시 국가 8개마다 세계 의회 추가 대표단을 1명 확보합니다.)<br><br>🥉 위원장: <span class="positive">위대한 외교관</span>이 1명 출현합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">국제 우주 정거장</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    🥇 우주 비행 관제 센터: 🏛️수도에 <span class="positive">국제 우주 정거장</span> 불가사의가 출현합니다. (과학자에서 +1 🔨 생산, 기술자에서 +1 ⚗️ 과학,  위대한 과학자가 기술 연구에 사용되면 ⚗️과학을 33% 더 제공합니다. 기술이 연구될 때 마다 도시에 +100 🔨 생산을 제공합니다. (시대별 보정))<br><br>🥈 승무원 탑승: <span class="positive">위대한 과학자</span>가 1명 출현합니다.<br><br>🥉 부품 완성: 한 번의 <span class="positive">연구 가속</span>이 발생합니다.
                                 </div>
                             </div>
                         </section>
@@ -568,12 +555,25 @@
                     <div class="article-detail" id="item-LEAGUE_PROJECT_WORLD_FAIR" style="display: none;">
                         <section class="welcome">
                             <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
-                                <h2 style="margin: 0;">World's Fair</h2>
+                                <h2 style="margin: 0;">만국 박람회</h2>
                             </div>
                             <div class="summary">
-                                <h3>Game Info:</h3>
+                                <h3>게임 정보</h3>
                                 <div class="text-box">
-                                    🥇 Hosted Fair: Crystal Palace wonder appears in 🏛️ Capital. (Receive +2 🔨 Production and +2 ⚗️ Science for all Factories in owned Cities. The Empire enters a 🌟 Golden Age.)<br><br>🥈 Groundbreaking Invention: 🎵 Culture increases by 33% for 20 Turns.<br><br>🥉 Exhibitor: Free Social Policy.
+                                    🥇 박람회 주최: 🏛️수도에 <span class="positive">수정궁</span> 불가사의가 출현합니다. (모든 도시의 공장이 +2 🔨 생산과 +2 ⚗️ 과학을 얻습니다.🌟 황금기를 시작합니다.)<br><br>🥈 새로운 발명: 20턴 동안 🎵문화가 <span class="positive">33%</span> 증가합니다.<br><br>🥉 전시회 주최: <span class="magenta">무료 정책</span>을 1개 제공합니다.
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <div class="article-detail" id="item-LEAGUE_PROJECT_TREASURE_FLEET" style="display: none;">
+                        <section class="welcome">
+                            <div style="display: flex; align-items: center; gap: 1.5rem; margin-bottom: 1rem;">
+                                <h2 style="margin: 0;">보물 선단</h2>
+                            </div>
+                            <div class="summary">
+                                <h3>게임 정보</h3>
+                                <div class="text-box">
+                                    🥇 함대의 주인: 🏛️ 수도에 <span class="positive">대운하</span> 불가사의가 출현합니다.(<span class="positive">추가</span>  교역로를 얻습니다. 잠수함과 항공모함을 제외한 모든 해군 유닛이 <span class="positive">보물 선단</span> 승급을 얻어, 공격할 때 +10% ⚔️ 전투력 보너스,  시야 +1을 얻고, <span class="positive">아군 영토 밖</span>에서 회복할 수 있게 됩니다.)<br><br>🥈 숙련된 항해사: <span class="positive">위대한 제독</span>이 1명 출현하고 군사 유닛 <span class="positive">3개</span>의 유지비가 들지 않습니다.<br><br>🥉 최고의 조선사: 무료 <span class="positive">프리깃이</span> 1개 출현합니다. 🌟황금기 점수를 <span class="positive">300</span> 제공합니다.
                                 </div>
                             </div>
                         </section>
@@ -582,7 +582,7 @@
         </main>
 
         <footer>
-            <p>Vox Populi Civilopedia - Version 5.1</p>
+            <p>Vox Populi 시빌로피디아 - Version 5.1</p>
         </footer>
     </div>
 
@@ -818,7 +818,7 @@
                     });
                     searchResults.style.display = 'block';
                 } else {
-                    searchResults.innerHTML = '<div class="search-result-item no-results">No results found</div>';
+                    searchResults.innerHTML = '<div class="search-result-item no-results">검색 결과 없음</div>';
                     searchResults.style.display = 'block';
                 }
             });
@@ -948,9 +948,9 @@
                 const toggleText = sidebarToggle.querySelector('.toggle-text');
                 if (toggleText) {
                     if (pediaSidebar.classList.contains('open')) {
-                        toggleText.textContent = 'Hide all World Congress';
+                        toggleText.textContent = 'Hide all 세계 의회';
                     } else {
-                        toggleText.textContent = 'Show all World Congress';
+                        toggleText.textContent = 'Show all 세계 의회';
                     }
                 }
             });

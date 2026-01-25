@@ -1,3613 +1,3613 @@
 window.globalSearchIndex = [
   {
-    "nameFormatted": "Cities",
-    "name": "Cities",
+    "nameFormatted": "도시",
+    "name": "도시",
     "type": "CONCEPT_CITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "How to Build Cities",
-    "name": "How to Build Cities",
+    "nameFormatted": "도시를 건설하는 방법",
+    "name": "도시를 건설하는 방법",
     "type": "CONCEPT_FOUNDING_CITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City Locations and Yields",
-    "name": "City Locations and Yields",
+    "nameFormatted": "도시 위치 및 산출량",
+    "name": "도시 위치 및 산출량",
     "type": "CONCEPT_WHERE_TO_FOUND_CITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The City Banner",
-    "name": "The City Banner",
+    "nameFormatted": "도시 이름표",
+    "name": "도시 이름표",
     "type": "CONCEPT_CITY_BANNER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The City Screen",
-    "name": "The City Screen",
+    "nameFormatted": "도시 화면",
+    "name": "도시 화면",
     "type": "CONCEPT_CITY_SCREEN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Combat Units in Cities</span>",
-    "name": "[COLOR_YELLOW]Combat Units in Cities[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">도시와 전투 부대</span>",
+    "name": "[COLOR_YELLOW]도시와 전투 부대[ENDCOLOR]",
     "type": "CONCEPT_CITY_COMBATUNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Construction in Cities",
-    "name": "Construction in Cities",
+    "nameFormatted": "도시에서 생산하기",
+    "name": "도시에서 생산하기",
     "type": "CONCEPT_CITY_CONSTRUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The City Build Menu",
-    "name": "The City Build Menu",
+    "nameFormatted": "도시 생산 메뉴",
+    "name": "도시 생산 메뉴",
     "type": "CONCEPT_CITY_BUILD",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Changing Construction",
-    "name": "Changing Construction",
+    "nameFormatted": "생산물 바꾸기",
+    "name": "생산물 바꾸기",
     "type": "CONCEPT_CITY_CHANGE_BUILD",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Purchasing an Item</span>",
-    "name": "[COLOR_YELLOW]Purchasing an Item[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">유닛이나 건물 구매하기</span>",
+    "name": "[COLOR_YELLOW]유닛이나 건물 구매하기[ENDCOLOR]",
     "type": "CONCEPT_CITY_PURCHASEITEM",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Constructing Units",
-    "name": "Constructing Units",
+    "nameFormatted": "유닛 생산하기",
+    "name": "유닛 생산하기",
     "type": "CONCEPT_CITY_CONSTRUCTING_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Constructing Buildings",
-    "name": "Constructing Buildings",
+    "nameFormatted": "건물 건설하기",
+    "name": "건물 건설하기",
     "type": "CONCEPT_CITY_CONSTRUCTING_BUILDINGS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Constructing Wonders",
-    "name": "Constructing Wonders",
+    "nameFormatted": "불가사의 건설하기",
+    "name": "불가사의 건설하기",
     "type": "CONCEPT_CITY_CONSTRUCTING_WONDERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Working the Land",
-    "name": "Working the Land",
+    "nameFormatted": "타일에서 일하기",
+    "name": "타일에서 일하기",
     "type": "CONCEPT_CITY_WORKINGLAND",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Assigning Citizens to Work the Land",
-    "name": "Assigning Citizens to Work the Land",
+    "nameFormatted": "시민이 일할 장소를 정하기",
+    "name": "시민이 일할 장소를 정하기",
     "type": "CONCEPT_CITY_ASSIGNINGCITIZENS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Improving the Land",
-    "name": "Improving the Land",
+    "nameFormatted": "타일 개발하기",
+    "name": "타일 개발하기",
     "type": "CONCEPT_CITY_IMPROVINGLAND",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Specialists</span>",
-    "name": "[COLOR_YELLOW]Specialists[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">전문가</span>",
+    "name": "[COLOR_YELLOW]전문가[ENDCOLOR]",
     "type": "CONCEPT_CITY_SPECIALISTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Specialists are Not in the Fields",
-    "name": "Specialists are Not in the Fields",
+    "nameFormatted": "타일에 배치할 수 없는 전문가",
+    "name": "타일에 배치할 수 없는 전문가",
     "type": "CONCEPT_CITY_SPECIALISTS_NOTWORKTILE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Benefits of Specialists</span>",
-    "name": "[COLOR_YELLOW]Benefits of Specialists[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">전문가의 장점</span>",
+    "name": "[COLOR_YELLOW]전문가의 장점[ENDCOLOR]",
     "type": "CONCEPT_CITY_SPECIALISTS_BENEFIT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Laborers",
-    "name": "Laborers",
+    "nameFormatted": "근로자",
+    "name": "근로자",
     "type": "CONCEPT_CITY_UNEMPLOYED_CITIZENS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City Combat",
-    "name": "City Combat",
+    "nameFormatted": "도시 전투",
+    "name": "도시 전투",
     "type": "CONCEPT_CITY_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Attacking a City",
-    "name": "Attacking a City",
+    "nameFormatted": "도시 공격하기",
+    "name": "도시 공격하기",
     "type": "CONCEPT_CITY_ATTACKING_MELEE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Attacking with Ranged Units",
-    "name": "Attacking with Ranged Units",
+    "nameFormatted": "원거리 공격 유닛으로 도시를 공격하기",
+    "name": "원거리 공격 유닛으로 도시를 공격하기",
     "type": "CONCEPT_CITY_ATTACKING_RANGED",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Defending A City",
-    "name": "Defending A City",
+    "nameFormatted": "도시 방어하기",
+    "name": "도시 방어하기",
     "type": "CONCEPT_CITY_DEFENDING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Conquering A City",
-    "name": "Conquering A City",
+    "nameFormatted": "도시 점령하기",
+    "name": "도시 점령하기",
     "type": "CONCEPT_CITY_CONQUERING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Destroying the City",
-    "name": "Destroying the City",
+    "nameFormatted": "도시 파괴하기",
+    "name": "도시 파괴하기",
     "type": "CONCEPT_CITY_DESTROY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Indestructible Cities",
-    "name": "Indestructible Cities",
+    "nameFormatted": "파괴 불가능한 도시",
+    "name": "파괴 불가능한 도시",
     "type": "CONCEPT_CITY_INDESTRUCTABLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Annexing the City",
-    "name": "Annexing the City",
+    "nameFormatted": "도시 합병하기",
+    "name": "도시 합병하기",
     "type": "CONCEPT_CITY_ANNEX",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Making the City a Puppet",
-    "name": "Making the City a Puppet",
+    "nameFormatted": "괴뢰정부로 만들기",
+    "name": "괴뢰정부로 만들기",
     "type": "CONCEPT_CITY_PUPPET",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Combat",
-    "name": "Combat",
+    "nameFormatted": "전투",
+    "name": "전투",
     "type": "CONCEPT_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Declaring War",
-    "name": "Declaring War",
+    "nameFormatted": "전쟁의 선포",
+    "name": "전쟁의 선포",
     "type": "CONCEPT_COMBAT_DECLARE_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Diplomatically Declaring War",
-    "name": "Diplomatically Declaring War",
+    "nameFormatted": "외교적으로 선전포고 하기",
+    "name": "외교적으로 선전포고 하기",
     "type": "CONCEPT_COMBAT_DECLARE_WAR_DIPLOMATICALLY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Attacking Another Unit",
-    "name": "Attacking Another Unit",
+    "nameFormatted": "상대의 유닛 공격하기",
+    "name": "상대의 유닛 공격하기",
     "type": "CONCEPT_COMBAT_DECLARE_WAR_ATTACK_UNIT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Entering a Civilization's Territory",
-    "name": "Entering a Civilization's Territory",
+    "nameFormatted": "타 문명의 세력권 침범",
+    "name": "타 문명의 세력권 침범",
     "type": "CONCEPT_COMBAT_DECLARE_WAR_ENTER_TERRITORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "An Enemy Declaration of War",
-    "name": "An Enemy Declaration of War",
+    "nameFormatted": "적으로부터의 선전포고",
+    "name": "적으로부터의 선전포고",
     "type": "CONCEPT_COMBAT_DECLARE_WAR_RECEIVED",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ending a War",
-    "name": "Ending a War",
+    "nameFormatted": "전쟁 끝내기",
+    "name": "전쟁 끝내기",
     "type": "CONCEPT_COMBAT_END_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Which Units Can Fight",
-    "name": "Which Units Can Fight",
+    "nameFormatted": "싸울 수 있는 유닛",
+    "name": "싸울 수 있는 유닛",
     "type": "CONCEPT_COMBAT_WHICH_UNITS_CAN_FIGHT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Unit Combat Statistics",
-    "name": "Unit Combat Statistics",
+    "nameFormatted": "전투 능력치",
+    "name": "전투 능력치",
     "type": "CONCEPT_COMBAT_UNIT_STATS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ranged Combat Strength",
-    "name": "Ranged Combat Strength",
+    "nameFormatted": "원거리 공격력",
+    "name": "원거리 공격력",
     "type": "CONCEPT_COMBAT_UNIT_STATS_RANGED_COMBAT_STRENGTH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Range",
-    "name": "Range",
+    "nameFormatted": "사거리",
+    "name": "사거리",
     "type": "CONCEPT_COMBAT_UNIT_STATS_RANGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Combat Strength",
-    "name": "Combat Strength",
+    "nameFormatted": "전투력",
+    "name": "전투력",
     "type": "CONCEPT_COMBAT_UNIT_STATS_COMBAT_STRENGTH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Hit Points",
-    "name": "Hit Points",
+    "nameFormatted": "체력",
+    "name": "체력",
     "type": "CONCEPT_COMBAT_UNIT_STATS_HIT_POINTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Melee Combat",
-    "name": "Melee Combat",
+    "nameFormatted": "근접 전투",
+    "name": "근접 전투",
     "type": "CONCEPT_COMBAT_MELEE_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Resolving Melee Combat",
-    "name": "Resolving Melee Combat",
+    "nameFormatted": "근접 전투 중의 상황",
+    "name": "근접 전투 중의 상황",
     "type": "CONCEPT_COMBAT_MELEE_COMBAT_RESOLVE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Multiple Units in Combat",
-    "name": "Multiple Units in Combat",
+    "nameFormatted": "전투 중 여러 유닛의 효과",
+    "name": "전투 중 여러 유닛의 효과",
     "type": "CONCEPT_COMBAT_MELEE_MULTIPLE_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Combat Information Table",
-    "name": "Combat Information Table",
+    "nameFormatted": "전투정보창",
+    "name": "전투정보창",
     "type": "CONCEPT_COMBAT_COMBAT_INFORMATION_TABLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Initiating Melee Combat",
-    "name": "Initiating Melee Combat",
+    "nameFormatted": "근접 전투 하기",
+    "name": "근접 전투 하기",
     "type": "CONCEPT_COMBAT_MELEE_INITIATING_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Melee Combat Results</span>",
-    "name": "[COLOR_YELLOW]Melee Combat Results[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">근접 전투의 결과</span>",
+    "name": "[COLOR_YELLOW]근접 전투의 결과[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_MELEE_RESULTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ranged Combat",
-    "name": "Ranged Combat",
+    "nameFormatted": "원거리 전투",
+    "name": "원거리 전투",
     "type": "CONCEPT_COMBAT_RANGED_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ranged Combat Strength",
-    "name": "Ranged Combat Strength",
+    "nameFormatted": "원거리 공격력",
+    "name": "원거리 공격력",
     "type": "CONCEPT_COMBAT_RANGED_COMBAT_STRENGTH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Range",
-    "name": "Range",
+    "nameFormatted": "사거리",
+    "name": "사거리",
     "type": "CONCEPT_COMBAT_RANGED_COMBAT_RANGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Line of Sight",
-    "name": "Line of Sight",
+    "nameFormatted": "시야",
+    "name": "시야",
     "type": "CONCEPT_COMBAT_RANGED_LINE_OF_SIGHT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Initiating Ranged Combat",
-    "name": "Initiating Ranged Combat",
+    "nameFormatted": "원거리 공격 하기",
+    "name": "원거리 공격 하기",
     "type": "CONCEPT_COMBAT_RANGED_INITIATING_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ranged Combat Results",
-    "name": "Ranged Combat Results",
+    "nameFormatted": "원거리 전투의 결과",
+    "name": "원거리 전투의 결과",
     "type": "CONCEPT_COMBAT_RANGED_RESULTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Combat Bonuses",
-    "name": "Combat Bonuses",
+    "nameFormatted": "전투 보너스",
+    "name": "전투 보너스",
     "type": "CONCEPT_COMBAT_BONUSES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Terrain Bonuses",
-    "name": "Terrain Bonuses",
+    "nameFormatted": "지형 보너스",
+    "name": "지형 보너스",
     "type": "CONCEPT_COMBAT_BONUSES_TERRAIN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Forts</span>",
-    "name": "[COLOR_YELLOW]Forts[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">요새</span>",
+    "name": "[COLOR_YELLOW]요새[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_BONUSES_FORT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Fortification",
-    "name": "Fortification",
+    "nameFormatted": "요새화",
+    "name": "요새화",
     "type": "CONCEPT_COMBAT_FORTIFICATION_EXPLANATION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Which Units Can Fortify",
-    "name": "Which Units Can Fortify",
+    "nameFormatted": "요새화 할 수 있는 유닛",
+    "name": "요새화 할 수 있는 유닛",
     "type": "CONCEPT_COMBAT_FORTIFICATION_WHICH_UNITS_CAN_FORTIFY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Fortification Bonuses",
-    "name": "Fortification Bonuses",
+    "nameFormatted": "요새화 보너스",
+    "name": "요새화 보너스",
     "type": "CONCEPT_COMBAT_BONUSES_FORTIFICATION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The \"Alert\" Order",
-    "name": "The \"Alert\" Order",
+    "nameFormatted": "경계 명령",
+    "name": "경계 명령",
     "type": "CONCEPT_COMBAT_ALERT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Naval Combat",
-    "name": "Naval Combat",
+    "nameFormatted": "해군 전투",
+    "name": "해군 전투",
     "type": "CONCEPT_COMBAT_NAVAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City Combat",
-    "name": "City Combat",
+    "nameFormatted": "도시 전투",
+    "name": "도시 전투",
     "type": "CONCEPT_COMBAT_CITY_COMBAT_STRENGTH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City Hit Points",
-    "name": "City Hit Points",
+    "nameFormatted": "도시의 체력",
+    "name": "도시의 체력",
     "type": "CONCEPT_COMBAT_CITY_HIT_POINTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Attacking Cities with Ranged Units",
-    "name": "Attacking Cities with Ranged Units",
+    "nameFormatted": "원거리 공격 유닛으로 도시 공격하기",
+    "name": "원거리 공격 유닛으로 도시 공격하기",
     "type": "CONCEPT_COMBAT_CITY_ATTACKING_WITH_RANGED_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Attacking Cities with Melee Combat",
-    "name": "Attacking Cities with Melee Combat",
+    "nameFormatted": "근접 전투 유닛으로 도시 공격하기",
+    "name": "근접 전투 유닛으로 도시 공격하기",
     "type": "CONCEPT_COMBAT_CITY_ATTACKING_WITH_MELEE_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Garrison Units in Cities</span>",
-    "name": "[COLOR_YELLOW]Garrison Units in Cities[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">도시와 주둔군</span>",
+    "name": "[COLOR_YELLOW]도시와 주둔군[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_CITY_GARRISON",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Cities Firing at Attackers</span>",
-    "name": "[COLOR_YELLOW]Cities Firing at Attackers[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">도시로 공격하기</span>",
+    "name": "[COLOR_YELLOW]도시로 공격하기[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_CITY_BOMBARD",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Healing Damage to Cities",
-    "name": "Healing Damage to Cities",
+    "nameFormatted": "도시가 받은 피해 회복하기",
+    "name": "도시가 받은 피해 회복하기",
     "type": "CONCEPT_COMBAT_CITY_HEALING_DAMAGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Capturing Cities",
-    "name": "Capturing Cities",
+    "nameFormatted": "도시 점령하기",
+    "name": "도시 점령하기",
     "type": "CONCEPT_COMBAT_CITY_CAPTURE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Special City Capture Rules",
-    "name": "Special City Capture Rules",
+    "nameFormatted": "도시 점령 시의 규칙",
+    "name": "도시 점령 시의 규칙",
     "type": "CONCEPT_COMBAT_CITY_CAPTURE_MORE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Siege Weapons</span>",
-    "name": "[COLOR_YELLOW]Siege Weapons[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">공성 유닛</span>",
+    "name": "[COLOR_YELLOW]공성 유닛[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_SIEGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Great Generals",
-    "name": "Great Generals",
+    "nameFormatted": "위대한 장군",
+    "name": "위대한 장군",
     "type": "CONCEPT_COMBAT_GREAT_GENERAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Combat Damage",
-    "name": "Combat Damage",
+    "nameFormatted": "전투 데미지",
+    "name": "전투 데미지",
     "type": "CONCEPT_COMBAT_UNIT_COMBAT_DAMAGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Healing</span>",
-    "name": "[COLOR_YELLOW]Healing[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">피해 회복하기</span>",
+    "name": "[COLOR_YELLOW]피해 회복하기[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_UNIT_GROUND_HEALING_DAMAGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Naval Units Healing Damage",
-    "name": "Naval Units Healing Damage",
+    "nameFormatted": "해상 유닛의 체력 회복",
+    "name": "해상 유닛의 체력 회복",
     "type": "CONCEPT_COMBAT_UNIT_NAVAL_HEALING_DAMAGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The \"Fortify Until Healed\" Button",
-    "name": "The \"Fortify Until Healed\" Button",
+    "nameFormatted": "체력 회복하기",
+    "name": "체력 회복하기",
     "type": "CONCEPT_COMBAT_FORTIFY_UNTIL_HEALED",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Experience Points and Promotions",
-    "name": "Experience Points and Promotions",
+    "nameFormatted": "경험치와 승급",
+    "name": "경험치와 승급",
     "type": "CONCEPT_COMBAT_EXPERIENCE_AND_PROMOTIONS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Acquiring XPs Through Combat</span>",
-    "name": "[COLOR_YELLOW]Acquiring XPs Through Combat[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">전투를 통하여 경험치 얻기</span>",
+    "name": "[COLOR_YELLOW]전투를 통하여 경험치 얻기[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Other Methods of Getting XPs",
-    "name": "Other Methods of Getting XPs",
+    "nameFormatted": "경험치를 얻는 다른 방법",
+    "name": "경험치를 얻는 다른 방법",
     "type": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_OTHER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Expending XPs",
-    "name": "Expending XPs",
+    "nameFormatted": "승급하기",
+    "name": "승급하기",
     "type": "CONCEPT_COMBAT_EXPERIENCE_SPENDING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Promotions List",
-    "name": "Promotions List",
+    "nameFormatted": "승급 목록",
+    "name": "승급 목록",
     "type": "CONCEPT_COMBAT_PROMOTIONS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Terrain",
-    "name": "Terrain",
+    "nameFormatted": "지형",
+    "name": "지형",
     "type": "CONCEPT_TERRAIN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Resources",
-    "name": "Resources",
+    "nameFormatted": "자원",
+    "name": "자원",
     "type": "CONCEPT_TERRAIN_RESOURCES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Terrain Tables",
-    "name": "The Terrain Tables",
+    "nameFormatted": "지형표",
+    "name": "지형표",
     "type": "CONCEPT_TERRAIN_TABLES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Terrain Types",
-    "name": "Terrain Types",
+    "nameFormatted": "지형 유형",
+    "name": "지형 유형",
     "type": "CONCEPT_TERRAIN_TYPES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Explanation of Terrain Values",
-    "name": "Explanation of Terrain Values",
+    "nameFormatted": "지형 수치에 대한 설명",
+    "name": "지형 수치에 대한 설명",
     "type": "CONCEPT_TERRAIN_VALUES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Features",
-    "name": "Features",
+    "nameFormatted": "지형의 특징",
+    "name": "지형의 특징",
     "type": "CONCEPT_TERRAIN_FEATURES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Feature Values",
-    "name": "Feature Values",
+    "nameFormatted": "지형 특징의 수치",
+    "name": "지형 특징의 수치",
     "type": "CONCEPT_TERRAIN_FEATURE_VALUES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Rivers",
-    "name": "Rivers",
+    "nameFormatted": "강",
+    "name": "강",
     "type": "CONCEPT_TERRAIN_RIVERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "River Locations",
-    "name": "River Locations",
+    "nameFormatted": "강의 위치",
+    "name": "강의 위치",
     "type": "CONCEPT_TERRAIN_RIVERS_TILES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Movement Effect",
-    "name": "Movement Effect",
+    "nameFormatted": "이동 효과",
+    "name": "이동 효과",
     "type": "CONCEPT_TERRAIN_RIVERS_MOVEMENT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Resources",
-    "name": "Resources",
+    "nameFormatted": "자원",
+    "name": "자원",
     "type": "CONCEPT_RESOURCES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Bonus Resources",
-    "name": "Bonus Resources",
+    "nameFormatted": "보너스 자원의 종류",
+    "name": "보너스 자원의 종류",
     "type": "CONCEPT_RESOURCES_BONUS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Luxury Resources",
-    "name": "Luxury Resources",
+    "nameFormatted": "사치 자원의 목록",
+    "name": "사치 자원의 목록",
     "type": "CONCEPT_RESOURCES_LUXURY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">We Love the King Day (WLtKD)</span>",
-    "name": "[COLOR_YELLOW]We Love the King Day (WLtKD)[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">\"국왕 경축일\"</span>",
+    "name": "[COLOR_YELLOW]\"국왕 경축일\"[ENDCOLOR]",
     "type": "CONCEPT_RESOURCES_CITY_REQUESTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Strategic Resources",
-    "name": "Strategic Resources",
+    "nameFormatted": "전략적 자원의 종류",
+    "name": "전략적 자원의 종류",
     "type": "CONCEPT_RESOURCES_STRATEGIC",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Workers and Improvements",
-    "name": "Workers and Improvements",
+    "nameFormatted": "노동자와 시설",
+    "name": "노동자와 시설",
     "type": "CONCEPT_WORKERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Creating Workers",
-    "name": "Creating Workers",
+    "nameFormatted": "노동자 생산",
+    "name": "노동자 생산",
     "type": "CONCEPT_WORKERS_CREATING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Workers in Combat",
-    "name": "Workers in Combat",
+    "nameFormatted": "전투 시의 노동자",
+    "name": "전투 시의 노동자",
     "type": "CONCEPT_WORKERS_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Worker Action Panel",
-    "name": "The Worker Action Panel",
+    "nameFormatted": "노동자 명령 창",
+    "name": "노동자 명령 창",
     "type": "CONCEPT_WORKERS_ACTION_PANEL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Clearing Land",
-    "name": "Clearing Land",
+    "nameFormatted": "지형 제거",
+    "name": "지형 제거",
     "type": "CONCEPT_WORKERS_CLEARINGLAND",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Building Roads",
-    "name": "Building Roads",
+    "nameFormatted": "도로 건설",
+    "name": "도로 건설",
     "type": "CONCEPT_WORKERS_ROADS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Time to Construct a Road",
-    "name": "Time to Construct a Road",
+    "nameFormatted": "도로 건설에 소요되는 시간",
+    "name": "도로 건설에 소요되는 시간",
     "type": "CONCEPT_WORKERS_ROADS_TIME",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Roads and City Connections</span>",
-    "name": "[COLOR_YELLOW]Roads and City Connections[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">도로와 도시 연결</span>",
+    "name": "[COLOR_YELLOW]도로와 도시 연결[ENDCOLOR]",
     "type": "CONCEPT_WORKERS_ROADS_TRADE_ROUTES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Constructing Improvements",
-    "name": "Constructing Improvements",
+    "nameFormatted": "시설 건설",
+    "name": "시설 건설",
     "type": "CONCEPT_WORKERS_IMPROVEMENTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Where to Construct Improvements",
-    "name": "Where to Construct Improvements",
+    "nameFormatted": "시설 건설 장소",
+    "name": "시설 건설 장소",
     "type": "CONCEPT_WORKERS_IMPROVEMENTS_WHERE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Duration to Construct",
-    "name": "Duration to Construct",
+    "nameFormatted": "건설 시간",
+    "name": "건설 시간",
     "type": "CONCEPT_WORKERS_IMPROVEMENTS_TIME",
     "page": "concepts"
   },
   {
-    "nameFormatted": "How Much Time is Left?",
-    "name": "How Much Time is Left?",
+    "nameFormatted": "얼마나 많은 시간이 남은거죠?",
+    "name": "얼마나 많은 시간이 남은거죠?",
     "type": "CONCEPT_WORKERS_IMPROVEMENTS_TIME_LEFT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Leaving and Resuming Improvements",
-    "name": "Leaving and Resuming Improvements",
+    "nameFormatted": "시설 건설의 중지와 재개",
+    "name": "시설 건설의 중지와 재개",
     "type": "CONCEPT_WORKERS_IMPROVEMENTS_LEAVING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Special Fort Improvement",
-    "name": "The Special Fort Improvement",
+    "nameFormatted": "요새 특별 시설",
+    "name": "요새 특별 시설",
     "type": "CONCEPT_WORKERS_IMPROVEMENTS_FORT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Work Boats",
-    "name": "Work Boats",
+    "nameFormatted": "작업선",
+    "name": "작업선",
     "type": "CONCEPT_WORKERS_WORKBOATS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Pillaging Roads and Improvements",
-    "name": "Pillaging Roads and Improvements",
+    "nameFormatted": "길과 시설의 약탈",
+    "name": "길과 시설의 약탈",
     "type": "CONCEPT_WORKERS_PILLAGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Repairing Roads and Improvements",
-    "name": "Repairing Roads and Improvements",
+    "nameFormatted": "길과 시설의 수리",
+    "name": "길과 시설의 수리",
     "type": "CONCEPT_WORKERS_REPAIR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Fishing Boats and Oil Platforms",
-    "name": "Fishing Boats and Oil Platforms",
+    "nameFormatted": "작업선과 해양 시설",
+    "name": "작업선과 해양 시설",
     "type": "CONCEPT_WORKERS_REPAIR_WATER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Great People Improvements",
-    "name": "Great People Improvements",
+    "nameFormatted": "위인 시설",
+    "name": "위인 시설",
     "type": "CONCEPT_WORKERS_GREAT_PEOPLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Food and City Growth",
-    "name": "Food and City Growth",
+    "nameFormatted": "식량과 도시 성장",
+    "name": "식량과 도시 성장",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Cities and Food",
-    "name": "Cities and Food",
+    "nameFormatted": "도시와 식량",
+    "name": "도시와 식량",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_MECHANICS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Getting More Food",
-    "name": "Getting More Food",
+    "nameFormatted": "더 많은 식량 얻기",
+    "name": "더 많은 식량 얻기",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_GETTING_MORE_FOOD",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Best Food Tiles",
-    "name": "Best Food Tiles",
+    "nameFormatted": "최고의 식량 타일",
+    "name": "최고의 식량 타일",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_BEST_FOOD_TILES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Bonus Resources",
-    "name": "Bonus Resources",
+    "nameFormatted": "보너스 자원",
+    "name": "보너스 자원",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_BONUS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Oasis",
-    "name": "Oasis",
+    "nameFormatted": "오아시스 타일",
+    "name": "오아시스 타일",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_OASIS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Flood Plains",
-    "name": "Flood Plains",
+    "nameFormatted": "범람원",
+    "name": "범람원",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_FLOOD_PLAINS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Grassland and Jungle",
-    "name": "Grassland and Jungle",
+    "nameFormatted": "초원과 정글",
+    "name": "초원과 정글",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_GRASSLAND_AND_JUNGLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Improvements",
-    "name": "Improvements",
+    "nameFormatted": "시설",
+    "name": "시설",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_IMPROVEMENTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Buildings, Wonders and Policies",
-    "name": "Buildings, Wonders and Policies",
+    "nameFormatted": "건물, 불가사의 그리고 사회 정책",
+    "name": "건물, 불가사의 그리고 사회 정책",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_BUILDINGS_WONDERS_SOCIAL_POLICIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Maritime City-States",
-    "name": "Maritime City-States",
+    "nameFormatted": "해양 도시 국가",
+    "name": "해양 도시 국가",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_MARITIME_CITY_STATES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "We Love the King Day",
-    "name": "We Love the King Day",
+    "nameFormatted": "국왕 경축일",
+    "name": "국왕 경축일",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_WE_LOVE_THE_KING_DAY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City Unhappiness",
-    "name": "City Unhappiness",
+    "nameFormatted": "도시 불행도",
+    "name": "도시 불행도",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_UNHAPPINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City Growth",
-    "name": "City Growth",
+    "nameFormatted": "도시 성장",
+    "name": "도시 성장",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_GROWTH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The City Growth Bucket",
-    "name": "The City Growth Bucket",
+    "nameFormatted": "도시 성장 바구니",
+    "name": "도시 성장 바구니",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_GROWTH_BUCKET",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Settlers And Food Production</span>",
-    "name": "[COLOR_YELLOW]Settlers And Food Production[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">개척자와 식량 산출량</span>",
+    "name": "[COLOR_YELLOW]개척자와 식량 산출량[ENDCOLOR]",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_SETTLERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Technology",
-    "name": "Technology",
+    "nameFormatted": "기술",
+    "name": "기술",
     "type": "CONCEPT_TECHNOLOGY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Technology and Beakers",
-    "name": "Technology and Beakers",
+    "nameFormatted": "기술과 과학",
+    "name": "기술과 과학",
     "type": "CONCEPT_TECHNOLOGY_TECH_AND_BEAKERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Where Do Beakers Come From?",
-    "name": "Where Do Beakers Come From?",
+    "nameFormatted": "과학은 어디에서 나오나요?",
+    "name": "과학은 어디에서 나오나요?",
     "type": "CONCEPT_TECHNOLOGY_BEAKERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Increasing Beakers",
-    "name": "Increasing Beakers",
+    "nameFormatted": "과학 증가",
+    "name": "과학 증가",
     "type": "CONCEPT_TECHNOLOGY_SPEEDING_UP_RESEARCH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ancient Ruins",
-    "name": "Ancient Ruins",
+    "nameFormatted": "고대 유적",
+    "name": "고대 유적",
     "type": "CONCEPT_TECHNOLOGY_ANCIENT_RUINS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Trade",
-    "name": "Trade",
+    "nameFormatted": "무역",
+    "name": "무역",
     "type": "CONCEPT_TECHNOLOGY_TRADE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Buildings",
-    "name": "Buildings",
+    "nameFormatted": "건물",
+    "name": "건물",
     "type": "CONCEPT_TECHNOLOGY_BUILDINGS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Wonders",
-    "name": "Wonders",
+    "nameFormatted": "불가사의",
+    "name": "불가사의",
     "type": "CONCEPT_TECHNOLOGY_WONDERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Great Scientist",
-    "name": "Great Scientist",
+    "nameFormatted": "위대한 과학자",
+    "name": "위대한 과학자",
     "type": "CONCEPT_TECHNOLOGY_GREAT_SCIENTIST",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Rationalism Branch",
-    "name": "The Rationalism Branch",
+    "nameFormatted": "합리",
+    "name": "합리",
     "type": "CONCEPT_TECHNOLOGY_SOCIAL_POLICIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Choosing A Technology To Study",
-    "name": "Choosing A Technology To Study",
+    "nameFormatted": "연구할 기술 선택",
+    "name": "연구할 기술 선택",
     "type": "CONCEPT_TECHNOLOGY_CHOOSING_TECH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Choose Research Menu",
-    "name": "The Choose Research Menu",
+    "nameFormatted": "기술 개발 선택 메뉴",
+    "name": "기술 개발 선택 메뉴",
     "type": "CONCEPT_TECHNOLOGY_CHOOSE_RESEARCH_MENU",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Changing Research",
-    "name": "Changing Research",
+    "nameFormatted": "기술 개발 변경",
+    "name": "기술 개발 변경",
     "type": "CONCEPT_TECHNOLOGY_CHANGE_RESEARCH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Which Technologies Are Available",
-    "name": "Which Technologies Are Available",
+    "nameFormatted": "어떤 기술이 개발 가능한가요?",
+    "name": "어떤 기술이 개발 가능한가요?",
     "type": "CONCEPT_TECHNOLOGY_AVAILABLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Mighty Technology Tree",
-    "name": "The Mighty Technology Tree",
+    "nameFormatted": "강력한 테크 트리",
+    "name": "강력한 테크 트리",
     "type": "CONCEPT_TECHNOLOGY_TECH_TREE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Technology and Victory",
-    "name": "Technology and Victory",
+    "nameFormatted": "기술과 승리",
+    "name": "기술과 승리",
     "type": "CONCEPT_TECHNOLOGY_VICTORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Victory and Defeat",
-    "name": "Victory and Defeat",
+    "nameFormatted": "승리와 패배",
+    "name": "승리와 패배",
     "type": "CONCEPT_VICTORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City-States And Victory",
-    "name": "City-States And Victory",
+    "nameFormatted": "도시 국가와 승리",
+    "name": "도시 국가와 승리",
     "type": "CONCEPT_VICTORY_CITY_STATES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "How To Lose",
-    "name": "How To Lose",
+    "nameFormatted": "지는 방법",
+    "name": "지는 방법",
     "type": "CONCEPT_VICTORY_DEFEAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Losing your Last City",
-    "name": "Losing your Last City",
+    "nameFormatted": "마지막 도시 잃기",
+    "name": "마지막 도시 잃기",
     "type": "CONCEPT_VICTORY_DEFEAT_LOSING_LAST_CITY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Another Civilization Wins",
-    "name": "Another Civilization Wins",
+    "nameFormatted": "다른 문명의 승리",
+    "name": "다른 문명의 승리",
     "type": "CONCEPT_VICTORY_DEFEAT_ANOTHER_WINNER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "2050 Arrives",
-    "name": "2050 Arrives",
+    "nameFormatted": "2050년에 도달",
+    "name": "2050년에 도달",
     "type": "CONCEPT_VICTORY_DEFEAT_TIME_OUT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "How To Win",
-    "name": "How To Win",
+    "nameFormatted": "이기는 방법",
+    "name": "이기는 방법",
     "type": "CONCEPT_VICTORY_VICTORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Domination Victory",
-    "name": "Domination Victory",
+    "nameFormatted": "정복 승리",
+    "name": "정복 승리",
     "type": "CONCEPT_VICTORY_VICTORY_DOMINATION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Destroying an Original Capital",
-    "name": "Destroying an Original Capital",
+    "nameFormatted": "원래의 수도를 파괴하기",
+    "name": "원래의 수도를 파괴하기",
     "type": "CONCEPT_VICTORY_RAZING_ORIGINAL_CAPITAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Current Capital vs. Original Capital",
-    "name": "Current Capital vs. Original Capital",
+    "nameFormatted": "현재의 수도와 원래의 수도",
+    "name": "현재의 수도와 원래의 수도",
     "type": "CONCEPT_VICTORY_CAPITAL_AND_ORIGINAL_CAPITAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Science Victory",
-    "name": "The Science Victory",
+    "nameFormatted": "과학 승리",
+    "name": "과학 승리",
     "type": "CONCEPT_VICTORY_VICTORY_SCIENCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Spaceship Parts",
-    "name": "Spaceship Parts",
+    "nameFormatted": "우주선 부품",
+    "name": "우주선 부품",
     "type": "CONCEPT_VICTORY_SPACESHIP_PARTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Cultural Victory</span>",
-    "name": "[COLOR_YELLOW]Cultural Victory[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">문화 승리</span>",
+    "name": "[COLOR_YELLOW]문화 승리[ENDCOLOR]",
     "type": "CONCEPT_VICTORY_VICTORY_CULTURAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Diplomatic Victory",
-    "name": "Diplomatic Victory",
+    "nameFormatted": "외교 승리",
+    "name": "외교 승리",
     "type": "CONCEPT_VICTORY_VICTORY_DIPLOMATIC",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Delegates",
-    "name": "Delegates",
+    "nameFormatted": "대표단",
+    "name": "대표단",
     "type": "CONCEPT_VICTORY_DIPLOMATIC_VOTING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Liberation",
-    "name": "Liberation",
+    "nameFormatted": "해방",
+    "name": "해방",
     "type": "CONCEPT_VICTORY_MINOR_CIV_LIBERATION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The End of Time",
-    "name": "The End of Time",
+    "nameFormatted": "타임 오버 (시간 종료)",
+    "name": "타임 오버 (시간 종료)",
     "type": "CONCEPT_VICTORY_END_OF_TIME",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Determining Score",
-    "name": "Determining Score",
+    "nameFormatted": "점수 계산 방식",
+    "name": "점수 계산 방식",
     "type": "CONCEPT_VICTORY_POINTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Culture",
-    "name": "Culture",
+    "nameFormatted": "문화",
+    "name": "문화",
     "type": "CONCEPT_CULTURE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Getting Culture",
-    "name": "Getting Culture",
+    "nameFormatted": "문화 얻기",
+    "name": "문화 얻기",
     "type": "CONCEPT_CULTURE_GAINING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Expanding Territory",
-    "name": "Expanding Territory",
+    "nameFormatted": "영토 확장하기",
+    "name": "영토 확장하기",
     "type": "CONCEPT_CULTURE_EXPANDING_TERRITORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Acquiring Social Policies",
-    "name": "Acquiring Social Policies",
+    "nameFormatted": "사회 정책 얻기",
+    "name": "사회 정책 얻기",
     "type": "CONCEPT_CULTURE_ACQUIRING_SOCIAL_POLICY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Cultural Victory</span>",
-    "name": "[COLOR_YELLOW]Cultural Victory[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">문화 승리</span>",
+    "name": "[COLOR_YELLOW]문화 승리[ENDCOLOR]",
     "type": "CONCEPT_CULTURE_VICTORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Diplomacy",
-    "name": "Diplomacy",
+    "nameFormatted": "외교",
+    "name": "외교",
     "type": "CONCEPT_DIPLOMACY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Who Can Conduct Diplomacy",
-    "name": "Who Can Conduct Diplomacy",
+    "nameFormatted": "외교를 진행하는 자",
+    "name": "외교를 진행하는 자",
     "type": "CONCEPT_DIPLOMACY_WHO_CAN_CONDUCT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Initiating Diplomacy",
-    "name": "Initiating Diplomacy",
+    "nameFormatted": "외교 시작하기",
+    "name": "외교 시작하기",
     "type": "CONCEPT_DIPLOMACY_INITIATING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Diplomacy With Civilizations",
-    "name": "Diplomacy With Civilizations",
+    "nameFormatted": "문명과 외교",
+    "name": "문명과 외교",
     "type": "CONCEPT_DIPLOMACY_WITH_CIVS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Declare War",
-    "name": "Declare War",
+    "nameFormatted": "선전포고",
+    "name": "선전포고",
     "type": "CONCEPT_DIPLOMACY_DECLARE_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">War Score</span>",
-    "name": "[COLOR_GREEN]War Score[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">전쟁 점수</span>",
+    "name": "[COLOR_GREEN]전쟁 점수[ENDCOLOR]",
     "type": "CONCEPT_DIPLOMACY_PEACE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Trade",
-    "name": "Trade",
+    "nameFormatted": "거래",
+    "name": "거래",
     "type": "CONCEPT_DIPLOMACY_TRADE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Demand",
-    "name": "Demand",
+    "nameFormatted": "요구",
+    "name": "요구",
     "type": "CONCEPT_DIPLOMACY_DEMAND",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Discuss",
-    "name": "Discuss",
+    "nameFormatted": "논의",
+    "name": "논의",
     "type": "CONCEPT_DIPLOMACY_DISCUSS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Denounce",
-    "name": "Denounce",
+    "nameFormatted": "비난",
+    "name": "비난",
     "type": "CONCEPT_DIPLOMACY_DENOUNCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Declaration of Friendship",
-    "name": "Declaration of Friendship",
+    "nameFormatted": "친선 관계",
+    "name": "친선 관계",
     "type": "CONCEPT_DIPLOMACY_FRIENDSHIP",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Exit",
-    "name": "Exit",
+    "nameFormatted": "나가기",
+    "name": "나가기",
     "type": "CONCEPT_DIPLOMACY_EXIT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Trade Screen",
-    "name": "The Trade Screen",
+    "nameFormatted": "거래 화면",
+    "name": "거래 화면",
     "type": "CONCEPT_DIPLOMACY_TRADE_SCREEN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Open Borders Agreement",
-    "name": "Open Borders Agreement",
+    "nameFormatted": "국경 개방 조약",
+    "name": "국경 개방 조약",
     "type": "CONCEPT_DIPLOMACY_OPEN_BORDERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Defensive Pact",
-    "name": "Defensive Pact",
+    "nameFormatted": "방위 조약",
+    "name": "방위 조약",
     "type": "CONCEPT_DIPLOMACY_DEFENSIVE_PACT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Research Agreements",
-    "name": "Research Agreements",
+    "nameFormatted": "연구 협정",
+    "name": "연구 협정",
     "type": "CONCEPT_DIPLOMACY_RESEARCH_AGREEMENT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Trading Cities",
-    "name": "Trading Cities",
+    "nameFormatted": "도시 거래하기",
+    "name": "도시 거래하기",
     "type": "CONCEPT_DIPLOMACY_TRADE_CITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Other Players",
-    "name": "Other Players",
+    "nameFormatted": "다른 플레이어",
+    "name": "다른 플레이어",
     "type": "CONCEPT_DIPLOMACY_OTHER_PLAYERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Resources and Diplomacy",
-    "name": "Resources and Diplomacy",
+    "nameFormatted": "자원과 외교",
+    "name": "자원과 외교",
     "type": "CONCEPT_DIPLOMACY_RESOURCES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Negotiating With City-States",
-    "name": "Negotiating With City-States",
+    "nameFormatted": "도시 국가와 협상",
+    "name": "도시 국가와 협상",
     "type": "CONCEPT_DIPLOMACY_CITY_STATE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Declaring War",
-    "name": "Declaring War",
+    "nameFormatted": "선전포고",
+    "name": "선전포고",
     "type": "CONCEPT_DIPLOMACY_DECLARING_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Negotiating Peace",
-    "name": "Negotiating Peace",
+    "nameFormatted": "평화 협정",
+    "name": "평화 협정",
     "type": "CONCEPT_DIPLOMACY_NEGOTIATE_PEACE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Happiness</span>",
-    "name": "[COLOR_GREEN]Happiness[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">행복도</span>",
+    "name": "[COLOR_GREEN]행복도[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">What Causes Unhappiness</span>",
-    "name": "[COLOR_GREEN]What Causes Unhappiness[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">불행을 야기하는 것</span>",
+    "name": "[COLOR_GREEN]불행을 야기하는 것[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_CAUSES_UNHAPPINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">What Causes Happiness</span>",
-    "name": "[COLOR_GREEN]What Causes Happiness[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">행복을 만드는 것</span>",
+    "name": "[COLOR_GREEN]행복을 만드는 것[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_CAUSES_HAPPINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Fog of War",
-    "name": "Fog of War",
+    "nameFormatted": "전장의 안개",
+    "name": "전장의 안개",
     "type": "CONCEPT_FOG_OF_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Three States of Visibility",
-    "name": "The Three States of Visibility",
+    "nameFormatted": "시야의 3가지 상태",
+    "name": "시야의 3가지 상태",
     "type": "CONCEPT_FOG_OF_WAR_THREE_STATES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Visible",
-    "name": "Visible",
+    "nameFormatted": "시야",
+    "name": "시야",
     "type": "CONCEPT_FOG_OF_WAR_STATE_VISIBLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Revealed",
-    "name": "Revealed",
+    "nameFormatted": "발견",
+    "name": "발견",
     "type": "CONCEPT_FOG_OF_WAR_STATE_REVEALED",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Fog of War on a Tile",
-    "name": "Fog of War on a Tile",
+    "nameFormatted": "전장의 안개에 덮여있는 타일",
+    "name": "전장의 안개에 덮여있는 타일",
     "type": "CONCEPT_FOG_OF_WAR_STATE_FOG_OF_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "What Is Seen",
-    "name": "What Is Seen",
+    "nameFormatted": "보여지는 것",
+    "name": "보여지는 것",
     "type": "CONCEPT_FOG_OF_WAR_SEEN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Obscuring Terrain",
-    "name": "Obscuring Terrain",
+    "nameFormatted": "시야가 제한되는 지형",
+    "name": "시야가 제한되는 지형",
     "type": "CONCEPT_FOG_OF_WAR_OBSCURING_TERRAIN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Indirect Fire",
-    "name": "Indirect Fire",
+    "nameFormatted": "간접 사격",
+    "name": "간접 사격",
     "type": "CONCEPT_FOG_OF_WAR_INDIRECT_FIRE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Social Policies",
-    "name": "Social Policies",
+    "nameFormatted": "사회 정책",
+    "name": "사회 정책",
     "type": "CONCEPT_SOCIAL_POLICY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Gaining Social Policies",
-    "name": "Gaining Social Policies",
+    "nameFormatted": "사회 정책 획득",
+    "name": "사회 정책 획득",
     "type": "CONCEPT_SOCIAL_POLICY_GAINING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Freedom</span>",
-    "name": "[COLOR_YELLOW]Freedom[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">자유</span>",
+    "name": "[COLOR_YELLOW]자유[ENDCOLOR]",
     "type": "CONCEPT_SOCIAL_POLICY_BRANCH_FREEDOM",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Order</span>",
-    "name": "[COLOR_YELLOW]Order[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">질서</span>",
+    "name": "[COLOR_YELLOW]질서[ENDCOLOR]",
     "type": "CONCEPT_SOCIAL_POLICY_BRANCH_ORDER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Autocracy</span>",
-    "name": "[COLOR_YELLOW]Autocracy[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">전제</span>",
+    "name": "[COLOR_YELLOW]전제[ENDCOLOR]",
     "type": "CONCEPT_SOCIAL_POLICY_BRANCH_AUTOCRACY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Cultural Victory</span>",
-    "name": "[COLOR_YELLOW]Cultural Victory[ENDCOLOR]",
+    "nameFormatted": "문화 승리",
+    "name": "문화 승리",
     "type": "CONCEPT_SOCIAL_POLICY_VICTORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Gold",
-    "name": "Gold",
+    "nameFormatted": "골드",
+    "name": "골드",
     "type": "CONCEPT_GOLD",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Where To Get Gold",
-    "name": "Where To Get Gold",
+    "nameFormatted": "골드를 얻는 곳",
+    "name": "골드를 얻는 곳",
     "type": "CONCEPT_GOLD_WHERE_TO_GET",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Terrain Types and Gold",
-    "name": "Terrain Types and Gold",
+    "nameFormatted": "영토 종류와 골드",
+    "name": "영토 종류와 골드",
     "type": "CONCEPT_GOLD_TERRAIN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Resources",
-    "name": "Resources",
+    "nameFormatted": "자원",
+    "name": "자원",
     "type": "CONCEPT_GOLD_RESOURCES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">The Village</span>",
-    "name": "[COLOR_GREEN]The Village[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">마을</span>",
+    "name": "[COLOR_GREEN]마을[ENDCOLOR]",
     "type": "CONCEPT_GOLD_TRADING_POST",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Buildings",
-    "name": "Buildings",
+    "nameFormatted": "건물",
+    "name": "건물",
     "type": "CONCEPT_GOLD_BUILDINGS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Wonders",
-    "name": "Wonders",
+    "nameFormatted": "불가사의",
+    "name": "불가사의",
     "type": "CONCEPT_GOLD_WONDERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">City Connections</span>",
-    "name": "[COLOR_YELLOW]City Connections[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">도시 연결</span>",
+    "name": "[COLOR_YELLOW]도시 연결[ENDCOLOR]",
     "type": "CONCEPT_GOLD_TRADE_ROUTES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Blockade",
-    "name": "Blockade",
+    "nameFormatted": "봉쇄",
+    "name": "봉쇄",
     "type": "CONCEPT_GOLD_TRADE_ROUTES_BLOCKADE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Barbarian Encampment",
-    "name": "Barbarian Encampment",
+    "nameFormatted": "야만인 주둔지",
+    "name": "야만인 주둔지",
     "type": "CONCEPT_GOLD_BARBARIAN_CAMPS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ancient Ruins",
-    "name": "Ancient Ruins",
+    "nameFormatted": "고대 유적",
+    "name": "고대 유적",
     "type": "CONCEPT_GOLD_ANCIENT_RUINS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City-States",
-    "name": "City-States",
+    "nameFormatted": "도시 국가",
+    "name": "도시 국가",
     "type": "CONCEPT_GOLD_CITY_STATES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Pillage Enemy Improvements",
-    "name": "Pillage Enemy Improvements",
+    "nameFormatted": "적 건물 약탈",
+    "name": "적 건물 약탈",
     "type": "CONCEPT_GOLD_PILLAGE_IMPROVEMENTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Capturing Cities",
-    "name": "Capturing Cities",
+    "nameFormatted": "도시 점령",
+    "name": "도시 점령",
     "type": "CONCEPT_GOLD_CITY_CAPTURE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Gold Trading",
-    "name": "Gold Trading",
+    "nameFormatted": "골드 거래",
+    "name": "골드 거래",
     "type": "CONCEPT_GOLD_DIPLOMACY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Perform a \"Trade Mission\"",
-    "name": "Perform a \"Trade Mission\"",
+    "nameFormatted": "\"무역 임무\" 실행",
+    "name": "\"무역 임무\" 실행",
     "type": "CONCEPT_GOLD_TRADE_MISSION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Expending Gold",
-    "name": "Expending Gold",
+    "nameFormatted": "골드 소모",
+    "name": "골드 소모",
     "type": "CONCEPT_GOLD_SPENDING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Unit and Building Maintenance",
-    "name": "Unit and Building Maintenance",
+    "nameFormatted": "유닛 및 건물 유지",
+    "name": "유닛 및 건물 유지",
     "type": "CONCEPT_GOLD_UNIT_BUILDING_MAINTENANCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Road Maintenance",
-    "name": "Road Maintenance",
+    "nameFormatted": "도로 유지비",
+    "name": "도로 유지비",
     "type": "CONCEPT_GOLD_ROAD_MAINTENANCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Purchase Tiles",
-    "name": "Purchase Tiles",
+    "nameFormatted": "타일 구매",
+    "name": "타일 구매",
     "type": "CONCEPT_GOLD_PURCHASE_TILES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Buying Units, Buildings or Wonders</span>",
-    "name": "[COLOR_YELLOW]Buying Units, Buildings or Wonders[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">유닛, 건물, 불가사의 구매</span>",
+    "name": "[COLOR_YELLOW]유닛, 건물, 불가사의 구매[ENDCOLOR]",
     "type": "CONCEPT_GOLD_PURCHASE_UNITS_BUILDINGS_WONDERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Buying Influence with City-States",
-    "name": "Buying Influence with City-States",
+    "nameFormatted": "도시 국가 영향력 구매",
+    "name": "도시 국가 영향력 구매",
     "type": "CONCEPT_GOLD_BUY_CITY_STATE_INFLUENCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Upgrading Obsolete Units",
-    "name": "Upgrading Obsolete Units",
+    "nameFormatted": "구식 유닛의 업그레이드",
+    "name": "구식 유닛의 업그레이드",
     "type": "CONCEPT_GOLD_UPGRADE_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Diplomacy and Gold",
-    "name": "Diplomacy and Gold",
+    "nameFormatted": "외교와 골드",
+    "name": "외교와 골드",
     "type": "CONCEPT_GOLD_SPENDING_ON_DIPLOMACY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Flat Fee",
-    "name": "Flat Fee",
+    "nameFormatted": "정량",
+    "name": "정량",
     "type": "CONCEPT_GOLD_DIPLOMACY_FLAT_FEE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Per Turn",
-    "name": "Per Turn",
+    "nameFormatted": "턴당",
+    "name": "턴당",
     "type": "CONCEPT_GOLD_DIPLOMACY_PER_TURN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Getting Plundered",
-    "name": "Getting Plundered",
+    "nameFormatted": "강탈 당함",
+    "name": "강탈 당함",
     "type": "CONCEPT_GOLD_CITY_CAPTURED_BY_BARBARIANS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Losing a City",
-    "name": "Losing a City",
+    "nameFormatted": "도시 상실",
+    "name": "도시 상실",
     "type": "CONCEPT_GOLD_CITY_CAPTURED_BY_CIV",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Running Out of Gold",
-    "name": "Running Out of Gold",
+    "nameFormatted": "골드 탕진",
+    "name": "골드 탕진",
     "type": "CONCEPT_GOLD_RUNNING_DEFICIT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Advisors",
-    "name": "Advisors",
+    "nameFormatted": "보좌관",
+    "name": "보좌관",
     "type": "CONCEPT_ADVISORS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Economic",
-    "name": "Economic",
+    "nameFormatted": "경제",
+    "name": "경제",
     "type": "CONCEPT_ADVISORS_ECONOMIC",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Military",
-    "name": "Military",
+    "nameFormatted": "군대",
+    "name": "군대",
     "type": "CONCEPT_ADVISORS_MILITARY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Foreign",
-    "name": "Foreign",
+    "nameFormatted": "외교",
+    "name": "외교",
     "type": "CONCEPT_ADVISORS_FOREIGN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Science",
-    "name": "Science",
+    "nameFormatted": "과학",
+    "name": "과학",
     "type": "CONCEPT_ADVISORS_SCIENCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Contacting An Advisor",
-    "name": "Contacting An Advisor",
+    "nameFormatted": "보좌관과 만나기",
+    "name": "보좌관과 만나기",
     "type": "CONCEPT_ADVISORS_CONTACTING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Turning Off the Advisors",
-    "name": "Turning Off the Advisors",
+    "nameFormatted": "보좌관 끄기",
+    "name": "보좌관 끄기",
     "type": "CONCEPT_ADVISORS_TURNINGOFF",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Specialists and Great People",
-    "name": "Specialists and Great People",
+    "nameFormatted": "전문가와 위인",
+    "name": "전문가와 위인",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Specialists and City Growth</span>",
-    "name": "[COLOR_YELLOW]Specialists and City Growth[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">전문가와 도시 성장</span>",
+    "name": "[COLOR_GREEN]전문가와 도시 성장[ENDCOLOR]",
     "type": "CONCEPT_BUILDINGS_SPECIALISTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Specialists",
-    "name": "Specialists",
+    "nameFormatted": "전문가",
+    "name": "전문가",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Artist",
-    "name": "Artist",
+    "nameFormatted": "예술가",
+    "name": "예술가",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ARTIST",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Engineer",
-    "name": "Engineer",
+    "nameFormatted": "기술자",
+    "name": "기술자",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ENGINEER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Merchant",
-    "name": "Merchant",
+    "nameFormatted": "상인",
+    "name": "상인",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MERCHANT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Scientist",
-    "name": "Scientist",
+    "nameFormatted": "과학자",
+    "name": "과학자",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_SCIENTIST",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Assigning Specialists",
-    "name": "Assigning Specialists",
+    "nameFormatted": "전문가 고용하기",
+    "name": "전문가 고용하기",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_ASSIGNING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Effects of Assigning Specialists",
-    "name": "Effects of Assigning Specialists",
+    "nameFormatted": "전문가 고용 효과",
+    "name": "전문가 고용 효과",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_EFFECT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Great People</span>",
-    "name": "[COLOR_YELLOW]Great People[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위인</span>",
+    "name": "[COLOR_YELLOW]위인[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Generating Great People</span>",
-    "name": "[COLOR_YELLOW]Generating Great People[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위인 탄생</span>",
+    "name": "[COLOR_YELLOW]위인 탄생[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GENERATING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Great Peoples' Abilities",
-    "name": "Great Peoples' Abilities",
+    "nameFormatted": "위인의 능력",
+    "name": "위인의 능력",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_ABILITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Special Improvements</span>",
-    "name": "[COLOR_YELLOW]Special Improvements[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">특수 시설</span>",
+    "name": "[COLOR_YELLOW]특수 시설[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Special Ability",
-    "name": "Special Ability",
+    "nameFormatted": "특수 능력",
+    "name": "특수 능력",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_ABILITY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Moving Great People",
-    "name": "Moving Great People",
+    "nameFormatted": "위인 이동",
+    "name": "위인 이동",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_MOVING_GREAT_PEOPLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Great Artist</span>",
-    "name": "[COLOR_YELLOW]Great Artist[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위대한 예술가</span>",
+    "name": "[COLOR_YELLOW]위대한 예술가[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ARTIST",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Great Engineer</span>",
-    "name": "[COLOR_YELLOW]Great Engineer[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위대한 기술자</span>",
+    "name": "[COLOR_YELLOW]위대한 기술자[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ENGINEER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Great Merchant</span>",
-    "name": "[COLOR_YELLOW]Great Merchant[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위대한 상인</span>",
+    "name": "[COLOR_YELLOW]위대한 상인[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Great Scientist</span>",
-    "name": "[COLOR_YELLOW]Great Scientist[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위대한 과학자</span>",
+    "name": "[COLOR_YELLOW]위대한 과학자[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Great General</span>",
-    "name": "[COLOR_YELLOW]Great General[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위대한 장군</span>",
+    "name": "[COLOR_YELLOW]위대한 장군[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_GENERAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City-States",
-    "name": "City-States",
+    "nameFormatted": "도시 국가",
+    "name": "도시 국가",
     "type": "CONCEPT_CITY_STATE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Types of City-States",
-    "name": "Types of City-States",
+    "nameFormatted": "도시 국가의 특성",
+    "name": "도시 국가의 특성",
     "type": "CONCEPT_CITY_STATE_TYPES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Cultured",
-    "name": "Cultured",
+    "nameFormatted": "문화적",
+    "name": "문화적",
     "type": "CONCEPT_CITY_STATE_TYPES_CULTURED",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Maritime",
-    "name": "Maritime",
+    "nameFormatted": "해양적",
+    "name": "해양적",
     "type": "CONCEPT_CITY_STATE_TYPES_MARITIME",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Militaristic",
-    "name": "Militaristic",
+    "nameFormatted": "군사적",
+    "name": "군사적",
     "type": "CONCEPT_CITY_STATE_TYPES_MILITARISTIC",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Communicating with City-States",
-    "name": "Communicating with City-States",
+    "nameFormatted": "도시 국가와의 접촉",
+    "name": "도시 국가와의 접촉",
     "type": "CONCEPT_CITY_STATE_COMMUNICATION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City-State Influence",
-    "name": "City-State Influence",
+    "nameFormatted": "도시 국가의 영향력",
+    "name": "도시 국가의 영향력",
     "type": "CONCEPT_CITY_STATE_INFLUENCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Diplomatic Missions and You</span>",
-    "name": "[COLOR_GREEN]Diplomatic Missions and You[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">외교 임무와 문명</span>",
+    "name": "[COLOR_GREEN]외교 임무와 문명[ENDCOLOR]",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_GOLD",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Give Them Units",
-    "name": "Give Them Units",
+    "nameFormatted": "유닛 선물하기",
+    "name": "유닛 선물하기",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Doing Nothing",
-    "name": "Doing Nothing",
+    "nameFormatted": "아무것도 하지 않음",
+    "name": "아무것도 하지 않음",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_DO_NOTHING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Influence Levels",
-    "name": "Influence Levels",
+    "nameFormatted": "영향력 단계",
+    "name": "영향력 단계",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Wary",
-    "name": "Wary",
+    "nameFormatted": "경계",
+    "name": "경계",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_PERMANENT_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "War",
-    "name": "War",
+    "nameFormatted": "전쟁",
+    "name": "전쟁",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Neutral",
-    "name": "Neutral",
+    "nameFormatted": "중립",
+    "name": "중립",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_NEUTRAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Friends",
-    "name": "Friends",
+    "nameFormatted": "친선 관계",
+    "name": "친선 관계",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_FRIENDS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Allies",
-    "name": "Allies",
+    "nameFormatted": "동맹",
+    "name": "동맹",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_LEVELS_ALLIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City-State Missions",
-    "name": "City-State Missions",
+    "nameFormatted": "도시 국가의 임무",
+    "name": "도시 국가의 임무",
     "type": "CONCEPT_CITY_STATE_MISSIONS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "War of the City-States",
-    "name": "War of the City-States",
+    "nameFormatted": "도시 국가와의 전쟁",
+    "name": "도시 국가와의 전쟁",
     "type": "CONCEPT_CITY_STATE_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Liberating a City-State",
-    "name": "Liberating a City-State",
+    "nameFormatted": "도시 국가의 해방",
+    "name": "도시 국가의 해방",
     "type": "CONCEPT_CITY_STATE_LIBERATING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "City-States and Diplomatic Victory",
-    "name": "City-States and Diplomatic Victory",
+    "nameFormatted": "도시 국가와 외교 승리",
+    "name": "도시 국가와 외교 승리",
     "type": "CONCEPT_CITY_STATE_DIPLOMACY_VICTORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Movement",
-    "name": "Movement",
+    "nameFormatted": "이동",
+    "name": "이동",
     "type": "CONCEPT_MOVEMENT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "How to Order a Unit to Move",
-    "name": "How to Order a Unit to Move",
+    "nameFormatted": "유닛에게 이동 명령을 내리는 법",
+    "name": "유닛에게 이동 명령을 내리는 법",
     "type": "CONCEPT_MOVEMENT_HOW_TO_ORDER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Right-Click",
-    "name": "Right-Click",
+    "nameFormatted": "오른쪽 클릭",
+    "name": "오른쪽 클릭",
     "type": "CONCEPT_MOVEMENT_RIGHT_CLICK",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Move Mode",
-    "name": "Move Mode",
+    "nameFormatted": "이동 모드",
+    "name": "이동 모드",
     "type": "CONCEPT_MOVEMENT_MOVE_MODE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Legal and Illegal Moves",
-    "name": "Legal and Illegal Moves",
+    "nameFormatted": "가능한 이동과 불가능한 이동",
+    "name": "가능한 이동과 불가능한 이동",
     "type": "CONCEPT_MOVEMENT_LEGAL_MOVES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Illegal Moves",
-    "name": "Illegal Moves",
+    "nameFormatted": "불가능한 이동",
+    "name": "불가능한 이동",
     "type": "CONCEPT_MOVEMENT_ILLEGAL_MOVES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Multiple Turn Move Orders",
-    "name": "Multiple Turn Move Orders",
+    "nameFormatted": "여러 턴에 걸친 이동 명령",
+    "name": "여러 턴에 걸친 이동 명령",
     "type": "CONCEPT_MOVEMENT_MULTIPLE_TURN_MOVES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Movement Points",
-    "name": "Movement Points",
+    "nameFormatted": "이동력",
+    "name": "이동력",
     "type": "CONCEPT_MOVEMENT_MOVEMENT_POINTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Expending Movement Points",
-    "name": "Expending Movement Points",
+    "nameFormatted": "이동력 소모",
+    "name": "이동력 소모",
     "type": "CONCEPT_MOVEMENT_EXPENDING_MOVEMENT_POINTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Road and Railroads",
-    "name": "Road and Railroads",
+    "nameFormatted": "도로 철도",
+    "name": "도로 철도",
     "type": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Rivers and Roads/Railroads",
-    "name": "Rivers and Roads/Railroads",
+    "nameFormatted": "강과 도로/철도",
+    "name": "강과 도로/철도",
     "type": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS_AND_RIVERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Stacking Limitations",
-    "name": "Stacking Limitations",
+    "nameFormatted": "겹치기 제한",
+    "name": "겹치기 제한",
     "type": "CONCEPT_MOVEMENT_STACKING_LIMITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Movement During Combat",
-    "name": "Movement During Combat",
+    "nameFormatted": "전투 중 이동",
+    "name": "전투 중 이동",
     "type": "CONCEPT_MOVEMENT_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Attack Orders",
-    "name": "Attack Orders",
+    "nameFormatted": "공격 명령",
+    "name": "공격 명령",
     "type": "CONCEPT_MOVEMENT_COMBAT_ATTACK_ORDERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Zones of Control",
-    "name": "Zones of Control",
+    "nameFormatted": "통제 구역(ZOC)",
+    "name": "통제 구역(ZOC)",
     "type": "CONCEPT_MOVEMENT_COMBAT_ZONES_OF_CONTROL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Naval Movement",
-    "name": "Naval Movement",
+    "nameFormatted": "해상 이동",
+    "name": "해상 이동",
     "type": "CONCEPT_MOVEMENT_NAVAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Embarking Land Units",
-    "name": "Embarking Land Units",
+    "nameFormatted": "지상 유닛 승선",
+    "name": "지상 유닛 승선",
     "type": "CONCEPT_MOVEMENT_EMBARKING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Game Score",
-    "name": "Game Score",
+    "nameFormatted": "게임 점수",
+    "name": "게임 점수",
     "type": "CONCEPT_SCORE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Elimination",
-    "name": "Elimination",
+    "nameFormatted": "제거",
+    "name": "제거",
     "type": "CONCEPT_SCORE_ELIMINATION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Time to Victory",
-    "name": "Time to Victory",
+    "nameFormatted": "승리한 시간",
+    "name": "승리한 시간",
     "type": "CONCEPT_SCORE_TIME_TO_VICTORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Victory Points",
-    "name": "Victory Points",
+    "nameFormatted": "승리 점수",
+    "name": "승리 점수",
     "type": "CONCEPT_SCORE_VICTORY_POINTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Map Size and Game Difficulty",
-    "name": "Map Size and Game Difficulty",
+    "nameFormatted": "지도 크기와 게임 난이도",
+    "name": "지도 크기와 게임 난이도",
     "type": "CONCEPT_SCORE_MAP_SIZE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Your Current Score",
-    "name": "Your Current Score",
+    "nameFormatted": "당신의 현재 점수",
+    "name": "당신의 현재 점수",
     "type": "CONCEPT_SCORE_CURRENT_SCORE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Power",
-    "name": "Air Power",
+    "nameFormatted": "공군력",
+    "name": "공군력",
     "type": "CONCEPT_AIR_POWER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Units",
-    "name": "Air Units",
+    "nameFormatted": "공중 유닛",
+    "name": "공중 유닛",
     "type": "CONCEPT_AIR_POWER_AIR_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Helicopter Gunships",
-    "name": "Helicopter Gunships",
+    "nameFormatted": "전투헬기",
+    "name": "전투헬기",
     "type": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Gunship Movement",
-    "name": "Gunship Movement",
+    "nameFormatted": "전투헬기 이동력",
+    "name": "전투헬기 이동력",
     "type": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS_MOVEMENT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Anti-Tank Bonus",
-    "name": "Anti-Tank Bonus",
+    "nameFormatted": "대전차 보너스",
+    "name": "대전차 보너스",
     "type": "CONCEPT_AIR_POWER_HELICOPTER_GUNSHIPS_ANTI_TANK",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Bases",
-    "name": "Air Bases",
+    "nameFormatted": "공군 기지",
+    "name": "공군 기지",
     "type": "CONCEPT_AIR_POWER_BASES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Base Locations",
-    "name": "Base Locations",
+    "nameFormatted": "기지 위치",
+    "name": "기지 위치",
     "type": "CONCEPT_AIR_POWER_BASES_LOCATION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Fighters and Jet Fighters",
-    "name": "Fighters and Jet Fighters",
+    "nameFormatted": "전투기와 제트기",
+    "name": "전투기와 제트기",
     "type": "CONCEPT_AIR_POWER_BASES_FIGHTERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Bombers",
-    "name": "Bombers",
+    "nameFormatted": "폭격기",
+    "name": "폭격기",
     "type": "CONCEPT_AIR_POWER_BASES_BOMBERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Stealth Bombers",
-    "name": "Stealth Bombers",
+    "nameFormatted": "스텔스 폭격기",
+    "name": "스텔스 폭격기",
     "type": "CONCEPT_AIR_POWER_BASES_STEALTH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Atomic Bombs",
-    "name": "Atomic Bombs",
+    "nameFormatted": "원자폭탄",
+    "name": "원자폭탄",
     "type": "CONCEPT_AIR_POWER_BASES_ATOMIC",
     "page": "concepts"
   },
   {
-    "nameFormatted": "All Missiles",
-    "name": "All Missiles",
+    "nameFormatted": "모든 미사일",
+    "name": "모든 미사일",
     "type": "CONCEPT_AIR_POWER_BASES_MISSILES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Naval Unit Capacity",
-    "name": "Naval Unit Capacity",
+    "nameFormatted": "해상 유닛 수용력",
+    "name": "해상 유닛 수용력",
     "type": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Carrier",
-    "name": "Carrier",
+    "nameFormatted": "항공모함",
+    "name": "항공모함",
     "type": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT_CARRIER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Missile Cruiser",
-    "name": "Missile Cruiser",
+    "nameFormatted": "미사일 순양함",
+    "name": "미사일 순양함",
     "type": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT_MISSLE_CRUISER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Nuclear Submarine",
-    "name": "Nuclear Submarine",
+    "nameFormatted": "핵잠수함",
+    "name": "핵잠수함",
     "type": "CONCEPT_AIR_POWER_BASES_NAVAL_UNIT_NUCLEAR_SUBMARINE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Stacking",
-    "name": "Air Stacking",
+    "nameFormatted": "공중 유닛 겹기",
+    "name": "공중 유닛 겹기",
     "type": "CONCEPT_AIR_POWER_STACKING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Range",
-    "name": "Air Range",
+    "nameFormatted": "공중 유닛 사거리",
+    "name": "공중 유닛 사거리",
     "type": "CONCEPT_AIR_POWER_RANGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Recon",
-    "name": "Recon",
+    "nameFormatted": "정찰",
+    "name": "정찰",
     "type": "CONCEPT_AIR_POWER_RECON",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Missions",
-    "name": "Missions",
+    "nameFormatted": "작전",
+    "name": "작전",
     "type": "CONCEPT_AIR_POWER_MISSIONS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Rebase",
-    "name": "Rebase",
+    "nameFormatted": "재배치",
+    "name": "재배치",
     "type": "CONCEPT_AIR_POWER_REBASE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Strike",
-    "name": "Air Strike",
+    "nameFormatted": "공습",
+    "name": "공습",
     "type": "CONCEPT_AIR_POWER_AIR_STRIKE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Sweep",
-    "name": "Air Sweep",
+    "nameFormatted": "제공",
+    "name": "제공",
     "type": "CONCEPT_AIR_POWER_AIR_SWEEP",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Interception",
-    "name": "Interception",
+    "nameFormatted": "요격",
+    "name": "요격",
     "type": "CONCEPT_AIR_POWER_INTERCEPTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Strikes",
-    "name": "Air Strikes",
+    "nameFormatted": "공습",
+    "name": "공습",
     "type": "CONCEPT_AIR_POWER_AIR_STRIKE_RULES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Interception",
-    "name": "Interception",
+    "nameFormatted": "요격",
+    "name": "요격",
     "type": "CONCEPT_AIR_POWER_INTERCEPTION_RULES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Sweeps",
-    "name": "Air Sweeps",
+    "nameFormatted": "제공",
+    "name": "제공",
     "type": "CONCEPT_AIR_POWER_AIR_SWEEPS_RULES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Missiles",
-    "name": "Missiles",
+    "nameFormatted": "미사일",
+    "name": "미사일",
     "type": "CONCEPT_AIR_POWER_MISSILES_RULES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Atomic Bombs",
-    "name": "Atomic Bombs",
+    "nameFormatted": "원자폭탄",
+    "name": "원자폭탄",
     "type": "CONCEPT_AIR_POWER_ATOMIC_BOMBS_RULES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Nuclear Missiles",
-    "name": "Nuclear Missiles",
+    "nameFormatted": "핵미사일",
+    "name": "핵미사일",
     "type": "CONCEPT_AIR_POWER_NUCLEAR_MISSILES_RULES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Buildings",
-    "name": "Buildings",
+    "nameFormatted": "건물",
+    "name": "건물",
     "type": "CONCEPT_BUILDINGS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "How to Construct Buildings",
-    "name": "How to Construct Buildings",
+    "nameFormatted": "건물을 건설하는 방법",
+    "name": "건물을 건설하는 방법",
     "type": "CONCEPT_BUILDINGS_CONSTRUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Change Construction or Purchase",
-    "name": "Change Construction or Purchase",
+    "nameFormatted": "건설 또는 구매 변경",
+    "name": "건설 또는 구매 변경",
     "type": "CONCEPT_BUILDINGS_PURCHASING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Building Prerequisites",
-    "name": "Building Prerequisites",
+    "nameFormatted": "건물 전제조건",
+    "name": "건물 전제조건",
     "type": "CONCEPT_BUILDINGS_PREREQUISITES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Building Maintenance",
-    "name": "Building Maintenance",
+    "nameFormatted": "건물 유지비",
+    "name": "건물 유지비",
     "type": "CONCEPT_BUILDINGS_MAINTENANCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Palace",
-    "name": "The Palace",
+    "nameFormatted": "궁전",
+    "name": "궁전",
     "type": "CONCEPT_BUILDINGS_PALACE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Captured Cities",
-    "name": "Captured Cities",
+    "nameFormatted": "점령된 도시",
+    "name": "점령된 도시",
     "type": "CONCEPT_BUILDINGS_CAPTURED_CITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ruins and Barbarians",
-    "name": "Ruins and Barbarians",
+    "nameFormatted": "유적과 야만인",
+    "name": "유적과 야만인",
     "type": "CONCEPT_BARBARIANS_AND_ANCIENT_RUINS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ancient Ruins",
-    "name": "Ancient Ruins",
+    "nameFormatted": "고대 유적",
+    "name": "고대 유적",
     "type": "CONCEPT_ANCIENT_RUINS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Ruin Benefits",
-    "name": "Ruin Benefits",
+    "nameFormatted": "유적에서의 이득",
+    "name": "유적에서의 이득",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Free Technology",
-    "name": "Free Technology",
+    "nameFormatted": "무료기술",
+    "name": "무료기술",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_FREE_TECHNOLOGY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Map",
-    "name": "Map",
+    "nameFormatted": "지도",
+    "name": "지도",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_MAP",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Weapons Upgrade",
-    "name": "Weapons Upgrade",
+    "nameFormatted": "무기 업그레이드",
+    "name": "무기 업그레이드",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_WEAPONS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Survivors",
-    "name": "Survivors",
+    "nameFormatted": "생존자",
+    "name": "생존자",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_SURVIVORS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Treasure",
-    "name": "Treasure",
+    "nameFormatted": "보물",
+    "name": "보물",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_TREASURE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Culture from Ancient Ruins",
-    "name": "Culture from Ancient Ruins",
+    "nameFormatted": "고대 유적으로부터의 문화",
+    "name": "고대 유적으로부터의 문화",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_CULTURE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Settlers and Workers",
-    "name": "Settlers and Workers",
+    "nameFormatted": "개척자와 노동자",
+    "name": "개척자와 노동자",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_SETTLERS_AND_WORKERS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Barbarians",
-    "name": "Barbarians",
+    "nameFormatted": "야만인",
+    "name": "야만인",
     "type": "CONCEPT_BARBARIANS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Barbarian Encampments",
-    "name": "Barbarian Encampments",
+    "nameFormatted": "야만인 주둔지",
+    "name": "야만인 주둔지",
     "type": "CONCEPT_BARBARIANS_ENCAMPMENTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Destroying an Encampment",
-    "name": "Destroying an Encampment",
+    "nameFormatted": "야만인 주둔지 파괴하기",
+    "name": "야만인 주둔지 파괴하기",
     "type": "CONCEPT_BARBARIANS_ENCAMPMENTS_DESTROYING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "New Encampments",
-    "name": "New Encampments",
+    "nameFormatted": "새 야만인 주둔지",
+    "name": "새 야만인 주둔지",
     "type": "CONCEPT_BARBARIANS_ENCAMPMENTS_NEW",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Barbarian Units</span>",
-    "name": "[COLOR_YELLOW]Barbarian Units[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">야만인 유닛</span>",
+    "name": "[COLOR_YELLOW]야만인 유닛[ENDCOLOR]",
     "type": "CONCEPT_BARBARIANS_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Barbarian Naval Units",
-    "name": "Barbarian Naval Units",
+    "nameFormatted": "야만인 해상 유닛",
+    "name": "야만인 해상 유닛",
     "type": "CONCEPT_BARBARIANS_UNITS_NAVAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Captured Civilians",
-    "name": "Captured Civilians",
+    "nameFormatted": "생포된 유닛",
+    "name": "생포된 유닛",
     "type": "CONCEPT_BARBARIANS_CAPTURING_CIVILIANS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Experience Points Limitations</span>",
-    "name": "[COLOR_YELLOW]Experience Points Limitations[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">경험치 제한</span>",
+    "name": "[COLOR_YELLOW]경험치 제한[ENDCOLOR]",
     "type": "CONCEPT_BARBARIANS_EXPERIENCE_POINT_LIMITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The End of Barbarians",
-    "name": "The End of Barbarians",
+    "nameFormatted": "야만인의 끝",
+    "name": "야만인의 끝",
     "type": "CONCEPT_BARBARIANS_THE_END",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Units",
-    "name": "Units",
+    "nameFormatted": "유닛",
+    "name": "유닛",
     "type": "CONCEPT_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Constructing Units",
-    "name": "Constructing Units",
+    "nameFormatted": "유닛 생산",
+    "name": "유닛 생산",
     "type": "CONCEPT_UNITS_CONSTRUCTING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Unit Characteristics",
-    "name": "Unit Characteristics",
+    "nameFormatted": "유닛 특성",
+    "name": "유닛 특성",
     "type": "CONCEPT_UNITS_CHARACTERISTICS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Movement Speed",
-    "name": "Movement Speed",
+    "nameFormatted": "이동 속도",
+    "name": "이동 속도",
     "type": "CONCEPT_UNITS_MOVEMENT_SPEED",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Combat Strength",
-    "name": "Combat Strength",
+    "nameFormatted": "전투력",
+    "name": "전투력",
     "type": "CONCEPT_UNITS_COMBAT_STRENGTH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Unit Special Abilities",
-    "name": "Unit Special Abilities",
+    "nameFormatted": "유닛 특수 능력",
+    "name": "유닛 특수 능력",
     "type": "CONCEPT_UNITS_SPECIAL_ABILITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "National Units",
-    "name": "National Units",
+    "nameFormatted": "고유 유닛",
+    "name": "고유 유닛",
     "type": "CONCEPT_UNITS_NATIONAL_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Unit Movement",
-    "name": "Unit Movement",
+    "nameFormatted": "유닛 이동",
+    "name": "유닛 이동",
     "type": "CONCEPT_UNITS_MOVEMENT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Unit Combat",
-    "name": "Unit Combat",
+    "nameFormatted": "유닛 전투",
+    "name": "유닛 전투",
     "type": "CONCEPT_UNITS_COMBAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Non-Combat Units",
-    "name": "Non-Combat Units",
+    "nameFormatted": "민간 유닛",
+    "name": "민간 유닛",
     "type": "CONCEPT_UNITS_NON_COMBAT_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Combat Units",
-    "name": "Combat Units",
+    "nameFormatted": "전투 유닛",
+    "name": "전투 유닛",
     "type": "CONCEPT_UNITS_COMBAT_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Naval Units",
-    "name": "Naval Units",
+    "nameFormatted": "해상 유닛",
+    "name": "해상 유닛",
     "type": "CONCEPT_UNITS_NAVAL_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Air Units",
-    "name": "Air Units",
+    "nameFormatted": "공중 유닛",
+    "name": "공중 유닛",
     "type": "CONCEPT_UNITS_AIR_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Spies and Diplomats",
-    "name": "Spies and Diplomats",
+    "nameFormatted": "스파이 및 외교관",
+    "name": "스파이 및 외교관",
     "type": "CONCEPT_ESPIONAGE_SPIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Moving Spies",
-    "name": "Moving Spies",
+    "nameFormatted": "스파이 움직이기",
+    "name": "스파이 움직이기",
     "type": "CONCEPT_ESPIONAGE_MOVING_SPIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Earning More Spies",
-    "name": "Earning More Spies",
+    "nameFormatted": "스파이 더 얻기",
+    "name": "스파이 더 얻기",
     "type": "CONCEPT_ESPIONAGE_MORE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Stealing Technology",
-    "name": "Stealing Technology",
+    "nameFormatted": "기술 훔치기",
+    "name": "기술 훔치기",
     "type": "CONCEPT_ESPIONAGE_STEALING_TECHS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Less Advanced Civilizations",
-    "name": "Less Advanced Civilizations",
+    "nameFormatted": "기술력이 떨어지는 문명",
+    "name": "기술력이 떨어지는 문명",
     "type": "CONCEPT_ESPIONAGE_CANT_STEAL_ANYMORE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Spies and City-States</span>",
-    "name": "[COLOR_YELLOW]Spies and City-States[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">스파이와 도시 국가</span>",
+    "name": "[COLOR_YELLOW]스파이와 도시 국가[ENDCOLOR]",
     "type": "CONCEPT_ESPIONAGE_RIG_ELECTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Establishing Surveillance",
-    "name": "Establishing Surveillance",
+    "nameFormatted": "첩보망 구축 중",
+    "name": "첩보망 구축 중",
     "type": "CONCEPT_ESPIONAGE_SURVEILLANCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Counter-Intelligence",
-    "name": "Counter-Intelligence",
+    "nameFormatted": "스파이 색출",
+    "name": "스파이 색출",
     "type": "CONCEPT_ESPIONAGE_COUNTER_INTEL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Constabularies and Police",
-    "name": "Constabularies and Police",
+    "nameFormatted": "경찰대와 경찰서",
+    "name": "경찰대와 경찰서",
     "type": "CONCEPT_ESPIONAGE_POLICE_STATION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "National Intelligence Agency",
-    "name": "National Intelligence Agency",
+    "nameFormatted": "국가 정보국",
+    "name": "국가 정보국",
     "type": "CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "The Great Firewall",
-    "name": "The Great Firewall",
+    "nameFormatted": "인터넷 검열 시스템",
+    "name": "인터넷 검열 시스템",
     "type": "CONCEPT_ESPIONAGE_GREAT_FIREWALL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Spy Experience",
-    "name": "Spy Experience",
+    "nameFormatted": "스파이 경험치",
+    "name": "스파이 경험치",
     "type": "CONCEPT_ESPIONAGE_PROMOTIONS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Detecting a Spy",
-    "name": "Detecting a Spy",
+    "nameFormatted": "스파이 색출",
+    "name": "스파이 색출",
     "type": "CONCEPT_ESPIONAGE_GETTING_CAUGHT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Earning Faith",
-    "name": "Earning Faith",
+    "nameFormatted": "신앙 얻기",
+    "name": "신앙 얻기",
     "type": "CONCEPT_RELIGION_FAITH_EARNING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Pantheons",
-    "name": "Pantheons",
+    "nameFormatted": "종교관",
+    "name": "종교관",
     "type": "CONCEPT_RELIGION_PANTHEONS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Beliefs",
-    "name": "Beliefs",
+    "nameFormatted": "교리",
+    "name": "교리",
     "type": "CONCEPT_RELIGION_BELIEFS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Pantheon Beliefs",
-    "name": "Pantheon Beliefs",
+    "nameFormatted": "종교관 교리",
+    "name": "종교관 교리",
     "type": "CONCEPT_RELIGION_PANTHEON_BELIEFS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Founder Beliefs",
-    "name": "Founder Beliefs",
+    "nameFormatted": "창시자 교리",
+    "name": "창시자 교리",
     "type": "CONCEPT_RELIGION_FOUNDER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Follower Beliefs",
-    "name": "Follower Beliefs",
+    "nameFormatted": "신도 교리",
+    "name": "신도 교리",
     "type": "CONCEPT_RELIGION_FOLLOWER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Enhancer Beliefs",
-    "name": "Enhancer Beliefs",
+    "nameFormatted": "종교 강화 교리",
+    "name": "종교 강화 교리",
     "type": "CONCEPT_RELIGION_ENHANCER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Spending Faith",
-    "name": "Spending Faith",
+    "nameFormatted": "신앙 소모",
+    "name": "신앙 소모",
     "type": "CONCEPT_RELIGION_FAITH_SPENDING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Founding a Religion",
-    "name": "Founding a Religion",
+    "nameFormatted": "종교 창시",
+    "name": "종교 창시",
     "type": "CONCEPT_RELIGION_FOUNDING_RELIGION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Enhancing a Religion",
-    "name": "Enhancing a Religion",
+    "nameFormatted": "종교 강화",
+    "name": "종교 강화",
     "type": "CONCEPT_RELIGION_ENHANCING_RELIGION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Spreading Religion",
-    "name": "Spreading Religion",
+    "nameFormatted": "종교 전파",
+    "name": "종교 전파",
     "type": "CONCEPT_RELIGION_SPREADING_RELIGION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Religious Buildings",
-    "name": "Religious Buildings",
+    "nameFormatted": "종교 건물",
+    "name": "종교 건물",
     "type": "CONCEPT_RELIGION_BUILDINGS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Religious Units",
-    "name": "Religious Units",
+    "nameFormatted": "종교 유닛",
+    "name": "종교 유닛",
     "type": "CONCEPT_RELIGION_UNITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Majority Religion",
-    "name": "Majority Religion",
+    "nameFormatted": "대중 종교",
+    "name": "대중 종교",
     "type": "CONCEPT_RELIGION_MAJORITY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Defending Against a Religion",
-    "name": "Defending Against a Religion",
+    "nameFormatted": "타종교에 대한 방어",
+    "name": "타종교에 대한 방어",
     "type": "CONCEPT_RELIGION_DEFENDING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Religious",
-    "name": "Religious",
+    "nameFormatted": "종교",
+    "name": "종교",
     "type": "CONCEPT_CITY_STATE_RELIGIOUS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Mercantile",
-    "name": "Mercantile",
+    "nameFormatted": "상업",
+    "name": "상업",
     "type": "CONCEPT_CITY_STATE_MERCANTILE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Great Admiral</span>",
-    "name": "[COLOR_YELLOW]Great Admiral[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위대한 제독</span>",
+    "name": "[COLOR_YELLOW]위대한 제독[ENDCOLOR]",
     "type": "CONCEPT_GREAT_ADMIRAL",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Great Prophet",
-    "name": "Great Prophet",
+    "nameFormatted": "위대한 선지자",
+    "name": "위대한 선지자",
     "type": "CONCEPT_GREAT_PROPHET",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Demanding Tribute",
-    "name": "Demanding Tribute",
+    "nameFormatted": "공물 요구",
+    "name": "공물 요구",
     "type": "CONCEPT_CITY_STATE_BULLYING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Religion and City-State Influence",
-    "name": "Religion and City-State Influence",
+    "nameFormatted": "종교 및 도시 국가와의 영향력",
+    "name": "종교 및 도시 국가와의 영향력",
     "type": "CONCEPT_CITY_STATE_SPREAD_RELIGION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Religion and City-State Influence",
-    "name": "Religion and City-State Influence",
+    "nameFormatted": "종교 및 도시 국가와의 영향력",
+    "name": "종교 및 도시 국가와의 영향력",
     "type": "CONCEPT_RELIGION_CITY_STATE_SPREAD_RELIGION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Establishing Embassies",
-    "name": "Establishing Embassies",
+    "nameFormatted": "대사관 건설",
+    "name": "대사관 건설",
     "type": "CONCEPT_DIPLOMACY_EMBASSY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Tourism</span>",
-    "name": "[COLOR_YELLOW]Tourism[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">관광</span>",
+    "name": "[COLOR_YELLOW]관광[ENDCOLOR]",
     "type": "CONCEPT_CULTURE_TOURISM",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Tourism and the Culture Victory",
-    "name": "Tourism and the Culture Victory",
+    "nameFormatted": "관광과 문화 승리",
+    "name": "관광과 문화 승리",
     "type": "CONCEPT_CULTURE_TOURISM_AND_CULTURE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Benefits of Tourism",
-    "name": "Benefits of Tourism",
+    "nameFormatted": "관광의 이점",
+    "name": "관광의 이점",
     "type": "CONCEPT_CULTURE_TOURISM_BENEFITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Great Works",
-    "name": "Great Works",
+    "nameFormatted": "걸작",
+    "name": "걸작",
     "type": "CONCEPT_CULTURE_GREAT_WORKS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Great Work of Art",
-    "name": "Great Work of Art",
+    "nameFormatted": "걸작 예술품",
+    "name": "걸작 예술품",
     "type": "CONCEPT_CULTURE_GREAT_WORK_ART",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Great Work of Writing",
-    "name": "Great Work of Writing",
+    "nameFormatted": "걸작 문학",
+    "name": "걸작 문학",
     "type": "CONCEPT_CULTURE_GREAT_WORK_WRITING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Great Work of Music",
-    "name": "Great Work of Music",
+    "nameFormatted": "걸작 음악",
+    "name": "걸작 음악",
     "type": "CONCEPT_CULTURE_GREAT_WORK_MUSIC",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Managing Great Works",
-    "name": "Managing Great Works",
+    "nameFormatted": "걸작 관리",
+    "name": "걸작 관리",
     "type": "CONCEPT_CULTURE_MANAGE_GREAT_WORKS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Archaeology",
-    "name": "Archaeology",
+    "nameFormatted": "고고학",
+    "name": "고고학",
     "type": "CONCEPT_CULTURE_ARCH",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Antiquity Sites",
-    "name": "Antiquity Sites",
+    "nameFormatted": "사적지",
+    "name": "사적지",
     "type": "CONCEPT_CULTURE_ANTIQUITY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Artifacts",
-    "name": "Artifacts",
+    "nameFormatted": "유물",
+    "name": "유물",
     "type": "CONCEPT_CULTURE_ARTIFACTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Ideologies</span>",
-    "name": "[COLOR_YELLOW]Ideologies[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">이념</span>",
+    "name": "[COLOR_YELLOW]이념[ENDCOLOR]",
     "type": "CONCEPT_SOCIAL_POLICY_BRANCH_IDEOLOGY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Writer",
-    "name": "Writer",
+    "nameFormatted": "작가",
+    "name": "작가",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_WRITER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Musician",
-    "name": "Musician",
+    "nameFormatted": "음악가",
+    "name": "음악가",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_MUSICIAN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Great Writer</span>",
-    "name": "[COLOR_YELLOW]Great Writer[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위대한 작가</span>",
+    "name": "[COLOR_YELLOW]위대한 작가[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_WRITER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Great Musician</span>",
-    "name": "[COLOR_YELLOW]Great Musician[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">위대한 음악가</span>",
+    "name": "[COLOR_YELLOW]위대한 음악가[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MUSICIAN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Trade Routes",
-    "name": "Trade Routes",
+    "nameFormatted": "교역로",
+    "name": "교역로",
     "type": "CONCEPT_TRADE_ROUTES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Caravans",
-    "name": "Caravans",
+    "nameFormatted": "대상",
+    "name": "대상",
     "type": "CONCEPT_TRADE_CARAVAN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Cargo Ships",
-    "name": "Cargo Ships",
+    "nameFormatted": "화물선",
+    "name": "화물선",
     "type": "CONCEPT_TRADE_CARGO",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Extending Trade Route Range",
-    "name": "Extending Trade Route Range",
+    "nameFormatted": "교역로 범위 확장",
+    "name": "교역로 범위 확장",
     "type": "CONCEPT_TRADE_EXTENDING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Bonus Income from Buildings",
-    "name": "Bonus Income from Buildings",
+    "nameFormatted": "건물로 보너스 수익 획득",
+    "name": "건물로 보너스 수익 획득",
     "type": "CONCEPT_TRADE_BOOST",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Impact of War",
-    "name": "Impact of War",
+    "nameFormatted": "전쟁의 영향",
+    "name": "전쟁의 영향",
     "type": "CONCEPT_TRADE_WAR",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Pillaging a Trade Route",
-    "name": "Pillaging a Trade Route",
+    "nameFormatted": "교역로 확장",
+    "name": "교역로 확장",
     "type": "CONCEPT_TRADE_PILLAGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Trade Routes and Religion",
-    "name": "Trade Routes and Religion",
+    "nameFormatted": "교역로와 종교",
+    "name": "교역로와 종교",
     "type": "CONCEPT_TRADE_RELIGION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Trade Routes and Science",
-    "name": "Trade Routes and Science",
+    "nameFormatted": "교역로와 과학",
+    "name": "교역로와 과학",
     "type": "CONCEPT_TRADE_SCIENCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "World Congress",
-    "name": "World Congress",
+    "nameFormatted": "세계 의회",
+    "name": "세계 의회",
     "type": "CONCEPT_CONGRESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Sessions",
-    "name": "Sessions",
+    "nameFormatted": "회기",
+    "name": "회기",
     "type": "CONCEPT_CONGRESS_SESSIONS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Resolutions</span>",
-    "name": "[COLOR_YELLOW]Resolutions[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">결의안</span>",
+    "name": "[COLOR_YELLOW]결의안[ENDCOLOR]",
     "type": "CONCEPT_CONGRESS_RESOLUTIONS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "International Projects",
-    "name": "International Projects",
+    "nameFormatted": "국제 프로젝트",
+    "name": "국제 프로젝트",
     "type": "CONCEPT_CONGRESS_PROJECTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Delegates</span>",
-    "name": "[COLOR_YELLOW]Delegates[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">대표단</span>",
+    "name": "[COLOR_YELLOW]대표단[ENDCOLOR]",
     "type": "CONCEPT_CONGRESS_DELEGATES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Trading Support",
-    "name": "Trading Support",
+    "nameFormatted": "지지 거래",
+    "name": "지지 거래",
     "type": "CONCEPT_CONGRESS_TRADING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "Intrigue",
-    "name": "Intrigue",
+    "nameFormatted": "음모",
+    "name": "음모",
     "type": "CONCEPT_CONGRESS_INTRIGUE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">The United Nations</span>",
-    "name": "[COLOR_YELLOW]The United Nations[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">국제 연합</span>",
+    "name": "[COLOR_YELLOW]국제 연합[ENDCOLOR]",
     "type": "CONCEPT_CONGRESS_UN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Diplomatic Victory</span>",
-    "name": "[COLOR_YELLOW]Diplomatic Victory[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">외교 승리</span>",
+    "name": "[COLOR_YELLOW]외교 승리[ENDCOLOR]",
     "type": "CONCEPT_CONGRESS_VICTORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">Themes and Theming Bonuses</span>",
-    "name": "[COLOR_YELLOW]Themes and Theming Bonuses[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">테마와 테마보너스</span>",
+    "name": "[COLOR_YELLOW]테마와 테마보너스[ENDCOLOR]",
     "type": "CONCEPT_THEMING_BONUSES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Input Shortcuts</span>",
-    "name": "[COLOR_GREEN]Input Shortcuts[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">단축키</span>",
+    "name": "[COLOR_GREEN]단축키[ENDCOLOR]",
     "type": "CONCEPT_SHORTCUTS_INTRODUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">City View Shortcuts</span>",
-    "name": "[COLOR_GREEN]City View Shortcuts[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">도시 단축키</span>",
+    "name": "[COLOR_GREEN]도시 단축키[ENDCOLOR]",
     "type": "CONCEPT_SHORTCUTS_CITY_VIEW",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">World View Shortcuts</span>",
-    "name": "[COLOR_GREEN]World View Shortcuts[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">기본 단축키</span>",
+    "name": "[COLOR_GREEN]기본 단축키[ENDCOLOR]",
     "type": "CONCEPT_SHORTCUTS_WORLD_VIEW",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Yields Scaling with Era</span>",
-    "name": "[COLOR_GREEN]Yields Scaling with Era[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">시대별 보정</span>",
+    "name": "[COLOR_GREEN]시대별 보정[ENDCOLOR]",
     "type": "CONCEPT_CITIES_YIELDS_SCALING_WITH_ERA",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Historic Events</span>",
-    "name": "[COLOR_GREEN]Historic Events[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">역사적 사건</span>",
+    "name": "[COLOR_GREEN]역사적 사건[ENDCOLOR]",
     "type": "CONCEPT_HISTORIC_EVENT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Resistance</span>",
-    "name": "[COLOR_GREEN]Resistance[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">저항</span>",
+    "name": "[COLOR_GREEN]저항[ENDCOLOR]",
     "type": "CONCEPT_RESISTANCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Partisans</span>",
-    "name": "[COLOR_GREEN]Partisans[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">반란군</span>",
+    "name": "[COLOR_GREEN]반란군[ENDCOLOR]",
     "type": "CONCEPT_PARTISANS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">War Weariness</span>",
-    "name": "[COLOR_GREEN]War Weariness[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">전쟁 피로도</span>",
+    "name": "[COLOR_GREEN]전쟁 피로도[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_WAR_WEARINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Military Supply</span>",
-    "name": "[COLOR_GREEN]Military Supply[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">군사 보급</span>",
+    "name": "[COLOR_GREEN]군사 보급[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_MILITARY_SUPPLY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Local Happiness in Cities</span>",
-    "name": "[COLOR_GREEN]Local Happiness in Cities[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">도시의 지역 행복</span>",
+    "name": "[COLOR_GREEN]도시의 지역 행복[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_LOCAL_HAPPINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Calculation of Needs Thresholds</span>",
-    "name": "[COLOR_GREEN]Calculation of Needs Thresholds[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">요구 임계값 계산</span>",
+    "name": "[COLOR_GREEN]요구 임계값 계산[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_NEED_THRESHOLDS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Unhappiness in Puppet Cities</span>",
-    "name": "[COLOR_GREEN]Unhappiness in Puppet Cities[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">괴뢰 도시의 불행</span>",
+    "name": "[COLOR_GREEN]괴뢰 도시의 불행[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_PUPPET_CITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Occupied and Resisting Cities</span>",
-    "name": "[COLOR_GREEN]Occupied and Resisting Cities[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">점령되어 저항하는 도시</span>",
+    "name": "[COLOR_GREEN]점령되어 저항하는 도시[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_OCCUPIED_CITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Canals</span>",
-    "name": "[COLOR_GREEN]Canals[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">운하</span>",
+    "name": "[COLOR_GREEN]운하[ENDCOLOR]",
     "type": "CONCEPT_CANALS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">City State Embassies</span>",
-    "name": "[COLOR_GREEN]City State Embassies[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">도시 국가 대사관</span>",
+    "name": "[COLOR_GREEN]도시 국가 대사관[ENDCOLOR]",
     "type": "CONCEPT_CITY_STATE_EMBASSIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Great Diplomat</span>",
-    "name": "[COLOR_GREEN]Great Diplomat[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">위대한 외교관</span>",
+    "name": "[COLOR_GREEN]위대한 외교관[ENDCOLOR]",
     "type": "CONCEPT_GREAT_DIPLOMAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Civil Servant</span>",
-    "name": "[COLOR_GREEN]Civil Servant[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">공무원</span>",
+    "name": "[COLOR_GREEN]공무원[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_CIVIL_SERVANT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Golden Age Points</span>",
-    "name": "[COLOR_GREEN]Golden Age Points[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">황금기 점수</span>",
+    "name": "[COLOR_YELLOW]황금기 점수[ENDCOLOR]",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_GOLDEN_AGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Production</span>",
-    "name": "[COLOR_GREEN]Production[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">생산</span>",
+    "name": "[COLOR_YELLOW]생산[ENDCOLOR]",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_PRODUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Tiles</span>",
-    "name": "[COLOR_GREEN]Tiles[ENDCOLOR]",
+    "nameFormatted": "<span class=\"yellow\">타일</span>",
+    "name": "[COLOR_YELLOW]타일[ENDCOLOR]",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_TILES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Map Trading</span>",
-    "name": "[COLOR_GREEN]Map Trading[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">지도 거래</span>",
+    "name": "[COLOR_GREEN]지도 거래[ENDCOLOR]",
     "type": "CONCEPT_DIPLOMACY_MAP_TRADING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Tech Trading</span>",
-    "name": "[COLOR_GREEN]Tech Trading[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">기술 거래</span>",
+    "name": "[COLOR_GREEN]기술 거래[ENDCOLOR]",
     "type": "CONCEPT_DIPLOMACY_TECH_TRADING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Vassalage</span>",
-    "name": "[COLOR_GREEN]Vassalage[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">종속국 협정</span>",
+    "name": "[COLOR_GREEN]종속국 협정[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_OVERVIEW",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Obtaining Vassals</span>",
-    "name": "[COLOR_GREEN]Obtaining Vassals[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">종속국 얻기</span>",
+    "name": "[COLOR_GREEN]종속국 얻기[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_OBTAINING_VASSALS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Ending Vassalage</span>",
-    "name": "[COLOR_GREEN]Ending Vassalage[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">종속국 협정 끝내기</span>",
+    "name": "[COLOR_GREEN]종속국 협정 끝내기[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_ENDING_VASSALS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Benefits of Vassalage</span>",
-    "name": "[COLOR_GREEN]Benefits of Vassalage[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">종속국의 이점</span>",
+    "name": "[COLOR_GREEN]종속국의 이점[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_VASSAL_BENEFITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Taxing Vassals</span>",
-    "name": "[COLOR_GREEN]Taxing Vassals[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">종속국에 세금 부과</span>",
+    "name": "[COLOR_GREEN]종속국에 세금 부과[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_VASSAL_TAXES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Corporations</span>",
-    "name": "[COLOR_GREEN]Corporations[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">기업</span>",
+    "name": "[COLOR_GREEN]기업[ENDCOLOR]",
     "type": "CONCEPT_CORPORATION_INTRODUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Monopolies</span>",
-    "name": "[COLOR_GREEN]Monopolies[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">독점</span>",
+    "name": "[COLOR_GREEN]독점[ENDCOLOR]",
     "type": "CONCEPT_MONOPOLY_INTRODUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Spreading Corporations</span>",
-    "name": "[COLOR_GREEN]Spreading Corporations[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">기업 확장</span>",
+    "name": "[COLOR_GREEN]기업 확장[ENDCOLOR]",
     "type": "CONCEPT_CORPORATION_SPREADING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Corporation Types</span>",
-    "name": "[COLOR_GREEN]Corporation Types[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">기업 종류</span>",
+    "name": "[COLOR_GREEN]기업 종류[ENDCOLOR]",
     "type": "CONCEPT_CORPORATION_TYPES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">Spy Points</span>",
-    "name": "[COLOR_GREEN]Spy Points[ENDCOLOR]",
+    "nameFormatted": "<span class=\"green\">스파이 점수</span>",
+    "name": "[COLOR_GREEN]스파이 점수[ENDCOLOR]",
     "type": "CONCEPT_SPY_POINTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "America",
-    "name": "America",
+    "nameFormatted": "[COLOR:70:120:200:255]미국",
+    "name": "[COLOR:70:120:200:255]미국[ENDCOLOR]",
     "type": "CIVILIZATION_AMERICA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Arabia",
-    "name": "Arabia",
+    "nameFormatted": "[COLOR:100:150:100:255]아라비아",
+    "name": "[COLOR:100:150:100:255]아라비아[ENDCOLOR]",
     "type": "CIVILIZATION_ARABIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Aztecs",
-    "name": "The Aztecs",
+    "nameFormatted": "[COLOR:140:80:80:255]아즈텍",
+    "name": "[COLOR:140:80:80:255]아즈텍[ENDCOLOR]",
     "type": "CIVILIZATION_AZTEC",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "China",
-    "name": "China",
+    "nameFormatted": "[COLOR:90:210:90:255]중국",
+    "name": "[COLOR:90:210:90:255]중국[ENDCOLOR]",
     "type": "CIVILIZATION_CHINA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Egypt",
-    "name": "Egypt",
+    "nameFormatted": "[COLOR:240:220:70:255]이집트",
+    "name": "[COLOR:240:220:70:255]이집트[ENDCOLOR]",
     "type": "CIVILIZATION_EGYPT",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "England",
-    "name": "England",
+    "nameFormatted": "[COLOR:190:80:70:255]영국",
+    "name": "[COLOR:190:80:70:255]영국[ENDCOLOR]",
     "type": "CIVILIZATION_ENGLAND",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "France",
-    "name": "France",
+    "nameFormatted": "[COLOR:70:160:220:255]프랑스",
+    "name": "[COLOR:70:160:220:255]프랑스[ENDCOLOR]",
     "type": "CIVILIZATION_FRANCE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Germany",
-    "name": "Germany",
+    "nameFormatted": "[COLOR:120:120:120:255]독일",
+    "name": "[COLOR:120:120:120:255]독일[ENDCOLOR]",
     "type": "CIVILIZATION_GERMANY",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Greece",
-    "name": "Greece",
+    "nameFormatted": "[COLOR:130:190:230:255]그리스",
+    "name": "[COLOR:130:190:230:255]그리스[ENDCOLOR]",
     "type": "CIVILIZATION_GREECE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "India",
-    "name": "India",
+    "nameFormatted": "[COLOR:60:210:60:255]인도",
+    "name": "[COLOR:60:210:60:255]인도[ENDCOLOR]",
     "type": "CIVILIZATION_INDIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Iroquois",
-    "name": "The Iroquois",
+    "nameFormatted": "[COLOR:150:150:160:255]이로쿼이",
+    "name": "[COLOR:150:150:160:255]이로쿼이[ENDCOLOR]",
     "type": "CIVILIZATION_IROQUOIS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Japan",
-    "name": "Japan",
+    "nameFormatted": "[COLOR:255:0:0:255]일본",
+    "name": "[COLOR:255:0:0:255]일본[ENDCOLOR]",
     "type": "CIVILIZATION_JAPAN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Ottomans",
-    "name": "The Ottomans",
+    "nameFormatted": "[COLOR:60:140:70:255]오스만",
+    "name": "[COLOR:60:140:70:255]오스만[ENDCOLOR]",
     "type": "CIVILIZATION_OTTOMAN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Persia",
-    "name": "Persia",
+    "nameFormatted": "[COLOR:230:50:0:255]페르시아",
+    "name": "[COLOR:230:50:0:255]페르시아[ENDCOLOR]",
     "type": "CIVILIZATION_PERSIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Rome",
-    "name": "Rome",
+    "nameFormatted": "[COLOR:150:120:255:255]로마",
+    "name": "[COLOR:150:120:255:255]로마[ENDCOLOR]",
     "type": "CIVILIZATION_ROME",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Russia",
-    "name": "Russia",
+    "nameFormatted": "[COLOR:240:210:110:255]러시아",
+    "name": "[COLOR:240:210:110:255]러시아[ENDCOLOR]",
     "type": "CIVILIZATION_RUSSIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Siam",
-    "name": "Siam",
+    "nameFormatted": "[COLOR:255:210:0:255]시암",
+    "name": "[COLOR:255:210:0:255]시암[ENDCOLOR]",
     "type": "CIVILIZATION_SIAM",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Songhai",
-    "name": "Songhai",
+    "nameFormatted": "[COLOR:220:140:10:255]송가이",
+    "name": "[COLOR:220:140:10:255]송가이[ENDCOLOR]",
     "type": "CIVILIZATION_SONGHAI",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Mongolia",
-    "name": "Mongolia",
+    "nameFormatted": "[COLOR:170:100:0:255]몽골",
+    "name": "[COLOR:170:100:0:255]몽골[ENDCOLOR]",
     "type": "CIVILIZATION_MONGOL",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Inca",
-    "name": "The Inca",
+    "nameFormatted": "[COLOR:200:230:0:255]잉카",
+    "name": "[COLOR:200:230:0:255]잉카[ENDCOLOR]",
     "type": "CIVILIZATION_INCA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Spain",
-    "name": "Spain",
+    "nameFormatted": "[COLOR:255:60:90:255]스페인",
+    "name": "[COLOR:255:60:90:255]스페인[ENDCOLOR]",
     "type": "CIVILIZATION_SPAIN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Polynesia",
-    "name": "Polynesia",
+    "nameFormatted": "[COLOR:236:150:58:255]폴리네시아",
+    "name": "[COLOR:236:150:58:255]폴리네시아[ENDCOLOR]",
     "type": "CIVILIZATION_POLYNESIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Denmark",
-    "name": "Denmark",
+    "nameFormatted": "[COLOR:220:100:10:255]덴마크",
+    "name": "[COLOR:220:100:10:255]덴마크[ENDCOLOR]",
     "type": "CIVILIZATION_DENMARK",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Korea",
-    "name": "Korea",
+    "nameFormatted": "[COLOR:255:0:50:255]한국",
+    "name": "[COLOR:255:0:50:255]한국[ENDCOLOR]",
     "type": "CIVILIZATION_KOREA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Babylon",
-    "name": "Babylon",
+    "nameFormatted": "[COLOR:50:120:120:255]바빌론",
+    "name": "[COLOR:50:120:120:255]바빌론[ENDCOLOR]",
     "type": "CIVILIZATION_BABYLON",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Austria",
-    "name": "Austria",
+    "nameFormatted": "[COLOR:245:119:119:255]오스트리아",
+    "name": "[COLOR:245:119:119:255]오스트리아[ENDCOLOR]",
     "type": "CIVILIZATION_AUSTRIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Byzantium",
-    "name": "Byzantium",
+    "nameFormatted": "[COLOR:204:227:248:255]비잔티움",
+    "name": "[COLOR:204:227:248:255]비잔티움[ENDCOLOR]",
     "type": "CIVILIZATION_BYZANTIUM",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Carthage",
-    "name": "Carthage",
+    "nameFormatted": "[COLOR:124:35:181:255]카르타고",
+    "name": "[COLOR:124:35:181:255]카르타고[ENDCOLOR]",
     "type": "CIVILIZATION_CARTHAGE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Celts",
-    "name": "The Celts",
+    "nameFormatted": "[COLOR:156:213:189:255]켈트",
+    "name": "[COLOR:156:213:189:255]켈트[ENDCOLOR]",
     "type": "CIVILIZATION_CELTS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Ethiopia",
-    "name": "Ethiopia",
+    "nameFormatted": "[COLOR:44:101:39:255]에티오피아",
+    "name": "[COLOR:44:101:39:255]에티오피아[ENDCOLOR]",
     "type": "CIVILIZATION_ETHIOPIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Huns",
-    "name": "The Huns",
+    "nameFormatted": "[COLOR:200:199:188:255]훈",
+    "name": "[COLOR:200:199:188:255]훈[ENDCOLOR]",
     "type": "CIVILIZATION_HUNS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Maya",
-    "name": "The Maya",
+    "nameFormatted": "[COLOR:216:176:137:255]마야",
+    "name": "[COLOR:216:176:137:255]마야[ENDCOLOR]",
     "type": "CIVILIZATION_MAYA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Netherlands",
-    "name": "The Netherlands",
+    "nameFormatted": "[COLOR:255:151:66:255]네덜란드",
+    "name": "[COLOR:255:151:66:255]네덜란드[ENDCOLOR]",
     "type": "CIVILIZATION_NETHERLANDS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Sweden",
-    "name": "Sweden",
+    "nameFormatted": "[COLOR:70:98:191:255]스웨덴",
+    "name": "[COLOR:70:98:191:255]스웨덴[ENDCOLOR]",
     "type": "CIVILIZATION_SWEDEN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Assyria",
-    "name": "Assyria",
+    "nameFormatted": "[COLOR:255:189:25:255]아시리아",
+    "name": "[COLOR:255:189:25:255]아시리아[ENDCOLOR]",
     "type": "CIVILIZATION_ASSYRIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Brazil",
-    "name": "Brazil",
+    "nameFormatted": "[COLOR:150:190:30:255]브라질",
+    "name": "[COLOR:150:190:30:255]브라질[ENDCOLOR]",
     "type": "CIVILIZATION_BRAZIL",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Indonesia",
-    "name": "Indonesia",
+    "nameFormatted": "[COLOR:68:193:203:255]인도네시아",
+    "name": "[COLOR:68:193:203:255]인도네시아[ENDCOLOR]",
     "type": "CIVILIZATION_INDONESIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Morocco",
-    "name": "Morocco",
+    "nameFormatted": "[COLOR:150:0:0:255]모로코",
+    "name": "[COLOR:150:0:0:255]모로코[ENDCOLOR]",
     "type": "CIVILIZATION_MOROCCO",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Poland",
-    "name": "Poland",
+    "nameFormatted": "[COLOR:210:45:30:255]폴란드",
+    "name": "[COLOR:210:45:30:255]폴란드[ENDCOLOR]",
     "type": "CIVILIZATION_POLAND",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Portugal",
-    "name": "Portugal",
+    "nameFormatted": "[COLOR:35:70:180:255]포르투갈",
+    "name": "[COLOR:35:70:180:255]포르투갈[ENDCOLOR]",
     "type": "CIVILIZATION_PORTUGAL",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Shoshone",
-    "name": "The Shoshone",
+    "nameFormatted": "[COLOR:88:255:243:255]쇼쇼니",
+    "name": "[COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]",
     "type": "CIVILIZATION_SHOSHONE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Venice",
-    "name": "Venice",
+    "nameFormatted": "[COLOR:173:112:215:255]베네치아",
+    "name": "[COLOR:173:112:215:255]베네치아[ENDCOLOR]",
     "type": "CIVILIZATION_VENICE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "The Zulus",
-    "name": "The Zulus",
+    "nameFormatted": "[COLOR:170:120:80:255]줄루",
+    "name": "[COLOR:170:120:80:255]줄루[ENDCOLOR]",
     "type": "CIVILIZATION_ZULU",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Alexander",
-    "name": "Alexander",
+    "nameFormatted": "알렉산드로스",
+    "name": "알렉산드로스",
     "type": "LEADER_ALEXANDER",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Askia",
-    "name": "Askia",
+    "nameFormatted": "아스키아",
+    "name": "아스키아",
     "type": "LEADER_ASKIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Augustus Caesar",
-    "name": "Augustus Caesar",
+    "nameFormatted": "아우구스투스",
+    "name": "아우구스투스",
     "type": "LEADER_AUGUSTUS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Bismarck",
-    "name": "Bismarck",
+    "nameFormatted": "비스마르크",
+    "name": "비스마르크",
     "type": "LEADER_BISMARCK",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Catherine",
-    "name": "Catherine",
+    "nameFormatted": "예카테리나 2세",
+    "name": "예카테리나 2세",
     "type": "LEADER_CATHERINE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Darius I",
-    "name": "Darius I",
+    "nameFormatted": "다리우스 1세",
+    "name": "다리우스 1세",
     "type": "LEADER_DARIUS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Elizabeth",
-    "name": "Elizabeth",
+    "nameFormatted": "엘리자베스",
+    "name": "엘리자베스",
     "type": "LEADER_ELIZABETH",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Gandhi",
-    "name": "Gandhi",
+    "nameFormatted": "간디",
+    "name": "간디",
     "type": "LEADER_GANDHI",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Harun al-Rashid",
-    "name": "Harun al-Rashid",
+    "nameFormatted": "하룬 알 라시드",
+    "name": "하룬 알 라시드",
     "type": "LEADER_HARUN_AL_RASHID",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Hiawatha",
-    "name": "Hiawatha",
+    "nameFormatted": "히아와타",
+    "name": "히아와타",
     "type": "LEADER_HIAWATHA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Montezuma",
-    "name": "Montezuma",
+    "nameFormatted": "몬테수마",
+    "name": "몬테수마",
     "type": "LEADER_MONTEZUMA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Napoleon",
-    "name": "Napoleon",
+    "nameFormatted": "나폴레옹",
+    "name": "나폴레옹",
     "type": "LEADER_NAPOLEON",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Oda Nobunaga",
-    "name": "Oda Nobunaga",
+    "nameFormatted": "오다 노부나가",
+    "name": "오다 노부나가",
     "type": "LEADER_ODA_NOBUNAGA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Ramesses II",
-    "name": "Ramesses II",
+    "nameFormatted": "람세스 2세",
+    "name": "람세스 2세",
     "type": "LEADER_RAMESSES",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Ramkhamhaeng",
-    "name": "Ramkhamhaeng",
+    "nameFormatted": "람캄행",
+    "name": "람캄행",
     "type": "LEADER_RAMKHAMHAENG",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Suleiman",
-    "name": "Suleiman",
+    "nameFormatted": "술레이만",
+    "name": "술레이만",
     "type": "LEADER_SULEIMAN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Washington",
-    "name": "Washington",
+    "nameFormatted": "워싱턴",
+    "name": "워싱턴",
     "type": "LEADER_WASHINGTON",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Wu Zetian",
-    "name": "Wu Zetian",
+    "nameFormatted": "측천무후",
+    "name": "측천무후",
     "type": "LEADER_WU_ZETIAN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Genghis Khan",
-    "name": "Genghis Khan",
+    "nameFormatted": "칭기즈칸",
+    "name": "칭기즈칸",
     "type": "LEADER_GENGHIS_KHAN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Isabella",
-    "name": "Isabella",
+    "nameFormatted": "이사벨라",
+    "name": "이사벨라",
     "type": "LEADER_ISABELLA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Pachacuti",
-    "name": "Pachacuti",
+    "nameFormatted": "파차쿠티",
+    "name": "파차쿠티",
     "type": "LEADER_PACHACUTI",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Kamehameha",
-    "name": "Kamehameha",
+    "nameFormatted": "카메하메하",
+    "name": "카메하메하",
     "type": "LEADER_KAMEHAMEHA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Harald Bluetooth",
-    "name": "Harald Bluetooth",
+    "nameFormatted": "하랄 블로탄",
+    "name": "하랄 블로탄",
     "type": "LEADER_HARALD",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Sejong",
-    "name": "Sejong",
+    "nameFormatted": "세종대왕",
+    "name": "세종대왕",
     "type": "LEADER_SEJONG",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Nebuchadnezzar II",
-    "name": "Nebuchadnezzar II",
+    "nameFormatted": "네부카드네자르 2세",
+    "name": "네부카드네자르 2세",
     "type": "LEADER_NEBUCHADNEZZAR",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Attila",
-    "name": "Attila",
+    "nameFormatted": "아틸라",
+    "name": "아틸라",
     "type": "LEADER_ATTILA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Boudicca",
-    "name": "Boudicca",
+    "nameFormatted": "부디카",
+    "name": "부디카",
     "type": "LEADER_BOUDICCA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Dido",
-    "name": "Dido",
+    "nameFormatted": "디도",
+    "name": "디도",
     "type": "LEADER_DIDO",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Gustavus Adolphus",
-    "name": "Gustavus Adolphus",
+    "nameFormatted": "구스타프 아돌프",
+    "name": "구스타프 아돌프",
     "type": "LEADER_GUSTAVUS_ADOLPHUS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Maria Theresa",
-    "name": "Maria Theresa",
+    "nameFormatted": "마리아 레지아",
+    "name": "마리아 레지아",
     "type": "LEADER_MARIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Pacal",
-    "name": "Pacal",
+    "nameFormatted": "파칼",
+    "name": "파칼",
     "type": "LEADER_PACAL",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Theodora",
-    "name": "Theodora",
+    "nameFormatted": "테오도라",
+    "name": "테오도라",
     "type": "LEADER_THEODORA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Haile Selassie",
-    "name": "Haile Selassie",
+    "nameFormatted": "하일레 셀라시에",
+    "name": "하일레 셀라시에",
     "type": "LEADER_SELASSIE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "William",
-    "name": "William",
+    "nameFormatted": "빌렘 반 오라녜",
+    "name": "빌렘 반 오라녜",
     "type": "LEADER_WILLIAM",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Ahmad al-Mansur",
-    "name": "Ahmad al-Mansur",
+    "nameFormatted": "아흐마드 알만수르",
+    "name": "아흐마드 알만수르",
     "type": "LEADER_AHMAD_ALMANSUR",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Ashurbanipal",
-    "name": "Ashurbanipal",
+    "nameFormatted": "아슈르바니팔",
+    "name": "아슈르바니팔",
     "type": "LEADER_ASHURBANIPAL",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Casimir III",
-    "name": "Casimir III",
+    "nameFormatted": "카지미에시 3세",
+    "name": "카지미에시 3세",
     "type": "LEADER_CASIMIR",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Enrico Dandolo",
-    "name": "Enrico Dandolo",
+    "nameFormatted": "엔리코 단돌로",
+    "name": "엔리코 단돌로",
     "type": "LEADER_ENRICO_DANDOLO",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Gajah Mada",
-    "name": "Gajah Mada",
+    "nameFormatted": "가자 마다",
+    "name": "가자 마다",
     "type": "LEADER_GAJAH_MADA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Maria I",
-    "name": "Maria I",
+    "nameFormatted": "마리아 1세",
+    "name": "마리아 1세",
     "type": "LEADER_MARIA_I",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Pedro II",
-    "name": "Pedro II",
+    "nameFormatted": "페드루 2세",
+    "name": "페드루 2세",
     "type": "LEADER_PEDRO",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Pocatello",
-    "name": "Pocatello",
+    "nameFormatted": "포카텔로",
+    "name": "포카텔로",
     "type": "LEADER_POCATELLO",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Shaka",
-    "name": "Shaka",
+    "nameFormatted": "샤카",
+    "name": "샤카",
     "type": "LEADER_SHAKA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "Settler",
-    "name": "Settler",
+    "nameFormatted": "개척자",
+    "name": "개척자",
     "type": "UNIT_SETTLER",
     "page": "units"
   },
   {
-    "nameFormatted": "Worker",
-    "name": "Worker",
+    "nameFormatted": "노동자",
+    "name": "노동자",
     "type": "UNIT_WORKER",
     "page": "units"
   },
   {
-    "nameFormatted": "Work Boat",
-    "name": "Work Boat",
+    "nameFormatted": "작업선",
+    "name": "작업선",
     "type": "UNIT_WORKBOAT",
     "page": "units"
   },
   {
-    "nameFormatted": "SS Stasis Chamber",
-    "name": "SS Stasis Chamber",
+    "nameFormatted": "SS 동면실",
+    "name": "SS 동면실",
     "type": "UNIT_SS_STASIS_CHAMBER",
     "page": "units"
   },
   {
-    "nameFormatted": "SS Engine",
-    "name": "SS Engine",
+    "nameFormatted": "SS 엔진",
+    "name": "SS 엔진",
     "type": "UNIT_SS_ENGINE",
     "page": "units"
   },
   {
-    "nameFormatted": "SS Cockpit",
-    "name": "SS Cockpit",
+    "nameFormatted": "SS 조종석",
+    "name": "SS 조종석",
     "type": "UNIT_SS_COCKPIT",
     "page": "units"
   },
   {
-    "nameFormatted": "SS Booster",
-    "name": "SS Booster",
+    "nameFormatted": "SS 추진기",
+    "name": "SS 추진기",
     "type": "UNIT_SS_BOOSTER",
     "page": "units"
   },
   {
-    "nameFormatted": "Missile Cruiser",
-    "name": "Missile Cruiser",
+    "nameFormatted": "미사일 순양함",
+    "name": "미사일 순양함",
     "type": "UNIT_MISSILE_CRUISER",
     "page": "units"
   },
   {
-    "nameFormatted": "Nuclear Submarine",
-    "name": "Nuclear Submarine",
+    "nameFormatted": "핵잠수함",
+    "name": "핵잠수함",
     "type": "UNIT_NUCLEAR_SUBMARINE",
     "page": "units"
   },
   {
-    "nameFormatted": "Carrier",
-    "name": "Carrier",
+    "nameFormatted": "항공모함",
+    "name": "항공모함",
     "type": "UNIT_CARRIER",
     "page": "units"
   },
   {
-    "nameFormatted": "Battleship",
-    "name": "Battleship",
+    "nameFormatted": "전함",
+    "name": "전함",
     "type": "UNIT_BATTLESHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "Submarine",
-    "name": "Submarine",
+    "nameFormatted": "잠수함",
+    "name": "잠수함",
     "type": "UNIT_SUBMARINE",
     "page": "units"
   },
   {
-    "nameFormatted": "Destroyer",
-    "name": "Destroyer",
+    "nameFormatted": "구축함",
+    "name": "구축함",
     "type": "UNIT_DESTROYER",
     "page": "units"
   },
   {
-    "nameFormatted": "Ironclad",
-    "name": "Ironclad",
+    "nameFormatted": "철갑함",
+    "name": "철갑함",
     "type": "UNIT_IRONCLAD",
     "page": "units"
   },
   {
-    "nameFormatted": "Frigate",
-    "name": "Frigate",
+    "nameFormatted": "프리깃",
+    "name": "프리깃",
     "type": "UNIT_FRIGATE",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(English)</span> Ship of the Line",
-    "name": "[COLOR_POSITIVE_TEXT](English)[ENDCOLOR] Ship of the Line",
+    "nameFormatted": "<span class=\"positive\">([COLOR:190:80:70:255]영국</span>의) 전열함",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 전열함",
     "type": "UNIT_ENGLISH_SHIPOFTHELINE",
     "page": "units"
   },
   {
-    "nameFormatted": "Caravel",
-    "name": "Caravel",
+    "nameFormatted": "캐러벨",
+    "name": "캐러벨",
     "type": "UNIT_CARAVEL",
     "page": "units"
   },
   {
-    "nameFormatted": "Trireme",
-    "name": "Trireme",
+    "nameFormatted": "삼단노선",
+    "name": "삼단노선",
     "type": "UNIT_TRIREME",
     "page": "units"
   },
   {
-    "nameFormatted": "Giant Death Robot",
-    "name": "Giant Death Robot",
+    "nameFormatted": "대학살 로봇",
+    "name": "대학살 로봇",
     "type": "UNIT_MECH",
     "page": "units"
   },
   {
-    "nameFormatted": "Nuclear Missile",
-    "name": "Nuclear Missile",
+    "nameFormatted": "핵미사일",
+    "name": "핵미사일",
     "type": "UNIT_NUCLEAR_MISSILE",
     "page": "units"
   },
   {
-    "nameFormatted": "Stealth Bomber",
-    "name": "Stealth Bomber",
+    "nameFormatted": "스텔스 폭격기",
+    "name": "스텔스 폭격기",
     "type": "UNIT_STEALTH_BOMBER",
     "page": "units"
   },
   {
-    "nameFormatted": "Jet Fighter",
-    "name": "Jet Fighter",
+    "nameFormatted": "제트기",
+    "name": "제트기",
     "type": "UNIT_JET_FIGHTER",
     "page": "units"
   },
   {
-    "nameFormatted": "Guided Missile",
-    "name": "Guided Missile",
+    "nameFormatted": "유도미사일",
+    "name": "유도미사일",
     "type": "UNIT_GUIDED_MISSILE",
     "page": "units"
   },
   {
-    "nameFormatted": "Modern Armor",
-    "name": "Modern Armor",
+    "nameFormatted": "현대 전차",
+    "name": "현대 전차",
     "type": "UNIT_MODERN_ARMOR",
     "page": "units"
   },
   {
-    "nameFormatted": "Helicopter Gunship",
-    "name": "Helicopter Gunship",
+    "nameFormatted": "전투헬기",
+    "name": "전투헬기",
     "type": "UNIT_HELICOPTER_GUNSHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "Mobile SAM",
-    "name": "Mobile SAM",
+    "nameFormatted": "이동식 SAM 발사대",
+    "name": "이동식 SAM 발사대",
     "type": "UNIT_MOBILE_SAM",
     "page": "units"
   },
   {
-    "nameFormatted": "Rocket Artillery",
-    "name": "Rocket Artillery",
+    "nameFormatted": "다연장 로켓포",
+    "name": "다연장 로켓포",
     "type": "UNIT_ROCKET_ARTILLERY",
     "page": "units"
   },
   {
-    "nameFormatted": "Mechanized Infantry",
-    "name": "Mechanized Infantry",
+    "nameFormatted": "기계화 보병",
+    "name": "기계화 보병",
     "type": "UNIT_MECHANIZED_INFANTRY",
     "page": "units"
   },
   {
-    "nameFormatted": "Atomic Bomb",
-    "name": "Atomic Bomb",
+    "nameFormatted": "원자폭탄",
+    "name": "원자폭탄",
     "type": "UNIT_ATOMIC_BOMB",
     "page": "units"
   },
   {
-    "nameFormatted": "Heavy Bomber",
-    "name": "Heavy Bomber",
+    "nameFormatted": "중폭격기",
+    "name": "중폭격기",
     "type": "UNIT_BOMBER",
     "page": "units"
   },
   {
-    "nameFormatted": "B17",
-    "name": "B17",
+    "nameFormatted": "B-17 폭격기",
+    "name": "B-17 폭격기",
     "type": "UNIT_AMERICAN_B17",
     "page": "units"
   },
   {
-    "nameFormatted": "Fighter",
-    "name": "Fighter",
+    "nameFormatted": "전투기",
+    "name": "전투기",
     "type": "UNIT_FIGHTER",
     "page": "units"
   },
   {
-    "nameFormatted": "Zero",
-    "name": "Zero",
+    "nameFormatted": "제로센",
+    "name": "제로센",
     "type": "UNIT_JAPANESE_ZERO",
     "page": "units"
   },
   {
-    "nameFormatted": "Paratrooper",
-    "name": "Paratrooper",
+    "nameFormatted": "공수부대",
+    "name": "공수부대",
     "type": "UNIT_PARATROOPER",
     "page": "units"
   },
   {
-    "nameFormatted": "Tank",
-    "name": "Tank",
+    "nameFormatted": "전차",
+    "name": "전차",
     "type": "UNIT_TANK",
     "page": "units"
   },
@@ -3618,8732 +3618,8732 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "Artillery",
-    "name": "Artillery",
+    "nameFormatted": "야포",
+    "name": "야포",
     "type": "UNIT_ARTILLERY",
     "page": "units"
   },
   {
-    "nameFormatted": "Anti-Aircraft Gun",
-    "name": "Anti-Aircraft Gun",
+    "nameFormatted": "대공포",
+    "name": "대공포",
     "type": "UNIT_ANTI_AIRCRAFT_GUN",
     "page": "units"
   },
   {
-    "nameFormatted": "Light Tank",
-    "name": "Light Tank",
+    "nameFormatted": "경전차",
+    "name": "경전차",
     "type": "UNIT_ANTI_TANK_GUN",
     "page": "units"
   },
   {
-    "nameFormatted": "Infantry",
-    "name": "Infantry",
+    "nameFormatted": "보병",
+    "name": "보병",
     "type": "UNIT_INFANTRY",
     "page": "units"
   },
   {
-    "nameFormatted": "Foreign Legion",
-    "name": "Foreign Legion",
+    "nameFormatted": "외인부대",
+    "name": "외인부대",
     "type": "UNIT_FRENCH_FOREIGNLEGION",
     "page": "units"
   },
   {
-    "nameFormatted": "Cavalry",
-    "name": "Cavalry",
+    "nameFormatted": "기병대",
+    "name": "기병대",
     "type": "UNIT_CAVALRY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Russian)</span> Cossack",
-    "name": "[COLOR_POSITIVE_TEXT](Russian)[ENDCOLOR] Cossack",
+    "nameFormatted": "<span class=\"positive\">([COLOR:240:210:110:255]러시아</span>의) 코사크",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:210:110:255]러시아[ENDCOLOR]의)[ENDCOLOR] 코사크",
     "type": "UNIT_RUSSIAN_COSSACK",
     "page": "units"
   },
   {
-    "nameFormatted": "Fusilier",
-    "name": "Fusilier",
+    "nameFormatted": "수발총병",
+    "name": "수발총병",
     "type": "UNIT_RIFLEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "Lancer",
-    "name": "Lancer",
+    "nameFormatted": "창기병",
+    "name": "창기병",
     "type": "UNIT_LANCER",
     "page": "units"
   },
   {
-    "nameFormatted": "Sipahi",
-    "name": "Sipahi",
+    "nameFormatted": "시파히 기병",
+    "name": "시파히 기병",
     "type": "UNIT_OTTOMAN_SIPAHI",
     "page": "units"
   },
   {
-    "nameFormatted": "Cannon",
-    "name": "Cannon",
+    "nameFormatted": "대포",
+    "name": "대포",
     "type": "UNIT_CANNON",
     "page": "units"
   },
   {
-    "nameFormatted": "Musketman",
-    "name": "Musketman",
+    "nameFormatted": "머스킷총병",
+    "name": "머스킷총병",
     "type": "UNIT_MUSKETMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(American)</span> Minuteman",
-    "name": "[COLOR_POSITIVE_TEXT](American)[ENDCOLOR] Minuteman",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:120:200:255]미국</span>의) 민병대",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:120:200:255]미국[ENDCOLOR]의)[ENDCOLOR] 민병대",
     "type": "UNIT_AMERICAN_MINUTEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(French)</span> Musketeer",
-    "name": "[COLOR_POSITIVE_TEXT](French)[ENDCOLOR] Musketeer",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:160:220:255]프랑스</span>의) 총사대",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:160:220:255]프랑스[ENDCOLOR]의)[ENDCOLOR] 총사대",
     "type": "UNIT_FRENCH_MUSKETEER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Ottoman)</span> Janissary",
-    "name": "[COLOR_POSITIVE_TEXT](Ottoman)[ENDCOLOR] Janissary",
+    "nameFormatted": "<span class=\"positive\">([COLOR:60:140:70:255]오스만</span>의) 예니체리",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:140:70:255]오스만[ENDCOLOR]의)[ENDCOLOR] 예니체리",
     "type": "UNIT_OTTOMAN_JANISSARY",
     "page": "units"
   },
   {
-    "nameFormatted": "Longswordsman",
-    "name": "Longswordsman",
+    "nameFormatted": "장검병",
+    "name": "장검병",
     "type": "UNIT_LONGSWORDSMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Japanese)</span> Samurai",
-    "name": "[COLOR_POSITIVE_TEXT](Japanese)[ENDCOLOR] Samurai",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:0:255]일본</span>의) 사무라이",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 사무라이",
     "type": "UNIT_JAPANESE_SAMURAI",
     "page": "units"
   },
   {
-    "nameFormatted": "Trebuchet",
-    "name": "Trebuchet",
+    "nameFormatted": "트레뷰셋",
+    "name": "트레뷰셋",
     "type": "UNIT_TREBUCHET",
     "page": "units"
   },
   {
-    "nameFormatted": "Knight",
-    "name": "Knight",
+    "nameFormatted": "기사",
+    "name": "기사",
     "type": "UNIT_KNIGHT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Arabian)</span> Camel Archer",
-    "name": "[COLOR_POSITIVE_TEXT](Arabian)[ENDCOLOR] Camel Archer",
+    "nameFormatted": "<span class=\"positive\">([COLOR:100:150:100:255]아라비아</span>의) 낙타궁병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:100:150:100:255]아라비아[ENDCOLOR]의)[ENDCOLOR] 낙타궁병",
     "type": "UNIT_ARABIAN_CAMELARCHER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Siamese)</span> Naresuan's Elephant",
-    "name": "[COLOR_POSITIVE_TEXT](Siamese)[ENDCOLOR] Naresuan's Elephant",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:210:0:255]시암</span>의) 나레수안 전투코끼리",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:210:0:255]시암[ENDCOLOR]의)[ENDCOLOR] 나레수안 전투코끼리",
     "type": "UNIT_SIAMESE_WARELEPHANT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Songhai)</span> Mandekalu Cavalry",
-    "name": "[COLOR_POSITIVE_TEXT](Songhai)[ENDCOLOR] Mandekalu Cavalry",
+    "nameFormatted": "<span class=\"positive\">([COLOR:220:140:10:255]송가이</span>의) 만데칼루 기병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:140:10:255]송가이[ENDCOLOR]의)[ENDCOLOR] 만데칼루 기병",
     "type": "UNIT_SONGHAI_MUSLIMCAVALRY",
     "page": "units"
   },
   {
-    "nameFormatted": "Crossbowman",
-    "name": "Crossbowman",
+    "nameFormatted": "석궁병",
+    "name": "석궁병",
     "type": "UNIT_CROSSBOWMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Chinese)</span> Chu-Ko-Nu",
-    "name": "[COLOR_POSITIVE_TEXT](Chinese)[ENDCOLOR] Chu-Ko-Nu",
+    "nameFormatted": "<span class=\"positive\">([COLOR:90:210:90:255]중국</span>의) 연노병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:90:210:90:255]중국[ENDCOLOR]의)[ENDCOLOR] 연노병",
     "type": "UNIT_CHINESE_CHUKONU",
     "page": "units"
   },
   {
-    "nameFormatted": "Longbowman",
-    "name": "Longbowman",
+    "nameFormatted": "장궁병",
+    "name": "장궁병",
     "type": "UNIT_ENGLISH_LONGBOWMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "Pikeman",
-    "name": "Pikeman",
+    "nameFormatted": "장창병",
+    "name": "장창병",
     "type": "UNIT_PIKEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(German)</span> Landsknecht",
-    "name": "[COLOR_POSITIVE_TEXT](German)[ENDCOLOR] Landsknecht",
+    "nameFormatted": "<span class=\"positive\">([COLOR:120:120:120:255]독일</span>의) 란츠크네히트",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:120:120:120:255]독일[ENDCOLOR]의)[ENDCOLOR] 란츠크네히트",
     "type": "UNIT_GERMAN_LANDSKNECHT",
     "page": "units"
   },
   {
-    "nameFormatted": "Catapult",
-    "name": "Catapult",
+    "nameFormatted": "투석기",
+    "name": "투석기",
     "type": "UNIT_CATAPULT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Roman)</span> Ballista",
-    "name": "[COLOR_POSITIVE_TEXT](Roman)[ENDCOLOR] Ballista",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:120:255:255]로마</span>의) 발리스타",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR]의)[ENDCOLOR] 발리스타",
     "type": "UNIT_ROMAN_BALLISTA",
     "page": "units"
   },
   {
-    "nameFormatted": "Horseman",
-    "name": "Horseman",
+    "nameFormatted": "기마병",
+    "name": "기마병",
     "type": "UNIT_HORSEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "Companion Cavalry",
-    "name": "Companion Cavalry",
+    "nameFormatted": "헤타이로이",
+    "name": "헤타이로이",
     "type": "UNIT_GREEK_COMPANIONCAVALRY",
     "page": "units"
   },
   {
-    "nameFormatted": "Swordsman",
-    "name": "Swordsman",
+    "nameFormatted": "검사",
+    "name": "검사",
     "type": "UNIT_SWORDSMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Iroquois)</span> Mohawk Warrior",
-    "name": "[COLOR_POSITIVE_TEXT](Iroquois)[ENDCOLOR] Mohawk Warrior",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:150:160:255]이로쿼이</span>의) 모호크 전사",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 모호크 전사",
     "type": "UNIT_IROQUOIAN_MOHAWKWARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Roman)</span> Legion",
-    "name": "[COLOR_POSITIVE_TEXT](Roman)[ENDCOLOR] Legion",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:120:255:255]로마</span>의) 군단병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR]의)[ENDCOLOR] 군단병",
     "type": "UNIT_ROMAN_LEGION",
     "page": "units"
   },
   {
-    "nameFormatted": "Chariot Archer",
-    "name": "Chariot Archer",
+    "nameFormatted": "궁전차",
+    "name": "궁전차",
     "type": "UNIT_CHARIOT_ARCHER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Egyptian)</span> War Chariot",
-    "name": "[COLOR_POSITIVE_TEXT](Egyptian)[ENDCOLOR] War Chariot",
+    "nameFormatted": "<span class=\"positive\">([COLOR:240:220:70:255]이집트</span>의) 이륜전차",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:220:70:255]이집트[ENDCOLOR]의)[ENDCOLOR] 이륜전차",
     "type": "UNIT_EGYPTIAN_WARCHARIOT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Indian)</span> Naga-Malla",
-    "name": "[COLOR_POSITIVE_TEXT](Indian)[ENDCOLOR] Naga-Malla",
+    "nameFormatted": "<span class=\"positive\">([COLOR:60:210:60:255]인도</span>의) 나가말라",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 나가말라",
     "type": "UNIT_INDIAN_WARELEPHANT",
     "page": "units"
   },
   {
-    "nameFormatted": "Spearman",
-    "name": "Spearman",
+    "nameFormatted": "창병",
+    "name": "창병",
     "type": "UNIT_SPEARMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Greek)</span> Hoplite",
-    "name": "[COLOR_POSITIVE_TEXT](Greek)[ENDCOLOR] Hoplite",
+    "nameFormatted": "<span class=\"positive\">([COLOR:130:190:230:255]그리스</span>의) 호플리테스",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:130:190:230:255]그리스[ENDCOLOR]의)[ENDCOLOR] 호플리테스",
     "type": "UNIT_GREEK_HOPLITE",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Persian)</span> Immortal",
-    "name": "[COLOR_POSITIVE_TEXT](Persian)[ENDCOLOR] Immortal",
+    "nameFormatted": "<span class=\"positive\">([COLOR:230:50:0:255]페르시아</span>의) 이모탈",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:230:50:0:255]페르시아[ENDCOLOR]의)[ENDCOLOR] 이모탈",
     "type": "UNIT_PERSIAN_IMMORTAL",
     "page": "units"
   },
   {
-    "nameFormatted": "Archer",
-    "name": "Archer",
+    "nameFormatted": "궁병",
+    "name": "궁병",
     "type": "UNIT_ARCHER",
     "page": "units"
   },
   {
-    "nameFormatted": "Scout",
-    "name": "Scout",
+    "nameFormatted": "정찰병",
+    "name": "정찰병",
     "type": "UNIT_SCOUT",
     "page": "units"
   },
   {
-    "nameFormatted": "Warrior",
-    "name": "Warrior",
+    "nameFormatted": "전사",
+    "name": "전사",
     "type": "UNIT_WARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Aztec)</span> Jaguar",
-    "name": "[COLOR_POSITIVE_TEXT](Aztec)[ENDCOLOR] Jaguar",
+    "nameFormatted": "<span class=\"positive\">([COLOR:140:80:80:255]아즈텍</span>의) 재규어 전사",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:140:80:80:255]아즈텍[ENDCOLOR]의)[ENDCOLOR] 재규어 전사",
     "type": "UNIT_AZTEC_JAGUAR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Barbarian)</span> Brute",
-    "name": "[COLOR_POSITIVE_TEXT](Barbarian)[ENDCOLOR] Brute",
+    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 야만인 전사",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 야만인 전사",
     "type": "UNIT_BARBARIAN_WARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Barbarian)</span> Galley",
-    "name": "[COLOR_POSITIVE_TEXT](Barbarian)[ENDCOLOR] Galley",
+    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 갤리",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 갤리",
     "type": "UNIT_GALLEY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Barbarian)</span> Archer",
-    "name": "[COLOR_POSITIVE_TEXT](Barbarian)[ENDCOLOR] Archer",
+    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 궁병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 궁병",
     "type": "UNIT_BARBARIAN_ARCHER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Barbarian)</span> Spearman",
-    "name": "[COLOR_POSITIVE_TEXT](Barbarian)[ENDCOLOR] Spearman",
+    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 창병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 창병",
     "type": "UNIT_BARBARIAN_SPEARMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Barbarian)</span> Swordsman",
-    "name": "[COLOR_POSITIVE_TEXT](Barbarian)[ENDCOLOR] Swordsman",
+    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 검사",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 검사",
     "type": "UNIT_BARBARIAN_SWORDSMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "Skirmisher",
-    "name": "Skirmisher",
+    "nameFormatted": "산병",
+    "name": "산병",
     "type": "UNIT_MONGOLIAN_KESHIK",
     "page": "units"
   },
   {
-    "nameFormatted": "Slinger",
-    "name": "Slinger",
+    "nameFormatted": "투석병",
+    "name": "투석병",
     "type": "UNIT_INCAN_SLINGER",
     "page": "units"
   },
   {
-    "nameFormatted": "Tercio",
-    "name": "Tercio",
+    "nameFormatted": "테르시오",
+    "name": "테르시오",
     "type": "UNIT_SPANISH_TERCIO",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Spanish)</span> Conquistador",
-    "name": "[COLOR_POSITIVE_TEXT](Spanish)[ENDCOLOR] Conquistador",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:60:90:255]스페인</span>의) 콩키스타도르",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:60:90:255]스페인[ENDCOLOR]의)[ENDCOLOR] 콩키스타도르",
     "type": "UNIT_SPANISH_CONQUISTADOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Polynesian)</span> Maori Warrior",
-    "name": "[COLOR_POSITIVE_TEXT](Polynesian)[ENDCOLOR] Maori Warrior",
+    "nameFormatted": "<span class=\"positive\">([COLOR:236:150:58:255]폴리네시아</span>의) 마오리 전사",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:236:150:58:255]폴리네시아[ENDCOLOR]의)[ENDCOLOR] 마오리 전사",
     "type": "UNIT_POLYNESIAN_MAORI_WARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Danish)</span> Berserker",
-    "name": "[COLOR_POSITIVE_TEXT](Danish)[ENDCOLOR] Berserker",
+    "nameFormatted": "<span class=\"positive\">([COLOR:220:100:10:255]덴마크</span>의) 광전사",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:100:10:255]덴마크[ENDCOLOR]의)[ENDCOLOR] 광전사",
     "type": "UNIT_DANISH_BERSERKER",
     "page": "units"
   },
   {
-    "nameFormatted": "Norwegian Ski Infantry",
-    "name": "Norwegian Ski Infantry",
+    "nameFormatted": "노르웨이 스키 보병",
+    "name": "노르웨이 스키 보병",
     "type": "UNIT_DANISH_SKI_INFANTRY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Korean)</span> Turtle Ship",
-    "name": "[COLOR_POSITIVE_TEXT](Korean)[ENDCOLOR] Turtle Ship",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:50:255]한국</span>의) 거북선",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:50:255]한국[ENDCOLOR]의)[ENDCOLOR] 거북선",
     "type": "UNIT_KOREAN_TURTLE_SHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Korean)</span> Hwach'a",
-    "name": "[COLOR_POSITIVE_TEXT](Korean)[ENDCOLOR] Hwach'a",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:50:255]한국</span>의) 화차",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:50:255]한국[ENDCOLOR]의)[ENDCOLOR] 화차",
     "type": "UNIT_KOREAN_HWACHA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Babylonian)</span> Bowman",
-    "name": "[COLOR_POSITIVE_TEXT](Babylonian)[ENDCOLOR] Bowman",
+    "nameFormatted": "<span class=\"positive\">([COLOR:50:120:120:255]바빌론</span>의) 바빌론 궁병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:50:120:120:255]바빌론[ENDCOLOR]의)[ENDCOLOR] 바빌론 궁병",
     "type": "UNIT_BABYLONIAN_BOWMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Pictish Warrior",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Pictish Warrior",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 픽트족 전사",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 픽트족 전사",
     "type": "UNIT_CELT_PICTISH_WARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Mayan)</span> Atlatlist",
-    "name": "[COLOR_POSITIVE_TEXT](Mayan)[ENDCOLOR] Atlatlist",
+    "nameFormatted": "<span class=\"positive\">([COLOR:216:176:137:255]마야</span>의) 아틀라틀 투척병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:216:176:137:255]마야[ENDCOLOR]의)[ENDCOLOR] 아틀라틀 투척병",
     "type": "UNIT_MAYAN_ATLATLIST",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Byzantine)</span> Dromon",
-    "name": "[COLOR_POSITIVE_TEXT](Byzantine)[ENDCOLOR] Dromon",
+    "nameFormatted": "<span class=\"positive\">([COLOR:204:227:248:255]비잔티움</span>의) 드로몬",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:204:227:248:255]비잔티움[ENDCOLOR]의)[ENDCOLOR] 드로몬",
     "type": "UNIT_BYZANTINE_DROMON",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Byzantine)</span> Cataphract",
-    "name": "[COLOR_POSITIVE_TEXT](Byzantine)[ENDCOLOR] Cataphract",
+    "nameFormatted": "<span class=\"positive\">([COLOR:204:227:248:255]비잔티움</span>의) 카타프락토이",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:204:227:248:255]비잔티움[ENDCOLOR]의)[ENDCOLOR] 카타프락토이",
     "type": "UNIT_BYZANTINE_CATAPHRACT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Carthaginian)</span> Atlas Elephant",
-    "name": "[COLOR_POSITIVE_TEXT](Carthaginian)[ENDCOLOR] Atlas Elephant",
+    "nameFormatted": "<span class=\"positive\">([COLOR:124:35:181:255]카르타고</span>의) 아틀라스 코끼리",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 아틀라스 코끼리",
     "type": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Carthaginian)</span> Quinquereme",
-    "name": "[COLOR_POSITIVE_TEXT](Carthaginian)[ENDCOLOR] Quinquereme",
+    "nameFormatted": "<span class=\"positive\">([COLOR:124:35:181:255]카르타고</span>의) 오단노선",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 오단노선",
     "type": "UNIT_CARTHAGINIAN_QUINQUEREME",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Hunnic)</span> Horse Archer",
-    "name": "[COLOR_POSITIVE_TEXT](Hunnic)[ENDCOLOR] Horse Archer",
+    "nameFormatted": "<span class=\"positive\">([COLOR:200:199:188:255]훈</span>의) 궁기병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:199:188:255]훈[ENDCOLOR]의)[ENDCOLOR] 궁기병",
     "type": "UNIT_HUN_HORSE_ARCHER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Austrian)</span> Hussar",
-    "name": "[COLOR_POSITIVE_TEXT](Austrian)[ENDCOLOR] Hussar",
+    "nameFormatted": "<span class=\"positive\">([COLOR:245:119:119:255]오스트리아</span>의) 후사르",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:245:119:119:255]오스트리아[ENDCOLOR]의)[ENDCOLOR] 후사르",
     "type": "UNIT_AUSTRIAN_HUSSAR",
     "page": "units"
   },
   {
-    "nameFormatted": "Mehal Sefari",
-    "name": "Mehal Sefari",
+    "nameFormatted": "메할 세파리",
+    "name": "메할 세파리",
     "type": "UNIT_ETHIOPIAN_MEHAL_SEFARI",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Swedish)</span> Carolean",
-    "name": "[COLOR_POSITIVE_TEXT](Swedish)[ENDCOLOR] Carolean",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:98:191:255]스웨덴</span>의) 카롤린넬",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:98:191:255]스웨덴[ENDCOLOR]의)[ENDCOLOR] 카롤린넬",
     "type": "UNIT_SWEDISH_CAROLEAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Swedish)</span> Hakkapeliitta",
-    "name": "[COLOR_POSITIVE_TEXT](Swedish)[ENDCOLOR] Hakkapeliitta",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:98:191:255]스웨덴</span>의) 하카펠리타",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:98:191:255]스웨덴[ENDCOLOR]의)[ENDCOLOR] 하카펠리타",
     "type": "UNIT_SWEDISH_HAKKAPELIITTA",
     "page": "units"
   },
   {
-    "nameFormatted": "Battering Ram",
-    "name": "Battering Ram",
+    "nameFormatted": "공성추",
+    "name": "공성추",
     "type": "UNIT_HUN_BATTERING_RAM",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Dutch)</span> Sea Beggar",
-    "name": "[COLOR_POSITIVE_TEXT](Dutch)[ENDCOLOR] Sea Beggar",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:151:66:255]네덜란드</span>의) 제고이센",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:151:66:255]네덜란드[ENDCOLOR]의)[ENDCOLOR] 제고이센",
     "type": "UNIT_DUTCH_SEA_BEGGAR",
     "page": "units"
   },
   {
-    "nameFormatted": "Missionary",
-    "name": "Missionary",
+    "nameFormatted": "선교사",
+    "name": "선교사",
     "type": "UNIT_MISSIONARY",
     "page": "units"
   },
   {
-    "nameFormatted": "Composite Bowman",
-    "name": "Composite Bowman",
+    "nameFormatted": "합성궁병",
+    "name": "합성궁병",
     "type": "UNIT_COMPOSITE_BOWMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "Galleass",
-    "name": "Galleass",
+    "nameFormatted": "갈레아스",
+    "name": "갈레아스",
     "type": "UNIT_GALLEASS",
     "page": "units"
   },
   {
-    "nameFormatted": "Rifleman",
-    "name": "Rifleman",
+    "nameFormatted": "소총병",
+    "name": "소총병",
     "type": "UNIT_GREAT_WAR_INFANTRY",
     "page": "units"
   },
   {
-    "nameFormatted": "Special Forces",
-    "name": "Special Forces",
+    "nameFormatted": "특수 부대",
+    "name": "특수 부대",
     "type": "UNIT_MARINE",
     "page": "units"
   },
   {
-    "nameFormatted": "Triplane",
-    "name": "Triplane",
+    "nameFormatted": "1차 세계대전 전투기",
+    "name": "1차 세계대전 전투기",
     "type": "UNIT_TRIPLANE",
     "page": "units"
   },
   {
-    "nameFormatted": "Bomber",
-    "name": "Bomber",
+    "nameFormatted": "폭격기",
+    "name": "폭격기",
     "type": "UNIT_WWI_BOMBER",
     "page": "units"
   },
   {
-    "nameFormatted": "Landship",
-    "name": "Landship",
+    "nameFormatted": "지상함",
+    "name": "지상함",
     "type": "UNIT_WWI_TANK",
     "page": "units"
   },
   {
-    "nameFormatted": "Machine Gun",
-    "name": "Machine Gun",
+    "nameFormatted": "기관총",
+    "name": "기관총",
     "type": "UNIT_MACHINE_GUN",
     "page": "units"
   },
   {
-    "nameFormatted": "Corvette",
-    "name": "Corvette",
+    "nameFormatted": "코르벳",
+    "name": "코르벳",
     "type": "UNIT_PRIVATEER",
     "page": "units"
   },
   {
-    "nameFormatted": "Inquisitor",
-    "name": "Inquisitor",
+    "nameFormatted": "이단심문관",
+    "name": "이단심문관",
     "type": "UNIT_INQUISITOR",
     "page": "units"
   },
   {
-    "nameFormatted": "Gatling Gun",
-    "name": "Gatling Gun",
+    "nameFormatted": "개틀링 기관총",
+    "name": "개틀링 기관총",
     "type": "UNIT_GATLINGGUN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Zulu)</span> Impi",
-    "name": "[COLOR_POSITIVE_TEXT](Zulu)[ENDCOLOR] Impi",
+    "nameFormatted": "<span class=\"positive\">([COLOR:170:120:80:255]줄루</span>의) 임피",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:120:80:255]줄루[ENDCOLOR]의)[ENDCOLOR] 임피",
     "type": "UNIT_ZULU_IMPI",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Polish)</span> Winged Hussar",
-    "name": "[COLOR_POSITIVE_TEXT](Polish)[ENDCOLOR] Winged Hussar",
+    "nameFormatted": "<span class=\"positive\">([COLOR:210:45:30:255]폴란드</span>의) 윙드 후사르",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR]의)[ENDCOLOR] 윙드 후사르",
     "type": "UNIT_POLISH_WINGED_HUSSAR",
     "page": "units"
   },
   {
-    "nameFormatted": "Cargo Ship",
-    "name": "Cargo Ship",
+    "nameFormatted": "화물선",
+    "name": "화물선",
     "type": "UNIT_CARGO_SHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "Caravan",
-    "name": "Caravan",
+    "nameFormatted": "대상",
+    "name": "대상",
     "type": "UNIT_CARAVAN",
     "page": "units"
   },
   {
-    "nameFormatted": "Archaeologist",
-    "name": "Archaeologist",
+    "nameFormatted": "고고학자",
+    "name": "고고학자",
     "type": "UNIT_ARCHAEOLOGIST",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Assyrian)</span> Siege Tower",
-    "name": "[COLOR_POSITIVE_TEXT](Assyrian)[ENDCOLOR] Siege Tower",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:189:25:255]아시리아</span>의) 공성탑",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:189:25:255]아시리아[ENDCOLOR]의)[ENDCOLOR] 공성탑",
     "type": "UNIT_ASSYRIAN_SIEGE_TOWER",
     "page": "units"
   },
   {
-    "nameFormatted": "Pracinha",
-    "name": "Pracinha",
+    "nameFormatted": "프라싱야",
+    "name": "프라싱야",
     "type": "UNIT_BRAZILIAN_PRACINHA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Portuguese)</span> Nau",
-    "name": "[COLOR_POSITIVE_TEXT](Portuguese)[ENDCOLOR] Nau",
+    "nameFormatted": "<span class=\"positive\">([COLOR:35:70:180:255]포르투갈</span>의) 나우",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]포르투갈[ENDCOLOR]의)[ENDCOLOR] 나우",
     "type": "UNIT_PORTUGUESE_NAU",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Moroccan)</span> Berber Cavalry",
-    "name": "[COLOR_POSITIVE_TEXT](Moroccan)[ENDCOLOR] Berber Cavalry",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:0:0:255]모로코</span>의) 베르베르 기병대",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:0:0:255]모로코[ENDCOLOR]의)[ENDCOLOR] 베르베르 기병대",
     "type": "UNIT_BERBER_CAVALRY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Venetian)</span> Great Galleass",
-    "name": "[COLOR_POSITIVE_TEXT](Venetian)[ENDCOLOR] Great Galleass",
+    "nameFormatted": "<span class=\"positive\">([COLOR:173:112:215:255]베네치아</span>의) 베네치안 갈레아스",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:173:112:215:255]베네치아[ENDCOLOR]의)[ENDCOLOR] 베네치안 갈레아스",
     "type": "UNIT_VENETIAN_GALLEASS",
     "page": "units"
   },
   {
-    "nameFormatted": "Pathfinder",
-    "name": "Pathfinder",
+    "nameFormatted": "길잡이",
+    "name": "길잡이",
     "type": "UNIT_SHOSHONE_PATHFINDER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Shoshone)</span> Comanche Rider",
-    "name": "[COLOR_POSITIVE_TEXT](Shoshone)[ENDCOLOR] Comanche Rider",
+    "nameFormatted": "<span class=\"positive\">([COLOR:88:255:243:255]쇼쇼니</span>의) 코만치 기마병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]의)[ENDCOLOR] 코만치 기마병",
     "type": "UNIT_SHOSHONE_COMANCHE_RIDERS",
     "page": "units"
   },
   {
-    "nameFormatted": "Bazooka",
-    "name": "Bazooka",
+    "nameFormatted": "바주카",
+    "name": "바주카",
     "type": "UNIT_BAZOOKA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Indonesian)</span> Kris Swordsman",
-    "name": "[COLOR_POSITIVE_TEXT](Indonesian)[ENDCOLOR] Kris Swordsman",
+    "nameFormatted": "<span class=\"positive\">([COLOR:68:193:203:255]인도네시아</span>의) 크리스 검사",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:68:193:203:255]인도네시아[ENDCOLOR]의)[ENDCOLOR] 크리스 검사",
     "type": "UNIT_KRIS_SWORDSMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Barbarian)</span> Horseman",
-    "name": "[COLOR_POSITIVE_TEXT](Barbarian)[ENDCOLOR] Horseman",
+    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 기마병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 기마병",
     "type": "UNIT_BARBARIAN_HORSEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Barbarian)</span> Hand-Axe",
-    "name": "[COLOR_POSITIVE_TEXT](Barbarian)[ENDCOLOR] Hand-Axe",
+    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 도끼병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 도끼병",
     "type": "UNIT_BARBARIAN_AXMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "XCOM Squad",
-    "name": "XCOM Squad",
+    "nameFormatted": "XCOM 분대",
+    "name": "XCOM 분대",
     "type": "UNIT_XCOM_SQUAD",
     "page": "units"
   },
   {
-    "nameFormatted": "Heavy Skirmisher",
-    "name": "Heavy Skirmisher",
+    "nameFormatted": "중산병",
+    "name": "중산병",
     "type": "UNIT_HEAVY_SKIRMISHER",
     "page": "units"
   },
   {
-    "nameFormatted": "Cuirassier",
-    "name": "Cuirassier",
+    "nameFormatted": "흉갑기병",
+    "name": "흉갑기병",
     "type": "UNIT_CUIRASSIER",
     "page": "units"
   },
   {
-    "nameFormatted": "Field Gun",
-    "name": "Field Gun",
+    "nameFormatted": "야전포",
+    "name": "야전포",
     "type": "UNIT_FIELD_GUN",
     "page": "units"
   },
   {
-    "nameFormatted": "Explorer",
-    "name": "Explorer",
+    "nameFormatted": "탐험가",
+    "name": "탐험가",
     "type": "UNIT_EXPLORER",
     "page": "units"
   },
   {
-    "nameFormatted": "Commando",
-    "name": "Commando",
+    "nameFormatted": "특공대",
+    "name": "특공대",
     "type": "UNIT_COMMANDO",
     "page": "units"
   },
   {
-    "nameFormatted": "Galley",
-    "name": "Galley",
+    "nameFormatted": "갤리",
+    "name": "갤리",
     "type": "UNIT_VP_GALLEY",
     "page": "units"
   },
   {
-    "nameFormatted": "Fleet Destroyer",
-    "name": "Fleet Destroyer",
+    "nameFormatted": "함대 구축함",
+    "name": "함대 구축함",
     "type": "UNIT_FLEET_DESTROYER",
     "page": "units"
   },
   {
-    "nameFormatted": "Sensor Combat Ship",
-    "name": "Sensor Combat Ship",
+    "nameFormatted": "미사일 구축함",
+    "name": "미사일 구축함",
     "type": "UNIT_SENSOR_COMBAT_SHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "Liburna",
-    "name": "Liburna",
+    "nameFormatted": "리부나",
+    "name": "리부나",
     "type": "UNIT_LIBURNA",
     "page": "units"
   },
   {
-    "nameFormatted": "Cruiser",
-    "name": "Cruiser",
+    "nameFormatted": "순양함",
+    "name": "순양함",
     "type": "UNIT_CRUISER",
     "page": "units"
   },
   {
-    "nameFormatted": "Dreadnought",
-    "name": "Dreadnought",
+    "nameFormatted": "노급전함",
+    "name": "노급전함",
     "type": "UNIT_DREADNOUGHT",
     "page": "units"
   },
   {
-    "nameFormatted": "Attack Submarine",
-    "name": "Attack Submarine",
+    "nameFormatted": "공격 잠수함",
+    "name": "공격 잠수함",
     "type": "UNIT_ATTACK_SUBMARINE",
     "page": "units"
   },
   {
-    "nameFormatted": "Supercarrier",
-    "name": "Supercarrier",
+    "nameFormatted": "대형항공모함",
+    "name": "대형항공모함",
     "type": "UNIT_SUPERCARRIER",
     "page": "units"
   },
   {
-    "nameFormatted": "Rocket Missile",
-    "name": "Rocket Missile",
+    "nameFormatted": "로켓 미사일",
+    "name": "로켓 미사일",
     "type": "UNIT_ROCKET_MISSILE",
     "page": "units"
   },
   {
-    "nameFormatted": "Pioneer",
-    "name": "Pioneer",
+    "nameFormatted": "선구자",
+    "name": "선구자",
     "type": "UNIT_PIONEER",
     "page": "units"
   },
   {
-    "nameFormatted": "Colonist",
-    "name": "Colonist",
+    "nameFormatted": "식민지 개척자",
+    "name": "식민지 개척자",
     "type": "UNIT_COLONIST",
     "page": "units"
   },
   {
-    "nameFormatted": "Emissary",
-    "name": "Emissary",
+    "nameFormatted": "특사",
+    "name": "특사",
     "type": "UNIT_EMISSARY",
     "page": "units"
   },
   {
-    "nameFormatted": "Envoy",
-    "name": "Envoy",
+    "nameFormatted": "사절",
+    "name": "사절",
     "type": "UNIT_ENVOY",
     "page": "units"
   },
   {
-    "nameFormatted": "Diplomat",
-    "name": "Diplomat",
+    "nameFormatted": "외교관",
+    "name": "외교관",
     "type": "UNIT_DIPLOMAT",
     "page": "units"
   },
   {
-    "nameFormatted": "Ambassador",
-    "name": "Ambassador",
+    "nameFormatted": "대사",
+    "name": "대사",
     "type": "UNIT_AMBASSADOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Assyrian)</span> Iron Chariot",
-    "name": "[COLOR_POSITIVE_TEXT](Assyrian)[ENDCOLOR] Iron Chariot",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:189:25:255]아시리아</span>의) 철제 전차",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:189:25:255]아시리아[ENDCOLOR]의)[ENDCOLOR] 철제 전차",
     "type": "UNIT_IRON_CHARIOT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Carthaginian)</span> Asamu",
-    "name": "[COLOR_POSITIVE_TEXT](Carthaginian)[ENDCOLOR] Asamu",
+    "nameFormatted": "<span class=\"positive\">([COLOR:124:35:181:255]카르타고</span>의) 아사무",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 아사무",
     "type": "UNIT_ASAMU",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Ottoman)</span> Great Bombard",
-    "name": "[COLOR_POSITIVE_TEXT](Ottoman)[ENDCOLOR] Great Bombard",
+    "nameFormatted": "<span class=\"positive\">([COLOR:60:140:70:255]오스만</span>의) 대형 사석포",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:140:70:255]오스만[ENDCOLOR]의)[ENDCOLOR] 대형 사석포",
     "type": "UNIT_GREAT_BOMBARD",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Venetian)</span> Fusta",
-    "name": "[COLOR_POSITIVE_TEXT](Venetian)[ENDCOLOR] Fusta",
+    "nameFormatted": "<span class=\"positive\">([COLOR:173:112:215:255]베네치아</span>의) 푸스타",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:173:112:215:255]베네치아[ENDCOLOR]의)[ENDCOLOR] 푸스타",
     "type": "UNIT_FUSTA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(American)</span> Monitor",
-    "name": "[COLOR_POSITIVE_TEXT](American)[ENDCOLOR] Monitor",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:120:200:255]미국</span>의) 모니터함",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:120:200:255]미국[ENDCOLOR]의)[ENDCOLOR] 모니터함",
     "type": "UNIT_MONITOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Arabian)</span> Hashemite Raider",
-    "name": "[COLOR_POSITIVE_TEXT](Arabian)[ENDCOLOR] Hashemite Raider",
+    "nameFormatted": "<span class=\"positive\">([COLOR:100:150:100:255]아라비아</span>의) 하심 레이더",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:100:150:100:255]아라비아[ENDCOLOR]의)[ENDCOLOR] 하심 레이더",
     "type": "UNIT_HASHEMITE_RAIDER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Austrian)</span> Grenzer",
-    "name": "[COLOR_POSITIVE_TEXT](Austrian)[ENDCOLOR] Grenzer",
+    "nameFormatted": "<span class=\"positive\">([COLOR:245:119:119:255]오스트리아</span>의) 그렌처",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:245:119:119:255]오스트리아[ENDCOLOR]의)[ENDCOLOR] 그렌처",
     "type": "UNIT_GRENZER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Aztec)</span> Otomi",
-    "name": "[COLOR_POSITIVE_TEXT](Aztec)[ENDCOLOR] Otomi",
+    "nameFormatted": "<span class=\"positive\">([COLOR:140:80:80:255]아즈텍</span>의) 오토미",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:140:80:80:255]아즈텍[ENDCOLOR]의)[ENDCOLOR] 오토미",
     "type": "UNIT_OTOMI",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Babylonian)</span> Sabum Kibitum",
-    "name": "[COLOR_POSITIVE_TEXT](Babylonian)[ENDCOLOR] Sabum Kibitum",
+    "nameFormatted": "<span class=\"positive\">([COLOR:50:120:120:255]바빌론</span>의) 사붐 키비툼",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:50:120:120:255]바빌론[ENDCOLOR]의)[ENDCOLOR] 사붐 키비툼",
     "type": "UNIT_SABUM_KIBITUM",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Brazilian)</span> Bandeirante",
-    "name": "[COLOR_POSITIVE_TEXT](Brazilian)[ENDCOLOR] Bandeirante",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:190:30:255]브라질</span>의) 반데이란테",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:190:30:255]브라질[ENDCOLOR]의)[ENDCOLOR] 반데이란테",
     "type": "UNIT_BANDEIRANTE",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Brazilian)</span> Amazonas",
-    "name": "[COLOR_POSITIVE_TEXT](Brazilian)[ENDCOLOR] Amazonas",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:190:30:255]브라질</span>의) 아마조나스",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:190:30:255]브라질[ENDCOLOR]의)[ENDCOLOR] 아마조나스",
     "type": "UNIT_AMAZONAS",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Scythed Chariot",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Scythed Chariot",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 낫전차",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 낫전차",
     "type": "UNIT_SCYTHED_CHARIOT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Chinese)</span> Treasure Ship",
-    "name": "[COLOR_POSITIVE_TEXT](Chinese)[ENDCOLOR] Treasure Ship",
+    "nameFormatted": "<span class=\"positive\">([COLOR:90:210:90:255]중국</span>의) 보선",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:90:210:90:255]중국[ENDCOLOR]의)[ENDCOLOR] 보선",
     "type": "UNIT_TREASURE_SHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Danish)</span> Longship",
-    "name": "[COLOR_POSITIVE_TEXT](Danish)[ENDCOLOR] Longship",
+    "nameFormatted": "<span class=\"positive\">([COLOR:220:100:10:255]덴마크</span>의) 랑스킵",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:100:10:255]덴마크[ENDCOLOR]의)[ENDCOLOR] 랑스킵",
     "type": "UNIT_LONGSHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Egyptian)</span> Mamluk",
-    "name": "[COLOR_POSITIVE_TEXT](Egyptian)[ENDCOLOR] Mamluk",
+    "nameFormatted": "<span class=\"positive\">([COLOR:240:220:70:255]이집트</span>의) 맘루크",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:220:70:255]이집트[ENDCOLOR]의)[ENDCOLOR] 맘루크",
     "type": "UNIT_MAMLUK",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(English)</span> Redcoat",
-    "name": "[COLOR_POSITIVE_TEXT](English)[ENDCOLOR] Redcoat",
+    "nameFormatted": "<span class=\"positive\">([COLOR:190:80:70:255]영국</span>의) 레드코트",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 레드코트",
     "type": "UNIT_REDCOAT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Ethiopian)</span> Chewa",
-    "name": "[COLOR_POSITIVE_TEXT](Ethiopian)[ENDCOLOR] Chewa",
+    "nameFormatted": "<span class=\"positive\">([COLOR:44:101:39:255]에티오피아</span>의) 체와",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:44:101:39:255]에티오피아[ENDCOLOR]의)[ENDCOLOR] 체와",
     "type": "UNIT_CHEWA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Ethiopian)</span> Oromo Cavalry",
-    "name": "[COLOR_POSITIVE_TEXT](Ethiopian)[ENDCOLOR] Oromo Cavalry",
+    "nameFormatted": "<span class=\"positive\">([COLOR:44:101:39:255]에티오피아</span>의) 오로모족 기병대",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:44:101:39:255]에티오피아[ENDCOLOR]의)[ENDCOLOR] 오로모족 기병대",
     "type": "UNIT_OROMO_CAVALRY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(French)</span> SPAD S.VII",
-    "name": "[COLOR_POSITIVE_TEXT](French)[ENDCOLOR] SPAD S.VII",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:160:220:255]프랑스</span>의) 스패드 S.VII",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:160:220:255]프랑스[ENDCOLOR]의)[ENDCOLOR] 스패드 S.VII",
     "type": "UNIT_SPAD",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(German)</span> Krupp Gun",
-    "name": "[COLOR_POSITIVE_TEXT](German)[ENDCOLOR] Krupp Gun",
+    "nameFormatted": "<span class=\"positive\">([COLOR:120:120:120:255]독일</span>의) 크루프 포",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:120:120:120:255]독일[ENDCOLOR]의)[ENDCOLOR] 크루프 포",
     "type": "UNIT_KRUPP_GUN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Greek)</span> Klepht",
-    "name": "[COLOR_POSITIVE_TEXT](Greek)[ENDCOLOR] Klepht",
+    "nameFormatted": "<span class=\"positive\">([COLOR:130:190:230:255]그리스</span>의) 클레프테스",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:130:190:230:255]그리스[ENDCOLOR]의)[ENDCOLOR] 클레프테스",
     "type": "UNIT_KLEPHT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Hunnic)</span> Tarkhan",
-    "name": "[COLOR_POSITIVE_TEXT](Hunnic)[ENDCOLOR] Tarkhan",
+    "nameFormatted": "<span class=\"positive\">([COLOR:200:199:188:255]훈</span>의) 타르칸",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:199:188:255]훈[ENDCOLOR]의)[ENDCOLOR] 타르칸",
     "type": "UNIT_TARKHAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Incan)</span> Warak'aq",
-    "name": "[COLOR_POSITIVE_TEXT](Incan)[ENDCOLOR] Warak'aq",
+    "nameFormatted": "<span class=\"positive\">([COLOR:200:230:0:255]잉카</span>의) 와라칵",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 와라칵",
     "type": "UNIT_WARAKAQ",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Incan)</span> Inti Maceman",
-    "name": "[COLOR_POSITIVE_TEXT](Incan)[ENDCOLOR] Inti Maceman",
+    "nameFormatted": "<span class=\"positive\">([COLOR:200:230:0:255]잉카</span>의) 잉티 철퇴병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 잉티 철퇴병",
     "type": "UNIT_INTI_MACEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Indian)</span> Dhanurdhara",
-    "name": "[COLOR_POSITIVE_TEXT](Indian)[ENDCOLOR] Dhanurdhara",
+    "nameFormatted": "<span class=\"positive\">([COLOR:60:210:60:255]인도</span>의) 다누르다라",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 다누르다라",
     "type": "UNIT_DHANURDHARA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Indonesian)</span> Djong",
-    "name": "[COLOR_POSITIVE_TEXT](Indonesian)[ENDCOLOR] Djong",
+    "nameFormatted": "<span class=\"positive\">([COLOR:68:193:203:255]인도네시아</span>의) 종",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:68:193:203:255]인도네시아[ENDCOLOR]의)[ENDCOLOR] 종",
     "type": "UNIT_DJONG",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Iroquois)</span> Prowler",
-    "name": "[COLOR_POSITIVE_TEXT](Iroquois)[ENDCOLOR] Prowler",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:150:160:255]이로쿼이</span>의) 프라울러",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 프라울러",
     "type": "UNIT_PROWLER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Japanese)</span> Yamato",
-    "name": "[COLOR_POSITIVE_TEXT](Japanese)[ENDCOLOR] Yamato",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:0:255]일본</span>의) 야마토급 전함",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 야마토급 전함",
     "type": "UNIT_YAMATO",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Mayan)</span> Holkan",
-    "name": "[COLOR_POSITIVE_TEXT](Mayan)[ENDCOLOR] Holkan",
+    "nameFormatted": "<span class=\"positive\">([COLOR:216:176:137:255]마야</span>의) 홀칸",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:216:176:137:255]마야[ENDCOLOR]의)[ENDCOLOR] 홀칸",
     "type": "UNIT_HOLKAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Mongolian)</span> Black Tug",
-    "name": "[COLOR_POSITIVE_TEXT](Mongolian)[ENDCOLOR] Black Tug",
+    "nameFormatted": "<span class=\"positive\">([COLOR:170:100:0:255]몽골</span>의) 검은 터그",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:100:0:255]몽골[ENDCOLOR]의)[ENDCOLOR] 검은 터그",
     "type": "UNIT_BLACK_TUG",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Moroccan)</span> Corsair",
-    "name": "[COLOR_POSITIVE_TEXT](Moroccan)[ENDCOLOR] Corsair",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:0:0:255]모로코</span>의) 커세어",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:0:0:255]모로코[ENDCOLOR]의)[ENDCOLOR] 커세어",
     "type": "UNIT_CORSAIR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Dutch)</span> Goedendag",
-    "name": "[COLOR_POSITIVE_TEXT](Dutch)[ENDCOLOR] Goedendag",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:151:66:255]네덜란드</span>의) 고덴닥",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:151:66:255]네덜란드[ENDCOLOR]의)[ENDCOLOR] 고덴닥",
     "type": "UNIT_GOEDENDAG",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Persian)</span> Qizilbash",
-    "name": "[COLOR_POSITIVE_TEXT](Persian)[ENDCOLOR] Qizilbash",
+    "nameFormatted": "<span class=\"positive\">([COLOR:230:50:0:255]페르시아</span>의) 키질바시",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:230:50:0:255]페르시아[ENDCOLOR]의)[ENDCOLOR] 키질바시",
     "type": "UNIT_QIZILBASH",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Polish)</span> Pancerny",
-    "name": "[COLOR_POSITIVE_TEXT](Polish)[ENDCOLOR] Pancerny",
+    "nameFormatted": "<span class=\"positive\">([COLOR:210:45:30:255]폴란드</span>의) 판체르니",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR]의)[ENDCOLOR] 판체르니",
     "type": "UNIT_PANCERNY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Polynesian)</span> Vaka Nui",
-    "name": "[COLOR_POSITIVE_TEXT](Polynesian)[ENDCOLOR] Vaka Nui",
+    "nameFormatted": "<span class=\"positive\">([COLOR:236:150:58:255]폴리네시아</span>의) 바카 누이",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:236:150:58:255]폴리네시아[ENDCOLOR]의)[ENDCOLOR] 바카 누이",
     "type": "UNIT_VAKA_NUI",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Portuguese)</span> Caçador",
-    "name": "[COLOR_POSITIVE_TEXT](Portuguese)[ENDCOLOR] Caçador",
+    "nameFormatted": "<span class=\"positive\">([COLOR:35:70:180:255]포르투갈</span>의) 카사도르",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]포르투갈[ENDCOLOR]의)[ENDCOLOR] 카사도르",
     "type": "UNIT_CACADOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Russian)</span> Licorne",
-    "name": "[COLOR_POSITIVE_TEXT](Russian)[ENDCOLOR] Licorne",
+    "nameFormatted": "<span class=\"positive\">([COLOR:240:210:110:255]러시아</span>의) 리꼼",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:210:110:255]러시아[ENDCOLOR]의)[ENDCOLOR] 리꼼",
     "type": "UNIT_LICORNE",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Shoshone)</span> Yellow Brow",
-    "name": "[COLOR_POSITIVE_TEXT](Shoshone)[ENDCOLOR] Yellow Brow",
+    "nameFormatted": "<span class=\"positive\">([COLOR:88:255:243:255]쇼쇼니</span>의) 오하무페",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]의)[ENDCOLOR] 오하무페",
     "type": "UNIT_YELLOW_BROW",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Siamese)</span> Suea Mop",
-    "name": "[COLOR_POSITIVE_TEXT](Siamese)[ENDCOLOR] Suea Mop",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:210:0:255]시암</span>의) 쓰아멉",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:210:0:255]시암[ENDCOLOR]의)[ENDCOLOR] 쓰아멉",
     "type": "UNIT_SUEA_MOP",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Songhai)</span> Sofa",
-    "name": "[COLOR_POSITIVE_TEXT](Songhai)[ENDCOLOR] Sofa",
+    "nameFormatted": "<span class=\"positive\">([COLOR:220:140:10:255]송가이</span>의) 소파",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:140:10:255]송가이[ENDCOLOR]의)[ENDCOLOR] 소파",
     "type": "UNIT_SOFA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Spanish)</span> Armada",
-    "name": "[COLOR_POSITIVE_TEXT](Spanish)[ENDCOLOR] Armada",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:60:90:255]스페인</span>의) 아르마다",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:60:90:255]스페인[ENDCOLOR]의)[ENDCOLOR] 아르마다",
     "type": "UNIT_ARMADA",
     "page": "units"
   },
   {
-    "nameFormatted": "Free Company",
-    "name": "Free Company",
+    "nameFormatted": "자유용병대",
+    "name": "자유용병대",
     "type": "UNIT_FREE_COMPANY",
     "page": "units"
   },
   {
-    "nameFormatted": "Mercenary",
-    "name": "Mercenary",
+    "nameFormatted": "용병",
+    "name": "용병",
     "type": "UNIT_MERCENARY",
     "page": "units"
   },
   {
-    "nameFormatted": "Courthouse",
-    "name": "Courthouse",
+    "nameFormatted": "법원",
+    "name": "법원",
     "type": "BUILDING_COURTHOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Indian)</span> Mughal Fort",
-    "name": "[COLOR_POSITIVE_TEXT](Indian)[ENDCOLOR] Mughal Fort",
+    "nameFormatted": "<span class=\"positive\">([COLOR:60:210:60:255]인도</span>의) 무굴 요새",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 무굴 요새",
     "type": "BUILDING_MUGHAL_FORT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Russian)</span> Ostrog",
-    "name": "[COLOR_POSITIVE_TEXT](Russian)[ENDCOLOR] Ostrog",
+    "nameFormatted": "<span class=\"positive\">([COLOR:240:210:110:255]러시아</span>의) 오스트로그",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:210:110:255]러시아[ENDCOLOR]의)[ENDCOLOR] 오스트로그",
     "type": "BUILDING_KREPOST",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Iroquois)</span> Longhouse",
-    "name": "[COLOR_POSITIVE_TEXT](Iroquois)[ENDCOLOR] Longhouse",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:150:160:255]이로쿼이</span>의) 롱하우스",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 롱하우스",
     "type": "BUILDING_LONGHOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Arabian)</span> Bazaar",
-    "name": "[COLOR_POSITIVE_TEXT](Arabian)[ENDCOLOR] Bazaar",
+    "nameFormatted": "<span class=\"positive\">([COLOR:100:150:100:255]아라비아</span>의) 바자",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:100:150:100:255]아라비아[ENDCOLOR]의)[ENDCOLOR] 바자",
     "type": "BUILDING_BAZAAR",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Persian)</span> Satrap's Court",
-    "name": "[COLOR_POSITIVE_TEXT](Persian)[ENDCOLOR] Satrap's Court",
+    "nameFormatted": "<span class=\"positive\">([COLOR:230:50:0:255]페르시아</span>의) 사트라프 관청",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:230:50:0:255]페르시아[ENDCOLOR]의)[ENDCOLOR] 사트라프 관청",
     "type": "BUILDING_SATRAPS_COURT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Siamese)</span> Wat",
-    "name": "[COLOR_POSITIVE_TEXT](Siamese)[ENDCOLOR] Wat",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:210:0:255]시암</span>의) 와트",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:210:0:255]시암[ENDCOLOR]의)[ENDCOLOR] 와트",
     "type": "BUILDING_WAT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Songhai)</span> Tabya",
-    "name": "[COLOR_POSITIVE_TEXT](Songhai)[ENDCOLOR] Tabya",
+    "nameFormatted": "<span class=\"positive\">([COLOR:220:140:10:255]송가이</span>의) 타브야",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:140:10:255]송가이[ENDCOLOR]의)[ENDCOLOR] 타브야",
     "type": "BUILDING_MUD_PYRAMID_MOSQUE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Seaport",
-    "name": "Seaport",
+    "nameFormatted": "항구",
+    "name": "항구",
     "type": "BUILDING_SEAPORT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Stable",
-    "name": "Stable",
+    "nameFormatted": "마구간",
+    "name": "마구간",
     "type": "BUILDING_STABLE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Water Mill",
-    "name": "Water Mill",
+    "nameFormatted": "물레방앗간",
+    "name": "물레방앗간",
     "type": "BUILDING_WATERMILL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Circus",
-    "name": "Circus",
+    "nameFormatted": "서커스",
+    "name": "서커스",
     "type": "BUILDING_CIRCUS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Forge",
-    "name": "Forge",
+    "nameFormatted": "대장간",
+    "name": "대장간",
     "type": "BUILDING_FORGE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Windmill",
-    "name": "Windmill",
+    "nameFormatted": "풍차",
+    "name": "풍차",
     "type": "BUILDING_WINDMILL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Hydroelectric Power Plant",
-    "name": "Hydroelectric Power Plant",
+    "nameFormatted": "수력 발전소",
+    "name": "수력 발전소",
     "type": "BUILDING_HYDRO_PLANT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Solar Power Plant",
-    "name": "Solar Power Plant",
+    "nameFormatted": "태양열 발전소",
+    "name": "태양열 발전소",
     "type": "BUILDING_SOLAR_PLANT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Customs House",
-    "name": "Customs House",
+    "nameFormatted": "세관",
+    "name": "세관",
     "type": "BUILDING_MINT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Observatory",
-    "name": "Observatory",
+    "nameFormatted": "천문대",
+    "name": "천문대",
     "type": "BUILDING_OBSERVATORY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Monastery",
-    "name": "Monastery",
+    "nameFormatted": "수도원",
+    "name": "수도원",
     "type": "BUILDING_MONASTERY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Garden",
-    "name": "Garden",
+    "nameFormatted": "정원",
+    "name": "정원",
     "type": "BUILDING_GARDEN",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Lighthouse",
-    "name": "Lighthouse",
+    "nameFormatted": "등대",
+    "name": "등대",
     "type": "BUILDING_LIGHTHOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Harbor",
-    "name": "Harbor",
+    "nameFormatted": "항만",
+    "name": "항만",
     "type": "BUILDING_HARBOR",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Arena",
-    "name": "Arena",
+    "nameFormatted": "투기장",
+    "name": "투기장",
     "type": "BUILDING_COLOSSEUM",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Zoo",
-    "name": "Zoo",
+    "nameFormatted": "동물원",
+    "name": "동물원",
     "type": "BUILDING_THEATRE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Stadium",
-    "name": "Stadium",
+    "nameFormatted": "경기장",
+    "name": "경기장",
     "type": "BUILDING_STADIUM",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Monument",
-    "name": "Monument",
+    "nameFormatted": "기념비",
+    "name": "기념비",
     "type": "BUILDING_MONUMENT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Temple",
-    "name": "Temple",
+    "nameFormatted": "사원",
+    "name": "사원",
     "type": "BUILDING_TEMPLE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Opera House",
-    "name": "Opera House",
+    "nameFormatted": "오페라 극장",
+    "name": "오페라 극장",
     "type": "BUILDING_OPERA_HOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Museum",
-    "name": "Museum",
+    "nameFormatted": "박물관",
+    "name": "박물관",
     "type": "BUILDING_MUSEUM",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Broadcast Tower",
-    "name": "Broadcast Tower",
+    "nameFormatted": "방송탑",
+    "name": "방송탑",
     "type": "BUILDING_BROADCAST_TOWER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Barracks",
-    "name": "Barracks",
+    "nameFormatted": "병영",
+    "name": "병영",
     "type": "BUILDING_BARRACKS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Armory",
-    "name": "Armory",
+    "nameFormatted": "무기고",
+    "name": "무기고",
     "type": "BUILDING_ARMORY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Military Academy",
-    "name": "Military Academy",
+    "nameFormatted": "사관 학교",
+    "name": "사관 학교",
     "type": "BUILDING_MILITARY_ACADEMY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Arsenal",
-    "name": "Arsenal",
+    "nameFormatted": "군수창고",
+    "name": "군수창고",
     "type": "BUILDING_ARSENAL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Walls",
-    "name": "Walls",
+    "nameFormatted": "성벽",
+    "name": "성벽",
     "type": "BUILDING_WALLS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Castle",
-    "name": "Castle",
+    "nameFormatted": "성",
+    "name": "성",
     "type": "BUILDING_CASTLE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Military Base",
-    "name": "Military Base",
+    "nameFormatted": "군사 기지",
+    "name": "군사 기지",
     "type": "BUILDING_MILITARY_BASE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Granary",
-    "name": "Granary",
+    "nameFormatted": "곡창",
+    "name": "곡창",
     "type": "BUILDING_GRANARY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Hospital",
-    "name": "Hospital",
+    "nameFormatted": "병원",
+    "name": "병원",
     "type": "BUILDING_HOSPITAL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Medical Lab",
-    "name": "Medical Lab",
+    "nameFormatted": "의학 연구소",
+    "name": "의학 연구소",
     "type": "BUILDING_MEDICAL_LAB",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Workshop",
-    "name": "Workshop",
+    "nameFormatted": "작업장",
+    "name": "작업장",
     "type": "BUILDING_WORKSHOP",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Factory",
-    "name": "Factory",
+    "nameFormatted": "공장",
+    "name": "공장",
     "type": "BUILDING_FACTORY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Nuclear Power Plant",
-    "name": "Nuclear Power Plant",
+    "nameFormatted": "원자력 발전소",
+    "name": "원자력 발전소",
     "type": "BUILDING_NUCLEAR_PLANT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Spaceship Factory",
-    "name": "Spaceship Factory",
+    "nameFormatted": "우주선 공장",
+    "name": "우주선 공장",
     "type": "BUILDING_SPACESHIP_FACTORY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Market",
-    "name": "Market",
+    "nameFormatted": "시장",
+    "name": "시장",
     "type": "BUILDING_MARKET",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Bank",
-    "name": "Bank",
+    "nameFormatted": "은행",
+    "name": "은행",
     "type": "BUILDING_BANK",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Stock Exchange",
-    "name": "Stock Exchange",
+    "nameFormatted": "증권 거래소",
+    "name": "증권 거래소",
     "type": "BUILDING_STOCK_EXCHANGE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Library",
-    "name": "Library",
+    "nameFormatted": "도서관",
+    "name": "도서관",
     "type": "BUILDING_LIBRARY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "University",
-    "name": "University",
+    "nameFormatted": "대학",
+    "name": "대학",
     "type": "BUILDING_UNIVERSITY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Public School",
-    "name": "Public School",
+    "nameFormatted": "공립학교",
+    "name": "공립학교",
     "type": "BUILDING_PUBLIC_SCHOOL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Research Lab",
-    "name": "Research Lab",
+    "nameFormatted": "연구소",
+    "name": "연구소",
     "type": "BUILDING_LABORATORY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Aqueduct",
-    "name": "Aqueduct",
+    "nameFormatted": "송수로",
+    "name": "송수로",
     "type": "BUILDING_AQUEDUCT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Stone Works",
-    "name": "Stone Works",
+    "nameFormatted": "석재 공장",
+    "name": "석재 공장",
     "type": "BUILDING_STONE_WORKS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Babylonian)</span> Walls of Babylon",
-    "name": "[COLOR_POSITIVE_TEXT](Babylonian)[ENDCOLOR] Walls of Babylon",
+    "nameFormatted": "<span class=\"positive\">([COLOR:50:120:120:255]바빌론</span>의) 바빌론 성벽",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:50:120:120:255]바빌론[ENDCOLOR]의)[ENDCOLOR] 바빌론 성벽",
     "type": "BUILDING_WALLS_OF_BABYLON",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Ceilidh Hall",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Ceilidh Hall",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 연회장",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 연회장",
     "type": "BUILDING_CEILIDH_HALL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Amphitheater",
-    "name": "Amphitheater",
+    "nameFormatted": "원형극장",
+    "name": "원형극장",
     "type": "BUILDING_AMPHITHEATER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Shrine",
-    "name": "Shrine",
+    "nameFormatted": "성소",
+    "name": "성소",
     "type": "BUILDING_SHRINE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Recycling Center",
-    "name": "Recycling Center",
+    "nameFormatted": "재활용 센터",
+    "name": "재활용 센터",
     "type": "BUILDING_RECYCLING_CENTER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Strategic Defense System",
-    "name": "Strategic Defense System",
+    "nameFormatted": "전략적 방어 시스템",
+    "name": "전략적 방어 시스템",
     "type": "BUILDING_BOMB_SHELTER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Constabulary",
-    "name": "Constabulary",
+    "nameFormatted": "경찰대",
+    "name": "경찰대",
     "type": "BUILDING_CONSTABLE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Police Station",
-    "name": "Police Station",
+    "nameFormatted": "경찰서",
+    "name": "경찰서",
     "type": "BUILDING_POLICE_STATION",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Cathedral",
-    "name": "Cathedral",
+    "nameFormatted": "대성당",
+    "name": "대성당",
     "type": "BUILDING_CATHEDRAL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Mosque",
-    "name": "Mosque",
+    "nameFormatted": "모스크",
+    "name": "모스크",
     "type": "BUILDING_MOSQUE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Pagoda",
-    "name": "Pagoda",
+    "nameFormatted": "파고다",
+    "name": "파고다",
     "type": "BUILDING_PAGODA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Ethiopian)</span> Stele",
-    "name": "[COLOR_POSITIVE_TEXT](Ethiopian)[ENDCOLOR] Stele",
+    "nameFormatted": "<span class=\"positive\">([COLOR:44:101:39:255]에티오피아</span>의) 스텔레",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:44:101:39:255]에티오피아[ENDCOLOR]의)[ENDCOLOR] 스텔레",
     "type": "BUILDING_STELE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Zulu)</span> Ikanda",
-    "name": "[COLOR_POSITIVE_TEXT](Zulu)[ENDCOLOR] Ikanda",
+    "nameFormatted": "<span class=\"positive\">([COLOR:170:120:80:255]줄루</span>의) 이칸다",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:120:80:255]줄루[ENDCOLOR]의)[ENDCOLOR] 이칸다",
     "type": "BUILDING_IKANDA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Polish)</span> Ducal Stable",
-    "name": "[COLOR_POSITIVE_TEXT](Polish)[ENDCOLOR] Ducal Stable",
+    "nameFormatted": "<span class=\"positive\">([COLOR:210:45:30:255]폴란드</span>의) 공작의 마구간",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR]의)[ENDCOLOR] 공작의 마구간",
     "type": "BUILDING_DUCAL_STABLE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Indonesian)</span> Candi",
-    "name": "[COLOR_POSITIVE_TEXT](Indonesian)[ENDCOLOR] Candi",
+    "nameFormatted": "<span class=\"positive\">([COLOR:68:193:203:255]인도네시아</span>의) 찬디",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:68:193:203:255]인도네시아[ENDCOLOR]의)[ENDCOLOR] 찬디",
     "type": "BUILDING_CANDI",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(German)</span> Hanse",
-    "name": "[COLOR_POSITIVE_TEXT](German)[ENDCOLOR] Hanse",
+    "nameFormatted": "<span class=\"positive\">([COLOR:120:120:120:255]독일</span>의) 한자",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:120:120:120:255]독일[ENDCOLOR]의)[ENDCOLOR] 한자",
     "type": "BUILDING_HANSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Writers' Guild",
-    "name": "Writers' Guild",
+    "nameFormatted": "작가 길드",
+    "name": "작가 길드",
     "type": "BUILDING_WRITERS_GUILD",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Artists' Guild",
-    "name": "Artists' Guild",
+    "nameFormatted": "예술가 길드",
+    "name": "예술가 길드",
     "type": "BUILDING_ARTISTS_GUILD",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Musicians' Guild",
-    "name": "Musicians' Guild",
+    "nameFormatted": "음악가 길드",
+    "name": "음악가 길드",
     "type": "BUILDING_MUSICIANS_GUILD",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Hotel",
-    "name": "Hotel",
+    "nameFormatted": "호텔",
+    "name": "호텔",
     "type": "BUILDING_HOTEL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Caravansary",
-    "name": "Caravansary",
+    "nameFormatted": "대상 숙소",
+    "name": "대상 숙소",
     "type": "BUILDING_CARAVANSARY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Airport",
-    "name": "Airport",
+    "nameFormatted": "공항",
+    "name": "공항",
     "type": "BUILDING_AIRPORT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Greek)</span> Parthenon",
-    "name": "[COLOR_POSITIVE_TEXT](Greek)[ENDCOLOR] Parthenon",
+    "nameFormatted": "<span class=\"positive\">([COLOR:130:190:230:255]그리스</span>의) 파르테논 신전",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:130:190:230:255]그리스[ENDCOLOR]의)[ENDCOLOR] 파르테논 신전",
     "type": "BUILDING_PARTHENON",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Council",
-    "name": "Council",
+    "nameFormatted": "자문회",
+    "name": "자문회",
     "type": "BUILDING_COUNCIL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Herbalist",
-    "name": "Herbalist",
+    "nameFormatted": "약초상",
+    "name": "약초상",
     "type": "BUILDING_HERBALIST",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Smokehouse",
-    "name": "Smokehouse",
+    "nameFormatted": "훈제실",
+    "name": "훈제실",
     "type": "BUILDING_SMOKEHOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Well",
-    "name": "Well",
+    "nameFormatted": "우물",
+    "name": "우물",
     "type": "BUILDING_WELL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Bath",
-    "name": "Bath",
+    "nameFormatted": "목욕탕",
+    "name": "목욕탕",
     "type": "BUILDING_BATH",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Chancery",
-    "name": "Chancery",
+    "nameFormatted": "외교 청사",
+    "name": "외교 청사",
     "type": "BUILDING_CHANCERY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Grocer",
-    "name": "Grocer",
+    "nameFormatted": "식료품 상점",
+    "name": "식료품 상점",
     "type": "BUILDING_GROCER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Gallery",
-    "name": "Gallery",
+    "nameFormatted": "갤러리",
+    "name": "갤러리",
     "type": "BUILDING_GALLERY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Bastion Fort",
-    "name": "Bastion Fort",
+    "nameFormatted": "성형 요새",
+    "name": "성형 요새",
     "type": "BUILDING_BASTION_FORT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Agribusiness",
-    "name": "Agribusiness",
+    "nameFormatted": "기업형 농장",
+    "name": "기업형 농장",
     "type": "BUILDING_AGRIBUSINESS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Coaling Station",
-    "name": "Coaling Station",
+    "nameFormatted": "석탄 저장소",
+    "name": "석탄 저장소",
     "type": "BUILDING_COALING_STATION",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Wire Service",
-    "name": "Wire Service",
+    "nameFormatted": "통신사",
+    "name": "통신사",
     "type": "BUILDING_WIRE_SERVICE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Mine Field",
-    "name": "Mine Field",
+    "nameFormatted": "지뢰밭",
+    "name": "지뢰밭",
     "type": "BUILDING_MINEFIELD",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Refinery",
-    "name": "Refinery",
+    "nameFormatted": "제련소",
+    "name": "제련소",
     "type": "BUILDING_REFINERY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Interpretive Center",
-    "name": "Interpretive Center",
+    "nameFormatted": "자료관",
+    "name": "자료관",
     "type": "BUILDING_INTERPRETIVE_CENTER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Tidal Power Plant",
-    "name": "Tidal Power Plant",
+    "nameFormatted": "조력 발전소",
+    "name": "조력 발전소",
     "type": "BUILDING_TIDAL_PLANT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Wind Power Plant",
-    "name": "Wind Power Plant",
+    "nameFormatted": "풍력 발전소",
+    "name": "풍력 발전소",
     "type": "BUILDING_WIND_PLANT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(American)</span> Homestead",
-    "name": "[COLOR_POSITIVE_TEXT](American)[ENDCOLOR] Homestead",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:120:200:255]미국</span>의) 홈스테드",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:120:200:255]미국[ENDCOLOR]의)[ENDCOLOR] 홈스테드",
     "type": "BUILDING_HOMESTEAD",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Arabian)</span> Bimaristan",
-    "name": "[COLOR_POSITIVE_TEXT](Arabian)[ENDCOLOR] Bimaristan",
+    "nameFormatted": "<span class=\"positive\">([COLOR:100:150:100:255]아라비아</span>의) 비마리스탄",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:100:150:100:255]아라비아[ENDCOLOR]의)[ENDCOLOR] 비마리스탄",
     "type": "BUILDING_BIMARISTAN",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Assyrian)</span> Lamassu Gate",
-    "name": "[COLOR_POSITIVE_TEXT](Assyrian)[ENDCOLOR] Lamassu Gate",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:189:25:255]아시리아</span>의) 라마수 관문",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:189:25:255]아시리아[ENDCOLOR]의)[ENDCOLOR] 라마수 관문",
     "type": "BUILDING_LAMASSU_GATE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Austrian)</span> Schützenstand",
-    "name": "[COLOR_POSITIVE_TEXT](Austrian)[ENDCOLOR] Schützenstand",
+    "nameFormatted": "<span class=\"positive\">([COLOR:245:119:119:255]오스트리아</span>의) 슈탄드쉬첸",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:245:119:119:255]오스트리아[ENDCOLOR]의)[ENDCOLOR] 슈탄드쉬첸",
     "type": "BUILDING_SCHUTZENSTAND",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Aztec)</span> Telpochcalli",
-    "name": "[COLOR_POSITIVE_TEXT](Aztec)[ENDCOLOR] Telpochcalli",
+    "nameFormatted": "<span class=\"positive\">([COLOR:140:80:80:255]아즈텍</span>의) 텔포치칼리",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:140:80:80:255]아즈텍[ENDCOLOR]의)[ENDCOLOR] 텔포치칼리",
     "type": "BUILDING_TELPOCHCALLI",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Brazilian)</span> Embrapa",
-    "name": "[COLOR_POSITIVE_TEXT](Brazilian)[ENDCOLOR] Embrapa",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:190:30:255]브라질</span>의) 엠브라파",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:190:30:255]브라질[ENDCOLOR]의)[ENDCOLOR] 엠브라파",
     "type": "BUILDING_EMBRAPA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Byzantine)</span> Tetraconch",
-    "name": "[COLOR_POSITIVE_TEXT](Byzantine)[ENDCOLOR] Tetraconch",
+    "nameFormatted": "<span class=\"positive\">([COLOR:204:227:248:255]비잔티움</span>의) 테트라콘치",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:204:227:248:255]비잔티움[ENDCOLOR]의)[ENDCOLOR] 테트라콘치",
     "type": "BUILDING_TETRACONCH",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Chinese)</span> Examination Hall",
-    "name": "[COLOR_POSITIVE_TEXT](Chinese)[ENDCOLOR] Examination Hall",
+    "nameFormatted": "<span class=\"positive\">([COLOR:90:210:90:255]중국</span>의) 과거 고사장",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:90:210:90:255]중국[ENDCOLOR]의)[ENDCOLOR] 과거 고사장",
     "type": "BUILDING_EXAMINATION_HALL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Danish)</span> Runestone",
-    "name": "[COLOR_POSITIVE_TEXT](Danish)[ENDCOLOR] Runestone",
+    "nameFormatted": "<span class=\"positive\">([COLOR:220:100:10:255]덴마크</span>의) 룬스톤",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:100:10:255]덴마크[ENDCOLOR]의)[ENDCOLOR] 룬스톤",
     "type": "BUILDING_RUNESTONE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Danish)</span> Andelsbevægelse",
-    "name": "[COLOR_POSITIVE_TEXT](Danish)[ENDCOLOR] Andelsbevægelse",
+    "nameFormatted": "<span class=\"positive\">([COLOR:220:100:10:255]덴마크</span>의) 안델스베베겔세",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:100:10:255]덴마크[ENDCOLOR]의)[ENDCOLOR] 안델스베베겔세",
     "type": "BUILDING_ANDELSBEVAEGELSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Egyptian)</span> Nilometer",
-    "name": "[COLOR_POSITIVE_TEXT](Egyptian)[ENDCOLOR] Nilometer",
+    "nameFormatted": "<span class=\"positive\">([COLOR:240:220:70:255]이집트</span>의) 나일 강 수위계",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:220:70:255]이집트[ENDCOLOR]의)[ENDCOLOR] 나일 강 수위계",
     "type": "BUILDING_NILOMETER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(English)</span> Steam Mill",
-    "name": "[COLOR_POSITIVE_TEXT](English)[ENDCOLOR] Steam Mill",
+    "nameFormatted": "<span class=\"positive\">([COLOR:190:80:70:255]영국</span>의) 증기 방앗간",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 증기 방앗간",
     "type": "BUILDING_STEAM_MILL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(French)</span> Salon",
-    "name": "[COLOR_POSITIVE_TEXT](French)[ENDCOLOR] Salon",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:160:220:255]프랑스</span>의) 살롱",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:160:220:255]프랑스[ENDCOLOR]의)[ENDCOLOR] 살롱",
     "type": "BUILDING_SALON",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(German)</span> Brewhouse",
-    "name": "[COLOR_POSITIVE_TEXT](German)[ENDCOLOR] Brewhouse",
+    "nameFormatted": "<span class=\"positive\">([COLOR:120:120:120:255]독일</span>의) 양조장",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:120:120:120:255]독일[ENDCOLOR]의)[ENDCOLOR] 양조장",
     "type": "BUILDING_BREWHOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Greek)</span> Gymnasion",
-    "name": "[COLOR_POSITIVE_TEXT](Greek)[ENDCOLOR] Gymnasion",
+    "nameFormatted": "<span class=\"positive\">([COLOR:130:190:230:255]그리스</span>의) 김나시온",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:130:190:230:255]그리스[ENDCOLOR]의)[ENDCOLOR] 김나시온",
     "type": "BUILDING_GYMNASION",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Incan)</span> Qullqa",
-    "name": "[COLOR_POSITIVE_TEXT](Incan)[ENDCOLOR] Qullqa",
+    "nameFormatted": "<span class=\"positive\">([COLOR:200:230:0:255]잉카</span>의) 퀄카",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 퀄카",
     "type": "BUILDING_QULLQA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Indian)</span> Harappan Reservoir",
-    "name": "[COLOR_POSITIVE_TEXT](Indian)[ENDCOLOR] Harappan Reservoir",
+    "nameFormatted": "<span class=\"positive\">([COLOR:60:210:60:255]인도</span>의) 하라파 저수지",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 하라파 저수지",
     "type": "BUILDING_HARAPPAN_RESERVOIR",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Japanese)</span> Dojo",
-    "name": "[COLOR_POSITIVE_TEXT](Japanese)[ENDCOLOR] Dojo",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:0:255]일본</span>의) 도장",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 도장",
     "type": "BUILDING_DOJO",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Japanese)</span> Kabuki Theater",
-    "name": "[COLOR_POSITIVE_TEXT](Japanese)[ENDCOLOR] Kabuki Theater",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:0:255]일본</span>의) 가부키 극장",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 가부키 극장",
     "type": "BUILDING_KABUKI_THEATER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Korean)</span> Seowon",
-    "name": "[COLOR_POSITIVE_TEXT](Korean)[ENDCOLOR] Seowon",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:50:255]한국</span>의) 서원",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:50:255]한국[ENDCOLOR]의)[ENDCOLOR] 서원",
     "type": "BUILDING_SEOWON",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Korean)</span> Chaebol",
-    "name": "[COLOR_POSITIVE_TEXT](Korean)[ENDCOLOR] Chaebol",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:50:255]한국</span>의) 재벌",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:50:255]한국[ENDCOLOR]의)[ENDCOLOR] 재벌",
     "type": "BUILDING_CHAEBOL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Mayan)</span> Pitz Court",
-    "name": "[COLOR_POSITIVE_TEXT](Mayan)[ENDCOLOR] Pitz Court",
+    "nameFormatted": "<span class=\"positive\">([COLOR:216:176:137:255]마야</span>의) 피츠 코트",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:216:176:137:255]마야[ENDCOLOR]의)[ENDCOLOR] 피츠 코트",
     "type": "BUILDING_PITZ_COURT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Mongolian)</span> Ger",
-    "name": "[COLOR_POSITIVE_TEXT](Mongolian)[ENDCOLOR] Ger",
+    "nameFormatted": "<span class=\"positive\">([COLOR:170:100:0:255]몽골</span>의) 게르",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:100:0:255]몽골[ENDCOLOR]의)[ENDCOLOR] 게르",
     "type": "BUILDING_GER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Moroccan)</span> Riad",
-    "name": "[COLOR_POSITIVE_TEXT](Moroccan)[ENDCOLOR] Riad",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:0:0:255]모로코</span>의) 리야드",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:0:0:255]모로코[ENDCOLOR]의)[ENDCOLOR] 리야드",
     "type": "BUILDING_RIAD",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Dutch)</span> Doelen",
-    "name": "[COLOR_POSITIVE_TEXT](Dutch)[ENDCOLOR] Doelen",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:151:66:255]네덜란드</span>의) 도엘렌",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:151:66:255]네덜란드[ENDCOLOR]의)[ENDCOLOR] 도엘렌",
     "type": "BUILDING_DOELEN",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Ottoman)</span> Siege Foundry",
-    "name": "[COLOR_POSITIVE_TEXT](Ottoman)[ENDCOLOR] Siege Foundry",
+    "nameFormatted": "<span class=\"positive\">([COLOR:60:140:70:255]오스만</span>의) 공성 주조 공장",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:140:70:255]오스만[ENDCOLOR]의)[ENDCOLOR] 공성 주조 공장",
     "type": "BUILDING_SIEGE_FOUNDRY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Polish)</span> Barbican",
-    "name": "[COLOR_POSITIVE_TEXT](Polish)[ENDCOLOR] Barbican",
+    "nameFormatted": "<span class=\"positive\">([COLOR:210:45:30:255]폴란드</span>의) 바비칸",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR]의)[ENDCOLOR] 바비칸",
     "type": "BUILDING_BARBICAN",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Polynesian)</span> Marae",
-    "name": "[COLOR_POSITIVE_TEXT](Polynesian)[ENDCOLOR] Marae",
+    "nameFormatted": "<span class=\"positive\">([COLOR:236:150:58:255]폴리네시아</span>의) 마라이",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:236:150:58:255]폴리네시아[ENDCOLOR]의)[ENDCOLOR] 마라이",
     "type": "BUILDING_MARAE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Russian)</span> Pogost",
-    "name": "[COLOR_POSITIVE_TEXT](Russian)[ENDCOLOR] Pogost",
+    "nameFormatted": "<span class=\"positive\">([COLOR:240:210:110:255]러시아</span>의) 포고스트",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:210:110:255]러시아[ENDCOLOR]의)[ENDCOLOR] 포고스트",
     "type": "BUILDING_POGOST",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Shoshone)</span> Buffalo Pound",
-    "name": "[COLOR_POSITIVE_TEXT](Shoshone)[ENDCOLOR] Buffalo Pound",
+    "nameFormatted": "<span class=\"positive\">([COLOR:88:255:243:255]쇼쇼니</span>의) 버팔로 파운드",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]의)[ENDCOLOR] 버팔로 파운드",
     "type": "BUILDING_BUFFALO_POUND",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Siamese)</span> Elephant Camp",
-    "name": "[COLOR_POSITIVE_TEXT](Siamese)[ENDCOLOR] Elephant Camp",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:210:0:255]시암</span>의) 코끼리 야영지",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:210:0:255]시암[ENDCOLOR]의)[ENDCOLOR] 코끼리 야영지",
     "type": "BUILDING_ELEPHANT_CAMP",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Songhai)</span> Gumey",
-    "name": "[COLOR_POSITIVE_TEXT](Songhai)[ENDCOLOR] Gumey",
+    "nameFormatted": "<span class=\"positive\">([COLOR:220:140:10:255]송가이</span>의) 구메이",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:140:10:255]송가이[ENDCOLOR]의)[ENDCOLOR] 구메이",
     "type": "BUILDING_GUMEY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Spanish)</span> Bullring",
-    "name": "[COLOR_POSITIVE_TEXT](Spanish)[ENDCOLOR] Bullring",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:60:90:255]스페인</span>의) 투우장",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:60:90:255]스페인[ENDCOLOR]의)[ENDCOLOR] 투우장",
     "type": "BUILDING_BULLRING",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Swedish)</span> Bastu",
-    "name": "[COLOR_POSITIVE_TEXT](Swedish)[ENDCOLOR] Bastu",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:98:191:255]스웨덴</span>의) 바스투",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:98:191:255]스웨덴[ENDCOLOR]의)[ENDCOLOR] 바스투",
     "type": "BUILDING_BASTU",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Zulu)</span> Iziko",
-    "name": "[COLOR_POSITIVE_TEXT](Zulu)[ENDCOLOR] Iziko",
+    "nameFormatted": "<span class=\"positive\">([COLOR:170:120:80:255]줄루</span>의) 이지코",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:120:80:255]줄루[ENDCOLOR]의)[ENDCOLOR] 이지코",
     "type": "BUILDING_IZIKO",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Scrivener's Office",
-    "name": "Scrivener's Office",
+    "nameFormatted": "법무소",
+    "name": "법무소",
     "type": "BUILDING_SCRIVENERS_OFFICE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Printing Press",
-    "name": "Printing Press",
+    "nameFormatted": "인쇄국",
+    "name": "인쇄국",
     "type": "BUILDING_PRINTING_PRESS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Foreign Bureau",
-    "name": "Foreign Bureau",
+    "nameFormatted": "외무성",
+    "name": "외무성",
     "type": "BUILDING_FOREIGN_BUREAU",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Austrian)</span> Ballhausplatz",
-    "name": "[COLOR_POSITIVE_TEXT](Austrian)[ENDCOLOR] Ballhausplatz",
+    "nameFormatted": "<span class=\"positive\">([COLOR:245:119:119:255]오스트리아</span>의) 발하우스플라츠",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:245:119:119:255]오스트리아[ENDCOLOR]의)[ENDCOLOR] 발하우스플라츠",
     "type": "BUILDING_BALLHAUSPLATZ",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Swedish)</span> Nobel Committee",
-    "name": "[COLOR_POSITIVE_TEXT](Swedish)[ENDCOLOR] Nobel Committee",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:98:191:255]스웨덴</span>의) 노벨상 위원회",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:98:191:255]스웨덴[ENDCOLOR]의)[ENDCOLOR] 노벨상 위원회",
     "type": "BUILDING_NOBEL_COMMITTEE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Arsenale di Venezia",
-    "name": "Arsenale di Venezia",
+    "nameFormatted": "아르세날레 디 베네치아",
+    "name": "아르세날레 디 베네치아",
     "type": "BUILDING_ARSENALE_DI_VENEZIA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Murano Glassworks",
-    "name": "Murano Glassworks",
+    "nameFormatted": "무라노 유리공방",
+    "name": "무라노 유리공방",
     "type": "BUILDING_MURANO_GLASSWORKS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Rialto District",
-    "name": "Rialto District",
+    "nameFormatted": "리알토 지구",
+    "name": "리알토 지구",
     "type": "BUILDING_RIALTO_DISTRICT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Throne Room",
-    "name": "Throne Room",
+    "nameFormatted": "알현실",
+    "name": "알현실",
     "type": "BUILDING_THRONE_ROOM",
     "page": "buildings"
   },
   {
-    "nameFormatted": "State Treasury",
-    "name": "State Treasury",
+    "nameFormatted": "국고",
+    "name": "국고",
     "type": "BUILDING_STATE_TREASURY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Royal Guardhouse",
-    "name": "Royal Guardhouse",
+    "nameFormatted": "근위병 초소",
+    "name": "근위병 초소",
     "type": "BUILDING_ROYAL_GUARDHOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Palace Gardens",
-    "name": "Palace Gardens",
+    "nameFormatted": "궁전 정원",
+    "name": "궁전 정원",
     "type": "BUILDING_PALACE_GARDEN",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Court Chapel",
-    "name": "Court Chapel",
+    "nameFormatted": "궁정 예배당",
+    "name": "궁정 예배당",
     "type": "BUILDING_COURT_CHAPEL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Royal Astrologer",
-    "name": "Royal Astrologer",
+    "nameFormatted": "궁정 점술가",
+    "name": "궁정 점술가",
     "type": "BUILDING_ROYAL_ASTROLOGER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Stupa",
-    "name": "Stupa",
+    "nameFormatted": "사리탑",
+    "name": "사리탑",
     "type": "BUILDING_STUPA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Church",
-    "name": "Church",
+    "nameFormatted": "교회",
+    "name": "교회",
     "type": "BUILDING_CHURCH",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Mandir",
-    "name": "Mandir",
+    "nameFormatted": "만디르",
+    "name": "만디르",
     "type": "BUILDING_MANDIR",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Synagogue",
-    "name": "Synagogue",
+    "nameFormatted": "회당",
+    "name": "회당",
     "type": "BUILDING_SYNAGOGUE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Order",
-    "name": "Order",
+    "nameFormatted": "기사단",
+    "name": "기사단",
     "type": "BUILDING_ORDER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Teocalli",
-    "name": "Teocalli",
+    "nameFormatted": "테오칼리",
+    "name": "테오칼리",
     "type": "BUILDING_TEOCALLI",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Gurdwara",
-    "name": "Gurdwara",
+    "nameFormatted": "구루드와라",
+    "name": "구루드와라",
     "type": "BUILDING_GURDWARA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Trader Sid's Office",
-    "name": "Trader Sid's Office",
+    "nameFormatted": "시드 무역 오피스",
+    "name": "시드 무역 오피스",
     "type": "BUILDING_TRADER_SIDS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Centaurus Extractors Office",
-    "name": "Centaurus Extractors Office",
+    "nameFormatted": "센타우리 개발 오피스",
+    "name": "센타우리 개발 오피스",
     "type": "BUILDING_CENTAURUS_EXTRACTORS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Hexxon Refineries Office",
-    "name": "Hexxon Refineries Office",
+    "nameFormatted": "헥손 정유 오피스",
+    "name": "헥손 정유 오피스",
     "type": "BUILDING_HEXXON_REFINERY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Giorgio Armeier Office",
-    "name": "Giorgio Armeier Office",
+    "nameFormatted": "조르지오 아르미에 오피스",
+    "name": "조르지오 아르미에 오피스",
     "type": "BUILDING_GIORGIO_ARMEIER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Firaxite Materials Office",
-    "name": "Firaxite Materials Office",
+    "nameFormatted": "파이락사이트 소재 오피스",
+    "name": "파이락사이트 소재 오피스",
     "type": "BUILDING_FIRAXITE_MATERIALS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "TwoKay Foods Office",
-    "name": "TwoKay Foods Office",
+    "nameFormatted": "투케이 푸드 오피스",
+    "name": "투케이 푸드 오피스",
     "type": "BUILDING_TWOKAY_FOODS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Civilized Jewelers Office",
-    "name": "Civilized Jewelers Office",
+    "nameFormatted": "시빌 보석 오피스",
+    "name": "시빌 보석 오피스",
     "type": "BUILDING_CIVILIZED_JEWELERS",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Trader Sid's Franchise",
-    "name": "Trader Sid's Franchise",
+    "nameFormatted": "시드 무역 프랜차이즈",
+    "name": "시드 무역 프랜차이즈",
     "type": "BUILDING_TRADER_SIDS_FRANCHISE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Centaurus Extractors Franchise",
-    "name": "Centaurus Extractors Franchise",
+    "nameFormatted": "센타우리 개발 프랜차이즈",
+    "name": "센타우리 개발 프랜차이즈",
     "type": "BUILDING_CENTAURUS_EXTRACTORS_FRANCHISE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Hexxon Refineries Franchise",
-    "name": "Hexxon Refineries Franchise",
+    "nameFormatted": "헥손 정유 프랜차이즈",
+    "name": "헥손 정유 프랜차이즈",
     "type": "BUILDING_HEXXON_REFINERY_FRANCHISE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Giorgio Armeier Franchise",
-    "name": "Giorgio Armeier Franchise",
+    "nameFormatted": "조르지오 아르미에 프랜차이즈",
+    "name": "조르지오 아르미에 프랜차이즈",
     "type": "BUILDING_GIORGIO_ARMEIER_FRANCHISE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Firaxite Materials Franchise",
-    "name": "Firaxite Materials Franchise",
+    "nameFormatted": "파이락사이트 소재 프랜차이즈",
+    "name": "파이락사이트 소재 프랜차이즈",
     "type": "BUILDING_FIRAXITE_MATERIALS_FRANCHISE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "TwoKay Foods Franchise",
-    "name": "TwoKay Foods Franchise",
+    "nameFormatted": "투케이 푸드 프랜차이즈",
+    "name": "투케이 푸드 프랜차이즈",
     "type": "BUILDING_TWOKAY_FOODS_FRANCHISE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Civilized Jewelers Franchise",
-    "name": "Civilized Jewelers Franchise",
+    "nameFormatted": "시빌 보석 프랜차이즈",
+    "name": "시빌 보석 프랜차이즈",
     "type": "BUILDING_CIVILIZED_JEWELERS_FRANCHISE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "Palace",
-    "name": "Palace",
+    "nameFormatted": "궁전",
+    "name": "궁전",
     "type": "BUILDING_PALACE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Heroic Epic",
-    "name": "Heroic Epic",
+    "nameFormatted": "영웅 서사시",
+    "name": "영웅 서사시",
     "type": "BUILDING_HEROIC_EPIC",
     "page": "wonders"
   },
   {
-    "nameFormatted": "School of Philosophy",
-    "name": "School of Philosophy",
+    "nameFormatted": "국립 대학",
+    "name": "국립 대학",
     "type": "BUILDING_NATIONAL_COLLEGE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "National Monument",
-    "name": "National Monument",
+    "nameFormatted": "국가 기념비",
+    "name": "국가 기념비",
     "type": "BUILDING_NATIONAL_EPIC",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Circus Maximus",
-    "name": "Circus Maximus",
+    "nameFormatted": "원형 경기장",
+    "name": "원형 경기장",
     "type": "BUILDING_CIRCUS_MAXIMUS",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Chartered Company",
-    "name": "Chartered Company",
+    "nameFormatted": "특허 회사",
+    "name": "특허 회사",
     "type": "BUILDING_NATIONAL_TREASURY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Ironworks",
-    "name": "Ironworks",
+    "nameFormatted": "제철소",
+    "name": "제철소",
     "type": "BUILDING_IRONWORKS",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Imperial College",
-    "name": "Imperial College",
+    "nameFormatted": "제국 대학",
+    "name": "제국 대학",
     "type": "BUILDING_OXFORD_UNIVERSITY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Royal Collection",
-    "name": "Royal Collection",
+    "nameFormatted": "왕실 컬렉션",
+    "name": "왕실 컬렉션",
     "type": "BUILDING_HERMITAGE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Great Lighthouse",
-    "name": "Great Lighthouse",
+    "nameFormatted": "파로스 등대",
+    "name": "파로스 등대",
     "type": "BUILDING_GREAT_LIGHTHOUSE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Stonehenge",
-    "name": "Stonehenge",
+    "nameFormatted": "스톤헨지",
+    "name": "스톤헨지",
     "type": "BUILDING_STONEHENGE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Great Library",
-    "name": "Great Library",
+    "nameFormatted": "알렉산드리아 도서관",
+    "name": "알렉산드리아 도서관",
     "type": "BUILDING_GREAT_LIBRARY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Pyramids",
-    "name": "Pyramids",
+    "nameFormatted": "피라미드",
+    "name": "피라미드",
     "type": "BUILDING_PYRAMID",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Colossus",
-    "name": "Colossus",
+    "nameFormatted": "로도스의 거상",
+    "name": "로도스의 거상",
     "type": "BUILDING_COLOSSUS",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Oracle",
-    "name": "Oracle",
+    "nameFormatted": "오라클",
+    "name": "오라클",
     "type": "BUILDING_ORACLE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Hanging Gardens",
-    "name": "Hanging Gardens",
+    "nameFormatted": "공중 정원",
+    "name": "공중 정원",
     "type": "BUILDING_HANGING_GARDEN",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Great Wall",
-    "name": "Great Wall",
+    "nameFormatted": "만리장성",
+    "name": "만리장성",
     "type": "BUILDING_GREAT_WALL",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Angkor Wat",
-    "name": "Angkor Wat",
+    "nameFormatted": "앙코르와트",
+    "name": "앙코르와트",
     "type": "BUILDING_ANGKOR_WAT",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Hagia Sophia",
-    "name": "Hagia Sophia",
+    "nameFormatted": "아야 소피아",
+    "name": "아야 소피아",
     "type": "BUILDING_HAGIA_SOPHIA",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Chichen Itza",
-    "name": "Chichen Itza",
+    "nameFormatted": "치첸이트사",
+    "name": "치첸이트사",
     "type": "BUILDING_CHICHEN_ITZA",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Machu Picchu",
-    "name": "Machu Picchu",
+    "nameFormatted": "마추픽추",
+    "name": "마추픽추",
     "type": "BUILDING_MACHU_PICHU",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Notre Dame",
-    "name": "Notre Dame",
+    "nameFormatted": "노트르담 대성당",
+    "name": "노트르담 대성당",
     "type": "BUILDING_NOTRE_DAME",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Porcelain Tower",
-    "name": "Porcelain Tower",
+    "nameFormatted": "영곡탑",
+    "name": "영곡탑",
     "type": "BUILDING_PORCELAIN_TOWER",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Himeji Castle",
-    "name": "Himeji Castle",
+    "nameFormatted": "히메지 성",
+    "name": "히메지 성",
     "type": "BUILDING_HIMEJI_CASTLE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Sistine Chapel",
-    "name": "Sistine Chapel",
+    "nameFormatted": "시스티나 성당",
+    "name": "시스티나 성당",
     "type": "BUILDING_SISTINE_CHAPEL",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Kremlin",
-    "name": "Kremlin",
+    "nameFormatted": "크렘린 궁전",
+    "name": "크렘린 궁전",
     "type": "BUILDING_KREMLIN",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Forbidden Palace",
-    "name": "Forbidden Palace",
+    "nameFormatted": "자금성",
+    "name": "자금성",
     "type": "BUILDING_FORBIDDEN_PALACE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Taj Mahal",
-    "name": "Taj Mahal",
+    "nameFormatted": "타지마할",
+    "name": "타지마할",
     "type": "BUILDING_TAJ_MAHAL",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Palace of Westminster",
-    "name": "Palace of Westminster",
+    "nameFormatted": "웨스트민스터 궁전",
+    "name": "웨스트민스터 궁전",
     "type": "BUILDING_BIG_BEN",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Louvre",
-    "name": "Louvre",
+    "nameFormatted": "루브르 박물관",
+    "name": "루브르 박물관",
     "type": "BUILDING_LOUVRE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Brandenburg Gate",
-    "name": "Brandenburg Gate",
+    "nameFormatted": "브란덴부르크 문",
+    "name": "브란덴부르크 문",
     "type": "BUILDING_BRANDENBURG_GATE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Statue of Liberty",
-    "name": "Statue of Liberty",
+    "nameFormatted": "자유의 여신상",
+    "name": "자유의 여신상",
     "type": "BUILDING_STATUE_OF_LIBERTY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Cristo Redentor",
-    "name": "Cristo Redentor",
+    "nameFormatted": "구세주 그리스도상",
+    "name": "구세주 그리스도상",
     "type": "BUILDING_CRISTO_REDENTOR",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Eiffel Tower",
-    "name": "Eiffel Tower",
+    "nameFormatted": "에펠탑",
+    "name": "에펠탑",
     "type": "BUILDING_EIFFEL_TOWER",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Pentagon",
-    "name": "Pentagon",
+    "nameFormatted": "펜타곤",
+    "name": "펜타곤",
     "type": "BUILDING_PENTAGON",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Sydney Opera House",
-    "name": "Sydney Opera House",
+    "nameFormatted": "시드니 오페라하우스",
+    "name": "시드니 오페라하우스",
     "type": "BUILDING_SYDNEY_OPERA_HOUSE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Statue of Zeus",
-    "name": "Statue of Zeus",
+    "nameFormatted": "제우스 동상",
+    "name": "제우스 동상",
     "type": "BUILDING_STATUE_ZEUS",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Temple of Artemis",
-    "name": "Temple of Artemis",
+    "nameFormatted": "아르테미스 사원",
+    "name": "아르테미스 사원",
     "type": "BUILDING_TEMPLE_ARTEMIS",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Mausoleum of Halicarnassus",
-    "name": "Mausoleum of Halicarnassus",
+    "nameFormatted": "할리카르나소스의 영묘",
+    "name": "할리카르나소스의 영묘",
     "type": "BUILDING_MAUSOLEUM_HALICARNASSUS",
     "page": "wonders"
   },
   {
-    "nameFormatted": "National Intelligence Agency",
-    "name": "National Intelligence Agency",
+    "nameFormatted": "국가 정보국",
+    "name": "국가 정보국",
     "type": "BUILDING_INTELLIGENCE_AGENCY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Alhambra",
-    "name": "Alhambra",
+    "nameFormatted": "알함브라 궁전",
+    "name": "알함브라 궁전",
     "type": "BUILDING_ALHAMBRA",
     "page": "wonders"
   },
   {
-    "nameFormatted": "CN Tower",
-    "name": "CN Tower",
+    "nameFormatted": "CN 타워",
+    "name": "CN 타워",
     "type": "BUILDING_CN_TOWER",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Hubble Space Telescope",
-    "name": "Hubble Space Telescope",
+    "nameFormatted": "허블 우주 망원경",
+    "name": "허블 우주 망원경",
     "type": "BUILDING_HUBBLE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Leaning Tower of Pisa",
-    "name": "Leaning Tower of Pisa",
+    "nameFormatted": "피사의 사탑",
+    "name": "피사의 사탑",
     "type": "BUILDING_LEANING_TOWER",
     "page": "wonders"
   },
   {
-    "nameFormatted": "University of Sankore",
-    "name": "University of Sankore",
+    "nameFormatted": "상코레 대학",
+    "name": "상코레 대학",
     "type": "BUILDING_MOSQUE_OF_DJENNE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Neuschwanstein",
-    "name": "Neuschwanstein",
+    "nameFormatted": "노이슈반슈타인 성",
+    "name": "노이슈반슈타인 성",
     "type": "BUILDING_NEUSCHWANSTEIN",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Petra",
-    "name": "Petra",
+    "nameFormatted": "페트라",
+    "name": "페트라",
     "type": "BUILDING_PETRA",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Terracotta Army",
-    "name": "Terracotta Army",
+    "nameFormatted": "병마용",
+    "name": "병마용",
     "type": "BUILDING_TERRACOTTA_ARMY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Great Firewall",
-    "name": "Great Firewall",
+    "nameFormatted": "인터넷 검열 시스템",
+    "name": "인터넷 검열 시스템",
     "type": "BUILDING_GREAT_FIREWALL",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Grand Temple",
-    "name": "Grand Temple",
+    "nameFormatted": "대사원",
+    "name": "대사원",
     "type": "BUILDING_GRAND_TEMPLE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Assyrian)</span> Royal Library",
-    "name": "[COLOR_POSITIVE_TEXT](Assyrian)[ENDCOLOR] Royal Library",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:189:25:255]아시리아</span>의) 왕립 도서관",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:189:25:255]아시리아[ENDCOLOR]의)[ENDCOLOR] 왕립 도서관",
     "type": "BUILDING_ROYAL_LIBRARY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Uffizi",
-    "name": "Uffizi",
+    "nameFormatted": "우피치 미술관",
+    "name": "우피치 미술관",
     "type": "BUILDING_UFFIZI",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Globe Theatre",
-    "name": "Globe Theatre",
+    "nameFormatted": "글로브 극장",
+    "name": "글로브 극장",
     "type": "BUILDING_GLOBE_THEATER",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Broadway",
-    "name": "Broadway",
+    "nameFormatted": "브로드웨이",
+    "name": "브로드웨이",
     "type": "BUILDING_BROADWAY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Red Fort",
-    "name": "Red Fort",
+    "nameFormatted": "붉은 요새",
+    "name": "붉은 요새",
     "type": "BUILDING_RED_FORT",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Prora",
-    "name": "Prora",
+    "nameFormatted": "프로라 해변 리조트",
+    "name": "프로라 해변 리조트",
     "type": "BUILDING_PRORA_RESORT",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Borobudur",
-    "name": "Borobudur",
+    "nameFormatted": "보로부두르 사원",
+    "name": "보로부두르 사원",
     "type": "BUILDING_BOROBUDUR",
     "page": "wonders"
   },
   {
-    "nameFormatted": "International Space Station",
-    "name": "International Space Station",
+    "nameFormatted": "국제 우주 정거장",
+    "name": "국제 우주 정거장",
     "type": "BUILDING_INTERNATIONAL_SPACE_STATION",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Palace of Culture and Science",
-    "name": "Palace of Culture and Science",
+    "nameFormatted": "문화 과학 궁전",
+    "name": "문화 과학 궁전",
     "type": "BUILDING_PALACE_CULTURE_SCIENCE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "International Finance Center",
-    "name": "International Finance Center",
+    "nameFormatted": "국제 금융 센터",
+    "name": "국제 금융 센터",
     "type": "BUILDING_INTERNATIONAL_FINANCE_CENTER",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Hall of Honor",
-    "name": "Hall of Honor",
+    "nameFormatted": "명예의 전당",
+    "name": "명예의 전당",
     "type": "BUILDING_HALL_OF_HONOR",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(American)</span> Independence Hall",
-    "name": "[COLOR_POSITIVE_TEXT](American)[ENDCOLOR] Independence Hall",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:120:200:255]미국</span>의) 독립 기념관",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:120:200:255]미국[ENDCOLOR]의)[ENDCOLOR] 독립 기념관",
     "type": "BUILDING_INDEPENDENCE_HALL",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Aztec)</span> Huey Teocalli",
-    "name": "[COLOR_POSITIVE_TEXT](Aztec)[ENDCOLOR] Huey Teocalli",
+    "nameFormatted": "<span class=\"positive\">([COLOR:140:80:80:255]아즈텍</span>의) 우에이 테오칼리",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:140:80:80:255]아즈텍[ENDCOLOR]의)[ENDCOLOR] 우에이 테오칼리",
     "type": "BUILDING_HUEY_TEOCALLI",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Babylonian)</span> Etemenanki",
-    "name": "[COLOR_POSITIVE_TEXT](Babylonian)[ENDCOLOR] Etemenanki",
+    "nameFormatted": "<span class=\"positive\">([COLOR:50:120:120:255]바빌론</span>의) 에테멘앙키",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:50:120:120:255]바빌론[ENDCOLOR]의)[ENDCOLOR] 에테멘앙키",
     "type": "BUILDING_ETEMENANKI",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Carthaginian)</span> Great Cothon",
-    "name": "[COLOR_POSITIVE_TEXT](Carthaginian)[ENDCOLOR] Great Cothon",
+    "nameFormatted": "<span class=\"positive\">([COLOR:124:35:181:255]카르타고</span>의) 그레이트 코톤",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 그레이트 코톤",
     "type": "BUILDING_GREAT_COTHON",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(English)</span> White Tower",
-    "name": "[COLOR_POSITIVE_TEXT](English)[ENDCOLOR] White Tower",
+    "nameFormatted": "<span class=\"positive\">([COLOR:190:80:70:255]영국</span>의) 화이트 타워",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 화이트 타워",
     "type": "BUILDING_WHITE_TOWER",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Hunnic)</span> Ulticur",
-    "name": "[COLOR_POSITIVE_TEXT](Hunnic)[ENDCOLOR] Ulticur",
+    "nameFormatted": "<span class=\"positive\">([COLOR:200:199:188:255]훈</span>의) 울티쿠",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:199:188:255]훈[ENDCOLOR]의)[ENDCOLOR] 울티쿠",
     "type": "BUILDING_ULTICUR",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Portuguese)</span> University of Coimbra",
-    "name": "[COLOR_POSITIVE_TEXT](Portuguese)[ENDCOLOR] University of Coimbra",
+    "nameFormatted": "<span class=\"positive\">([COLOR:35:70:180:255]포르투갈</span>의) 코임브라 대학교",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]포르투갈[ENDCOLOR]의)[ENDCOLOR] 코임브라 대학교",
     "type": "BUILDING_UNIVERSITY_OF_COIMBRA",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Roman)</span> Fornix",
-    "name": "[COLOR_POSITIVE_TEXT](Roman)[ENDCOLOR] Fornix",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:120:255:255]로마</span>의) 포르닉스",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR]의)[ENDCOLOR] 포르닉스",
     "type": "BUILDING_FORNIX",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Venetian)</span> Piazza San Marco",
-    "name": "[COLOR_POSITIVE_TEXT](Venetian)[ENDCOLOR] Piazza San Marco",
+    "nameFormatted": "<span class=\"positive\">([COLOR:173:112:215:255]베네치아</span>의) 피아자 산 마르코",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:173:112:215:255]베네치아[ENDCOLOR]의)[ENDCOLOR] 피아자 산 마르코",
     "type": "BUILDING_PIAZZA_SAN_MARCO",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Roman Forum",
-    "name": "Roman Forum",
+    "nameFormatted": "포로 로마노",
+    "name": "포로 로마노",
     "type": "BUILDING_ROMAN_FORUM",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Nalanda",
-    "name": "Nalanda",
+    "nameFormatted": "날란다",
+    "name": "날란다",
     "type": "BUILDING_NALANDA",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Karlstejn",
-    "name": "Karlstejn",
+    "nameFormatted": "카를슈테인 성",
+    "name": "카를슈테인 성",
     "type": "BUILDING_KARLSTEJN",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Summer Palace",
-    "name": "Summer Palace",
+    "nameFormatted": "이화원",
+    "name": "이화원",
     "type": "BUILDING_SUMMER_PALACE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Soho Foundry",
-    "name": "Soho Foundry",
+    "nameFormatted": "소호 제작소",
+    "name": "소호 제작소",
     "type": "BUILDING_SOHO_FOUNDRY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "The Motherland Calls",
-    "name": "The Motherland Calls",
+    "nameFormatted": "어머니 조국상",
+    "name": "어머니 조국상",
     "type": "BUILDING_MOTHERLAND_CALLS",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Bletchley Park",
-    "name": "Bletchley Park",
+    "nameFormatted": "블레츨리 파크",
+    "name": "블레츨리 파크",
     "type": "BUILDING_BLETCHLEY_PARK",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Empire State Building",
-    "name": "Empire State Building",
+    "nameFormatted": "엠파이어 스테이트 빌딩",
+    "name": "엠파이어 스테이트 빌딩",
     "type": "BUILDING_EMPIRE_STATE_BUILDING",
     "page": "wonders"
   },
   {
-    "nameFormatted": "CERN",
-    "name": "CERN",
+    "nameFormatted": "유럽 입자물리 연구소",
+    "name": "유럽 입자물리 연구소",
     "type": "BUILDING_CERN",
     "page": "wonders"
   },
   {
-    "nameFormatted": "West Point",
-    "name": "West Point",
+    "nameFormatted": "웨스트 포인트",
+    "name": "웨스트 포인트",
     "type": "BUILDING_WEST_POINT",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Smithsonian Institution",
-    "name": "Smithsonian Institution",
+    "nameFormatted": "스미스소니언 재단",
+    "name": "스미스소니언 재단",
     "type": "BUILDING_SMITHSONIAN_INSTITUTION",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Slater Mill",
-    "name": "Slater Mill",
+    "nameFormatted": "슬레이터 방앗간",
+    "name": "슬레이터 방앗간",
     "type": "BUILDING_SLATER_MILL",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Grand Canal",
-    "name": "Grand Canal",
+    "nameFormatted": "대운하",
+    "name": "대운하",
     "type": "BUILDING_GRAND_CANAL",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Crystal Palace",
-    "name": "Crystal Palace",
+    "nameFormatted": "수정궁",
+    "name": "수정궁",
     "type": "BUILDING_CRYSTAL_PALACE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Menin Gate",
-    "name": "Menin Gate",
+    "nameFormatted": "메닝 문",
+    "name": "메닝 문",
     "type": "BUILDING_MENIN_GATE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Olympic Village",
-    "name": "Olympic Village",
+    "nameFormatted": "올림픽 선수촌",
+    "name": "올림픽 선수촌",
     "type": "BUILDING_OLYMPIC_VILLAGE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "United Nations",
-    "name": "United Nations",
+    "nameFormatted": "국제 연합",
+    "name": "국제 연합",
     "type": "BUILDING_UNITED_NATIONS",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Consulate",
-    "name": "Consulate",
+    "nameFormatted": "영사관",
+    "name": "영사관",
     "type": "BUILDING_CONSULATE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Mausoleum",
-    "name": "Mausoleum",
+    "nameFormatted": "마우솔레움",
+    "name": "마우솔레움",
     "type": "BUILDING_MAUSOLEUM",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Celestial Throne",
-    "name": "Celestial Throne",
+    "nameFormatted": "천상의 옥좌",
+    "name": "천상의 옥좌",
     "type": "BUILDING_CELESTIAL_THRONE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Great Altar",
-    "name": "Great Altar",
+    "nameFormatted": "위대한 제단",
+    "name": "위대한 제단",
     "type": "BUILDING_GREAT_ALTAR",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Chartarium",
-    "name": "Chartarium",
+    "nameFormatted": "차타리움",
+    "name": "차타리움",
     "type": "BUILDING_CHARTARIUM",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Divine Court",
-    "name": "Divine Court",
+    "nameFormatted": "성스러운 법정",
+    "name": "성스러운 법정",
     "type": "BUILDING_DIVINE_COURT",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Sacred Garden",
-    "name": "Sacred Garden",
+    "nameFormatted": "신성한 정원",
+    "name": "신성한 정원",
     "type": "BUILDING_SACRED_GARDEN",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Holy Council",
-    "name": "Holy Council",
+    "nameFormatted": "종교 공의회",
+    "name": "종교 공의회",
     "type": "BUILDING_HOLY_COUNCIL",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Apostolic Palace",
-    "name": "Apostolic Palace",
+    "nameFormatted": "사도 궁전",
+    "name": "사도 궁전",
     "type": "BUILDING_APOSTOLIC_PALACE",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Grand Ossuary",
-    "name": "Grand Ossuary",
+    "nameFormatted": "대 납골당",
+    "name": "대 납골당",
     "type": "BUILDING_GRAND_OSSUARY",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Trader Sid's Headquarters",
-    "name": "Trader Sid's Headquarters",
+    "nameFormatted": "시드 무역 본부",
+    "name": "시드 무역 본부",
     "type": "BUILDING_TRADER_SIDS_HQ",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Centaurus Extractors Headquarters",
-    "name": "Centaurus Extractors Headquarters",
+    "nameFormatted": "센타우리 개발 본부",
+    "name": "센타우리 개발 본부",
     "type": "BUILDING_CENTAURUS_EXTRACTORS_HQ",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Hexxon Refineries Headquarters",
-    "name": "Hexxon Refineries Headquarters",
+    "nameFormatted": "헥손 정유 본부",
+    "name": "헥손 정유 본부",
     "type": "BUILDING_HEXXON_REFINERY_HQ",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Giorgio Armeier Headquarters",
-    "name": "Giorgio Armeier Headquarters",
+    "nameFormatted": "조르지오 아르미에 본부",
+    "name": "조르지오 아르미에 본부",
     "type": "BUILDING_GIORGIO_ARMEIER_HQ",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Firaxite Materials Headquarters",
-    "name": "Firaxite Materials Headquarters",
+    "nameFormatted": "파이락사이트 소재 본부",
+    "name": "파이락사이트 소재 본부",
     "type": "BUILDING_FIRAXITE_MATERIALS_HQ",
     "page": "wonders"
   },
   {
-    "nameFormatted": "TwoKay Foods Headquarters",
-    "name": "TwoKay Foods Headquarters",
+    "nameFormatted": "투케이 푸드 본부",
+    "name": "투케이 푸드 본부",
     "type": "BUILDING_TWOKAY_FOODS_HQ",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Civilized Jewelers Headquarters",
-    "name": "Civilized Jewelers Headquarters",
+    "nameFormatted": "시빌 보석 본부",
+    "name": "시빌 보석 본부",
     "type": "BUILDING_CIVILIZED_JEWELERS_HQ",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Manhattan Project",
-    "name": "Manhattan Project",
+    "nameFormatted": "맨해튼 프로젝트",
+    "name": "맨해튼 프로젝트",
     "type": "PROJECT_MANHATTAN_PROJECT",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Apollo Program",
-    "name": "Apollo Program",
+    "nameFormatted": "아폴로 우주 계획",
+    "name": "아폴로 우주 계획",
     "type": "PROJECT_APOLLO_PROGRAM",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Citizen Earth Protocol",
-    "name": "Citizen Earth Protocol",
+    "nameFormatted": "세계 시민 의정서",
+    "name": "세계 시민 의정서",
     "type": "PROJECT_UTOPIA_PROJECT",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Public Works",
-    "name": "Public Works",
+    "nameFormatted": "공공 사업",
+    "name": "공공 사업",
     "type": "PROJECT_PUBLIC_WORKS",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Mongolian)</span> Adopt the Yassa",
-    "name": "[COLOR_POSITIVE_TEXT](Mongolian)[ENDCOLOR] Adopt the Yassa",
+    "nameFormatted": "<span class=\"positive\">([COLOR:170:100:0:255]몽골</span>의) 야사 채택",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:100:0:255]몽골[ENDCOLOR]의)[ENDCOLOR] 야사 채택",
     "type": "PROJECT_YASSA",
     "page": "wonders"
   },
   {
-    "nameFormatted": "Agriculture",
-    "name": "Agriculture",
+    "nameFormatted": "농업",
+    "name": "농업",
     "type": "TECH_AGRICULTURE",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Pottery",
-    "name": "Pottery",
+    "nameFormatted": "도예",
+    "name": "도예",
     "type": "TECH_POTTERY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Animal Husbandry",
-    "name": "Animal Husbandry",
+    "nameFormatted": "목축업",
+    "name": "목축업",
     "type": "TECH_ANIMAL_HUSBANDRY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Military Strategy",
-    "name": "Military Strategy",
+    "nameFormatted": "군사 이론",
+    "name": "군사 이론",
     "type": "TECH_ARCHERY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Mining",
-    "name": "Mining",
+    "nameFormatted": "채광",
+    "name": "채광",
     "type": "TECH_MINING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Fishing",
-    "name": "Fishing",
+    "nameFormatted": "어업",
+    "name": "어업",
     "type": "TECH_SAILING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Calendar",
-    "name": "Calendar",
+    "nameFormatted": "달력",
+    "name": "달력",
     "type": "TECH_CALENDAR",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Writing",
-    "name": "Writing",
+    "nameFormatted": "문자",
+    "name": "문자",
     "type": "TECH_WRITING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Trapping",
-    "name": "Trapping",
+    "nameFormatted": "수렵",
+    "name": "수렵",
     "type": "TECH_TRAPPING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "The Wheel",
-    "name": "The Wheel",
+    "nameFormatted": "바퀴",
+    "name": "바퀴",
     "type": "TECH_THE_WHEEL",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Construction",
-    "name": "Construction",
+    "nameFormatted": "건설",
+    "name": "건설",
     "type": "TECH_MASONRY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Bronze Working",
-    "name": "Bronze Working",
+    "nameFormatted": "청동기술",
+    "name": "청동기술",
     "type": "TECH_BRONZE_WORKING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Sailing",
-    "name": "Sailing",
+    "nameFormatted": "항해",
+    "name": "항해",
     "type": "TECH_OPTICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Trade",
-    "name": "Trade",
+    "nameFormatted": "무역",
+    "name": "무역",
     "type": "TECH_HORSEBACK_RIDING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Mathematics",
-    "name": "Mathematics",
+    "nameFormatted": "수학",
+    "name": "수학",
     "type": "TECH_MATHEMATICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Masonry",
-    "name": "Masonry",
+    "nameFormatted": "석조기술",
+    "name": "석조기술",
     "type": "TECH_CONSTRUCTION",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Philosophy",
-    "name": "Philosophy",
+    "nameFormatted": "철학",
+    "name": "철학",
     "type": "TECH_PHILOSOPHY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Drama and Poetry",
-    "name": "Drama and Poetry",
+    "nameFormatted": "드라마와 시",
+    "name": "드라마와 시",
     "type": "TECH_DRAMA",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Currency",
-    "name": "Currency",
+    "nameFormatted": "화폐",
+    "name": "화폐",
     "type": "TECH_CURRENCY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Engineering",
-    "name": "Engineering",
+    "nameFormatted": "공학",
+    "name": "공학",
     "type": "TECH_ENGINEERING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Iron Working",
-    "name": "Iron Working",
+    "nameFormatted": "철제기술",
+    "name": "철제기술",
     "type": "TECH_IRON_WORKING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Theology",
-    "name": "Theology",
+    "nameFormatted": "신학",
+    "name": "신학",
     "type": "TECH_THEOLOGY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Civil Service",
-    "name": "Civil Service",
+    "nameFormatted": "공공행정",
+    "name": "공공행정",
     "type": "TECH_CIVIL_SERVICE",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Guilds",
-    "name": "Guilds",
+    "nameFormatted": "길드",
+    "name": "길드",
     "type": "TECH_GUILDS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Metal Casting",
-    "name": "Metal Casting",
+    "nameFormatted": "주조",
+    "name": "주조",
     "type": "TECH_METAL_CASTING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Compass",
-    "name": "Compass",
+    "nameFormatted": "나침반",
+    "name": "나침반",
     "type": "TECH_COMPASS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Education",
-    "name": "Education",
+    "nameFormatted": "교육",
+    "name": "교육",
     "type": "TECH_EDUCATION",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Chivalry",
-    "name": "Chivalry",
+    "nameFormatted": "기사도",
+    "name": "기사도",
     "type": "TECH_CHIVALRY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Machinery",
-    "name": "Machinery",
+    "nameFormatted": "기계장치",
+    "name": "기계장치",
     "type": "TECH_MACHINERY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Physics",
-    "name": "Physics",
+    "nameFormatted": "물리학",
+    "name": "물리학",
     "type": "TECH_PHYSICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Steel",
-    "name": "Steel",
+    "nameFormatted": "강철",
+    "name": "강철",
     "type": "TECH_STEEL",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Astronomy",
-    "name": "Astronomy",
+    "nameFormatted": "천문학",
+    "name": "천문학",
     "type": "TECH_ASTRONOMY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Acoustics",
-    "name": "Acoustics",
+    "nameFormatted": "음향학",
+    "name": "음향학",
     "type": "TECH_ACOUSTICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Banking",
-    "name": "Banking",
+    "nameFormatted": "은행",
+    "name": "은행",
     "type": "TECH_BANKING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Printing Press",
-    "name": "Printing Press",
+    "nameFormatted": "인쇄술",
+    "name": "인쇄술",
     "type": "TECH_PRINTING_PRESS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Gunpowder",
-    "name": "Gunpowder",
+    "nameFormatted": "화약",
+    "name": "화약",
     "type": "TECH_GUNPOWDER",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Navigation",
-    "name": "Navigation",
+    "nameFormatted": "항해술",
+    "name": "항해술",
     "type": "TECH_NAVIGATION",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Architecture",
-    "name": "Architecture",
+    "nameFormatted": "건축",
+    "name": "건축",
     "type": "TECH_ARCHITECTURE",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Economics",
-    "name": "Economics",
+    "nameFormatted": "경제학",
+    "name": "경제학",
     "type": "TECH_ECONOMICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Metallurgy",
-    "name": "Metallurgy",
+    "nameFormatted": "금속학",
+    "name": "금속학",
     "type": "TECH_METALLURGY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Chemistry",
-    "name": "Chemistry",
+    "nameFormatted": "화학",
+    "name": "화학",
     "type": "TECH_CHEMISTRY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Archaeology",
-    "name": "Archaeology",
+    "nameFormatted": "고고학",
+    "name": "고고학",
     "type": "TECH_ARCHAEOLOGY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Scientific Theory",
-    "name": "Scientific Theory",
+    "nameFormatted": "과학이론",
+    "name": "과학이론",
     "type": "TECH_SCIENTIFIC_THEORY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Industrialization",
-    "name": "Industrialization",
+    "nameFormatted": "산업화",
+    "name": "산업화",
     "type": "TECH_INDUSTRIALIZATION",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Rifling",
-    "name": "Rifling",
+    "nameFormatted": "강선",
+    "name": "강선",
     "type": "TECH_RIFLING",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Military Science",
-    "name": "Military Science",
+    "nameFormatted": "군사과학",
+    "name": "군사과학",
     "type": "TECH_MILITARY_SCIENCE",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Fertilizer",
-    "name": "Fertilizer",
+    "nameFormatted": "비료",
+    "name": "비료",
     "type": "TECH_FERTILIZER",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Biology",
-    "name": "Biology",
+    "nameFormatted": "생물학",
+    "name": "생물학",
     "type": "TECH_BIOLOGY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Electricity",
-    "name": "Electricity",
+    "nameFormatted": "전기",
+    "name": "전기",
     "type": "TECH_ELECTRICITY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Steam Power",
-    "name": "Steam Power",
+    "nameFormatted": "증기력",
+    "name": "증기력",
     "type": "TECH_STEAM_POWER",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Dynamite",
-    "name": "Dynamite",
+    "nameFormatted": "다이너마이트",
+    "name": "다이너마이트",
     "type": "TECH_DYNAMITE",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Refrigeration",
-    "name": "Refrigeration",
+    "nameFormatted": "냉각기술",
+    "name": "냉각기술",
     "type": "TECH_REFRIGERATION",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Radio",
-    "name": "Radio",
+    "nameFormatted": "라디오",
+    "name": "라디오",
     "type": "TECH_RADIO",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Replaceable Parts",
-    "name": "Replaceable Parts",
+    "nameFormatted": "교환부품",
+    "name": "교환부품",
     "type": "TECH_REPLACEABLE_PARTS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Flight",
-    "name": "Flight",
+    "nameFormatted": "비행",
+    "name": "비행",
     "type": "TECH_FLIGHT",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Railroad",
-    "name": "Railroad",
+    "nameFormatted": "철도",
+    "name": "철도",
     "type": "TECH_RAILROAD",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Plastics",
-    "name": "Plastics",
+    "nameFormatted": "플라스틱",
+    "name": "플라스틱",
     "type": "TECH_PLASTIC",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Electronics",
-    "name": "Electronics",
+    "nameFormatted": "전자공학",
+    "name": "전자공학",
     "type": "TECH_ELECTRONICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Ballistics",
-    "name": "Ballistics",
+    "nameFormatted": "탄도학",
+    "name": "탄도학",
     "type": "TECH_BALLISTICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Combustion",
-    "name": "Combustion",
+    "nameFormatted": "연소",
+    "name": "연소",
     "type": "TECH_COMBUSTION",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Penicillin",
-    "name": "Penicillin",
+    "nameFormatted": "페니실린",
+    "name": "페니실린",
     "type": "TECH_PENICILIN",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Atomic Theory",
-    "name": "Atomic Theory",
+    "nameFormatted": "원자론",
+    "name": "원자론",
     "type": "TECH_ATOMIC_THEORY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Radar",
-    "name": "Radar",
+    "nameFormatted": "레이더",
+    "name": "레이더",
     "type": "TECH_RADAR",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Combined Arms",
-    "name": "Combined Arms",
+    "nameFormatted": "통합 작전군",
+    "name": "통합 작전군",
     "type": "TECH_COMBINED_ARMS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Alternative Energy",
-    "name": "Alternative Energy",
+    "nameFormatted": "대체 에너지",
+    "name": "대체 에너지",
     "type": "TECH_ECOLOGY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Nuclear Fission",
-    "name": "Nuclear Fission",
+    "nameFormatted": "핵분열",
+    "name": "핵분열",
     "type": "TECH_NUCLEAR_FISSION",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Rocketry",
-    "name": "Rocketry",
+    "nameFormatted": "로켓공학",
+    "name": "로켓공학",
     "type": "TECH_ROCKETRY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Computers",
-    "name": "Computers",
+    "nameFormatted": "컴퓨터",
+    "name": "컴퓨터",
     "type": "TECH_COMPUTERS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Telecommunications",
-    "name": "Telecommunications",
+    "nameFormatted": "전기 통신",
+    "name": "전기 통신",
     "type": "TECH_TELECOM",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Mobile Tactics",
-    "name": "Mobile Tactics",
+    "nameFormatted": "기동 전술",
+    "name": "기동 전술",
     "type": "TECH_MOBILE_TACTICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Advanced Ballistics",
-    "name": "Advanced Ballistics",
+    "nameFormatted": "고등 탄도학",
+    "name": "고등 탄도학",
     "type": "TECH_ADVANCED_BALLISTICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Satellites",
-    "name": "Satellites",
+    "nameFormatted": "인공위성",
+    "name": "인공위성",
     "type": "TECH_SATELLITES",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Robotics",
-    "name": "Robotics",
+    "nameFormatted": "로봇공학",
+    "name": "로봇공학",
     "type": "TECH_ROBOTICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Lasers",
-    "name": "Lasers",
+    "nameFormatted": "레이저",
+    "name": "레이저",
     "type": "TECH_LASERS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "The Internet",
-    "name": "The Internet",
+    "nameFormatted": "인터넷",
+    "name": "인터넷",
     "type": "TECH_INTERNET",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Globalization",
-    "name": "Globalization",
+    "nameFormatted": "세계화",
+    "name": "세계화",
     "type": "TECH_GLOBALIZATION",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Particle Physics",
-    "name": "Particle Physics",
+    "nameFormatted": "입자물리학",
+    "name": "입자물리학",
     "type": "TECH_PARTICLE_PHYSICS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Nuclear Fusion",
-    "name": "Nuclear Fusion",
+    "nameFormatted": "핵융합",
+    "name": "핵융합",
     "type": "TECH_NUCLEAR_FUSION",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Nanotechnology",
-    "name": "Nanotechnology",
+    "nameFormatted": "나노기술",
+    "name": "나노기술",
     "type": "TECH_NANOTECHNOLOGY",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Stealth",
-    "name": "Stealth",
+    "nameFormatted": "스텔스",
+    "name": "스텔스",
     "type": "TECH_STEALTH",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Future Tech",
-    "name": "Future Tech",
+    "nameFormatted": "미래기술",
+    "name": "미래기술",
     "type": "TECH_FUTURE_TECH",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Corporations",
-    "name": "Corporations",
+    "nameFormatted": "기업",
+    "name": "기업",
     "type": "TECH_CORPORATIONS",
     "page": "technologies"
   },
   {
-    "nameFormatted": "Progress",
-    "name": "Progress",
+    "nameFormatted": "진보",
+    "name": "진보",
     "type": "POLICY_LIBERTY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Organization",
-    "name": "Organization",
+    "nameFormatted": "조직화",
+    "name": "조직화",
     "type": "POLICY_COLLECTIVE_RULE",
     "page": "policies"
   },
   {
-    "nameFormatted": "Liberty",
-    "name": "Liberty",
+    "nameFormatted": "자유",
+    "name": "자유",
     "type": "POLICY_CITIZENSHIP",
     "page": "policies"
   },
   {
-    "nameFormatted": "Expertise",
-    "name": "Expertise",
+    "nameFormatted": "전문화",
+    "name": "전문화",
     "type": "POLICY_REPUBLIC",
     "page": "policies"
   },
   {
-    "nameFormatted": "Equality",
-    "name": "Equality",
+    "nameFormatted": "평등",
+    "name": "평등",
     "type": "POLICY_REPRESENTATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Fraternity",
-    "name": "Fraternity",
+    "nameFormatted": "협동조합",
+    "name": "협동조합",
     "type": "POLICY_MERITOCRACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Tradition",
-    "name": "Tradition",
+    "nameFormatted": "전통",
+    "name": "전통",
     "type": "POLICY_TRADITION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Justice",
-    "name": "Justice",
+    "nameFormatted": "정의",
+    "name": "정의",
     "type": "POLICY_ARISTOCRACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Sovereignty",
-    "name": "Sovereignty",
+    "nameFormatted": "주권",
+    "name": "주권",
     "type": "POLICY_OLIGARCHY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Ceremony",
-    "name": "Ceremony",
+    "nameFormatted": "의식",
+    "name": "의식",
     "type": "POLICY_LEGALISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "Splendor",
-    "name": "Splendor",
+    "nameFormatted": "탁월",
+    "name": "탁월",
     "type": "POLICY_LANDED_ELITE",
     "page": "policies"
   },
   {
-    "nameFormatted": "Majesty",
-    "name": "Majesty",
+    "nameFormatted": "존엄",
+    "name": "존엄",
     "type": "POLICY_MONARCHY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Authority",
-    "name": "Authority",
+    "nameFormatted": "권위",
+    "name": "권위",
     "type": "POLICY_HONOR",
     "page": "policies"
   },
   {
-    "nameFormatted": "Tribute",
-    "name": "Tribute",
+    "nameFormatted": "공물",
+    "name": "공물",
     "type": "POLICY_WARRIOR_CODE",
     "page": "policies"
   },
   {
-    "nameFormatted": "Imperium",
-    "name": "Imperium",
+    "nameFormatted": "집행권",
+    "name": "집행권",
     "type": "POLICY_DISCIPLINE",
     "page": "policies"
   },
   {
-    "nameFormatted": "Militarism",
-    "name": "Militarism",
+    "nameFormatted": "군국주의",
+    "name": "군국주의",
     "type": "POLICY_MILITARY_TRADITION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Dominance",
-    "name": "Dominance",
+    "nameFormatted": "지배",
+    "name": "지배",
     "type": "POLICY_MILITARY_CASTE",
     "page": "policies"
   },
   {
-    "nameFormatted": "Honor",
-    "name": "Honor",
+    "nameFormatted": "명예",
+    "name": "명예",
     "type": "POLICY_PROFESSIONAL_ARMY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Fealty",
-    "name": "Fealty",
+    "nameFormatted": "충성",
+    "name": "충성",
     "type": "POLICY_PIETY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Organized Religion",
-    "name": "Organized Religion",
+    "nameFormatted": "종교 체제",
+    "name": "종교 체제",
     "type": "POLICY_ORGANIZED_RELIGION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Nobility",
-    "name": "Nobility",
+    "nameFormatted": "귀족",
+    "name": "귀족",
     "type": "POLICY_MANDATE_OF_HEAVEN",
     "page": "policies"
   },
   {
-    "nameFormatted": "Divine Right",
-    "name": "Divine Right",
+    "nameFormatted": "신성한 권리",
+    "name": "신성한 권리",
     "type": "POLICY_THEOCRACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Fiefdoms",
-    "name": "Fiefdoms",
+    "nameFormatted": "영지",
+    "name": "영지",
     "type": "POLICY_REFORMATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Serfdom",
-    "name": "Serfdom",
+    "nameFormatted": "농노제",
+    "name": "농노제",
     "type": "POLICY_FREE_RELIGION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Statecraft",
-    "name": "Statecraft",
+    "nameFormatted": "외교",
+    "name": "외교",
     "type": "POLICY_PATRONAGE",
     "page": "policies"
   },
   {
-    "nameFormatted": "Foreign Service",
-    "name": "Foreign Service",
+    "nameFormatted": "외교국",
+    "name": "외교국",
     "type": "POLICY_PHILANTHROPY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Consulates",
-    "name": "Consulates",
+    "nameFormatted": "영사관",
+    "name": "영사관",
     "type": "POLICY_CONSULATES",
     "page": "policies"
   },
   {
-    "nameFormatted": "Shadow Networks",
-    "name": "Shadow Networks",
+    "nameFormatted": "그림자 네트워크",
+    "name": "그림자 네트워크",
     "type": "POLICY_SCHOLASTICISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "Exchange Markets",
-    "name": "Exchange Markets",
+    "nameFormatted": "외환 시장",
+    "name": "외환 시장",
     "type": "POLICY_CULTURAL_DIPLOMACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Trade Confederacy",
-    "name": "Trade Confederacy",
+    "nameFormatted": "무역연합",
+    "name": "무역연합",
     "type": "POLICY_MERCHANT_CONFEDERACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Industry",
-    "name": "Industry",
+    "nameFormatted": "산업",
+    "name": "산업",
     "type": "POLICY_COMMERCE",
     "page": "policies"
   },
   {
-    "nameFormatted": "Division of Labor",
-    "name": "Division of Labor",
+    "nameFormatted": "노동 분업",
+    "name": "노동 분업",
     "type": "POLICY_TRADE_UNIONS",
     "page": "policies"
   },
   {
-    "nameFormatted": "Entrepreneurship",
-    "name": "Entrepreneurship",
+    "nameFormatted": "기업가 정신",
+    "name": "기업가 정신",
     "type": "POLICY_ENTREPRENEURSHIP",
     "page": "policies"
   },
   {
-    "nameFormatted": "Mercantilism",
-    "name": "Mercantilism",
+    "nameFormatted": "중상주의",
+    "name": "중상주의",
     "type": "POLICY_MERCANTILISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "Free Trade",
-    "name": "Free Trade",
+    "nameFormatted": "자유무역",
+    "name": "자유무역",
     "type": "POLICY_CARAVANS",
     "page": "policies"
   },
   {
-    "nameFormatted": "Protectionism",
-    "name": "Protectionism",
+    "nameFormatted": "보호무역주의",
+    "name": "보호무역주의",
     "type": "POLICY_PROTECTIONISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "Rationalism",
-    "name": "Rationalism",
+    "nameFormatted": "합리",
+    "name": "합리",
     "type": "POLICY_RATIONALISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "Scientific Revolution",
-    "name": "Scientific Revolution",
+    "nameFormatted": "과학혁명",
+    "name": "과학혁명",
     "type": "POLICY_SECULARISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "Enlightenment",
-    "name": "Enlightenment",
+    "nameFormatted": "계몽",
+    "name": "계몽",
     "type": "POLICY_HUMANISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "Free Thought",
-    "name": "Free Thought",
+    "nameFormatted": "자유사상",
+    "name": "자유사상",
     "type": "POLICY_FREE_THOUGHT",
     "page": "policies"
   },
   {
-    "nameFormatted": "Rights of Man",
-    "name": "Rights of Man",
+    "nameFormatted": "천부인권",
+    "name": "천부인권",
     "type": "POLICY_SOVEREIGNTY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Empiricism",
-    "name": "Empiricism",
+    "nameFormatted": "경험주의",
+    "name": "경험주의",
     "type": "POLICY_SCIENTIFIC_REVOLUTION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Artistry",
-    "name": "Artistry",
+    "nameFormatted": "미학",
+    "name": "미학",
     "type": "POLICY_AESTHETICS",
     "page": "policies"
   },
   {
-    "nameFormatted": "Humanism",
-    "name": "Humanism",
+    "nameFormatted": "인본주의",
+    "name": "인본주의",
     "type": "POLICY_CULTURAL_CENTERS",
     "page": "policies"
   },
   {
-    "nameFormatted": "Refinement",
-    "name": "Refinement",
+    "nameFormatted": "세련",
+    "name": "세련",
     "type": "POLICY_FINE_ARTS",
     "page": "policies"
   },
   {
-    "nameFormatted": "Heritage",
-    "name": "Heritage",
+    "nameFormatted": "문화유산",
+    "name": "문화유산",
     "type": "POLICY_FLOURISHING_OF_ARTS",
     "page": "policies"
   },
   {
-    "nameFormatted": "National Treasure",
-    "name": "National Treasure",
+    "nameFormatted": "국보",
+    "name": "국보",
     "type": "POLICY_ARTISTIC_GENIUS",
     "page": "policies"
   },
   {
-    "nameFormatted": "Cultural Exchange",
-    "name": "Cultural Exchange",
+    "nameFormatted": "문화 교류",
+    "name": "문화 교류",
     "type": "POLICY_ETHICS",
     "page": "policies"
   },
   {
-    "nameFormatted": "Imperialism",
-    "name": "Imperialism",
+    "nameFormatted": "제국주의",
+    "name": "제국주의",
     "type": "POLICY_EXPLORATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Martial Law",
-    "name": "Martial Law",
+    "nameFormatted": "계엄령",
+    "name": "계엄령",
     "type": "POLICY_MARITIME_INFRASTRUCTURE",
     "page": "policies"
   },
   {
-    "nameFormatted": "Colonialism",
-    "name": "Colonialism",
+    "nameFormatted": "식민주의",
+    "name": "식민주의",
     "type": "POLICY_NAVAL_TRADITION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Exploitation",
-    "name": "Exploitation",
+    "nameFormatted": "착취",
+    "name": "착취",
     "type": "POLICY_MERCHANT_NAVY",
     "page": "policies"
   },
   {
-    "nameFormatted": "Regimental System",
-    "name": "Regimental System",
+    "nameFormatted": "연대 체계",
+    "name": "연대 체계",
     "type": "POLICY_NAVIGATION_SCHOOL",
     "page": "policies"
   },
   {
-    "nameFormatted": "Civilizing Mission",
-    "name": "Civilizing Mission",
+    "nameFormatted": "문명화 사명",
+    "name": "문명화 사명",
     "type": "POLICY_TREASURE_FLEETS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Avant Garde",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Avant Garde",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 아방가르드",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 아방가르드",
     "type": "POLICY_OPEN_SOCIETY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Creative Expression",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Creative Expression",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 독창적 표현",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 독창적 표현",
     "type": "POLICY_CREATIVE_EXPRESSION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Civil Society",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Civil Society",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 시민 사회",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 시민 사회",
     "type": "POLICY_CIVIL_SOCIETY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Draft Registration",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Draft Registration",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 징집",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 징집",
     "type": "POLICY_VOLUNTEER_ARMY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Covert Action",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Covert Action",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 비밀 공작",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 비밀 공작",
     "type": "POLICY_COVERT_ACTION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Self Determination",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Self Determination",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 자결권",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 자결권",
     "type": "POLICY_URBANIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Capitalism",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Capitalism",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 자본주의",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 자본주의",
     "type": "POLICY_CAPITALISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Economic Union",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Economic Union",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 경제 동맹",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 경제 동맹",
     "type": "POLICY_ECONOMIC_UNION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Their Finest Hour",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Their Finest Hour",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 최상의 시간",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 최상의 시간",
     "type": "POLICY_THEIR_FINEST_HOUR",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Universal Suffrage",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Universal Suffrage",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 보통선거",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 보통선거",
     "type": "POLICY_UNIVERSAL_SUFFRAGE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> New Deal",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] New Deal",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 뉴딜 정책",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 뉴딜 정책",
     "type": "POLICY_NEW_DEAL",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Arsenal of Democracy",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Arsenal of Democracy",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 민주주의 군수창고",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 민주주의 군수창고",
     "type": "POLICY_ARSENAL_DEMOCRACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> Media Culture",
-    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] Media Culture",
+    "nameFormatted": "<span class=\"positive\">(3)</span> 미디어 문화",
+    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 미디어 문화",
     "type": "POLICY_MEDIA_CULTURE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> Containment",
-    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] Containment",
+    "nameFormatted": "<span class=\"positive\">(3)</span> 봉쇄 정책",
+    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 봉쇄 정책",
     "type": "POLICY_TREATY_ORGANIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> Space Procurements",
-    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] Space Procurements",
+    "nameFormatted": "<span class=\"positive\">(3)</span> 우주 사업 조달",
+    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 우주 사업 조달",
     "type": "POLICY_SPACE_PROCUREMENTS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Hero of the People",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Hero of the People",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 인민 영웅",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 인민 영웅",
     "type": "POLICY_HERO_OF_THE_PEOPLE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> People's Army",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] People's Army",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 인민군",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 인민군",
     "type": "POLICY_SOCIALIST_REALISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Communism",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Communism",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 공산주의",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 공산주의",
     "type": "POLICY_SKYSCRAPERS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Patriotic War",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Patriotic War",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 대조국전쟁",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 대조국전쟁",
     "type": "POLICY_PATRIOTIC_WAR",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Double Agents",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Double Agents",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 이중 간첩",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 이중 간첩",
     "type": "POLICY_DOUBLE_AGENTS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Great Leap Forward",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Great Leap Forward",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 대약진 운동",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 대약진 운동",
     "type": "POLICY_YOUNG_PIONEERS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Academy of Sciences",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Academy of Sciences",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 과학 아카데미",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 과학 아카데미",
     "type": "POLICY_ACADEMY_SCIENCES",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Dictatorship of the Proletariat",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Dictatorship of the Proletariat",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 프롤레타리아 독재",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 프롤레타리아 독재",
     "type": "POLICY_PARTY_LEADERSHIP",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Resettlement",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Resettlement",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 재정착",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 재정착",
     "type": "POLICY_RESETTLEMENT",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> Socialist Realism",
-    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] Socialist Realism",
+    "nameFormatted": "<span class=\"positive\">(3)</span> 사회주의 리얼리즘",
+    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 사회주의 리얼리즘",
     "type": "POLICY_CULTURAL_REVOLUTION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Workers' Faculties",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Workers' Faculties",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 노동자 시설",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 노동자 시설",
     "type": "POLICY_WORKERS_FACULTIES",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Five-Year Plan",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Five-Year Plan",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 5개년 계획",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 5개년 계획",
     "type": "POLICY_FIVE_YEAR_PLAN",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Cultural Revolution",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Cultural Revolution",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 문화대혁명",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 문화대혁명",
     "type": "POLICY_DICTATORSHIP_PROLETARIAT",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> Iron Curtain",
-    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] Iron Curtain",
+    "nameFormatted": "<span class=\"positive\">(3)</span> 철의 장막",
+    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 철의 장막",
     "type": "POLICY_IRON_CURTAIN",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> Spaceflight Pioneers",
-    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] Spaceflight Pioneers",
+    "nameFormatted": "<span class=\"positive\">(3)</span> 우주비행 개척자",
+    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 우주비행 개척자",
     "type": "POLICY_SPACEFLIGHT_PIONEERS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Elite Forces",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Elite Forces",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 정예 부대",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 정예 부대",
     "type": "POLICY_ELITE_FORCES",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Military-Industrial Complex",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Military-Industrial Complex",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 군산복합체",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 군산복합체",
     "type": "POLICY_MOBILIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> United Front",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] United Front",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 공동전선",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 공동전선",
     "type": "POLICY_UNITED_FRONT",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Futurism",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Futurism",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 미래파",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 미래파",
     "type": "POLICY_FUTURISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Lebensraum",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Lebensraum",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 레벤스라움",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 레벤스라움",
     "type": "POLICY_INDUSTRIAL_ESPIONAGE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> Air Supremacy",
-    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] Air Supremacy",
+    "nameFormatted": "<span class=\"positive\">(3)</span> 제공권",
+    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 제공권",
     "type": "POLICY_MILITARISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> New World Order",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] New World Order",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 신세계 질서",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 신세계 질서",
     "type": "POLICY_FORTIFIED_BORDERS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Lightning Warfare",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Lightning Warfare",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 전격전",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 전격전",
     "type": "POLICY_LIGHTNING_WARFARE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Police State",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Police State",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 경찰국가",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 경찰국가",
     "type": "POLICY_POLICE_STATE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Mare Nostrum",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Mare Nostrum",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 마레 노스트룸",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 마레 노스트룸",
     "type": "POLICY_NATIONALISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Third Alternative",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Third Alternative",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 제삼의 수단",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 제삼의 수단",
     "type": "POLICY_THIRD_ALTERNATIVE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Total War",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Total War",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 총력전",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 총력전",
     "type": "POLICY_TOTAL_WAR",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> Cult of Personality",
-    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] Cult of Personality",
+    "nameFormatted": "<span class=\"positive\">(3)</span> 개인 숭배",
+    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 개인 숭배",
     "type": "POLICY_CULT_PERSONALITY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> Co-Prosperity Sphere",
-    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] Co-Prosperity Sphere",
+    "nameFormatted": "<span class=\"positive\">(3)</span> 공영권",
+    "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 공영권",
     "type": "POLICY_GUNBOAT_DIPLOMACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Martial Spirit",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Martial Spirit",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 군인 정신",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 군인 정신",
     "type": "POLICY_NEW_ORDER",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Universal Healthcare",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Universal Healthcare",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 국민 의료보험",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 국민 의료보험",
     "type": "POLICY_UNIVERSAL_HEALTHCARE_F",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Peace, Land, Bread",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Peace, Land, Bread",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 평화, 대지, 빵",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 평화, 대지, 빵",
     "type": "POLICY_UNIVERSAL_HEALTHCARE_O",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> Iron Fist",
-    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] Iron Fist",
+    "nameFormatted": "<span class=\"positive\">(1)</span> 혹독한 처사",
+    "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 혹독한 처사",
     "type": "POLICY_UNIVERSAL_HEALTHCARE_A",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Transnationalism",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Transnationalism",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 다국적주의",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 다국적주의",
     "type": "POLICY_GLOBALIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Nationalization",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Nationalization",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 국유화",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 국유화",
     "type": "POLICY_NATIONALIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> Syndicalism",
-    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] Syndicalism",
+    "nameFormatted": "<span class=\"positive\">(2)</span> 신디칼리즘",
+    "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 신디칼리즘",
     "type": "POLICY_INFILTRATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "Atomic Bomb",
-    "name": "Atomic Bomb",
+    "nameFormatted": "원자폭탄",
+    "name": "원자폭탄",
     "type": "POLICY_MANHATTAN_PROJECT",
     "page": "policies"
   },
   {
-    "nameFormatted": "First on the Moon",
-    "name": "First on the Moon",
+    "nameFormatted": "달 착륙 개시",
+    "name": "달 착륙 개시",
     "type": "POLICY_FIRST_ON_MOON",
     "page": "policies"
   },
   {
-    "nameFormatted": "Goddess of the Hunt",
-    "name": "Goddess of the Hunt",
+    "nameFormatted": "사냥의 여신",
+    "name": "사냥의 여신",
     "type": "BELIEF_GODDESS_HUNT",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Goddess of the Home",
-    "name": "Goddess of the Home",
+    "nameFormatted": "가정의 여신",
+    "name": "가정의 여신",
     "type": "BELIEF_FERTILITY_RITES",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of the Sea",
-    "name": "God of the Sea",
+    "nameFormatted": "바다의 신",
+    "name": "바다의 신",
     "type": "BELIEF_GOD_SEA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of the Open Sky",
-    "name": "God of the Open Sky",
+    "nameFormatted": "창공의 신",
+    "name": "창공의 신",
     "type": "BELIEF_OPEN_SKY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of Commerce",
-    "name": "God of Commerce",
+    "nameFormatted": "상업의 신",
+    "name": "상업의 신",
     "type": "BELIEF_MESSENGER_GODS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Goddess of Nature",
-    "name": "Goddess of Nature",
+    "nameFormatted": "자연의 여신",
+    "name": "자연의 여신",
     "type": "BELIEF_ONE_WITH_NATURE",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Thrift",
-    "name": "Thrift",
+    "nameFormatted": "절약",
+    "name": "절약",
     "type": "BELIEF_FEED_WORLD",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Goddess of Wisdom",
-    "name": "Goddess of Wisdom",
+    "nameFormatted": "지혜의 여신",
+    "name": "지혜의 여신",
     "type": "BELIEF_FORMAL_LITURGY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of Craftsmen",
-    "name": "God of Craftsmen",
+    "nameFormatted": "장인의 신",
+    "name": "장인의 신",
     "type": "BELIEF_STONE_CIRCLES",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of War",
-    "name": "God of War",
+    "nameFormatted": "전쟁의 신",
+    "name": "전쟁의 신",
     "type": "BELIEF_GOD_WAR",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Churches",
-    "name": "Churches",
+    "nameFormatted": "교회",
+    "name": "교회",
     "type": "BELIEF_SWORD_PLOWSHARES",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Mandirs",
-    "name": "Mandirs",
+    "nameFormatted": "만디르",
+    "name": "만디르",
     "type": "BELIEF_GURUSHIP",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Synagogues",
-    "name": "Synagogues",
+    "nameFormatted": "회당",
+    "name": "회당",
     "type": "BELIEF_HOLY_WARRIORS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Goddess of Purity",
-    "name": "Goddess of Purity",
+    "nameFormatted": "순수의 여신",
+    "name": "순수의 여신",
     "type": "BELIEF_SACRED_WATERS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Tutelary Gods",
-    "name": "Tutelary Gods",
+    "nameFormatted": "수호신",
+    "name": "수호신",
     "type": "BELIEF_GODDESS_LOVE",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of the Expanse",
-    "name": "God of the Expanse",
+    "nameFormatted": "확장의 신",
+    "name": "확장의 신",
     "type": "BELIEF_RELIGIOUS_SETTLEMENTS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Goddess of Festivals",
-    "name": "Goddess of Festivals",
+    "nameFormatted": "축제의 여신",
+    "name": "축제의 여신",
     "type": "BELIEF_GOD_FESTIVALS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Goddess of Springtime",
-    "name": "Goddess of Springtime",
+    "nameFormatted": "봄의 여신",
+    "name": "봄의 여신",
     "type": "BELIEF_ORAL_TRADITION",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Ancestor Worship",
-    "name": "Ancestor Worship",
+    "nameFormatted": "조상 숭배",
+    "name": "조상 숭배",
     "type": "BELIEF_ANCESTOR_WORSHIP",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Spirit of the Desert",
-    "name": "Spirit of the Desert",
+    "nameFormatted": "사막의 영혼",
+    "name": "사막의 영혼",
     "type": "BELIEF_DESERT_FOLKLORE",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Goddess of Renewal",
-    "name": "Goddess of Renewal",
+    "nameFormatted": "부활의 여신",
+    "name": "부활의 여신",
     "type": "BELIEF_SACRED_PATH",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Goddess of Protection",
-    "name": "Goddess of Protection",
+    "nameFormatted": "수호의 여신",
+    "name": "수호의 여신",
     "type": "BELIEF_GODDESS_STRATEGY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Goddess of Beauty",
-    "name": "Goddess of Beauty",
+    "nameFormatted": "미의 여신",
+    "name": "미의 여신",
     "type": "BELIEF_MONUMENT_GODS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Inquisition",
-    "name": "Inquisition",
+    "nameFormatted": "종교 재판",
+    "name": "종교 재판",
     "type": "BELIEF_RELIGIOUS_TEXTS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Mendicancy",
-    "name": "Mendicancy",
+    "nameFormatted": "탁발",
+    "name": "탁발",
     "type": "BELIEF_RELIQUARY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Divine Inheritance",
-    "name": "Divine Inheritance",
+    "nameFormatted": "신성한 유산",
+    "name": "신성한 유산",
     "type": "BELIEF_PEACE_LOVING",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Hero Worship",
-    "name": "Hero Worship",
+    "nameFormatted": "영웅 숭배",
+    "name": "영웅 숭배",
     "type": "BELIEF_INTERFAITH_DIALOGUE",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Ceremonial Burial",
-    "name": "Ceremonial Burial",
+    "nameFormatted": "매장 의식",
+    "name": "매장 의식",
     "type": "BELIEF_CEREMONIAL_BURIAL",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Holy Law",
-    "name": "Holy Law",
+    "nameFormatted": "신성한 법",
+    "name": "신성한 법",
     "type": "BELIEF_CHURCH_PROPERTY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Revelation",
-    "name": "Revelation",
+    "nameFormatted": "시현",
+    "name": "시현",
     "type": "BELIEF_TITHE",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Transcendent Thoughts",
-    "name": "Transcendent Thoughts",
+    "nameFormatted": "초월적인 판단",
+    "name": "초월적인 판단",
     "type": "BELIEF_INITIATION_RITES",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Abode of Peace",
-    "name": "Abode of Peace",
+    "nameFormatted": "평화의 거주지",
+    "name": "평화의 거주지",
     "type": "BELIEF_JUST_WAR",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Defender of the Faith",
-    "name": "Defender of the Faith",
+    "nameFormatted": "신앙의 수호자",
+    "name": "신앙의 수호자",
     "type": "BELIEF_DEFENDER_FAITH",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Symbolism",
-    "name": "Symbolism",
+    "nameFormatted": "상징주의",
+    "name": "상징주의",
     "type": "BELIEF_ITINERANT_PREACHERS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Prophecy",
-    "name": "Prophecy",
+    "nameFormatted": "예언",
+    "name": "예언",
     "type": "BELIEF_MESSIAH",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Sacred Calendar",
-    "name": "Sacred Calendar",
+    "nameFormatted": "교회력",
+    "name": "교회력",
     "type": "BELIEF_MISSIONARY_ZEAL",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Orthodoxy",
-    "name": "Orthodoxy",
+    "nameFormatted": "정교",
+    "name": "정교",
     "type": "BELIEF_HOLY_ORDER",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Universalism",
-    "name": "Universalism",
+    "nameFormatted": "보편주의",
+    "name": "보편주의",
     "type": "BELIEF_RELIGIOUS_UNITY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Cathedrals",
-    "name": "Cathedrals",
+    "nameFormatted": "대성당",
+    "name": "대성당",
     "type": "BELIEF_CATHEDRALS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Mosques",
-    "name": "Mosques",
+    "nameFormatted": "모스크",
+    "name": "모스크",
     "type": "BELIEF_MOSQUES",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Pagodas",
-    "name": "Pagodas",
+    "nameFormatted": "파고다",
+    "name": "파고다",
     "type": "BELIEF_PAGODAS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Stupas",
-    "name": "Stupas",
+    "nameFormatted": "사리탑",
+    "name": "사리탑",
     "type": "BELIEF_MONASTERIES",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Indulgences",
-    "name": "Indulgences",
+    "nameFormatted": "면죄부",
+    "name": "면죄부",
     "type": "BELIEF_PEACE_GARDENS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Scholarship",
-    "name": "Scholarship",
+    "nameFormatted": "학식",
+    "name": "학식",
     "type": "BELIEF_CHORAL_MUSIC",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Mastery",
-    "name": "Mastery",
+    "nameFormatted": "통달",
+    "name": "통달",
     "type": "BELIEF_RELIGIOUS_ART",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Gurukulam",
-    "name": "Gurukulam",
+    "nameFormatted": "구루쿨람",
+    "name": "구루쿨람",
     "type": "BELIEF_LITURGICAL_DRAMA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Asceticism",
-    "name": "Asceticism",
+    "nameFormatted": "금욕주의",
+    "name": "금욕주의",
     "type": "BELIEF_ASCETISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Orders",
-    "name": "Orders",
+    "nameFormatted": "기사단",
+    "name": "기사단",
     "type": "BELIEF_RELIGIOUS_CENTER",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Council of Elders",
-    "name": "Council of Elders",
+    "nameFormatted": "원로회",
+    "name": "원로회",
     "type": "BELIEF_PAPAL_PRIMACY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of the Stars and Sky",
-    "name": "God of the Stars and Sky",
+    "nameFormatted": "별과 하늘의 신",
+    "name": "별과 하늘의 신",
     "type": "BELIEF_DANCE_AURORA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Diligence",
-    "name": "Diligence",
+    "nameFormatted": "근면",
+    "name": "근면",
     "type": "BELIEF_RELIGIOUS_COMMUNITY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Creativity",
-    "name": "Creativity",
+    "nameFormatted": "영감",
+    "name": "영감",
     "type": "BELIEF_DIVINE_INSPIRATION",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Evangelism",
-    "name": "Evangelism",
+    "nameFormatted": "복음 전도",
+    "name": "복음 전도",
     "type": "BELIEF_PILGRIMAGE",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Theocratic Rule",
-    "name": "Theocratic Rule",
+    "nameFormatted": "신권정치",
+    "name": "신권정치",
     "type": "BELIEF_WORLD_CHURCH",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Global Commandments",
-    "name": "Global Commandments",
+    "nameFormatted": "범인류적 계명",
+    "name": "범인류적 계명",
     "type": "BELIEF_CHARITABLE_MISSIONS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Crusader Spirit",
-    "name": "Crusader Spirit",
+    "nameFormatted": "십자군 정신",
+    "name": "십자군 정신",
     "type": "BELIEF_EVANGELISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Zealotry",
-    "name": "Zealotry",
+    "nameFormatted": "광신",
+    "name": "광신",
     "type": "BELIEF_HEATHEN_CONVERSION",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Divine Teachings",
-    "name": "Divine Teachings",
+    "nameFormatted": "신성한 가르침",
+    "name": "신성한 가르침",
     "type": "BELIEF_JESUIT_EDUCATION",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Holy Land",
-    "name": "Holy Land",
+    "nameFormatted": "성역",
+    "name": "성역",
     "type": "BELIEF_RELIGIOUS_FERVOR",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Sacred Sites",
-    "name": "Sacred Sites",
+    "nameFormatted": "성지",
+    "name": "성지",
     "type": "BELIEF_SACRED_SITES",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "To the Glory of God",
-    "name": "To the Glory of God",
+    "nameFormatted": "신의 영광",
+    "name": "신의 영광",
     "type": "BELIEF_TO_GLORY_OF_GOD",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Faith of the Masses",
-    "name": "Faith of the Masses",
+    "nameFormatted": "대중의 신앙",
+    "name": "대중의 신앙",
     "type": "BELIEF_UNDERGROUND_SECT",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Inspired Works",
-    "name": "Inspired Works",
+    "nameFormatted": "영감을 받은 작품",
+    "name": "영감을 받은 작품",
     "type": "BELIEF_UNITY_OF_PROPHETS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of All Creation",
-    "name": "God of All Creation",
+    "nameFormatted": "만물의 창조주",
+    "name": "만물의 창조주",
     "type": "BELIEF_TEARS_OF_GODS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of Fire",
-    "name": "God of Fire",
+    "nameFormatted": "불의 신",
+    "name": "불의 신",
     "type": "BELIEF_EARTH_MOTHER",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God-King",
-    "name": "God-King",
+    "nameFormatted": "신왕",
+    "name": "신왕",
     "type": "BELIEF_GOD_KING",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "God of the Sun",
-    "name": "God of the Sun",
+    "nameFormatted": "태양의 신",
+    "name": "태양의 신",
     "type": "BELIEF_SUN_GOD",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Morrigan, the Harbinger",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Morrigan, the Harbinger",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 모리안, 투쟁의 인도자",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 모리안, 투쟁의 인도자",
     "type": "BELIEF_MORRIGAN",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Epona, the Great Mare",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Epona, the Great Mare",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 에포나, 위대한 암말",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 에포나, 위대한 암말",
     "type": "BELIEF_EPONA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Nuada, the Silver-Handed",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Nuada, the Silver-Handed",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 누아다, 은색 팔의 신",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 누아다, 은색 팔의 신",
     "type": "BELIEF_NUADA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Cernunnos, the Horned Stag",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Cernunnos, the Horned Stag",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 케르눈노스, 뿔난 사슴의 신",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 케르눈노스, 뿔난 사슴의 신",
     "type": "BELIEF_CERNUNNOS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Lugh, the Skilled One",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Lugh, the Skilled One",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 루, 만능의 신",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 루, 만능의 신",
     "type": "BELIEF_LUGH",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Rhiannon, the Sovereign",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Rhiannon, the Sovereign",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 리아논, 군주의 신",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 리아논, 군주의 신",
     "type": "BELIEF_RHIANNON",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Manannan, Son of the Sea",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Manannan, Son of the Sea",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 마나난, 바다의 아들",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 마나난, 바다의 아들",
     "type": "BELIEF_MANANNAN",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Ogma, the Learned",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Ogma, the Learned",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 오그마, 깨달은 자",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 오그마, 깨달은 자",
     "type": "BELIEF_OGMA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Bran, the Sleeping Guardian",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Bran, the Sleeping Guardian",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 브란, 잠자는 수호자",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 브란, 잠자는 수호자",
     "type": "BELIEF_BRAN",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Dagda, the All-Father",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Dagda, the All-Father",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 다그다, 만물의 아버지",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 다그다, 만물의 아버지",
     "type": "BELIEF_DAGDA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Cailleach, the Queen of Winter",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Cailleach, the Queen of Winter",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 카이아흐, 겨울의 여신",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 카이아흐, 겨울의 여신",
     "type": "BELIEF_CAILLEACH",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Gurdwaras",
-    "name": "Gurdwaras",
+    "nameFormatted": "구루드와라",
+    "name": "구루드와라",
     "type": "BELIEF_GURDWARA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Teocallis",
-    "name": "Teocallis",
+    "nameFormatted": "테오칼리",
+    "name": "테오칼리",
     "type": "BELIEF_TEOCALLI",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Cooperation",
-    "name": "Cooperation",
+    "nameFormatted": "협력",
+    "name": "협력",
     "type": "BELIEF_COMMUNALISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Buddhism",
-    "name": "Buddhism",
+    "nameFormatted": "불교",
+    "name": "불교",
     "type": "RELIGION_BUDDHISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Catholicism",
-    "name": "Catholicism",
+    "nameFormatted": "가톨릭",
+    "name": "가톨릭",
     "type": "RELIGION_CHRISTIANITY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Confucianism",
-    "name": "Confucianism",
+    "nameFormatted": "유교",
+    "name": "유교",
     "type": "RELIGION_CONFUCIANISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Hinduism",
-    "name": "Hinduism",
+    "nameFormatted": "힌두교",
+    "name": "힌두교",
     "type": "RELIGION_HINDUISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Islam",
-    "name": "Islam",
+    "nameFormatted": "이슬람교",
+    "name": "이슬람교",
     "type": "RELIGION_ISLAM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Judaism",
-    "name": "Judaism",
+    "nameFormatted": "유대교",
+    "name": "유대교",
     "type": "RELIGION_JUDAISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Shinto",
-    "name": "Shinto",
+    "nameFormatted": "신토교",
+    "name": "신토교",
     "type": "RELIGION_SHINTO",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Sikhism",
-    "name": "Sikhism",
+    "nameFormatted": "시크교",
+    "name": "시크교",
     "type": "RELIGION_SIKHISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Taoism",
-    "name": "Taoism",
+    "nameFormatted": "도교",
+    "name": "도교",
     "type": "RELIGION_TAOISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Tengriism",
-    "name": "Tengriism",
+    "nameFormatted": "텡그리 신앙",
+    "name": "텡그리 신앙",
     "type": "RELIGION_TENGRIISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Zoroastrianism",
-    "name": "Zoroastrianism",
+    "nameFormatted": "조로아스터교",
+    "name": "조로아스터교",
     "type": "RELIGION_ZOROASTRIANISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Eastern Orthodoxy",
-    "name": "Eastern Orthodoxy",
+    "nameFormatted": "동방 정교회",
+    "name": "동방 정교회",
     "type": "RELIGION_ORTHODOXY",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Protestantism",
-    "name": "Protestantism",
+    "nameFormatted": "개신교",
+    "name": "개신교",
     "type": "RELIGION_PROTESTANTISM",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "Heal Instantly",
-    "name": "Heal Instantly",
+    "nameFormatted": "즉시 회복",
+    "name": "즉시 회복",
     "type": "PROMOTION_INSTA_HEAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Repair",
-    "name": "Repair",
+    "nameFormatted": "수리",
+    "name": "수리",
     "type": "PROMOTION_REPAIR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Scouting III",
-    "name": "Scouting III",
+    "nameFormatted": "정찰 III",
+    "name": "정찰 III",
     "type": "PROMOTION_SCOUTING_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Repair",
-    "name": "Repair",
+    "nameFormatted": "수리",
+    "name": "수리",
     "type": "PROMOTION_HELI_REPAIR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Great Lighthouse",
-    "name": "Great Lighthouse",
+    "nameFormatted": "파로스 등대",
+    "name": "파로스 등대",
     "type": "PROMOTION_GREAT_LIGHTHOUSE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Mobile Admiral",
-    "name": "Mobile Admiral",
+    "nameFormatted": "제독 기동성",
+    "name": "제독 기동성",
     "type": "PROMOTION_FAST_ADMIRAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "1 Extra Movement",
-    "name": "1 Extra Movement",
+    "nameFormatted": "이동력 증가 1",
+    "name": "이동력 증가 1",
     "type": "PROMOTION_EXTRA_MOVES_I",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Extra Sight (1)",
-    "name": "Extra Sight (1)",
+    "nameFormatted": "추가 시야 (1)",
+    "name": "추가 시야 (1)",
     "type": "PROMOTION_EXTRA_SIGHT_I",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Extra Sight (2)",
-    "name": "Extra Sight (2)",
+    "nameFormatted": "추가 시야 (2)",
+    "name": "추가 시야 (2)",
     "type": "PROMOTION_EXTRA_SIGHT_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Extra Sight (3)",
-    "name": "Extra Sight (3)",
+    "nameFormatted": "추가 시야 (3)",
+    "name": "추가 시야 (3)",
     "type": "PROMOTION_EXTRA_SIGHT_III",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Extra Sight (4)",
-    "name": "Extra Sight (4)",
+    "nameFormatted": "추가 시야 (4)",
+    "name": "추가 시야 (4)",
     "type": "PROMOTION_EXTRA_SIGHT_IV",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Limited Visibility",
-    "name": "Limited Visibility",
+    "nameFormatted": "시야 감소",
+    "name": "시야 감소",
     "type": "PROMOTION_SIGHT_PENALTY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bonus vs Mounted (100)",
-    "name": "Bonus vs Mounted (100)",
+    "nameFormatted": "기마 유닛 대항 보너스 (100)",
+    "name": "기마 유닛 대항 보너스 (100)",
     "type": "PROMOTION_ANTI_MOUNTED_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Penalty on Defense (33)",
-    "name": "Penalty on Defense (33)",
+    "nameFormatted": "방어 페널티 (33)",
+    "name": "방어 페널티 (33)",
     "type": "PROMOTION_DEFENSE_PENALTY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Penalty vs Mounted (33)",
-    "name": "Penalty vs Mounted (33)",
+    "nameFormatted": "기마 유닛 대항 페널티 (33)",
+    "name": "기마 유닛 대항 페널티 (33)",
     "type": "PROMOTION_MOUNTED_PENALTY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Weak Ranged Attack",
-    "name": "Weak Ranged Attack",
+    "nameFormatted": "원거리 공격력 감소",
+    "name": "원거리 공격력 감소",
     "type": "PROMOTION_WEAK_RANGED",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Penalty vs Naval (50)",
-    "name": "Penalty vs Naval (50)",
+    "nameFormatted": "해상 유닛 대항 페널티 (50)",
+    "name": "해상 유닛 대항 페널티 (50)",
     "type": "PROMOTION_NAVAL_PENALTY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bonus vs Cities (50)",
-    "name": "Bonus vs Cities (50)",
+    "nameFormatted": "도시 공격 보너스 (50)",
+    "name": "도시 공격 보너스 (50)",
     "type": "PROMOTION_HEAVY_PAYLOAD",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bonus vs Cities (33)",
-    "name": "Bonus vs Cities (33)",
+    "nameFormatted": "도시 공격 보너스 (33)",
+    "name": "도시 공격 보너스 (33)",
     "type": "PROMOTION_FIRE_SUPPORT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Cannot Enter Forest or Jungle",
-    "name": "Cannot Enter Forest or Jungle",
+    "nameFormatted": "숲 및 정글 타일 이동 불가",
+    "name": "숲 및 정글 타일 이동 불가",
     "type": "PROMOTION_FOLIAGE_IMPASSABLE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Rough Terrain Penalty",
-    "name": "Rough Terrain Penalty",
+    "nameFormatted": "험지 페널티",
+    "name": "험지 페널티",
     "type": "PROMOTION_ROUGH_TERRAIN_ENDS_TURN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Double movement in Coast",
-    "name": "Double movement in Coast",
+    "nameFormatted": "연안 지형 이동력 두 배",
+    "name": "연안 지형 이동력 두 배",
     "type": "PROMOTION_STEAM_POWERED",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Unable to Capture Cities",
-    "name": "Unable to Capture Cities",
+    "nameFormatted": "도시 점령 불가",
+    "name": "도시 점령 불가",
     "type": "PROMOTION_NO_CAPTURE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "May Attack Twice",
-    "name": "May Attack Twice",
+    "nameFormatted": "<span class=\"positive\">두 번</span> 공격함",
+    "name": "[COLOR_POSITIVE_TEXT]두 번[ENDCOLOR] 공격함",
     "type": "PROMOTION_SECOND_ATTACK",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Heal 50 Damage If Kills a Unit",
-    "name": "Heal 50 Damage If Kills a Unit",
+    "nameFormatted": "유닛 처치 시 체력 회복 (50)",
+    "name": "유닛 처치 시 체력 회복 (50)",
     "type": "PROMOTION_HEAL_IF_DESTROY_ENEMY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Combat Bonus in Forest/Jungle (33)",
-    "name": "Combat Bonus in Forest/Jungle (33)",
+    "nameFormatted": "숲/정글 지형 보너스 (33)",
+    "name": "숲/정글 지형 보너스 (33)",
     "type": "PROMOTION_JAGUAR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bonus vs Naval",
-    "name": "Bonus vs Naval",
+    "nameFormatted": "해상 유닛 대항 보너스",
+    "name": "해상 유닛 대항 보너스",
     "type": "PROMOTION_NAVAL_BONUS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Spear Throw",
-    "name": "Spear Throw",
+    "nameFormatted": "창 던지기",
+    "name": "창 던지기",
     "type": "PROMOTION_ANTI_GUNPOWDER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bonus vs Cities (250)",
-    "name": "Bonus vs Cities (250)",
+    "nameFormatted": "도시 공격 보너스 (250)",
+    "name": "도시 공격 보너스 (250)",
     "type": "PROMOTION_CITY_SIEGE_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Pride of the Ancestors",
-    "name": "Pride of the Ancestors",
+    "nameFormatted": "선조의 자부심",
+    "name": "선조의 자부심",
     "type": "PROMOTION_HOMELAND_GUARDIAN_BOOGALOO",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Desert Warrior",
-    "name": "Desert Warrior",
+    "nameFormatted": "사막 전사",
+    "name": "사막 전사",
     "type": "PROMOTION_DESERT_WARRIOR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Heroism",
-    "name": "Heroism",
+    "nameFormatted": "영웅심",
+    "name": "영웅심",
     "type": "PROMOTION_HEROISM",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Recruitment",
-    "name": "Recruitment",
+    "nameFormatted": "신병 모집",
+    "name": "신병 모집",
     "type": "PROMOTION_RECRUITMENT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ocean Embarkation",
-    "name": "Ocean Embarkation",
+    "nameFormatted": "대양 승선",
+    "name": "대양 승선",
     "type": "PROMOTION_DEEPWATER_EMBARKATION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Shock I",
-    "name": "Shock I",
+    "nameFormatted": "충격 I",
+    "name": "충격 I",
     "type": "PROMOTION_SHOCK_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Shock II",
-    "name": "Shock II",
+    "nameFormatted": "충격 II",
+    "name": "충격 II",
     "type": "PROMOTION_SHOCK_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Shock III",
-    "name": "Shock III",
+    "nameFormatted": "충격 III",
+    "name": "충격 III",
     "type": "PROMOTION_SHOCK_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Drill I",
-    "name": "Drill I",
+    "nameFormatted": "훈련 I",
+    "name": "훈련 I",
     "type": "PROMOTION_DRILL_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Drill II",
-    "name": "Drill II",
+    "nameFormatted": "훈련 II",
+    "name": "훈련 II",
     "type": "PROMOTION_DRILL_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Drill III",
-    "name": "Drill III",
+    "nameFormatted": "훈련 III",
+    "name": "훈련 III",
     "type": "PROMOTION_DRILL_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Barrage I",
-    "name": "Barrage I",
+    "nameFormatted": "탄막 I",
+    "name": "탄막 I",
     "type": "PROMOTION_BARRAGE_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Barrage II",
-    "name": "Barrage II",
+    "nameFormatted": "탄막 II",
+    "name": "탄막 II",
     "type": "PROMOTION_BARRAGE_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Barrage III",
-    "name": "Barrage III",
+    "nameFormatted": "탄막 III",
+    "name": "탄막 III",
     "type": "PROMOTION_BARRAGE_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Accuracy I",
-    "name": "Accuracy I",
+    "nameFormatted": "정확성 I",
+    "name": "정확성 I",
     "type": "PROMOTION_ACCURACY_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Accuracy II",
-    "name": "Accuracy II",
+    "nameFormatted": "정확성 II",
+    "name": "정확성 II",
     "type": "PROMOTION_ACCURACY_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Accuracy III",
-    "name": "Accuracy III",
+    "nameFormatted": "정확성 III",
+    "name": "정확성 III",
     "type": "PROMOTION_ACCURACY_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Targeting I",
-    "name": "Targeting I",
+    "nameFormatted": "표적 I",
+    "name": "표적 I",
     "type": "PROMOTION_TARGETING_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Targeting II",
-    "name": "Targeting II",
+    "nameFormatted": "표적 II",
+    "name": "표적 II",
     "type": "PROMOTION_TARGETING_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Targeting III",
-    "name": "Targeting III",
+    "nameFormatted": "표적 III",
+    "name": "표적 III",
     "type": "PROMOTION_TARGETING_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Sentry",
-    "name": "Sentry",
+    "nameFormatted": "감시",
+    "name": "감시",
     "type": "PROMOTION_SENTRY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Forlorn Hope",
-    "name": "Forlorn Hope",
+    "nameFormatted": "결사대",
+    "name": "결사대",
     "type": "PROMOTION_SIEGE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Volley",
-    "name": "Volley",
+    "nameFormatted": "일제 사격",
+    "name": "일제 사격",
     "type": "PROMOTION_VOLLEY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Medic I",
-    "name": "Medic I",
+    "nameFormatted": "위생병 I",
+    "name": "위생병 I",
     "type": "PROMOTION_MEDIC",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Medic II",
-    "name": "Medic II",
+    "nameFormatted": "의무병 II",
+    "name": "의무병 II",
     "type": "PROMOTION_MEDIC_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Amphibious",
-    "name": "Amphibious",
+    "nameFormatted": "수륙양용",
+    "name": "수륙양용",
     "type": "PROMOTION_AMPHIBIOUS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Cover I",
-    "name": "Cover I",
+    "nameFormatted": "엄폐 I",
+    "name": "엄폐 I",
     "type": "PROMOTION_COVER_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Cover II",
-    "name": "Cover II",
+    "nameFormatted": "엄폐 II",
+    "name": "엄폐 II",
     "type": "PROMOTION_COVER_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Charge I",
-    "name": "Charge I",
+    "nameFormatted": "돌격 I",
+    "name": "돌격 I",
     "type": "PROMOTION_CHARGE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Formation I",
-    "name": "Formation I",
+    "nameFormatted": "진형 I",
+    "name": "진형 I",
     "type": "PROMOTION_FORMATION_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Formation II",
-    "name": "Formation II",
+    "nameFormatted": "진형 II",
+    "name": "진형 II",
     "type": "PROMOTION_FORMATION_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ambush I",
-    "name": "Ambush I",
+    "nameFormatted": "매복 I",
+    "name": "매복 I",
     "type": "PROMOTION_AMBUSH_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ambush II",
-    "name": "Ambush II",
+    "nameFormatted": "매복 II",
+    "name": "매복 II",
     "type": "PROMOTION_AMBUSH_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Supply",
-    "name": "Supply",
+    "nameFormatted": "보급",
+    "name": "보급",
     "type": "PROMOTION_SUPPLY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "March",
-    "name": "March",
+    "nameFormatted": "행군",
+    "name": "행군",
     "type": "PROMOTION_MARCH",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Blitz",
-    "name": "Blitz",
+    "nameFormatted": "전격전",
+    "name": "전격전",
     "type": "PROMOTION_BLITZ",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Woodsman",
-    "name": "Woodsman",
+    "nameFormatted": "숲사람",
+    "name": "숲사람",
     "type": "PROMOTION_WOODSMAN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Logistics",
-    "name": "Logistics",
+    "nameFormatted": "병참",
+    "name": "병참",
     "type": "PROMOTION_LOGISTICS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Range",
-    "name": "Range",
+    "nameFormatted": "사거리",
+    "name": "사거리",
     "type": "PROMOTION_RANGE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Mobility",
-    "name": "Mobility",
+    "nameFormatted": "기동성",
+    "name": "기동성",
     "type": "PROMOTION_MOBILITY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ace Pilot I",
-    "name": "Ace Pilot I",
+    "nameFormatted": "에이스 파일럿 I",
+    "name": "에이스 파일럿 I",
     "type": "PROMOTION_INTERCEPTION_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ace Pilot II",
-    "name": "Ace Pilot II",
+    "nameFormatted": "에이스 파일럿 II",
+    "name": "에이스 파일럿 II",
     "type": "PROMOTION_INTERCEPTION_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ace Pilot III",
-    "name": "Ace Pilot III",
+    "nameFormatted": "에이스 파일럿 III",
+    "name": "에이스 파일럿 III",
     "type": "PROMOTION_INTERCEPTION_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Dogfighting I",
-    "name": "Dogfighting I",
+    "nameFormatted": "공중전 I",
+    "name": "공중전 I",
     "type": "PROMOTION_DOGFIGHTING_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Dogfighting II",
-    "name": "Dogfighting II",
+    "nameFormatted": "공중전 II",
+    "name": "공중전 II",
     "type": "PROMOTION_DOGFIGHTING_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Dogfighting III",
-    "name": "Dogfighting III",
+    "nameFormatted": "공중전 III",
+    "name": "공중전 III",
     "type": "PROMOTION_DOGFIGHTING_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Siege I",
-    "name": "Siege I",
+    "nameFormatted": "공성 I",
+    "name": "공성 I",
     "type": "PROMOTION_AIR_SIEGE_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Siege II",
-    "name": "Siege II",
+    "nameFormatted": "공성 II",
+    "name": "공성 II",
     "type": "PROMOTION_AIR_SIEGE_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Siege III",
-    "name": "Siege III",
+    "nameFormatted": "공성 III",
+    "name": "공성 III",
     "type": "PROMOTION_AIR_SIEGE_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bombardment I",
-    "name": "Bombardment I",
+    "nameFormatted": "폭격 I",
+    "name": "폭격 I",
     "type": "PROMOTION_BOMBARDMENT_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bombardment II",
-    "name": "Bombardment II",
+    "nameFormatted": "폭격 II",
+    "name": "폭격 II",
     "type": "PROMOTION_BOMBARDMENT_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bombardment III",
-    "name": "Bombardment III",
+    "nameFormatted": "폭격 III",
+    "name": "폭격 III",
     "type": "PROMOTION_BOMBARDMENT_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Targeting I",
-    "name": "Air Targeting I",
+    "nameFormatted": "공중 목표 설정 I",
+    "name": "공중 목표 설정 I",
     "type": "PROMOTION_AIR_TARGETING_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Targeting II",
-    "name": "Air Targeting II",
+    "nameFormatted": "공중 목표 설정 II",
+    "name": "공중 목표 설정 II",
     "type": "PROMOTION_AIR_TARGETING_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Ambush I",
-    "name": "Air Ambush I",
+    "nameFormatted": "공중 매복 I",
+    "name": "공중 매복 I",
     "type": "PROMOTION_AIR_AMBUSH_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Ambush II",
-    "name": "Air Ambush II",
+    "nameFormatted": "공중 매복 II",
+    "name": "공중 매복 II",
     "type": "PROMOTION_AIR_AMBUSH_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Range",
-    "name": "Range",
+    "nameFormatted": "범위",
+    "name": "범위",
     "type": "PROMOTION_AIR_RANGE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ace Pilot IV",
-    "name": "Ace Pilot IV",
+    "nameFormatted": "에이스 파일럿 IV",
+    "name": "에이스 파일럿 IV",
     "type": "PROMOTION_SORTIE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Repair",
-    "name": "Air Repair",
+    "nameFormatted": "공중 수리",
+    "name": "공중 수리",
     "type": "PROMOTION_AIR_REPAIR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Logistics",
-    "name": "Air Logistics",
+    "nameFormatted": "병참 지원",
+    "name": "병참 지원",
     "type": "PROMOTION_AIR_LOGISTICS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Evasion",
-    "name": "Evasion",
+    "nameFormatted": "회피",
+    "name": "회피",
     "type": "PROMOTION_EVASION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Scouting I",
-    "name": "Scouting I",
+    "nameFormatted": "정찰 I",
+    "name": "정찰 I",
     "type": "PROMOTION_SCOUTING_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Scouting II",
-    "name": "Scouting II",
+    "nameFormatted": "정찰 II",
+    "name": "정찰 II",
     "type": "PROMOTION_SCOUTING_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Survivalism I",
-    "name": "Survivalism I",
+    "nameFormatted": "생존 I",
+    "name": "생존 I",
     "type": "PROMOTION_SURVIVALISM_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Survivalism II",
-    "name": "Survivalism II",
+    "nameFormatted": "생존 II",
+    "name": "생존 II",
     "type": "PROMOTION_SURVIVALISM_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Survivalism III",
-    "name": "Survivalism III",
+    "nameFormatted": "생존 III",
+    "name": "생존 III",
     "type": "PROMOTION_SURVIVALISM_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Tank Hunter I",
-    "name": "Tank Hunter I",
+    "nameFormatted": "전차 헌터 I",
+    "name": "전차 헌터 I",
     "type": "PROMOTION_HELI_AMBUSH_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Tank Hunter II",
-    "name": "Tank Hunter II",
+    "nameFormatted": "전차 헌터 II",
+    "name": "전차 헌터 II",
     "type": "PROMOTION_HELI_AMBUSH_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Mobility I",
-    "name": "Mobility I",
+    "nameFormatted": "기동성 I",
+    "name": "기동성 I",
     "type": "PROMOTION_HELI_MOBILITY_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Mobility II",
-    "name": "Mobility II",
+    "nameFormatted": "기동성 II",
+    "name": "기동성 II",
     "type": "PROMOTION_HELI_MOBILITY_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Hull I",
-    "name": "Hull I",
+    "nameFormatted": "선체 I",
+    "name": "선체 I",
     "type": "PROMOTION_COASTAL_RAIDER_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Hull II",
-    "name": "Hull II",
+    "nameFormatted": "선체 II",
+    "name": "선체 II",
     "type": "PROMOTION_COASTAL_RAIDER_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Hull III",
-    "name": "Hull III",
+    "nameFormatted": "선체 III",
+    "name": "선체 III",
     "type": "PROMOTION_COASTAL_RAIDER_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Boarding Party I",
-    "name": "Boarding Party I",
+    "nameFormatted": "선박 침투조 I",
+    "name": "선박 침투조 I",
     "type": "PROMOTION_BOARDING_PARTY_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Boarding Party II",
-    "name": "Boarding Party II",
+    "nameFormatted": "선박 침투조 II",
+    "name": "선박 침투조 II",
     "type": "PROMOTION_BOARDING_PARTY_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Boarding Party III",
-    "name": "Boarding Party III",
+    "nameFormatted": "선박 침투조 III",
+    "name": "선박 침투조 III",
     "type": "PROMOTION_BOARDING_PARTY_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Torpedo I",
-    "name": "Torpedo I",
+    "nameFormatted": "어뢰 I",
+    "name": "어뢰 I",
     "type": "PROMOTION_WOLFPACK_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Torpedo II",
-    "name": "Torpedo II",
+    "nameFormatted": "어뢰 II",
+    "name": "어뢰 II",
     "type": "PROMOTION_WOLFPACK_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Torpedo III",
-    "name": "Torpedo III",
+    "nameFormatted": "어뢰 III",
+    "name": "어뢰 III",
     "type": "PROMOTION_WOLFPACK_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Flight Deck I",
-    "name": "Flight Deck I",
+    "nameFormatted": "비행 갑판 I",
+    "name": "비행 갑판 I",
     "type": "PROMOTION_FLIGHT_DECK_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Flight Deck II",
-    "name": "Flight Deck II",
+    "nameFormatted": "비행 갑판 II",
+    "name": "비행 갑판 II",
     "type": "PROMOTION_FLIGHT_DECK_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Flight Deck III",
-    "name": "Flight Deck III",
+    "nameFormatted": "비행 갑판 III",
+    "name": "비행 갑판 III",
     "type": "PROMOTION_FLIGHT_DECK_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Armor Plating I",
-    "name": "Armor Plating I",
+    "nameFormatted": "철갑 I",
+    "name": "철갑 I",
     "type": "PROMOTION_ARMOR_PLATING_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Armor Plating II",
-    "name": "Armor Plating II",
+    "nameFormatted": "철갑 II",
+    "name": "철갑 II",
     "type": "PROMOTION_ARMOR_PLATING_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Armor Plating III",
-    "name": "Armor Plating III",
+    "nameFormatted": "철갑 III",
+    "name": "철갑 III",
     "type": "PROMOTION_ARMOR_PLATING_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Penetration I",
-    "name": "Air Penetration I",
+    "nameFormatted": "공중 침투 I",
+    "name": "공중 침투 I",
     "type": "PROMOTION_EVASION_I",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Penetration II",
-    "name": "Air Penetration II",
+    "nameFormatted": "공중 침투 II",
+    "name": "공중 침투 II",
     "type": "PROMOTION_EVASION_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Interceptor I",
-    "name": "Interceptor I",
+    "nameFormatted": "요격 I",
+    "name": "요격 I",
     "type": "PROMOTION_INTERCEPTION_I",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Interceptor II",
-    "name": "Interceptor II",
+    "nameFormatted": "요격 II",
+    "name": "요격 II",
     "type": "PROMOTION_INTERCEPTION_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Interceptor III",
-    "name": "Interceptor III",
+    "nameFormatted": "요격 III",
+    "name": "요격 III",
     "type": "PROMOTION_INTERCEPTION_III",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Interceptor IV",
-    "name": "Interceptor IV",
+    "nameFormatted": "요격 IV",
+    "name": "요격 IV",
     "type": "PROMOTION_INTERCEPTION_IV",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Supremacy I",
-    "name": "Air Supremacy I",
+    "nameFormatted": "제공권 I",
+    "name": "제공권 I",
     "type": "PROMOTION_ANTI_AIR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Supremacy II",
-    "name": "Air Supremacy II",
+    "nameFormatted": "제공권 II",
+    "name": "제공권 II",
     "type": "PROMOTION_ANTI_AIR_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Eagle Hunter",
-    "name": "Eagle Hunter",
+    "nameFormatted": "독수리 사냥",
+    "name": "독수리 사냥",
     "type": "PROMOTION_ANTI_FIGHTER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Can See Submarines",
-    "name": "Can See Submarines",
+    "nameFormatted": "잠수함 탐지 가능",
+    "name": "잠수함 탐지 가능",
     "type": "PROMOTION_SEE_INVISIBLE_SUBMARINE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Buffalo Chest",
-    "name": "Buffalo Chest",
+    "nameFormatted": "버팔로 가슴",
+    "name": "버팔로 가슴",
     "type": "PROMOTION_BUFFALO_CHEST",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Buffalo Horns",
-    "name": "Buffalo Horns",
+    "nameFormatted": "버팔로 뿔",
+    "name": "버팔로 뿔",
     "type": "PROMOTION_BUFFALO_HORNS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Buffalo Loins",
-    "name": "Buffalo Loins",
+    "nameFormatted": "버팔로 허리",
+    "name": "버팔로 허리",
     "type": "PROMOTION_BUFFALO_LOINS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Embarkation with Ocean Movement",
-    "name": "Embarkation with Ocean Movement",
+    "nameFormatted": "대양 항해 승선",
+    "name": "대양 항해 승선",
     "type": "PROMOTION_ALLWATER_EMBARKATION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "War Canoes",
-    "name": "War Canoes",
+    "nameFormatted": "전투용 카누",
+    "name": "전투용 카누",
     "type": "PROMOTION_WAR_CANOES",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Native Tongue",
-    "name": "Native Tongue",
+    "nameFormatted": "원주민 언어",
+    "name": "원주민 언어",
     "type": "PROMOTION_GOODY_HUT_PICKER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Exploration",
-    "name": "Exploration",
+    "nameFormatted": "탐험",
+    "name": "탐험",
     "type": "PROMOTION_NAVAL_TRADITION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Patriotic War",
-    "name": "Patriotic War",
+    "nameFormatted": "애국전쟁",
+    "name": "애국전쟁",
     "type": "PROMOTION_NATIONALISM",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Mobile General",
-    "name": "Mobile General",
+    "nameFormatted": "장군 기동성",
+    "name": "장군 기동성",
     "type": "PROMOTION_FAST_GENERAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Embarkation",
-    "name": "Embarkation",
+    "nameFormatted": "승선",
+    "name": "승선",
     "type": "PROMOTION_EMBARKATION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Altitude Training",
-    "name": "Altitude Training",
+    "nameFormatted": "고산지 훈련",
+    "name": "고산지 훈련",
     "type": "PROMOTION_ALTITUDE_TRAINING",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Morale",
-    "name": "Morale",
+    "nameFormatted": "사기",
+    "name": "사기",
     "type": "PROMOTION_MORALE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Statue of Zeus",
-    "name": "Statue of Zeus",
+    "nameFormatted": "제우스 동상",
+    "name": "제우스 동상",
     "type": "PROMOTION_STATUE_ZEUS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Himeji Castle",
-    "name": "Himeji Castle",
+    "nameFormatted": "히메지 성",
+    "name": "히메지 성",
     "type": "PROMOTION_HIMEJI_CASTLE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "May Not Melee Attack",
-    "name": "May Not Melee Attack",
+    "nameFormatted": "근접 공격 불가",
+    "name": "근접 공격 불가",
     "type": "PROMOTION_ONLY_DEFENSIVE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Anti-Tank Rounds",
-    "name": "Anti-Tank Rounds",
+    "nameFormatted": "대전차 구역",
+    "name": "대전차 구역",
     "type": "PROMOTION_ANTI_TANK",
     "page": "promotions"
   },
   {
-    "nameFormatted": "No Defensive Terrain Bonuses",
-    "name": "No Defensive Terrain Bonuses",
+    "nameFormatted": "⚔️방어력 보너스 없음",
+    "name": "[ICON_STRENGTH]방어력 보너스 없음",
     "type": "PROMOTION_NO_DEFENSIVE_BONUSES",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Can Move After Attacking",
-    "name": "Can Move After Attacking",
+    "nameFormatted": "공격 후 이동 가능",
+    "name": "공격 후 이동 가능",
     "type": "PROMOTION_CAN_MOVE_AFTER_ATTACKING",
     "page": "promotions"
   },
   {
-    "nameFormatted": "City Attack Penalty",
-    "name": "City Attack Penalty",
+    "nameFormatted": "도시 공격 패널티",
+    "name": "도시 공격 패널티",
     "type": "PROMOTION_CITY_PENALTY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Hovering Unit",
-    "name": "Hovering Unit",
+    "nameFormatted": "호버링 유닛",
+    "name": "호버링 유닛",
     "type": "PROMOTION_HOVERING_UNIT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "All tiles cost 1 👣 Movement.<br><span class=\"negative\">Cannot use Roads and Railroads.</span>",
-    "name": "All tiles cost 1 [ICON_MOVES] Movement.[NEWLINE][COLOR_NEGATIVE_TEXT]Cannot use Roads and Railroads.[ENDCOLOR]",
+    "nameFormatted": "지형에 상없이 타일마다 👣이동력 <span class=\"positive\">1</span> 소모",
+    "name": "지형에 상없이 타일마다 [ICON_MOVES]이동력 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 소모",
     "type": "PROMOTION_FLAT_MOVEMENT_COST",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Moves at half-speed in enemy territory",
-    "name": "Moves at half-speed in enemy territory",
+    "nameFormatted": "적 영토에서 두 배 느려짐",
+    "name": "적 영토에서 두 배 느려짐",
     "type": "PROMOTION_MUST_SET_UP",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Siege Engine",
-    "name": "Siege Engine",
+    "nameFormatted": "공성 기관",
+    "name": "공성 기관",
     "type": "PROMOTION_CITY_SIEGE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Indirect Fire",
-    "name": "Indirect Fire",
+    "nameFormatted": "간접 사격",
+    "name": "간접 사격",
     "type": "PROMOTION_INDIRECT_FIRE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ignores Terrain Cost",
-    "name": "Ignores Terrain Cost",
+    "nameFormatted": "지형 페널티 없음",
+    "name": "지형 페널티 없음",
     "type": "PROMOTION_IGNORE_TERRAIN_COST",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Extra Sight While Embarked",
-    "name": "Extra Sight While Embarked",
+    "nameFormatted": "승선 시 시야 증가",
+    "name": "승선 시 시야 증가",
     "type": "PROMOTION_EMBARKED_SIGHT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Embarkation with Defense",
-    "name": "Embarkation with Defense",
+    "nameFormatted": "방어적 승선",
+    "name": "방어적 승선",
     "type": "PROMOTION_DEFENSIVE_EMBARKATION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Combat Bonus When Attacking (25)",
-    "name": "Combat Bonus When Attacking (25)",
+    "nameFormatted": "공격 시 ⚔️전투력 보너스 (<span class=\"positive\">+25%</span>)",
+    "name": "공격 시 [ICON_STRENGTH]전투력 보너스 ([COLOR_POSITIVE_TEXT]+25%[ENDCOLOR])",
     "type": "PROMOTION_ATTACK_BONUS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "No Movement Cost to Pillage",
-    "name": "No Movement Cost to Pillage",
+    "nameFormatted": "약탈 시 👣이동력 소모 없음",
+    "name": "약탈 시 [ICON_MOVES]이동력 소모 없음",
     "type": "PROMOTION_FREE_PILLAGE_MOVES",
     "page": "promotions"
   },
   {
-    "nameFormatted": "May Paradrop",
-    "name": "May Paradrop",
+    "nameFormatted": "공중 투하",
+    "name": "공중 투하",
     "type": "PROMOTION_PARADROP",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Skyranger",
-    "name": "Skyranger",
+    "nameFormatted": "낙하 부대",
+    "name": "낙하 부대",
     "type": "PROMOTION_EXTENDED_PARADROP",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Oceanic Peril",
-    "name": "Oceanic Peril",
+    "nameFormatted": "바다의 위험",
+    "name": "바다의 위험",
     "type": "PROMOTION_OCEAN_IMPASSABLE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Depth Charges I",
-    "name": "Depth Charges I",
+    "nameFormatted": "폭뢰 I",
+    "name": "폭뢰 I",
     "type": "PROMOTION_ANTI_SUBMARINE_I",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Depth Charges II",
-    "name": "Depth Charges II",
+    "nameFormatted": "폭뢰 II",
+    "name": "폭뢰 II",
     "type": "PROMOTION_ANTI_SUBMARINE_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Can Carry 1 Cargo",
-    "name": "Can Carry 1 Cargo",
+    "nameFormatted": "유닛 <span class=\"positive\">1개</span> 배치 가능",
+    "name": "유닛 [COLOR_POSITIVE_TEXT]1개[ENDCOLOR] 배치 가능",
     "type": "PROMOTION_CARGO_I",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Can Carry 2 Cargo",
-    "name": "Can Carry 2 Cargo",
+    "nameFormatted": "유닛 <span class=\"positive\">2개</span> 배치 가능",
+    "name": "유닛 [COLOR_POSITIVE_TEXT]2개[ENDCOLOR] 배치 가능",
     "type": "PROMOTION_CARGO_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Can Carry 3 Cargo",
-    "name": "Can Carry 3 Cargo",
+    "nameFormatted": "유닛 <span class=\"positive\">3개</span> 배치 가능",
+    "name": "유닛 [COLOR_POSITIVE_TEXT]3개[ENDCOLOR] 배치 가능",
     "type": "PROMOTION_CARGO_III",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Can Carry 4 Cargo",
-    "name": "Can Carry 4 Cargo",
+    "nameFormatted": "유닛 <span class=\"positive\">4개</span> 배치 가능",
+    "name": "유닛 [COLOR_POSITIVE_TEXT]4개[ENDCOLOR] 배치 가능",
     "type": "PROMOTION_CARGO_IV",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Silent Hunter",
-    "name": "Silent Hunter",
+    "nameFormatted": "침묵의 사냥꾼",
+    "name": "침묵의 사냥꾼",
     "type": "PROMOTION_SILENT_HUNTER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Major City Attack Penalty",
-    "name": "Major City Attack Penalty",
+    "nameFormatted": "큰 도시 공격 페널티",
+    "name": "큰 도시 공격 페널티",
     "type": "PROMOTION_BIG_CITY_PENALTY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Is Invisible (Submarine)",
-    "name": "Is Invisible (Submarine)",
+    "nameFormatted": "보이지 않음 (잠수함)",
+    "name": "보이지 않음 (잠수함)",
     "type": "PROMOTION_INVISIBLE_SUBMARINE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "May Enter Ice Tiles",
-    "name": "May Enter Ice Tiles",
+    "nameFormatted": "빙하 타일로 이동 가능",
+    "name": "빙하 타일로 이동 가능",
     "type": "PROMOTION_CAN_MOVE_IMPASSABLE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Sweep",
-    "name": "Air Sweep",
+    "nameFormatted": "제공",
+    "name": "제공",
     "type": "PROMOTION_AIR_SWEEP",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Recon",
-    "name": "Air Recon",
+    "nameFormatted": "공중 정찰",
+    "name": "공중 정찰",
     "type": "PROMOTION_AIR_RECON",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bonus vs Helicopters (150)",
-    "name": "Bonus vs Helicopters (150)",
+    "nameFormatted": "헬리콥터 대항 보너스 (150)",
+    "name": "헬리콥터 대항 보너스 (150)",
     "type": "PROMOTION_ANTI_HELICOPTER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Domestic Focus",
-    "name": "Domestic Focus",
+    "nameFormatted": "국내 집중",
+    "name": "국내 집중",
     "type": "PROMOTION_OCEAN_IMPASSABLE_UNTIL_ASTRONOMY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Colonization",
-    "name": "Colonization",
+    "nameFormatted": "식민지화",
+    "name": "식민지화",
     "type": "PROMOTION_OCEAN_MOVEMENT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Can Enter Rival Territory",
-    "name": "Can Enter Rival Territory",
+    "nameFormatted": "영토 침입 가능",
+    "name": "영토 침입 가능",
     "type": "PROMOTION_RIVAL_TERRITORY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Unwelcome Evangelist",
-    "name": "Unwelcome Evangelist",
+    "nameFormatted": "불청객 전도사",
+    "name": "불청객 전도사",
     "type": "PROMOTION_UNWELCOME_EVANGELIST",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Leadership",
-    "name": "Leadership",
+    "nameFormatted": "지도력",
+    "name": "지도력",
     "type": "PROMOTION_GREAT_GENERAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Naval Leadership",
-    "name": "Naval Leadership",
+    "nameFormatted": "해상 지도력",
+    "name": "해상 지도력",
     "type": "PROMOTION_GREAT_ADMIRAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Withdraw Before Melee",
-    "name": "Withdraw Before Melee",
+    "nameFormatted": "근접전 회피",
+    "name": "근접전 회피",
     "type": "PROMOTION_WITHDRAW_BEFORE_MELEE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Unity",
-    "name": "Unity",
+    "nameFormatted": "통일",
+    "name": "통일",
     "type": "PROMOTION_ADJACENT_BONUS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bonus vs Mounted (50)",
-    "name": "Bonus vs Mounted (50)",
+    "nameFormatted": "기마 유닛 대항 보너스 (50)",
+    "name": "기마 유닛 대항 보너스 (50)",
     "type": "PROMOTION_ANTI_MOUNTED_I",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Skeleton Key",
-    "name": "Skeleton Key",
+    "nameFormatted": "해골 열쇠",
+    "name": "해골 열쇠",
     "type": "PROMOTION_CITY_ASSAULT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Minor City Attack Penalty",
-    "name": "Minor City Attack Penalty",
+    "nameFormatted": "약한 도시 공격 패널티",
+    "name": "약한 도시 공격 패널티",
     "type": "PROMOTION_SMALL_CITY_PENALTY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Open Terrain Bonus (30)",
-    "name": "Open Terrain Bonus (30)",
+    "nameFormatted": "평지 보너스(30)",
+    "name": "평지 보너스(30)",
     "type": "PROMOTION_OPEN_TERRAIN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ranged Support Fire",
-    "name": "Ranged Support Fire",
+    "nameFormatted": "원거리 지원 사격",
+    "name": "원거리 지원 사격",
     "type": "PROMOTION_RANGED_SUPPORT_FIRE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Great Generals I",
-    "name": "Great Generals I",
+    "nameFormatted": "위대한 장군 I",
+    "name": "위대한 장군 I",
     "type": "PROMOTION_SPAWN_GENERALS_I",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Great Generals II",
-    "name": "Great Generals II",
+    "nameFormatted": "위대한 장군 II",
+    "name": "위대한 장군 II",
     "type": "PROMOTION_SPAWN_GENERALS_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Tenacity",
-    "name": "Tenacity",
+    "nameFormatted": "강인",
+    "name": "강인",
     "type": "PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Combat Bonus in Forest/Jungle (33)",
-    "name": "Combat Bonus in Forest/Jungle (33)",
+    "nameFormatted": "숲/정글 지형 보너스 (33)",
+    "name": "숲/정글 지형 보너스 (33)",
     "type": "PROMOTION_MOHAWK",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Expeditionary Warfare",
-    "name": "Expeditionary Warfare",
+    "nameFormatted": "원정 전쟁",
+    "name": "원정 전쟁",
     "type": "PROMOTION_FOREIGN_LANDS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Faster Healing",
-    "name": "Faster Healing",
+    "nameFormatted": "빠른 치유",
+    "name": "빠른 치유",
     "type": "PROMOTION_FASTER_HEAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Marksmanship",
-    "name": "Marksmanship",
+    "nameFormatted": "마크스맨쉽",
+    "name": "마크스맨쉽",
     "type": "PROMOTION_STRONGER_VS_DAMAGED",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Highlander",
-    "name": "Highlander",
+    "nameFormatted": "하이랜더",
+    "name": "하이랜더",
     "type": "PROMOTION_SKI_INFANTRY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Haka War Dance",
-    "name": "Haka War Dance",
+    "nameFormatted": "하카 전쟁 의식",
+    "name": "하카 전쟁 의식",
     "type": "PROMOTION_HAKA_WAR_DANCE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Khaaaan!",
-    "name": "Khaaaan!",
+    "nameFormatted": "카아아안!",
+    "name": "카아아안!",
     "type": "PROMOTION_MEDIC_GENERAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Quick Study",
-    "name": "Quick Study",
+    "nameFormatted": "빠른 이해력",
+    "name": "빠른 이해력",
     "type": "PROMOTION_GAIN_EXPERIENCE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Trade Mission Bonus",
-    "name": "Trade Mission Bonus",
+    "nameFormatted": "무역 임무 보너스",
+    "name": "무역 임무 보너스",
     "type": "PROMOTION_TRADE_MISSION_BONUS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Heavy Charge",
-    "name": "Heavy Charge",
+    "nameFormatted": "육중한 돌격",
+    "name": "육중한 돌격",
     "type": "PROMOTION_HEAVY_CHARGE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Sapper",
-    "name": "Sapper",
+    "nameFormatted": "공병",
+    "name": "공병",
     "type": "PROMOTION_SAPPER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Golden Age from Victories",
-    "name": "Golden Age from Victories",
+    "nameFormatted": "승리를 통한 황금기",
+    "name": "승리를 통한 황금기",
     "type": "PROMOTION_GOLDEN_AGE_POINTS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Homeland Guardian",
-    "name": "Homeland Guardian",
+    "nameFormatted": "향토 수비대",
+    "name": "향토 수비대",
     "type": "PROMOTION_HOMELAND_GUARDIAN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Full Moon Striker",
-    "name": "Full Moon Striker",
+    "nameFormatted": "보름달 전사",
+    "name": "보름달 전사",
     "type": "PROMOTION_MOON_STRIKER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Mystic Blade",
-    "name": "Mystic Blade",
+    "nameFormatted": "비전의 보도",
+    "name": "비전의 보도",
     "type": "PROMOTION_MYSTIC_BLADE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Lightning Warfare",
-    "name": "Lightning Warfare",
+    "nameFormatted": "전격전",
+    "name": "전격전",
     "type": "PROMOTION_LIGHTNING_WARFARE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Exotic Cargo",
-    "name": "Exotic Cargo",
+    "nameFormatted": "이국적인 화물",
+    "name": "이국적인 화물",
     "type": "PROMOTION_SELL_EXOTIC_GOODS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "City Plunder",
-    "name": "City Plunder",
+    "nameFormatted": "도시 약탈",
+    "name": "도시 약탈",
     "type": "PROMOTION_DOUBLE_PLUNDER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Feared Elephant",
-    "name": "Feared Elephant",
+    "nameFormatted": "코끼리 겁주기",
+    "name": "코끼리 겁주기",
     "type": "PROMOTION_FEARED_ELEPHANT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Enhanced Flank Attack",
-    "name": "Enhanced Flank Attack",
+    "nameFormatted": "향상된 측면 공격",
+    "name": "향상된 측면 공격",
     "type": "PROMOTION_FLANK_ATTACK_BONUS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Near Capital Bonus",
-    "name": "Near Capital Bonus",
+    "nameFormatted": "수도 근방 보너스",
+    "name": "수도 근방 보너스",
     "type": "PROMOTION_DEFEND_NEAR_CAPITAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Transfer Movement to General",
-    "name": "Transfer Movement to General",
+    "nameFormatted": "이동력 양도",
+    "name": "이동력 양도",
     "type": "PROMOTION_MOVEMENT_TO_GENERAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Great General Combat Bonus",
-    "name": "Great General Combat Bonus",
+    "nameFormatted": "위대한 장군 전투 보너스",
+    "name": "위대한 장군 전투 보너스",
     "type": "PROMOTION_GENERAL_STACKING",
     "page": "promotions"
   },
   {
-    "nameFormatted": "City Attack Only",
-    "name": "City Attack Only",
+    "nameFormatted": "도시만 공격 가능",
+    "name": "도시만 공격 가능",
     "type": "PROMOTION_ONLY_ATTACKS_CITIES",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Prize Ships",
-    "name": "Prize Ships",
+    "nameFormatted": "전리품 선박",
+    "name": "전리품 선박",
     "type": "PROMOTION_PRIZE_SHIPS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Invulnerability",
-    "name": "Invulnerability",
+    "nameFormatted": "무적",
+    "name": "무적",
     "type": "PROMOTION_INVULNERABIILITY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Sneak Attack",
-    "name": "Sneak Attack",
+    "nameFormatted": "기습 공격",
+    "name": "기습 공격",
     "type": "PROMOTION_SNEAK_ATTACK",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Determination",
-    "name": "Determination",
+    "nameFormatted": "결정",
+    "name": "결정",
     "type": "PROMOTION_AMBITION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ceaselessness",
-    "name": "Ceaselessness",
+    "nameFormatted": "끊임없음",
+    "name": "끊임없음",
     "type": "PROMOTION_RESTLESSNESS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Enemy Blade",
-    "name": "Enemy Blade",
+    "nameFormatted": "적의 칼날",
+    "name": "적의 칼날",
     "type": "PROMOTION_ENEMY_BLADE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ancestral Protection",
-    "name": "Ancestral Protection",
+    "nameFormatted": "조상의 보호",
+    "name": "조상의 보호",
     "type": "PROMOTION_EVIL_SPIRITS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Siege I",
-    "name": "Siege I",
+    "nameFormatted": "공성 I",
+    "name": "공성 I",
     "type": "PROMOTION_SIEGE_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Siege II",
-    "name": "Siege II",
+    "nameFormatted": "공성 II",
+    "name": "공성 II",
     "type": "PROMOTION_SIEGE_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Siege III",
-    "name": "Siege III",
+    "nameFormatted": "공성 III",
+    "name": "공성 III",
     "type": "PROMOTION_SIEGE_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Field I",
-    "name": "Field I",
+    "nameFormatted": "야전 I",
+    "name": "야전 I",
     "type": "PROMOTION_FIELD_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Field II",
-    "name": "Field II",
+    "nameFormatted": "야전 II",
+    "name": "야전 II",
     "type": "PROMOTION_FIELD_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Field III",
-    "name": "Field III",
+    "nameFormatted": "야전 III",
+    "name": "야전 III",
     "type": "PROMOTION_FIELD_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Trailblazer I",
-    "name": "Trailblazer I",
+    "nameFormatted": "개척 I",
+    "name": "개척 I",
     "type": "PROMOTION_TRAILBLAZER_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Trailblazer II",
-    "name": "Trailblazer II",
+    "nameFormatted": "개척 II",
+    "name": "개척 II",
     "type": "PROMOTION_TRAILBLAZER_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Trailblazer III",
-    "name": "Trailblazer III",
+    "nameFormatted": "개척 III",
+    "name": "개척 III",
     "type": "PROMOTION_TRAILBLAZER_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Coastal Artillery",
-    "name": "Coastal Artillery",
+    "nameFormatted": "해안 포병",
+    "name": "해안 포병",
     "type": "PROMOTION_COASTAL_ARTILLERY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Splash I",
-    "name": "Splash I",
+    "nameFormatted": "광역 I",
+    "name": "광역 I",
     "type": "PROMOTION_SPLASH_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Splash II",
-    "name": "Splash II",
+    "nameFormatted": "광역 II",
+    "name": "광역 II",
     "type": "PROMOTION_SPLASH_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Navigator I",
-    "name": "Navigator I",
+    "nameFormatted": "조종사 I",
+    "name": "조종사 I",
     "type": "PROMOTION_NAVIGATOR_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Navigator II",
-    "name": "Navigator II",
+    "nameFormatted": "조종사 II",
+    "name": "조종사 II",
     "type": "PROMOTION_NAVIGATOR_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Defense I",
-    "name": "Air Defense I",
+    "nameFormatted": "공중 방어 I",
+    "name": "공중 방어 I",
     "type": "PROMOTION_AIR_DEFENSE_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Defense II",
-    "name": "Air Defense II",
+    "nameFormatted": "공중 방어 II",
+    "name": "공중 방어 II",
     "type": "PROMOTION_AIR_DEFENSE_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Defense III",
-    "name": "Air Defense III",
+    "nameFormatted": "공중 방어 III",
+    "name": "공중 방어 III",
     "type": "PROMOTION_AIR_DEFENSE_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Charge II",
-    "name": "Charge II",
+    "nameFormatted": "돌격 II",
+    "name": "돌격 II",
     "type": "PROMOTION_CHARGE_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Targeting III",
-    "name": "Air Targeting III",
+    "nameFormatted": "공중 목표 설정 III",
+    "name": "공중 목표 설정 III",
     "type": "PROMOTION_AIR_TARGETING_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Overrun",
-    "name": "Overrun",
+    "nameFormatted": "초과",
+    "name": "초과",
     "type": "PROMOTION_OVERRUN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Stalwart",
-    "name": "Stalwart",
+    "nameFormatted": "충실",
+    "name": "충실",
     "type": "PROMOTION_STALWART",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Firing Doctrine",
-    "name": "Firing Doctrine",
+    "nameFormatted": "사격 교리",
+    "name": "사격 교리",
     "type": "PROMOTION_FIRING_DOCTRINE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Infiltrators",
-    "name": "Infiltrators",
+    "nameFormatted": "침투",
+    "name": "침투",
     "type": "PROMOTION_INFILTRATORS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Indomitable",
-    "name": "Indomitable",
+    "nameFormatted": "굳건함",
+    "name": "굳건함",
     "type": "PROMOTION_INDOMITABLE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Broadside",
-    "name": "Broadside",
+    "nameFormatted": "집중 공격",
+    "name": "집중 공격",
     "type": "PROMOTION_BROADSIDE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Blockade",
-    "name": "Blockade",
+    "nameFormatted": "봉쇄",
+    "name": "봉쇄",
     "type": "PROMOTION_BLOCKADE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Pincer",
-    "name": "Pincer",
+    "nameFormatted": "펜치",
+    "name": "펜치",
     "type": "PROMOTION_PINCER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Dauntless",
-    "name": "Dauntless",
+    "nameFormatted": "불굴의 정신",
+    "name": "불굴의 정신",
     "type": "PROMOTION_DAUNTLESS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Commerce Raider",
-    "name": "Commerce Raider",
+    "nameFormatted": "강요",
+    "name": "강요",
     "type": "PROMOTION_COMMERCE_RAIDER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Piracy",
-    "name": "Piracy",
+    "nameFormatted": "사략",
+    "name": "사략",
     "type": "PROMOTION_PIRACY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Parthian Tactics",
-    "name": "Parthian Tactics",
+    "nameFormatted": "파르티안 전술",
+    "name": "파르티안 전술",
     "type": "PROMOTION_PARTHIAN_TACTICS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Coup de Grace",
-    "name": "Coup de Grace",
+    "nameFormatted": "최후의 일격",
+    "name": "최후의 일격",
     "type": "PROMOTION_COUP_DE_GRACE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "March",
-    "name": "March",
+    "nameFormatted": "행군",
+    "name": "행군",
     "type": "PROMOTION_SKIRMISHER_MARCH",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Sentry",
-    "name": "Sentry",
+    "nameFormatted": "감시",
+    "name": "감시",
     "type": "PROMOTION_SKIRMISHER_SENTRY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Shrapnel Rounds",
-    "name": "Shrapnel Rounds",
+    "nameFormatted": "유산탄",
+    "name": "유산탄",
     "type": "PROMOTION_SHRAPNEL_ROUNDS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Vanguard",
-    "name": "Vanguard",
+    "nameFormatted": "선봉",
+    "name": "선봉",
     "type": "PROMOTION_VANGUARD",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Naval Siege",
-    "name": "Naval Siege",
+    "nameFormatted": "해상 공성",
+    "name": "해상 공성",
     "type": "PROMOTION_NAVAL_SIEGE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Breacher",
-    "name": "Breacher",
+    "nameFormatted": "위반",
+    "name": "위반",
     "type": "PROMOTION_BREACHER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Encirclement",
-    "name": "Encirclement",
+    "nameFormatted": "포위",
+    "name": "포위",
     "type": "PROMOTION_ENCIRCLEMENT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Minelayer",
-    "name": "Minelayer",
+    "nameFormatted": "기뢰정",
+    "name": "기뢰정",
     "type": "PROMOTION_MINELAYER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Aerial Torpedo",
-    "name": "Aerial Torpedo",
+    "nameFormatted": "공중 어뢰",
+    "name": "공중 어뢰",
     "type": "PROMOTION_AERIAL_TORPEDO",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bomb Rack",
-    "name": "Bomb Rack",
+    "nameFormatted": "폭탄 현수가",
+    "name": "폭탄 현수가",
     "type": "PROMOTION_BOMB_RACK",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Frogman",
-    "name": "Frogman",
+    "nameFormatted": "잠수부",
+    "name": "잠수부",
     "type": "PROMOTION_FROGMAN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Screening",
-    "name": "Screening",
+    "nameFormatted": "선별",
+    "name": "선별",
     "type": "PROMOTION_SCREENING",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Envelopment",
-    "name": "Envelopment",
+    "nameFormatted": "포위",
+    "name": "포위",
     "type": "PROMOTION_ENVELOPMENT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Hunter Killer",
-    "name": "Hunter Killer",
+    "nameFormatted": "헌터 킬러",
+    "name": "헌터 킬러",
     "type": "PROMOTION_HUNTER_KILLER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Wolfpack",
-    "name": "Wolfpack",
+    "nameFormatted": "군랑",
+    "name": "군랑",
     "type": "PROMOTION_VP_WOLFPACK",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Predator",
-    "name": "Predator",
+    "nameFormatted": "프레데터",
+    "name": "프레데터",
     "type": "PROMOTION_PREDATOR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Periscope Depth",
-    "name": "Periscope Depth",
+    "nameFormatted": "깊은 잠망경",
+    "name": "깊은 잠망경",
     "type": "PROMOTION_PERISCOPE_DEPTH",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Steppe Nomads",
-    "name": "Steppe Nomads",
+    "nameFormatted": "초원의 유목민",
+    "name": "초원의 유목민",
     "type": "PROMOTION_MONGOL_TERROR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Gå-På",
-    "name": "Gå-På",
+    "nameFormatted": "전-진!",
+    "name": "전-진!",
     "type": "PROMOTION_ATTACK_BONUS_SWEDEN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Par le Sang Versé",
-    "name": "Par le Sang Versé",
+    "nameFormatted": "흘린 피로써",
+    "name": "흘린 피로써",
     "type": "PROMOTION_COERCION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Viking (Land)",
-    "name": "Viking (Land)",
+    "nameFormatted": "바이킹 (지상)",
+    "name": "바이킹 (지상)",
     "type": "PROMOTION_VIKING",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Viking (Sea)",
-    "name": "Viking (Sea)",
+    "nameFormatted": "바이킹 (해상)",
+    "name": "바이킹 (해상)",
     "type": "PROMOTION_LONGBOAT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Sun Never Sets",
-    "name": "Sun Never Sets",
+    "nameFormatted": "지지않는 태양",
+    "name": "지지않는 태양",
     "type": "PROMOTION_SUN_NEVER_SETS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Faster Worker",
-    "name": "Faster Worker",
+    "nameFormatted": "빠른 노동자",
+    "name": "빠른 노동자",
     "type": "PROMOTION_FASTER_WORKER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Endurance",
-    "name": "Endurance",
+    "nameFormatted": "유지력",
+    "name": "유지력",
     "type": "PROMOTION_ENDURANCE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Conscription",
-    "name": "Conscription",
+    "nameFormatted": "징병",
+    "name": "징병",
     "type": "PROMOTION_CONSCRIPTION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Imperialism",
-    "name": "Imperialism",
+    "nameFormatted": "제국주의",
+    "name": "제국주의",
     "type": "PROMOTION_IMPERIALISM",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Faster General",
-    "name": "Faster General",
+    "nameFormatted": "빠른 장군",
+    "name": "빠른 장군",
     "type": "PROMOTION_FASTER_GENERAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Regimental Traditions",
-    "name": "Regimental Traditions",
+    "nameFormatted": "연대 전통",
+    "name": "연대 전통",
     "type": "PROMOTION_REGIMENTAL_TRADITIONS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Banzai!",
-    "name": "Banzai!",
+    "nameFormatted": "반자이!",
+    "name": "반자이!",
     "type": "PROMOTION_BANZAI",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Lightning Warfare (Gunpowder)",
-    "name": "Lightning Warfare (Gunpowder)",
+    "nameFormatted": "전격전 (화약)",
+    "name": "전격전 (화약)",
     "type": "PROMOTION_LIGHTNING_WARFARE_GUNPOWDER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Lightning Warfare (Armored)",
-    "name": "Lightning Warfare (Armored)",
+    "nameFormatted": "전격전 (기갑)",
+    "name": "전격전 (기갑)",
     "type": "PROMOTION_LIGHTNING_WARFARE_ARMORED",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Mare Nostrum",
-    "name": "Mare Nostrum",
+    "nameFormatted": "마레 노스트룸",
+    "name": "마레 노스트룸",
     "type": "PROMOTION_MARE_NOSTRUM",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Engineering Corp",
-    "name": "Engineering Corp",
+    "nameFormatted": "엔지니어링",
+    "name": "엔지니어링",
     "type": "PROMOTION_ENGINEERING_CORP",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Fallout Resistance",
-    "name": "Fallout Resistance",
+    "nameFormatted": "낙진 저항",
+    "name": "낙진 저항",
     "type": "PROMOTION_FALLOUT_RESISTANCE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Fallout Immunity",
-    "name": "Fallout Immunity",
+    "nameFormatted": "낙진 면역",
+    "name": "낙진 면역",
     "type": "PROMOTION_FALLOUT_IMMUNITY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Sacred Steps",
-    "name": "Sacred Steps",
+    "nameFormatted": "신성한 걸음",
+    "name": "신성한 걸음",
     "type": "PROMOTION_SACRED_STEPS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Everlasting Youth",
-    "name": "Everlasting Youth",
+    "nameFormatted": "영원한 젊음",
+    "name": "영원한 젊음",
     "type": "PROMOTION_EVERLASTING_YOUTH",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Royal Signet",
-    "name": "Royal Signet",
+    "nameFormatted": "국왕 인장",
+    "name": "국왕 인장",
     "type": "PROMOTION_ROYAL_SIGNET",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Wire Service",
-    "name": "Wire Service",
+    "nameFormatted": "통신 서비스",
+    "name": "통신 서비스",
     "type": "PROMOTION_WIRE_SERVICE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Literacy",
-    "name": "Literacy",
+    "nameFormatted": "문자 해독",
+    "name": "문자 해독",
     "type": "PROMOTION_LITERACY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Diplomatic Immunity",
-    "name": "Diplomatic Immunity",
+    "nameFormatted": "면책 특권",
+    "name": "면책 특권",
     "type": "PROMOTION_DIPLOMATIC_IMMUNITY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Imperial Seal",
-    "name": "Imperial Seal",
+    "nameFormatted": "황실 봉인",
+    "name": "황실 봉인",
     "type": "PROMOTION_IMPERIAL_SEAL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Nobility",
-    "name": "Nobility",
+    "nameFormatted": "귀족",
+    "name": "귀족",
     "type": "PROMOTION_NOBILITY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Proxenos",
-    "name": "Proxenos",
+    "nameFormatted": "프로크세노스",
+    "name": "프로크세노스",
     "type": "PROMOTION_PROXENOS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Jinete",
-    "name": "Jinete",
+    "nameFormatted": "히네테",
+    "name": "히네테",
     "type": "PROMOTION_JINETE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Iklwa",
-    "name": "Iklwa",
+    "nameFormatted": "이클와",
+    "name": "이클와",
     "type": "PROMOTION_IKLWA",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Eight Virtues of Bushido",
-    "name": "Eight Virtues of Bushido",
+    "nameFormatted": "무사도",
+    "name": "무사도",
     "type": "PROMOTION_BUSHIDO",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Schützenkönig",
-    "name": "Schützenkönig",
+    "nameFormatted": "득점왕",
+    "name": "득점왕",
     "type": "PROMOTION_SCHUTZENKONIG",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Venetian Craftsmanship",
-    "name": "Venetian Craftsmanship",
+    "nameFormatted": "베네치아 공작술",
+    "name": "베네치아 공작술",
     "type": "PROMOTION_VENETIAN_CRAFTSMANSHIP",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Age of Discovery",
-    "name": "Age of Discovery",
+    "nameFormatted": "대항해시대",
+    "name": "대항해시대",
     "type": "PROMOTION_AGE_OF_DISCOVERY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Treasure Fleet",
-    "name": "Treasure Fleet",
+    "nameFormatted": "보물 선단",
+    "name": "보물 선단",
     "type": "PROMOTION_TREASURE_FLEET",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Brute Force",
-    "name": "Brute Force",
+    "nameFormatted": "무차별 공격",
+    "name": "무차별 공격",
     "type": "PROMOTION_BRUTE_FORCE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Discipline",
-    "name": "Discipline",
+    "nameFormatted": "규율",
+    "name": "규율",
     "type": "PROMOTION_FIELD_WORKS_0",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Field Works",
-    "name": "Field Works",
+    "nameFormatted": "진지 공사",
+    "name": "진지 공사",
     "type": "PROMOTION_FIELD_WORKS_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Entrenchments",
-    "name": "Entrenchments",
+    "nameFormatted": "참호",
+    "name": "참호",
     "type": "PROMOTION_FIELD_WORKS_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "DFPs",
-    "name": "DFPs",
+    "nameFormatted": "방어 훈련",
+    "name": "방어 훈련",
     "type": "PROMOTION_FIELD_WORKS_3",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Naval Target Penalty",
-    "name": "Naval Target Penalty",
+    "nameFormatted": "해상 목표 페널티",
+    "name": "해상 목표 페널티",
     "type": "PROMOTION_NAVAL_TARGET_PENALTY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Covering Fire I",
-    "name": "Covering Fire I",
+    "nameFormatted": "엄호 사격 I",
+    "name": "엄호 사격 I",
     "type": "PROMOTION_COVERING_FIRE_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Covering Fire II",
-    "name": "Covering Fire II",
+    "nameFormatted": "엄호 사격 II",
+    "name": "엄호 사격 II",
     "type": "PROMOTION_COVERING_FIRE_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Titanic",
-    "name": "Titanic",
+    "nameFormatted": "거대함",
+    "name": "거대함",
     "type": "PROMOTION_TITANIC",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Beam Axle",
-    "name": "Beam Axle",
+    "nameFormatted": "빔 액슬",
+    "name": "빔 액슬",
     "type": "PROMOTION_BEAM_AXLE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Skirmisher Doctrine",
-    "name": "Skirmisher Doctrine",
+    "nameFormatted": "기마병 교리",
+    "name": "기마병 교리",
     "type": "PROMOTION_SKIRMISHER_DOCTRINE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Siege Inaccuracy",
-    "name": "Siege Inaccuracy",
+    "nameFormatted": "공성 부정확성",
+    "name": "공성 부정확성",
     "type": "PROMOTION_SIEGE_INACCURACY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Reconnaissance",
-    "name": "Reconnaissance",
+    "nameFormatted": "답사",
+    "name": "답사",
     "type": "PROMOTION_RECONNAISSANCE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Ocean Explorer",
-    "name": "Ocean Explorer",
+    "nameFormatted": "해양 탐험가",
+    "name": "해양 탐험가",
     "type": "PROMOTION_OCEAN_EXPLORER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Scavenger",
-    "name": "Scavenger",
+    "nameFormatted": "스캐빈저",
+    "name": "스캐빈저",
     "type": "PROMOTION_SCAVENGER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Commando",
-    "name": "Commando",
+    "nameFormatted": "특공대",
+    "name": "특공대",
     "type": "PROMOTION_COMMANDO",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Naval Inaccuracy",
-    "name": "Naval Inaccuracy",
+    "nameFormatted": "해상 부정확성",
+    "name": "해상 부정확성",
     "type": "PROMOTION_NAVAL_INACCURACY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Shallow Draft",
-    "name": "Shallow Draft",
+    "nameFormatted": "얕은 초안",
+    "name": "얕은 초안",
     "type": "PROMOTION_SHALLOW_DRAFT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Strafing Runs",
-    "name": "Strafing Runs",
+    "nameFormatted": "회피 기동",
+    "name": "회피 기동",
     "type": "PROMOTION_STRAFING_RUNS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Recon Range I",
-    "name": "Air Recon Range I",
+    "nameFormatted": "공중 정찰력 I",
+    "name": "공중 정찰력 I",
     "type": "PROMOTION_AIR_RECON_RANGE_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Air Recon Range II",
-    "name": "Air Recon Range II",
+    "nameFormatted": "공중 정찰력 II",
+    "name": "공중 정찰력 II",
     "type": "PROMOTION_AIR_RECON_RANGE_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Stealth",
-    "name": "Stealth",
+    "nameFormatted": "스텔스",
+    "name": "스텔스",
     "type": "PROMOTION_STEALTH",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Initiate",
-    "name": "Initiate",
+    "nameFormatted": "개시",
+    "name": "개시",
     "type": "PROMOTION_EMISSARY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Adept",
-    "name": "Adept",
+    "nameFormatted": "능숙",
+    "name": "능숙",
     "type": "PROMOTION_ENVOY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Professional",
-    "name": "Professional",
+    "nameFormatted": "프로페셔널",
+    "name": "프로페셔널",
     "type": "PROMOTION_DIPLOMAT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Plenipotentiary",
-    "name": "Plenipotentiary",
+    "nameFormatted": "전권 대사",
+    "name": "전권 대사",
     "type": "PROMOTION_AMBASSADOR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Military Tradition",
-    "name": "Military Tradition",
+    "nameFormatted": "군사 전통",
+    "name": "군사 전통",
     "type": "PROMOTION_MILITARY_TRADITION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Master Diplomat",
-    "name": "Master Diplomat",
+    "nameFormatted": "마스터 외교",
+    "name": "마스터 외교",
     "type": "PROMOTION_GREAT_DIPLOMAT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Shielded Silo",
-    "name": "Shielded Silo",
+    "nameFormatted": "미사일 격납고",
+    "name": "미사일 격납고",
     "type": "PROMOTION_SHIELDED_SILO",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Heavy Flanking",
-    "name": "Heavy Flanking",
+    "nameFormatted": "강력한 측면 공격",
+    "name": "강력한 측면 공격",
     "type": "PROMOTION_HEAVY_FLANKING",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Gift of the Pharaoh",
-    "name": "Gift of the Pharaoh",
+    "nameFormatted": "파라오의 선물",
+    "name": "파라오의 선물",
     "type": "PROMOTION_GIFT_OF_THE_PHARAOH",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Raider",
-    "name": "Raider",
+    "nameFormatted": "침입자",
+    "name": "침입자",
     "type": "PROMOTION_RAIDER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Flag Bearer",
-    "name": "Flag Bearer",
+    "nameFormatted": "기수",
+    "name": "기수",
     "type": "PROMOTION_FLAG_BEARER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Assize of Arms",
-    "name": "Assize of Arms",
+    "nameFormatted": "무기의 크기",
+    "name": "무기의 크기",
     "type": "PROMOTION_ASSIZE_OF_ARMS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Hakkaa Päälle!",
-    "name": "Hakkaa Päälle!",
+    "nameFormatted": "놈들의 목을 쳐라!",
+    "name": "놈들의 목을 쳐라!",
     "type": "PROMOTION_HAKKAA_PAALLE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Focus Fire",
-    "name": "Focus Fire",
+    "nameFormatted": "화력 집중",
+    "name": "화력 집중",
     "type": "PROMOTION_FOCUS_FIRE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Fasimba",
-    "name": "Fasimba",
+    "nameFormatted": "파심바",
+    "name": "파심바",
     "type": "PROMOTION_FASIMBA",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Withering Fire",
-    "name": "Withering Fire",
+    "nameFormatted": "약화 사격",
+    "name": "약화 사격",
     "type": "PROMOTION_WITHERING_FIRE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Grenadier",
-    "name": "Grenadier",
+    "nameFormatted": "척탄병",
+    "name": "척탄병",
     "type": "PROMOTION_GRENADIER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Pilum",
-    "name": "Pilum",
+    "nameFormatted": "투창",
+    "name": "투창",
     "type": "PROMOTION_PILUM",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Doppelsöldner",
-    "name": "Doppelsöldner",
+    "nameFormatted": "도펠죌트너",
+    "name": "도펠죌트너",
     "type": "PROMOTION_DOPPELSOLDNER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Concussive Hit",
-    "name": "Concussive Hit",
+    "nameFormatted": "손상 타격",
+    "name": "손상 타격",
     "type": "PROMOTION_CONCUSSIVE_HIT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Siege Volley",
-    "name": "Siege Volley",
+    "nameFormatted": "공성 일제 사격",
+    "name": "공성 일제 사격",
     "type": "PROMOTION_SIEGE_VOLLEY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Heavy Assault",
-    "name": "Heavy Assault",
+    "nameFormatted": "육중한 공격",
+    "name": "육중한 공격",
     "type": "PROMOTION_HEAVY_ASSAULT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Pride of the Nation",
-    "name": "Pride of the Nation",
+    "nameFormatted": "국가의 긍지",
+    "name": "국가의 긍지",
     "type": "PROMOTION_PRIDE_OF_THE_NATION",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Hardened",
-    "name": "Hardened",
+    "nameFormatted": "경화",
+    "name": "경화",
     "type": "PROMOTION_HARDENED",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Harbor Defense",
-    "name": "Harbor Defense",
+    "nameFormatted": "항만 방어",
+    "name": "항만 방어",
     "type": "PROMOTION_HARBOR_DEFENSE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Garland Mine",
-    "name": "Garland Mine",
+    "nameFormatted": "갈란드 마인",
+    "name": "갈란드 마인",
     "type": "PROMOTION_GARLAND_MINE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Desert Raider",
-    "name": "Desert Raider",
+    "nameFormatted": "사막 침투병",
+    "name": "사막 침투병",
     "type": "PROMOTION_DESERT_RAIDER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Shock Cavalry",
-    "name": "Shock Cavalry",
+    "nameFormatted": "충격 기병대",
+    "name": "충격 기병대",
     "type": "PROMOTION_SHOCK_CAVALRY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Frontiersman",
-    "name": "Frontiersman",
+    "nameFormatted": "개척자",
+    "name": "개척자",
     "type": "PROMOTION_FRONTIERSMAN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Brute Strength",
-    "name": "Brute Strength",
+    "nameFormatted": "완력",
+    "name": "완력",
     "type": "PROMOTION_BRUTE_STRENGTH",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Legacy",
-    "name": "Legacy",
+    "nameFormatted": "유산",
+    "name": "유산",
     "type": "PROMOTION_LEGACY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Riachuelo",
-    "name": "Riachuelo",
+    "nameFormatted": "리아추엘로",
+    "name": "리아추엘로",
     "type": "PROMOTION_RIACHUELO",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Greek Fire",
-    "name": "Greek Fire",
+    "nameFormatted": "그리스의 불",
+    "name": "그리스의 불",
     "type": "PROMOTION_GREEK_FIRE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Elisha's Guile",
-    "name": "Elisha's Guile",
+    "nameFormatted": "엘리사의 간계",
+    "name": "엘리사의 간계",
     "type": "PROMOTION_ELISHAS_GUILE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "At the Gates!",
-    "name": "At the Gates!",
+    "nameFormatted": "문 앞에!",
+    "name": "문 앞에!",
     "type": "PROMOTION_AT_THE_GATES",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Rend",
-    "name": "Rend",
+    "nameFormatted": "찢기",
+    "name": "찢기",
     "type": "PROMOTION_REND",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Carnyx",
-    "name": "Carnyx",
+    "nameFormatted": "카르닉스",
+    "name": "카르닉스",
     "type": "PROMOTION_CARNYX",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Kowtow",
-    "name": "Kowtow",
+    "nameFormatted": "고두",
+    "name": "고두",
     "type": "PROMOTION_KOWTOW",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Vur Ha!",
-    "name": "Vur Ha!",
+    "nameFormatted": "부르 하!",
+    "name": "부르 하!",
     "type": "PROMOTION_VUR_HA",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Rule Britannia",
-    "name": "Rule Britannia",
+    "nameFormatted": "지배하라 브리타니아여",
+    "name": "지배하라 브리타니아여",
     "type": "PROMOTION_RULE_BRITANNIA",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Maim",
-    "name": "Maim",
+    "nameFormatted": "불구로 만들다",
+    "name": "불구로 만들다",
     "type": "PROMOTION_MAIM",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Hooked Weapon",
-    "name": "Hooked Weapon",
+    "nameFormatted": "갈고리 무기",
+    "name": "갈고리 무기",
     "type": "PROMOTION_HOOKED_WEAPON",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Zemene Mesafint",
-    "name": "Zemene Mesafint",
+    "nameFormatted": "왕자들의 시대",
+    "name": "왕자들의 시대",
     "type": "PROMOTION_ZEMENE_MESAFINT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Minenwerfer",
-    "name": "Minenwerfer",
+    "nameFormatted": "마인베르퍼",
+    "name": "마인베르퍼",
     "type": "PROMOTION_MINENWERFER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Trommelfeuer",
-    "name": "Trommelfeuer",
+    "nameFormatted": "집중포화",
+    "name": "집중포화",
     "type": "PROMOTION_TROMMELFEUER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Philhellenism",
-    "name": "Philhellenism",
+    "nameFormatted": "필헬레니즘",
+    "name": "필헬레니즘",
     "type": "PROMOTION_PHILHELLENISM",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Bellum Alet",
-    "name": "Bellum Alet",
+    "nameFormatted": "전쟁은 스스로를 부양한다",
+    "name": "전쟁은 스스로를 부양한다",
     "type": "PROMOTION_BELLUM_ALET",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Sentinel of the Sun",
-    "name": "Sentinel of the Sun",
+    "nameFormatted": "태양의 파수꾼",
+    "name": "태양의 파수꾼",
     "type": "PROMOTION_SENTINEL_OF_THE_SUN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Epic",
-    "name": "Epic",
+    "nameFormatted": "서사시",
+    "name": "서사시",
     "type": "PROMOTION_EPIC",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Dhanurvidya",
-    "name": "Dhanurvidya",
+    "nameFormatted": "다누르비야",
+    "name": "다누르비야",
     "type": "PROMOTION_DHANURVIDYA",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Cetbang",
-    "name": "Cetbang",
+    "nameFormatted": "쳇방",
+    "name": "쳇방",
     "type": "PROMOTION_CETBANG",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Taikan Kyoho",
-    "name": "Taikan Kyoho",
+    "nameFormatted": "거함거포주의",
+    "name": "거함거포주의",
     "type": "PROMOTION_TAIKAN_KYOHO",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Deck Spikes",
-    "name": "Deck Spikes",
+    "nameFormatted": "갑판 쇠못",
+    "name": "갑판 쇠못",
     "type": "PROMOTION_DECK_SPIKES",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Lost Codex",
-    "name": "Lost Codex",
+    "nameFormatted": "잃어버린 고문서",
+    "name": "잃어버린 고문서",
     "type": "PROMOTION_LOST_CODEX",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Mingghan",
-    "name": "Mingghan",
+    "nameFormatted": "밍간",
+    "name": "밍간",
     "type": "PROMOTION_MINGGHAN",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Razzia",
-    "name": "Razzia",
+    "nameFormatted": "라지아",
+    "name": "라지아",
     "type": "PROMOTION_RAZZIA",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Burgher",
-    "name": "Burgher",
+    "nameFormatted": "버거",
+    "name": "버거",
     "type": "PROMOTION_BURGHER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Goedendag!",
-    "name": "Goedendag!",
+    "nameFormatted": "고덴닥!",
+    "name": "고덴닥!",
     "type": "PROMOTION_GOEDENDAG",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Unwieldy",
-    "name": "Unwieldy",
+    "nameFormatted": "불편",
+    "name": "불편",
     "type": "PROMOTION_UNWIELDY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Safavi Agitator",
-    "name": "Safavi Agitator",
+    "nameFormatted": "사파비 운동가",
+    "name": "사파비 운동가",
     "type": "PROMOTION_SAFAVI_AGITATOR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Fighting Cock",
-    "name": "Fighting Cock",
+    "nameFormatted": "싸움닭",
+    "name": "싸움닭",
     "type": "PROMOTION_FIGHTING_COCK",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Legatus Legionis",
-    "name": "Legatus Legionis",
+    "nameFormatted": "레가투스 레기오니스",
+    "name": "레가투스 레기오니스",
     "type": "PROMOTION_LEGATUS_LEGIONIS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Praefectus Castrorum",
-    "name": "Praefectus Castrorum",
+    "nameFormatted": "프라에펙투스 카스트로룸",
+    "name": "프라에펙투스 카스트로룸",
     "type": "PROMOTION_PRAEFECTUS_CASTRORUM",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Grapeshot",
-    "name": "Grapeshot",
+    "nameFormatted": "포도탄",
+    "name": "포도탄",
     "type": "PROMOTION_GRAPESHOT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Big Horse Dance",
-    "name": "Big Horse Dance",
+    "nameFormatted": "대형 기마 무용",
+    "name": "대형 기마 무용",
     "type": "PROMOTION_BIG_HORSE_DANCE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Crouching Tiger",
-    "name": "Crouching Tiger",
+    "nameFormatted": "웅크린 호랑이",
+    "name": "웅크린 호랑이",
     "type": "PROMOTION_CROUCHING_TIGER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Father of the Horse",
-    "name": "Father of the Horse",
+    "nameFormatted": "말의 수호신",
+    "name": "말의 수호신",
     "type": "PROMOTION_FATHER_OF_THE_HORSE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Santa Maria",
-    "name": "Santa Maria",
+    "nameFormatted": "성모 마리아",
+    "name": "성모 마리아",
     "type": "PROMOTION_SANTA_MARIA",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Invincible",
-    "name": "Invincible",
+    "nameFormatted": "천하무적",
+    "name": "천하무적",
     "type": "PROMOTION_INVINCIBLE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Agincourt",
-    "name": "Agincourt",
+    "nameFormatted": "아쟁쿠르",
+    "name": "아쟁쿠르",
     "type": "PROMOTION_AGINCOURT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Righteousness",
-    "name": "Righteousness",
+    "nameFormatted": "정도",
+    "name": "정도",
     "type": "PROMOTION_RIGHTEOUSNESS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Courage",
-    "name": "Courage",
+    "nameFormatted": "용기",
+    "name": "용기",
     "type": "PROMOTION_COURAGE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Benevolence",
-    "name": "Benevolence",
+    "nameFormatted": "자애",
+    "name": "자애",
     "type": "PROMOTION_BENEVOLENCE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Respect",
-    "name": "Respect",
+    "nameFormatted": "존경",
+    "name": "존경",
     "type": "PROMOTION_RESPECT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Sincerity",
-    "name": "Sincerity",
+    "nameFormatted": "진심",
+    "name": "진심",
     "type": "PROMOTION_SINCERITY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Honor",
-    "name": "Honor",
+    "nameFormatted": "명예",
+    "name": "명예",
     "type": "PROMOTION_HONOR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Loyalty",
-    "name": "Loyalty",
+    "nameFormatted": "충성심",
+    "name": "충성심",
     "type": "PROMOTION_LOYALTY",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Self Control",
-    "name": "Self Control",
+    "nameFormatted": "자제력",
+    "name": "자제력",
     "type": "PROMOTION_SELF_CONTROL",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Boarded I",
-    "name": "Boarded I",
+    "nameFormatted": "승선함 I",
+    "name": "승선함 I",
     "type": "PROMOTION_BOARDED_1",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Boarded II",
-    "name": "Boarded II",
+    "nameFormatted": "승선함 II",
+    "name": "승선함 II",
     "type": "PROMOTION_BOARDED_2",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Dazed",
-    "name": "Dazed",
+    "nameFormatted": "멍함",
+    "name": "멍함",
     "type": "PROMOTION_DAZED",
     "page": "promotions"
   },
   {
-    "nameFormatted": "On Fire",
-    "name": "On Fire",
+    "nameFormatted": "불타오르네",
+    "name": "불타오르네",
     "type": "PROMOTION_ON_FIRE",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Maimed",
-    "name": "Maimed",
+    "nameFormatted": "불구",
+    "name": "불구",
     "type": "PROMOTION_MAIMED",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Prisoners of War",
-    "name": "Prisoners of War",
+    "nameFormatted": "전쟁 포로",
+    "name": "전쟁 포로",
     "type": "PROMOTION_PRISONERS_OF_WAR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Fervor",
-    "name": "Fervor",
+    "nameFormatted": "열의",
+    "name": "열의",
     "type": "PROMOTION_FERVOR",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Marsh Walker",
-    "name": "Marsh Walker",
+    "nameFormatted": "습지 보행",
+    "name": "습지 보행",
     "type": "PROMOTION_MARSH_WALKER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "White Walker",
-    "name": "White Walker",
+    "nameFormatted": "설원 보행",
+    "name": "설원 보행",
     "type": "PROMOTION_WHITE_WALKER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Woods Walker",
-    "name": "Woods Walker",
+    "nameFormatted": "숲/정글 보행",
+    "name": "숲/정글 보행",
     "type": "PROMOTION_WOODS_WALKER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Desert Walker",
-    "name": "Desert Walker",
+    "nameFormatted": "사막 보행",
+    "name": "사막 보행",
     "type": "PROMOTION_DESERT_WALKER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Hill Walker",
-    "name": "Hill Walker",
+    "nameFormatted": "언덕 보행",
+    "name": "언덕 보행",
     "type": "PROMOTION_HILL_WALKER",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Conscript",
-    "name": "Conscript",
+    "nameFormatted": "징집",
+    "name": "징집",
     "type": "PROMOTION_CONSCRIPT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Juggernaut",
-    "name": "Juggernaut",
+    "nameFormatted": "절대적인 힘",
+    "name": "절대적인 힘",
     "type": "PROMOTION_JUGGERNAUT",
     "page": "promotions"
   },
   {
-    "nameFormatted": "Iron",
-    "name": "Iron",
+    "nameFormatted": "철",
+    "name": "철",
     "type": "RESOURCE_IRON",
     "page": "resources"
   },
   {
-    "nameFormatted": "Horses",
-    "name": "Horses",
+    "nameFormatted": "말",
+    "name": "말",
     "type": "RESOURCE_HORSE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Coal",
-    "name": "Coal",
+    "nameFormatted": "석탄",
+    "name": "석탄",
     "type": "RESOURCE_COAL",
     "page": "resources"
   },
   {
-    "nameFormatted": "Oil",
-    "name": "Oil",
+    "nameFormatted": "석유",
+    "name": "석유",
     "type": "RESOURCE_OIL",
     "page": "resources"
   },
   {
-    "nameFormatted": "Aluminum",
-    "name": "Aluminum",
+    "nameFormatted": "알루미늄",
+    "name": "알루미늄",
     "type": "RESOURCE_ALUMINUM",
     "page": "resources"
   },
   {
-    "nameFormatted": "Uranium",
-    "name": "Uranium",
+    "nameFormatted": "우라늄",
+    "name": "우라늄",
     "type": "RESOURCE_URANIUM",
     "page": "resources"
   },
   {
-    "nameFormatted": "Wheat",
-    "name": "Wheat",
+    "nameFormatted": "밀",
+    "name": "밀",
     "type": "RESOURCE_WHEAT",
     "page": "resources"
   },
   {
-    "nameFormatted": "Cattle",
-    "name": "Cattle",
+    "nameFormatted": "소",
+    "name": "소",
     "type": "RESOURCE_COW",
     "page": "resources"
   },
   {
-    "nameFormatted": "Sheep",
-    "name": "Sheep",
+    "nameFormatted": "양",
+    "name": "양",
     "type": "RESOURCE_SHEEP",
     "page": "resources"
   },
   {
-    "nameFormatted": "Deer",
-    "name": "Deer",
+    "nameFormatted": "사슴",
+    "name": "사슴",
     "type": "RESOURCE_DEER",
     "page": "resources"
   },
   {
-    "nameFormatted": "Bananas",
-    "name": "Bananas",
+    "nameFormatted": "바나나",
+    "name": "바나나",
     "type": "RESOURCE_BANANA",
     "page": "resources"
   },
   {
-    "nameFormatted": "Fish",
-    "name": "Fish",
+    "nameFormatted": "물고기",
+    "name": "물고기",
     "type": "RESOURCE_FISH",
     "page": "resources"
   },
   {
-    "nameFormatted": "Stone",
-    "name": "Stone",
+    "nameFormatted": "석재",
+    "name": "석재",
     "type": "RESOURCE_STONE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Whales",
-    "name": "Whales",
+    "nameFormatted": "고래",
+    "name": "고래",
     "type": "RESOURCE_WHALE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Pearls",
-    "name": "Pearls",
+    "nameFormatted": "진주",
+    "name": "진주",
     "type": "RESOURCE_PEARLS",
     "page": "resources"
   },
   {
-    "nameFormatted": "Gold",
-    "name": "Gold",
+    "nameFormatted": "금",
+    "name": "금",
     "type": "RESOURCE_GOLD",
     "page": "resources"
   },
   {
-    "nameFormatted": "Silver",
-    "name": "Silver",
+    "nameFormatted": "은",
+    "name": "은",
     "type": "RESOURCE_SILVER",
     "page": "resources"
   },
   {
-    "nameFormatted": "Gems",
-    "name": "Gems",
+    "nameFormatted": "보석",
+    "name": "보석",
     "type": "RESOURCE_GEMS",
     "page": "resources"
   },
   {
-    "nameFormatted": "Marble",
-    "name": "Marble",
+    "nameFormatted": "대리석",
+    "name": "대리석",
     "type": "RESOURCE_MARBLE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Ivory",
-    "name": "Ivory",
+    "nameFormatted": "상아",
+    "name": "상아",
     "type": "RESOURCE_IVORY",
     "page": "resources"
   },
   {
-    "nameFormatted": "Furs",
-    "name": "Furs",
+    "nameFormatted": "모피",
+    "name": "모피",
     "type": "RESOURCE_FUR",
     "page": "resources"
   },
   {
-    "nameFormatted": "Dyes",
-    "name": "Dyes",
+    "nameFormatted": "염료",
+    "name": "염료",
     "type": "RESOURCE_DYE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Cinnamon",
-    "name": "Cinnamon",
+    "nameFormatted": "향신료",
+    "name": "향신료",
     "type": "RESOURCE_SPICES",
     "page": "resources"
   },
   {
-    "nameFormatted": "Silk",
-    "name": "Silk",
+    "nameFormatted": "비단",
+    "name": "비단",
     "type": "RESOURCE_SILK",
     "page": "resources"
   },
   {
-    "nameFormatted": "Sugar",
-    "name": "Sugar",
+    "nameFormatted": "설탕",
+    "name": "설탕",
     "type": "RESOURCE_SUGAR",
     "page": "resources"
   },
   {
-    "nameFormatted": "Cotton",
-    "name": "Cotton",
+    "nameFormatted": "면",
+    "name": "면",
     "type": "RESOURCE_COTTON",
     "page": "resources"
   },
   {
-    "nameFormatted": "Wine",
-    "name": "Wine",
+    "nameFormatted": "와인",
+    "name": "와인",
     "type": "RESOURCE_WINE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Incense",
-    "name": "Incense",
+    "nameFormatted": "향",
+    "name": "향",
     "type": "RESOURCE_INCENSE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Jewelry",
-    "name": "Jewelry",
+    "nameFormatted": "장신구",
+    "name": "장신구",
     "type": "RESOURCE_JEWELRY",
     "page": "resources"
   },
   {
-    "nameFormatted": "Porcelain",
-    "name": "Porcelain",
+    "nameFormatted": "도자기",
+    "name": "도자기",
     "type": "RESOURCE_PORCELAIN",
     "page": "resources"
   },
   {
-    "nameFormatted": "Copper",
-    "name": "Copper",
+    "nameFormatted": "구리",
+    "name": "구리",
     "type": "RESOURCE_COPPER",
     "page": "resources"
   },
   {
-    "nameFormatted": "Salt",
-    "name": "Salt",
+    "nameFormatted": "소금",
+    "name": "소금",
     "type": "RESOURCE_SALT",
     "page": "resources"
   },
   {
-    "nameFormatted": "Crab",
-    "name": "Crab",
+    "nameFormatted": "게",
+    "name": "게",
     "type": "RESOURCE_CRAB",
     "page": "resources"
   },
   {
-    "nameFormatted": "Truffles",
-    "name": "Truffles",
+    "nameFormatted": "송로버섯",
+    "name": "송로버섯",
     "type": "RESOURCE_TRUFFLES",
     "page": "resources"
   },
   {
-    "nameFormatted": "Citrus",
-    "name": "Citrus",
+    "nameFormatted": "감귤",
+    "name": "감귤",
     "type": "RESOURCE_CITRUS",
     "page": "resources"
   },
   {
-    "nameFormatted": "Antiquity Site",
-    "name": "Antiquity Site",
+    "nameFormatted": "사적지",
+    "name": "사적지",
     "type": "RESOURCE_ARTIFACTS",
     "page": "resources"
   },
   {
-    "nameFormatted": "Nutmeg",
-    "name": "Nutmeg",
+    "nameFormatted": "육두구",
+    "name": "육두구",
     "type": "RESOURCE_NUTMEG",
     "page": "resources"
   },
   {
-    "nameFormatted": "Cloves",
-    "name": "Cloves",
+    "nameFormatted": "정향",
+    "name": "정향",
     "type": "RESOURCE_CLOVES",
     "page": "resources"
   },
   {
-    "nameFormatted": "Pepper",
-    "name": "Pepper",
+    "nameFormatted": "후추",
+    "name": "후추",
     "type": "RESOURCE_PEPPER",
     "page": "resources"
   },
   {
-    "nameFormatted": "Hidden Antiquity Site",
-    "name": "Hidden Antiquity Site",
+    "nameFormatted": "숨겨진 사적지",
+    "name": "숨겨진 사적지",
     "type": "RESOURCE_HIDDEN_ARTIFACTS",
     "page": "resources"
   },
   {
-    "nameFormatted": "Bison",
-    "name": "Bison",
+    "nameFormatted": "들소",
+    "name": "들소",
     "type": "RESOURCE_BISON",
     "page": "resources"
   },
   {
-    "nameFormatted": "Cocoa",
-    "name": "Cocoa",
+    "nameFormatted": "코코아",
+    "name": "코코아",
     "type": "RESOURCE_COCOA",
     "page": "resources"
   },
   {
-    "nameFormatted": "Coffee",
-    "name": "Coffee",
+    "nameFormatted": "커피",
+    "name": "커피",
     "type": "RESOURCE_COFFEE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Tea",
-    "name": "Tea",
+    "nameFormatted": "차",
+    "name": "차",
     "type": "RESOURCE_TEA",
     "page": "resources"
   },
   {
-    "nameFormatted": "Tobacco",
-    "name": "Tobacco",
+    "nameFormatted": "연초",
+    "name": "연초",
     "type": "RESOURCE_TOBACCO",
     "page": "resources"
   },
   {
-    "nameFormatted": "Amber",
-    "name": "Amber",
+    "nameFormatted": "호박석",
+    "name": "호박석",
     "type": "RESOURCE_AMBER",
     "page": "resources"
   },
   {
-    "nameFormatted": "Jade",
-    "name": "Jade",
+    "nameFormatted": "옥",
+    "name": "옥",
     "type": "RESOURCE_JADE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Olives",
-    "name": "Olives",
+    "nameFormatted": "올리브",
+    "name": "올리브",
     "type": "RESOURCE_OLIVE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Perfume",
-    "name": "Perfume",
+    "nameFormatted": "향수",
+    "name": "향수",
     "type": "RESOURCE_PERFUME",
     "page": "resources"
   },
   {
-    "nameFormatted": "Coral",
-    "name": "Coral",
+    "nameFormatted": "산호",
+    "name": "산호",
     "type": "RESOURCE_CORAL",
     "page": "resources"
   },
   {
-    "nameFormatted": "Lapis Lazuli",
-    "name": "Lapis Lazuli",
+    "nameFormatted": "청금석",
+    "name": "청금석",
     "type": "RESOURCE_LAPIS",
     "page": "resources"
   },
   {
-    "nameFormatted": "Glass",
-    "name": "Glass",
+    "nameFormatted": "유리",
+    "name": "유리",
     "type": "RESOURCE_GLASS",
     "page": "resources"
   },
   {
-    "nameFormatted": "Brazilwood",
-    "name": "Brazilwood",
+    "nameFormatted": "브라질 소방목",
+    "name": "브라질 소방목",
     "type": "RESOURCE_BRAZILWOOD",
     "page": "resources"
   },
   {
-    "nameFormatted": "Maize",
-    "name": "Maize",
+    "nameFormatted": "옥수수",
+    "name": "옥수수",
     "type": "RESOURCE_MAIZE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Rice",
-    "name": "Rice",
+    "nameFormatted": "쌀",
+    "name": "쌀",
     "type": "RESOURCE_RICE",
     "page": "resources"
   },
   {
-    "nameFormatted": "Figs",
-    "name": "Figs",
+    "nameFormatted": "무화과",
+    "name": "무화과",
     "type": "RESOURCE_FIGS",
     "page": "resources"
   },
   {
-    "nameFormatted": "Paper",
-    "name": "Paper",
+    "nameFormatted": "종이",
+    "name": "종이",
     "type": "RESOURCE_PAPER",
     "page": "resources"
   },
   {
-    "nameFormatted": "City Ruins",
-    "name": "City Ruins",
+    "nameFormatted": "도시 폐허",
+    "name": "도시 폐허",
     "type": "IMPROVEMENT_CITY_RUINS",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Barbarian Encampment",
-    "name": "Barbarian Encampment",
+    "nameFormatted": "야만인 주둔지",
+    "name": "야만인 주둔지",
     "type": "IMPROVEMENT_BARBARIAN_CAMP",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Ancient Ruins",
-    "name": "Ancient Ruins",
+    "nameFormatted": "고대 유적",
+    "name": "고대 유적",
     "type": "IMPROVEMENT_GOODY_HUT",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Farm",
-    "name": "Farm",
+    "nameFormatted": "농장",
+    "name": "농장",
     "type": "IMPROVEMENT_FARM",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Mine",
-    "name": "Mine",
+    "nameFormatted": "광산",
+    "name": "광산",
     "type": "IMPROVEMENT_MINE",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Quarry",
-    "name": "Quarry",
+    "nameFormatted": "채석장",
+    "name": "채석장",
     "type": "IMPROVEMENT_QUARRY",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Village",
-    "name": "Village",
+    "nameFormatted": "마을",
+    "name": "마을",
     "type": "IMPROVEMENT_TRADING_POST",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Lumber Mill",
-    "name": "Lumber Mill",
+    "nameFormatted": "제재소",
+    "name": "제재소",
     "type": "IMPROVEMENT_LUMBERMILL",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Pasture",
-    "name": "Pasture",
+    "nameFormatted": "목장",
+    "name": "목장",
     "type": "IMPROVEMENT_PASTURE",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Fishing Boats",
-    "name": "Fishing Boats",
+    "nameFormatted": "어선",
+    "name": "어선",
     "type": "IMPROVEMENT_FISHING_BOATS",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Plantation",
-    "name": "Plantation",
+    "nameFormatted": "재배지",
+    "name": "재배지",
     "type": "IMPROVEMENT_PLANTATION",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Camp",
-    "name": "Camp",
+    "nameFormatted": "야영지",
+    "name": "야영지",
     "type": "IMPROVEMENT_CAMP",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Oil Well",
-    "name": "Oil Well",
+    "nameFormatted": "유정",
+    "name": "유정",
     "type": "IMPROVEMENT_WELL",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Offshore Platform",
-    "name": "Offshore Platform",
+    "nameFormatted": "해양 구조물",
+    "name": "해양 구조물",
     "type": "IMPROVEMENT_OFFSHORE_PLATFORM",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Fort",
-    "name": "Fort",
+    "nameFormatted": "요새",
+    "name": "요새",
     "type": "IMPROVEMENT_FORT",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Landmark",
-    "name": "Landmark",
+    "nameFormatted": "랜드마크",
+    "name": "랜드마크",
     "type": "IMPROVEMENT_LANDMARK",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Academy",
-    "name": "Academy",
+    "nameFormatted": "아카데미",
+    "name": "아카데미",
     "type": "IMPROVEMENT_ACADEMY",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Town",
-    "name": "Town",
+    "nameFormatted": "소도시",
+    "name": "소도시",
     "type": "IMPROVEMENT_CUSTOMS_HOUSE",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Manufactory",
-    "name": "Manufactory",
+    "nameFormatted": "제조소",
+    "name": "제조소",
     "type": "IMPROVEMENT_MANUFACTORY",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Citadel",
-    "name": "Citadel",
+    "nameFormatted": "성채",
+    "name": "성채",
     "type": "IMPROVEMENT_CITADEL",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Incan)</span> Pata-Pata",
-    "name": "[COLOR_POSITIVE_TEXT](Incan)[ENDCOLOR] Pata-Pata",
+    "nameFormatted": "<span class=\"positive\">([COLOR:200:230:0:255]잉카</span>의) 파타파타",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 파타파타",
     "type": "IMPROVEMENT_TERRACE_FARM",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Polynesian)</span> Moai",
-    "name": "[COLOR_POSITIVE_TEXT](Polynesian)[ENDCOLOR] Moai",
+    "nameFormatted": "<span class=\"positive\">([COLOR:236:150:58:255]폴리네시아</span>의) 모아이",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:236:150:58:255]폴리네시아[ENDCOLOR]의)[ENDCOLOR] 모아이",
     "type": "IMPROVEMENT_MOAI",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Holy Site",
-    "name": "Holy Site",
+    "nameFormatted": "성지",
+    "name": "성지",
     "type": "IMPROVEMENT_HOLY_SITE",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Dutch)</span> Polder",
-    "name": "[COLOR_POSITIVE_TEXT](Dutch)[ENDCOLOR] Polder",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:151:66:255]네덜란드</span>의) 간척지",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:151:66:255]네덜란드[ENDCOLOR]의)[ENDCOLOR] 간척지",
     "type": "IMPROVEMENT_POLDER",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Archaeological Dig",
-    "name": "Archaeological Dig",
+    "nameFormatted": "고고학 발굴 현장",
+    "name": "고고학 발굴 현장",
     "type": "IMPROVEMENT_ARCHAEOLOGICAL_DIG",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Brazilian)</span> Brazilwood Camp",
-    "name": "[COLOR_POSITIVE_TEXT](Brazilian)[ENDCOLOR] Brazilwood Camp",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:190:30:255]브라질</span>의) 브라질 소방목 벌목장",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:190:30:255]브라질[ENDCOLOR]의)[ENDCOLOR] 브라질 소방목 벌목장",
     "type": "IMPROVEMENT_BRAZILWOOD_CAMP",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Moroccan)</span> Kasbah",
-    "name": "[COLOR_POSITIVE_TEXT](Moroccan)[ENDCOLOR] Kasbah",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:0:0:255]모로코</span>의) 카스바",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:0:0:255]모로코[ENDCOLOR]의)[ENDCOLOR] 카스바",
     "type": "IMPROVEMENT_KASBAH",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Portuguese)</span> Feitoria",
-    "name": "[COLOR_POSITIVE_TEXT](Portuguese)[ENDCOLOR] Feitoria",
+    "nameFormatted": "<span class=\"positive\">([COLOR:35:70:180:255]포르투갈</span>의) 페이토리아",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]포르투갈[ENDCOLOR]의)[ENDCOLOR] 페이토리아",
     "type": "IMPROVEMENT_FEITORIA",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(French)</span> Chateau",
-    "name": "[COLOR_POSITIVE_TEXT](French)[ENDCOLOR] Chateau",
+    "nameFormatted": "<span class=\"positive\">([COLOR:70:160:220:255]프랑스</span>의) 샤토",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:160:220:255]프랑스[ENDCOLOR]의)[ENDCOLOR] 샤토",
     "type": "IMPROVEMENT_CHATEAU",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Embassy",
-    "name": "Embassy",
+    "nameFormatted": "대사관",
+    "name": "대사관",
     "type": "IMPROVEMENT_EMBASSY",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Mountain City",
-    "name": "Mountain City",
+    "nameFormatted": "산악 도시",
+    "name": "산악 도시",
     "type": "IMPROVEMENT_MOUNTAIN_CITY",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Byzantine)</span> Aplekton",
-    "name": "[COLOR_POSITIVE_TEXT](Byzantine)[ENDCOLOR] Aplekton",
+    "nameFormatted": "<span class=\"positive\">([COLOR:204:227:248:255]비잔티움</span>의) 애플렉톤",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:204:227:248:255]비잔티움[ENDCOLOR]의)[ENDCOLOR] 애플렉톤",
     "type": "IMPROVEMENT_APLEKTON",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Persian)</span> Charbagh",
-    "name": "[COLOR_POSITIVE_TEXT](Persian)[ENDCOLOR] Charbagh",
+    "nameFormatted": "<span class=\"positive\">([COLOR:230:50:0:255]페르시아</span>의) 차르바그",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:230:50:0:255]페르시아[ENDCOLOR]의)[ENDCOLOR] 차르바그",
     "type": "IMPROVEMENT_CHARBAGH",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Hunnic)</span> Eki",
-    "name": "[COLOR_POSITIVE_TEXT](Hunnic)[ENDCOLOR] Eki",
+    "nameFormatted": "<span class=\"positive\">([COLOR:200:199:188:255]훈</span>의) 에키",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:199:188:255]훈[ENDCOLOR]의)[ENDCOLOR] 에키",
     "type": "IMPROVEMENT_EKI",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Shoshone)</span> Encampment",
-    "name": "[COLOR_POSITIVE_TEXT](Shoshone)[ENDCOLOR] Encampment",
+    "nameFormatted": "<span class=\"positive\">([COLOR:88:255:243:255]쇼쇼니</span>의) 티피",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]의)[ENDCOLOR] 티피",
     "type": "IMPROVEMENT_VP_ENCAMPMENT",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Spanish)</span> Hacienda",
-    "name": "[COLOR_POSITIVE_TEXT](Spanish)[ENDCOLOR] Hacienda",
+    "nameFormatted": "<span class=\"positive\">([COLOR:255:60:90:255]스페인</span>의) 하시엔다",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:60:90:255]스페인[ENDCOLOR]의)[ENDCOLOR] 하시엔다",
     "type": "IMPROVEMENT_HACIENDA",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Isibaya",
-    "name": "Isibaya",
+    "nameFormatted": "이시바야",
+    "name": "이시바야",
     "type": "IMPROVEMENT_ISIBAYA",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Indonesian)</span> Kampong",
-    "name": "[COLOR_POSITIVE_TEXT](Indonesian)[ENDCOLOR] Kampong",
+    "nameFormatted": "<span class=\"positive\">([COLOR:68:193:203:255]인도네시아</span>의) 캄퐁",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:68:193:203:255]인도네시아[ENDCOLOR]의)[ENDCOLOR] 캄퐁",
     "type": "IMPROVEMENT_KAMPONG",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Mayan)</span> Kuna",
-    "name": "[COLOR_POSITIVE_TEXT](Mayan)[ENDCOLOR] Kuna",
+    "nameFormatted": "<span class=\"positive\">([COLOR:216:176:137:255]마야</span>의) 쿠나",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:216:176:137:255]마야[ENDCOLOR]의)[ENDCOLOR] 쿠나",
     "type": "IMPROVEMENT_KUNA",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Ethiopian)</span> Monolithic Church",
-    "name": "[COLOR_POSITIVE_TEXT](Ethiopian)[ENDCOLOR] Monolithic Church",
+    "nameFormatted": "<span class=\"positive\">([COLOR:44:101:39:255]에티오피아</span>의) 암굴 교회",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:44:101:39:255]에티오피아[ENDCOLOR]의)[ENDCOLOR] 암굴 교회",
     "type": "IMPROVEMENT_MONOLITHIC_CHURCH",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Egyptian)</span> Obelisk",
-    "name": "[COLOR_POSITIVE_TEXT](Egyptian)[ENDCOLOR] Obelisk",
+    "nameFormatted": "<span class=\"positive\">([COLOR:240:220:70:255]이집트</span>의) 오벨리스크",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:220:70:255]이집트[ENDCOLOR]의)[ENDCOLOR] 오벨리스크",
     "type": "IMPROVEMENT_OBELISK",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Celtic)</span> Oppidum",
-    "name": "[COLOR_POSITIVE_TEXT](Celtic)[ENDCOLOR] Oppidum",
+    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 오피둠",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 오피둠",
     "type": "IMPROVEMENT_OPPIDUM",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Ordo",
-    "name": "Ordo",
+    "nameFormatted": "오르도",
+    "name": "오르도",
     "type": "IMPROVEMENT_ORDO",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Chinese)</span> Siheyuan",
-    "name": "[COLOR_POSITIVE_TEXT](Chinese)[ENDCOLOR] Siheyuan",
+    "nameFormatted": "<span class=\"positive\">([COLOR:90:210:90:255]중국</span>의) 쓰허위안",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:90:210:90:255]중국[ENDCOLOR]의)[ENDCOLOR] 쓰허위안",
     "type": "IMPROVEMENT_SIHEYUAN",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Ottoman)</span> Tersane",
-    "name": "[COLOR_POSITIVE_TEXT](Ottoman)[ENDCOLOR] Tersane",
+    "nameFormatted": "<span class=\"positive\">([COLOR:60:140:70:255]오스만</span>의) 테르사네",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:140:70:255]오스만[ENDCOLOR]의)[ENDCOLOR] 테르사네",
     "type": "IMPROVEMENT_TERSANE",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Roman)</span> Villa",
-    "name": "[COLOR_POSITIVE_TEXT](Roman)[ENDCOLOR] Villa",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:120:255:255]로마</span>의) 빌라",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR]의)[ENDCOLOR] 빌라",
     "type": "IMPROVEMENT_VILLA",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Polder",
-    "name": "Polder",
+    "nameFormatted": "간척지",
+    "name": "간척지",
     "type": "IMPROVEMENT_POLDER_WATER",
     "page": "improvements"
   },
   {
-    "nameFormatted": "Grassland",
-    "name": "Grassland",
+    "nameFormatted": "초원",
+    "name": "초원",
     "type": "TERRAIN_GRASS",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Plains",
-    "name": "Plains",
+    "nameFormatted": "평원",
+    "name": "평원",
     "type": "TERRAIN_PLAINS",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Desert",
-    "name": "Desert",
+    "nameFormatted": "사막",
+    "name": "사막",
     "type": "TERRAIN_DESERT",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Tundra",
-    "name": "Tundra",
+    "nameFormatted": "툰드라",
+    "name": "툰드라",
     "type": "TERRAIN_TUNDRA",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Snow",
-    "name": "Snow",
+    "nameFormatted": "설원",
+    "name": "설원",
     "type": "TERRAIN_SNOW",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Coast",
-    "name": "Coast",
+    "nameFormatted": "연안",
+    "name": "연안",
     "type": "TERRAIN_COAST",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Ocean",
-    "name": "Ocean",
+    "nameFormatted": "대양",
+    "name": "대양",
     "type": "TERRAIN_OCEAN",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Mountain",
-    "name": "Mountain",
+    "nameFormatted": "산",
+    "name": "산",
     "type": "TERRAIN_MOUNTAIN",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Hill",
-    "name": "Hill",
+    "nameFormatted": "언덕",
+    "name": "언덕",
     "type": "TERRAIN_HILL",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Ice",
-    "name": "Ice",
+    "nameFormatted": "빙하",
+    "name": "빙하",
     "type": "FEATURE_ICE",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Jungle",
-    "name": "Jungle",
+    "nameFormatted": "정글",
+    "name": "정글",
     "type": "FEATURE_JUNGLE",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Marsh",
-    "name": "Marsh",
+    "nameFormatted": "습지",
+    "name": "습지",
     "type": "FEATURE_MARSH",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Oasis",
-    "name": "Oasis",
+    "nameFormatted": "오아시스",
+    "name": "오아시스",
     "type": "FEATURE_OASIS",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Flood Plains",
-    "name": "Flood Plains",
+    "nameFormatted": "범람원",
+    "name": "범람원",
     "type": "FEATURE_FLOOD_PLAINS",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Forest",
-    "name": "Forest",
+    "nameFormatted": "숲",
+    "name": "숲",
     "type": "FEATURE_FOREST",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Fallout",
-    "name": "Fallout",
+    "nameFormatted": "낙진",
+    "name": "낙진",
     "type": "FEATURE_FALLOUT",
     "page": "terrain"
   },
   {
-    "nameFormatted": "The Barringer Crater",
-    "name": "The Barringer Crater",
+    "nameFormatted": "배린저 운석공",
+    "name": "배린저 운석공",
     "type": "FEATURE_CRATER",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Mt. Fuji",
-    "name": "Mt. Fuji",
+    "nameFormatted": "후지산",
+    "name": "후지산",
     "type": "FEATURE_FUJI",
     "page": "terrain"
   },
   {
-    "nameFormatted": "The Grand Mesa",
-    "name": "The Grand Mesa",
+    "nameFormatted": "그랜드 메사",
+    "name": "그랜드 메사",
     "type": "FEATURE_MESA",
     "page": "terrain"
   },
   {
-    "nameFormatted": "The Great Barrier Reef",
-    "name": "The Great Barrier Reef",
+    "nameFormatted": "대보초",
+    "name": "대보초",
     "type": "FEATURE_REEF",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Krakatoa",
-    "name": "Krakatoa",
+    "nameFormatted": "크라카토아 화산",
+    "name": "크라카토아 화산",
     "type": "FEATURE_VOLCANO",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Rock of Gibraltar",
-    "name": "Rock of Gibraltar",
+    "nameFormatted": "지브롤터 암벽",
+    "name": "지브롤터 암벽",
     "type": "FEATURE_GIBRALTAR",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Old Faithful",
-    "name": "Old Faithful",
+    "nameFormatted": "올드 페이스풀",
+    "name": "올드 페이스풀",
     "type": "FEATURE_GEYSER",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Fountain of Youth",
-    "name": "Fountain of Youth",
+    "nameFormatted": "젊음의 샘",
+    "name": "젊음의 샘",
     "type": "FEATURE_FOUNTAIN_YOUTH",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Cerro de Potosi",
-    "name": "Cerro de Potosi",
+    "nameFormatted": "세로데파스코",
+    "name": "세로데파스코",
     "type": "FEATURE_POTOSI",
     "page": "terrain"
   },
   {
-    "nameFormatted": "El Dorado",
-    "name": "El Dorado",
+    "nameFormatted": "엘도라도",
+    "name": "엘도라도",
     "type": "FEATURE_EL_DORADO",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Atoll",
-    "name": "Atoll",
+    "nameFormatted": "산호섬",
+    "name": "산호섬",
     "type": "FEATURE_ATOLL",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Sri Pada",
-    "name": "Sri Pada",
+    "nameFormatted": "스리파다",
+    "name": "스리파다",
     "type": "FEATURE_SRI_PADA",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Mt. Sinai",
-    "name": "Mt. Sinai",
+    "nameFormatted": "시나이산",
+    "name": "시나이산",
     "type": "FEATURE_MT_SINAI",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Mt. Kailash",
-    "name": "Mt. Kailash",
+    "nameFormatted": "카일라스 산",
+    "name": "카일라스 산",
     "type": "FEATURE_MT_KAILASH",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Uluru",
-    "name": "Uluru",
+    "nameFormatted": "울루루",
+    "name": "울루루",
     "type": "FEATURE_ULURU",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Lake Victoria",
-    "name": "Lake Victoria",
+    "nameFormatted": "빅토리아 호수",
+    "name": "빅토리아 호수",
     "type": "FEATURE_LAKE_VICTORIA",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Mt. Kilimanjaro",
-    "name": "Mt. Kilimanjaro",
+    "nameFormatted": "킬리만자로",
+    "name": "킬리만자로",
     "type": "FEATURE_KILIMANJARO",
     "page": "terrain"
   },
   {
-    "nameFormatted": "King Solomon's Mines",
-    "name": "King Solomon's Mines",
+    "nameFormatted": "솔로몬 왕의 광산",
+    "name": "솔로몬 왕의 광산",
     "type": "FEATURE_SOLOMONS_MINES",
     "page": "terrain"
   },
   {
-    "nameFormatted": "Bratislava",
-    "name": "Bratislava",
+    "nameFormatted": "브라타슬라바",
+    "name": "브라타슬라바",
     "type": "MINOR_CIV_BRATISLAVA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Budapest",
-    "name": "Budapest",
+    "nameFormatted": "부다페스트",
+    "name": "부다페스트",
     "type": "MINOR_CIV_BUDAPEST",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Geneva",
-    "name": "Geneva",
+    "nameFormatted": "제네바",
+    "name": "제네바",
     "type": "MINOR_CIV_GENEVA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Riga",
-    "name": "Riga",
+    "nameFormatted": "리가",
+    "name": "리가",
     "type": "MINOR_CIV_RIGA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Genoa",
-    "name": "Genoa",
+    "nameFormatted": "제노바",
+    "name": "제노바",
     "type": "MINOR_CIV_GENOA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Florence",
-    "name": "Florence",
+    "nameFormatted": "피렌체",
+    "name": "피렌체",
     "type": "MINOR_CIV_FLORENCE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Ragusa",
-    "name": "Ragusa",
+    "nameFormatted": "라구사",
+    "name": "라구사",
     "type": "MINOR_CIV_RAGUSA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Sydney",
-    "name": "Sydney",
+    "nameFormatted": "시드니",
+    "name": "시드니",
     "type": "MINOR_CIV_SYDNEY",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Quebec City",
-    "name": "Quebec City",
+    "nameFormatted": "퀘벡",
+    "name": "퀘벡",
     "type": "MINOR_CIV_QUEBEC_CITY",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Bucharest",
-    "name": "Bucharest",
+    "nameFormatted": "부쿠레슈티",
+    "name": "부쿠레슈티",
     "type": "MINOR_CIV_BUCHAREST",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Belgrade",
-    "name": "Belgrade",
+    "nameFormatted": "베오그라드",
+    "name": "베오그라드",
     "type": "MINOR_CIV_BELGRADE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Brussels",
-    "name": "Brussels",
+    "nameFormatted": "브뤼셀",
+    "name": "브뤼셀",
     "type": "MINOR_CIV_BRUSSELS",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Monaco",
-    "name": "Monaco",
+    "nameFormatted": "모나코",
+    "name": "모나코",
     "type": "MINOR_CIV_MONACO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Kathmandu",
-    "name": "Kathmandu",
+    "nameFormatted": "카트만두",
+    "name": "카트만두",
     "type": "MINOR_CIV_KATHMANDU",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Hanoi",
-    "name": "Hanoi",
+    "nameFormatted": "하노이",
+    "name": "하노이",
     "type": "MINOR_CIV_HANOI",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Lhasa",
-    "name": "Lhasa",
+    "nameFormatted": "라사",
+    "name": "라사",
     "type": "MINOR_CIV_LHASA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Almaty",
-    "name": "Almaty",
+    "nameFormatted": "알마티",
+    "name": "알마티",
     "type": "MINOR_CIV_ALMATY",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Kuala Lumpur",
-    "name": "Kuala Lumpur",
+    "nameFormatted": "쿠알라룸푸르",
+    "name": "쿠알라룸푸르",
     "type": "MINOR_CIV_KUALA_LUMPUR",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Singapore",
-    "name": "Singapore",
+    "nameFormatted": "싱가포르",
+    "name": "싱가포르",
     "type": "MINOR_CIV_SINGAPORE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Panama City",
-    "name": "Panama City",
+    "nameFormatted": "파나마시티",
+    "name": "파나마시티",
     "type": "MINOR_CIV_PANAMA_CITY",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Cape Town",
-    "name": "Cape Town",
+    "nameFormatted": "케이프타운",
+    "name": "케이프타운",
     "type": "MINOR_CIV_CAPE_TOWN",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Sidon",
-    "name": "Sidon",
+    "nameFormatted": "시돈",
+    "name": "시돈",
     "type": "MINOR_CIV_SIDON",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Tyre",
-    "name": "Tyre",
+    "nameFormatted": "티레",
+    "name": "티레",
     "type": "MINOR_CIV_TYRE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Antwerp",
-    "name": "Antwerp",
+    "nameFormatted": "앤트워프",
+    "name": "앤트워프",
     "type": "MINOR_CIV_ANTWERP",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Cahokia",
-    "name": "Cahokia",
+    "nameFormatted": "카호키아",
+    "name": "카호키아",
     "type": "MINOR_CIV_CAHOKIA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Colombo",
-    "name": "Colombo",
+    "nameFormatted": "콜롬보",
+    "name": "콜롬보",
     "type": "MINOR_CIV_COLOMBO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Hong Kong",
-    "name": "Hong Kong",
+    "nameFormatted": "홍콩",
+    "name": "홍콩",
     "type": "MINOR_CIV_HONG_KONG",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Ormus",
-    "name": "Ormus",
+    "nameFormatted": "오르무스",
+    "name": "오르무스",
     "type": "MINOR_CIV_ORMUS",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Jerusalem",
-    "name": "Jerusalem",
+    "nameFormatted": "예루살렘",
+    "name": "예루살렘",
     "type": "MINOR_CIV_JERUSALEM",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "La Venta",
-    "name": "La Venta",
+    "nameFormatted": "라벤타",
+    "name": "라벤타",
     "type": "MINOR_CIV_LA_VENTA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Vancouver",
-    "name": "Vancouver",
+    "nameFormatted": "밴쿠버",
+    "name": "밴쿠버",
     "type": "MINOR_CIV_VANCOUVER",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Manila",
-    "name": "Manila",
+    "nameFormatted": "마닐라",
+    "name": "마닐라",
     "type": "MINOR_CIV_MANILA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Antananarivo",
-    "name": "Antananarivo",
+    "nameFormatted": "안타나나리보",
+    "name": "안타나나리보",
     "type": "MINOR_CIV_ANTANANARIVO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Milan",
-    "name": "Milan",
+    "nameFormatted": "밀란",
+    "name": "밀란",
     "type": "MINOR_CIV_MILAN",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Mombasa",
-    "name": "Mombasa",
+    "nameFormatted": "몸바사",
+    "name": "몸바사",
     "type": "MINOR_CIV_MOMBASA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Prague",
-    "name": "Prague",
+    "nameFormatted": "프라하",
+    "name": "프라하",
     "type": "MINOR_CIV_PRAGUE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Valletta",
-    "name": "Valletta",
+    "nameFormatted": "발레타",
+    "name": "발레타",
     "type": "MINOR_CIV_VALLETTA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Vatican City",
-    "name": "Vatican City",
+    "nameFormatted": "바티칸 시티",
+    "name": "바티칸 시티",
     "type": "MINOR_CIV_VATICAN_CITY",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Wittenberg",
-    "name": "Wittenberg",
+    "nameFormatted": "비텐베르크",
+    "name": "비텐베르크",
     "type": "MINOR_CIV_WITTENBERG",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Yerevan",
-    "name": "Yerevan",
+    "nameFormatted": "예레반",
+    "name": "예레반",
     "type": "MINOR_CIV_YEREVAN",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Zanzibar",
-    "name": "Zanzibar",
+    "nameFormatted": "잔지바르",
+    "name": "잔지바르",
     "type": "MINOR_CIV_ZANZIBAR",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Zurich",
-    "name": "Zurich",
+    "nameFormatted": "취리히",
+    "name": "취리히",
     "type": "MINOR_CIV_ZURICH",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Samarkand",
-    "name": "Samarkand",
+    "nameFormatted": "사마르칸트",
+    "name": "사마르칸트",
     "type": "MINOR_CIV_SAMARKAND",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Malacca",
-    "name": "Malacca",
+    "nameFormatted": "말라카",
+    "name": "말라카",
     "type": "MINOR_CIV_MALACCA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Mogadishu",
-    "name": "Mogadishu",
+    "nameFormatted": "모가디슈",
+    "name": "모가디슈",
     "type": "MINOR_CIV_MOGADISHU",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Byblos",
-    "name": "Byblos",
+    "nameFormatted": "비블로스",
+    "name": "비블로스",
     "type": "MINOR_CIV_BYBLOS",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Kyzyl",
-    "name": "Kyzyl",
+    "nameFormatted": "키질",
+    "name": "키질",
     "type": "MINOR_CIV_KYZYL",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Ife",
-    "name": "Ife",
+    "nameFormatted": "이페",
+    "name": "이페",
     "type": "MINOR_CIV_IFE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Kyiv",
-    "name": "Kyiv",
+    "nameFormatted": "키이우",
+    "name": "키이우",
     "type": "MINOR_CIV_KIEV",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Buenos Aires",
-    "name": "Buenos Aires",
+    "nameFormatted": "부에노스 아이레스",
+    "name": "부에노스 아이레스",
     "type": "MINOR_CIV_BUENOS_AIRES",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "M'banza-Kongo",
-    "name": "M'banza-Kongo",
+    "nameFormatted": "음반자콩고",
+    "name": "음반자콩고",
     "type": "MINOR_CIV_MBANZA_KONGO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Kabul",
-    "name": "Kabul",
+    "nameFormatted": "카불",
+    "name": "카불",
     "type": "MINOR_CIV_KABUL",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Sofia",
-    "name": "Sofia",
+    "nameFormatted": "소피아",
+    "name": "소피아",
     "type": "MINOR_CIV_SOFIA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Ur",
-    "name": "Ur",
+    "nameFormatted": "우르",
+    "name": "우르",
     "type": "MINOR_CIV_UR",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Melbourne",
-    "name": "Melbourne",
+    "nameFormatted": "멜버른",
+    "name": "멜버른",
     "type": "MINOR_CIV_MELBOURNE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Bogota",
-    "name": "Bogota",
+    "nameFormatted": "보고타",
+    "name": "보고타",
     "type": "MINOR_CIV_BOGOTA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Vilnius",
-    "name": "Vilnius",
+    "nameFormatted": "빌뉴스",
+    "name": "빌뉴스",
     "type": "MINOR_CIV_VILNIUS",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Wellington",
-    "name": "Wellington",
+    "nameFormatted": "웰링턴",
+    "name": "웰링턴",
     "type": "MINOR_CIV_WELLINGTON",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Copenhagen",
-    "name": "Copenhagen",
+    "nameFormatted": "코펜하겐",
+    "name": "코펜하겐",
     "type": "MINOR_CIV_COPENHAGEN",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Dublin",
-    "name": "Dublin",
+    "nameFormatted": "더블린",
+    "name": "더블린",
     "type": "MINOR_CIV_DUBLIN",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Edinburgh",
-    "name": "Edinburgh",
+    "nameFormatted": "에든버러",
+    "name": "에든버러",
     "type": "MINOR_CIV_EDINBURGH",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Helsinki",
-    "name": "Helsinki",
+    "nameFormatted": "헬싱키",
+    "name": "헬싱키",
     "type": "MINOR_CIV_HELSINKI",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Jakarta",
-    "name": "Jakarta",
+    "nameFormatted": "자카르타",
+    "name": "자카르타",
     "type": "MINOR_CIV_JAKARTA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Lisbon",
-    "name": "Lisbon",
+    "nameFormatted": "리스본",
+    "name": "리스본",
     "type": "MINOR_CIV_LISBON",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Marrakech",
-    "name": "Marrakech",
+    "nameFormatted": "마라케시",
+    "name": "마라케시",
     "type": "MINOR_CIV_MARRAKECH",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Oslo",
-    "name": "Oslo",
+    "nameFormatted": "오슬로",
+    "name": "오슬로",
     "type": "MINOR_CIV_OSLO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Rio de Janeiro",
-    "name": "Rio de Janeiro",
+    "nameFormatted": "리우데자네이루",
+    "name": "리우데자네이루",
     "type": "MINOR_CIV_RIO_DE_JANEIRO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Seoul",
-    "name": "Seoul",
+    "nameFormatted": "서울",
+    "name": "서울",
     "type": "MINOR_CIV_SEOUL",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Stockholm",
-    "name": "Stockholm",
+    "nameFormatted": "스톡홀름",
+    "name": "스톡홀름",
     "type": "MINOR_CIV_STOCKHOLM",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Venezia",
-    "name": "Venezia",
+    "nameFormatted": "베네치아",
+    "name": "베네치아",
     "type": "MINOR_CIV_VENICE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Vienna",
-    "name": "Vienna",
+    "nameFormatted": "빈",
+    "name": "빈",
     "type": "MINOR_CIV_VIENNA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Warsaw",
-    "name": "Warsaw",
+    "nameFormatted": "바르샤바",
+    "name": "바르샤바",
     "type": "MINOR_CIV_WARSAW",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Bornu",
-    "name": "Bornu",
+    "nameFormatted": "보르누",
+    "name": "보르누",
     "type": "MINOR_CIV_BORNU",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Bunkeya",
-    "name": "Bunkeya",
+    "nameFormatted": "번케야",
+    "name": "번케야",
     "type": "MINOR_CIV_BUNKEYA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Luba",
-    "name": "Luba",
+    "nameFormatted": "루바",
+    "name": "루바",
     "type": "MINOR_CIV_LUBA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Ouagadougou",
-    "name": "Ouagadougou",
+    "nameFormatted": "와가두구",
+    "name": "와가두구",
     "type": "MINOR_CIV_OUAGADOUGOU",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Segou",
-    "name": "Segou",
+    "nameFormatted": "세구",
+    "name": "세구",
     "type": "MINOR_CIV_SEGOU",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Sokoto",
-    "name": "Sokoto",
+    "nameFormatted": "소코토",
+    "name": "소코토",
     "type": "MINOR_CIV_SOKOTO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Abernethy",
-    "name": "Abernethy",
+    "nameFormatted": "애버네시",
+    "name": "애버네시",
     "type": "MINOR_CIV_ABERNETHY",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Aksum",
-    "name": "Aksum",
+    "nameFormatted": "악숨",
+    "name": "악숨",
     "type": "MINOR_CIV_AKSUM",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Argos",
-    "name": "Argos",
+    "nameFormatted": "아르고스",
+    "name": "아르고스",
     "type": "MINOR_CIV_ARGOS",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Assur",
-    "name": "Assur",
+    "nameFormatted": "아수르",
+    "name": "아수르",
     "type": "MINOR_CIV_ASSUR",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Aztlan",
-    "name": "Aztlan",
+    "nameFormatted": "아스틀란",
+    "name": "아스틀란",
     "type": "MINOR_CIV_AZTLAN",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Ban Chiang",
-    "name": "Ban Chiang",
+    "nameFormatted": "반치앙",
+    "name": "반치앙",
     "type": "MINOR_CIV_BAN_CHIANG",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Brandenburg",
-    "name": "Brandenburg",
+    "nameFormatted": "브란덴부르크",
+    "name": "브란덴부르크",
     "type": "MINOR_CIV_BRANDENBURG",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Djenne",
-    "name": "Djenne",
+    "nameFormatted": "젠네",
+    "name": "젠네",
     "type": "MINOR_CIV_DJENNE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Dorestad",
-    "name": "Dorestad",
+    "nameFormatted": "도레스타드",
+    "name": "도레스타드",
     "type": "MINOR_CIV_DORESTAD",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Ecbatana",
-    "name": "Ecbatana",
+    "nameFormatted": "엑바타나",
+    "name": "엑바타나",
     "type": "MINOR_CIV_ECBATANA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Enns",
-    "name": "Enns",
+    "nameFormatted": "엔스",
+    "name": "엔스",
     "type": "MINOR_CIV_ENNS",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Eraclea",
-    "name": "Eraclea",
+    "nameFormatted": "헤라클레아",
+    "name": "헤라클레아",
     "type": "MINOR_CIV_ERACLEA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Harappa",
-    "name": "Harappa",
+    "nameFormatted": "하라파",
+    "name": "하라파",
     "type": "MINOR_CIV_HARAPPA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Heidabir",
-    "name": "Heidabir",
+    "nameFormatted": "헤이다비르",
+    "name": "헤이다비르",
     "type": "MINOR_CIV_HEIDABIR",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Holmul",
-    "name": "Holmul",
+    "nameFormatted": "홀물",
+    "name": "홀물",
     "type": "MINOR_CIV_HOLMUL",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Huari",
-    "name": "Huari",
+    "nameFormatted": "와리",
+    "name": "와리",
     "type": "MINOR_CIV_HUARI",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Kwa-Bulawayo",
-    "name": "Kwa-Bulawayo",
+    "nameFormatted": "콰불라와요",
+    "name": "콰불라와요",
     "type": "MINOR_CIV_KWA_BULAWAYO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Longcheng",
-    "name": "Longcheng",
+    "nameFormatted": "룽청",
+    "name": "룽청",
     "type": "MINOR_CIV_LONGCHENG",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Lutetia",
-    "name": "Lutetia",
+    "nameFormatted": "루테티아",
+    "name": "루테티아",
     "type": "MINOR_CIV_LUTETIA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Msoura",
-    "name": "Msoura",
+    "nameFormatted": "음소우라",
+    "name": "음소우라",
     "type": "MINOR_CIV_MSOURA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Nippur",
-    "name": "Nippur",
+    "nameFormatted": "니푸르",
+    "name": "니푸르",
     "type": "MINOR_CIV_NIPPUR",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Novgorod",
-    "name": "Novgorod",
+    "nameFormatted": "노브고로드",
+    "name": "노브고로드",
     "type": "MINOR_CIV_NOVGOROD",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Okilis",
-    "name": "Okilis",
+    "nameFormatted": "오킬리스",
+    "name": "오킬리스",
     "type": "MINOR_CIV_OKILIS",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Onondaga",
-    "name": "Onondaga",
+    "nameFormatted": "오논다가",
+    "name": "오논다가",
     "type": "MINOR_CIV_ONONDAGA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Oviedo",
-    "name": "Oviedo",
+    "nameFormatted": "오비에도",
+    "name": "오비에도",
     "type": "MINOR_CIV_OVIEDO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Pago Pago",
-    "name": "Pago Pago",
+    "nameFormatted": "파고파고",
+    "name": "파고파고",
     "type": "MINOR_CIV_PAGO_PAGO",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Palatium",
-    "name": "Palatium",
+    "nameFormatted": "팔라티움",
+    "name": "팔라티움",
     "type": "MINOR_CIV_PALATIUM",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Perge",
-    "name": "Perge",
+    "nameFormatted": "페르게",
+    "name": "페르게",
     "type": "MINOR_CIV_PERGE",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Raqmu",
-    "name": "Raqmu",
+    "nameFormatted": "라크무",
+    "name": "라크무",
     "type": "MINOR_CIV_RAQMU",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Salem",
-    "name": "Salem",
+    "nameFormatted": "세일럼",
+    "name": "세일럼",
     "type": "MINOR_CIV_SALEM",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Shanghai",
-    "name": "Shanghai",
+    "nameFormatted": "상하이",
+    "name": "상하이",
     "type": "MINOR_CIV_SHANGHAI",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Shedet",
-    "name": "Shedet",
+    "nameFormatted": "셰데트",
+    "name": "셰데트",
     "type": "MINOR_CIV_SHEDET",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Sigtuna",
-    "name": "Sigtuna",
+    "nameFormatted": "시그투나",
+    "name": "시그투나",
     "type": "MINOR_CIV_SIGTUNA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Sogut",
-    "name": "Sogut",
+    "nameFormatted": "소구트",
+    "name": "소구트",
     "type": "MINOR_CIV_SOGUT",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Trowulan",
-    "name": "Trowulan",
+    "nameFormatted": "트로울란",
+    "name": "트로울란",
     "type": "MINOR_CIV_TROWULAN",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Utica",
-    "name": "Utica",
+    "nameFormatted": "우티카",
+    "name": "우티카",
     "type": "MINOR_CIV_UTICA",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Veligrad",
-    "name": "Veligrad",
+    "nameFormatted": "벨리그라드",
+    "name": "벨리그라드",
     "type": "MINOR_CIV_VELIGRAD",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Wanggeom",
-    "name": "Wanggeom",
+    "nameFormatted": "왕검",
+    "name": "왕검",
     "type": "MINOR_CIV_WANGGEOM",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Winchester",
-    "name": "Winchester",
+    "nameFormatted": "윈체스터",
+    "name": "윈체스터",
     "type": "MINOR_CIV_WINCHESTER",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Yamatai",
-    "name": "Yamatai",
+    "nameFormatted": "야마타이",
+    "name": "야마타이",
     "type": "MINOR_CIV_YAMATAI",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Zuunmod",
-    "name": "Zuunmod",
+    "nameFormatted": "준모드",
+    "name": "준모드",
     "type": "MINOR_CIV_ZUUNMOD",
     "page": "cityStates"
   },
   {
-    "nameFormatted": "Global Hegemony",
-    "name": "Global Hegemony",
+    "nameFormatted": "세계 패권",
+    "name": "세계 패권",
     "type": "RESOLUTION_DIPLOMATIC_VICTORY",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Choose Host",
-    "name": "Choose Host",
+    "nameFormatted": "주최국 선택",
+    "name": "주최국 선택",
     "type": "RESOLUTION_CHANGE_LEAGUE_HOST",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "City-State Sanctions",
-    "name": "City-State Sanctions",
+    "nameFormatted": "도시 국가 통상 금지",
+    "name": "도시 국가 통상 금지",
     "type": "RESOLUTION_ALL_CITY_STATES_EMBARGO",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Sanction",
-    "name": "Sanction",
+    "nameFormatted": "통상 금지",
+    "name": "통상 금지",
     "type": "RESOLUTION_PLAYER_EMBARGO",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Ban Luxury",
-    "name": "Ban Luxury",
+    "nameFormatted": "사치 자원 수입 금지",
+    "name": "사치 자원 수입 금지",
     "type": "RESOLUTION_BAN_LUXURY_HAPPINESS",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Global Peace Accords",
-    "name": "Global Peace Accords",
+    "nameFormatted": "상비군 세금",
+    "name": "상비군 세금",
     "type": "RESOLUTION_STANDING_ARMY_TAX",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Scholars In Residence",
-    "name": "Scholars In Residence",
+    "nameFormatted": "상주 학자",
+    "name": "상주 학자",
     "type": "RESOLUTION_MEMBER_DISCOVERED_TECH_DISCOUNT",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "World's Fair",
-    "name": "World's Fair",
+    "nameFormatted": "만국 박람회",
+    "name": "만국 박람회",
     "type": "RESOLUTION_WORLD_FAIR",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "International Games",
-    "name": "International Games",
+    "nameFormatted": "국제 스포츠 대회",
+    "name": "국제 스포츠 대회",
     "type": "RESOLUTION_WORLD_GAMES",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "International Space Station",
-    "name": "International Space Station",
+    "nameFormatted": "국제 우주 정거장",
+    "name": "국제 우주 정거장",
     "type": "RESOLUTION_INTERNATIONAL_SPACE_STATION",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Cultural Heritage Sites",
-    "name": "Cultural Heritage Sites",
+    "nameFormatted": "문화 유산",
+    "name": "문화 유산",
     "type": "RESOLUTION_CULTURAL_HERITAGE_SITES",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Natural Heritage Sites",
-    "name": "Natural Heritage Sites",
+    "nameFormatted": "자연 문화 유산",
+    "name": "자연 문화 유산",
     "type": "RESOLUTION_NATURAL_HERITAGE_SITES",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Nuclear Non-Proliferation",
-    "name": "Nuclear Non-Proliferation",
+    "nameFormatted": "핵 확산 금지",
+    "name": "핵 확산 금지",
     "type": "RESOLUTION_NUCLEAR_NON_PROLIFERATION",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "World Religion",
-    "name": "World Religion",
+    "nameFormatted": "세계 종교",
+    "name": "세계 종교",
     "type": "RESOLUTION_WORLD_RELIGION",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "World Ideology",
-    "name": "World Ideology",
+    "nameFormatted": "세계 이념",
+    "name": "세계 이념",
     "type": "RESOLUTION_WORLD_IDEOLOGY",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Endowment for the Arts",
-    "name": "Endowment for the Arts",
+    "nameFormatted": "예술 기금",
+    "name": "예술 기금",
     "type": "RESOLUTION_ARTS_FUNDING",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "World Science Initiative",
-    "name": "World Science Initiative",
+    "nameFormatted": "세계 과학 기금",
+    "name": "세계 과학 기금",
     "type": "RESOLUTION_SCIENCES_FUNDING",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Historical Landmarks",
-    "name": "Historical Landmarks",
+    "nameFormatted": "역사적 랜드마크",
+    "name": "역사적 랜드마크",
     "type": "RESOLUTION_HISTORICAL_LANDMARKS",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Sphere of Influence",
-    "name": "Sphere of Influence",
+    "nameFormatted": "영향권",
+    "name": "영향권",
     "type": "RESOLUTION_SPHERE_OF_INFLUENCE",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Decolonization",
-    "name": "Decolonization",
+    "nameFormatted": "탈식민지화",
+    "name": "탈식민지화",
     "type": "RESOLUTION_DECOLONIZATION",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Open Door",
-    "name": "Open Door",
+    "nameFormatted": "문호 개방",
+    "name": "문호 개방",
     "type": "RESOLUTION_OPEN_DOOR",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Spaceflight Regulations",
-    "name": "Spaceflight Regulations",
+    "nameFormatted": "우주 비행 규제",
+    "name": "우주 비행 규제",
     "type": "RESOLUTION_SPACESHIP_INSPECTION",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Casus Belli",
-    "name": "Casus Belli",
+    "nameFormatted": "카수스 벨리",
+    "name": "카수스 벨리",
     "type": "RESOLUTION_WORLD_WAR",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Cold War",
-    "name": "Cold War",
+    "nameFormatted": "냉전",
+    "name": "냉전",
     "type": "RESOLUTION_COLD_WAR",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Travel Ban",
-    "name": "Travel Ban",
+    "nameFormatted": "여행 금지",
+    "name": "여행 금지",
     "type": "RESOLUTION_TOURISM_PENALTY",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Passport System",
-    "name": "Passport System",
+    "nameFormatted": "여권 시스템",
+    "name": "여권 시스템",
     "type": "RESOLUTION_TOURISM_BONUS",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Global Liberation",
-    "name": "Global Liberation",
+    "nameFormatted": "세계 해방",
+    "name": "세계 해방",
     "type": "RESOLUTION_PLAYER_VASSAL_TAX",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Treasure Fleet",
-    "name": "Treasure Fleet",
+    "nameFormatted": "보물 선단",
+    "name": "보물 선단",
     "type": "RESOLUTION_TREASURE_FLEET",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Global Wargames",
-    "name": "Global Wargames",
+    "nameFormatted": "국제 군사 훈련",
+    "name": "국제 군사 훈련",
     "type": "RESOLUTION_WARGAMES",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "United Nations",
-    "name": "United Nations",
+    "nameFormatted": "국제 연합",
+    "name": "국제 연합",
     "type": "RESOLUTION_UNITED_NATIONS",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "International Space Station",
-    "name": "International Space Station",
+    "nameFormatted": "국제 우주 정거장",
+    "name": "국제 우주 정거장",
     "type": "LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "World's Fair",
-    "name": "World's Fair",
+    "nameFormatted": "만국 박람회",
+    "name": "만국 박람회",
     "type": "LEAGUE_PROJECT_WORLD_FAIR",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "International Games",
-    "name": "International Games",
+    "nameFormatted": "국제 스포츠 대회",
+    "name": "국제 스포츠 대회",
     "type": "LEAGUE_PROJECT_WORLD_GAMES",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Treasure Fleet",
-    "name": "Treasure Fleet",
+    "nameFormatted": "보물 선단",
+    "name": "보물 선단",
     "type": "LEAGUE_PROJECT_TREASURE_FLEET",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Global Wargames",
-    "name": "Global Wargames",
+    "nameFormatted": "국제 군사 훈련",
+    "name": "국제 군사 훈련",
     "type": "LEAGUE_PROJECT_WARGAMES",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "United Nations",
-    "name": "United Nations",
+    "nameFormatted": "국제 연합",
+    "name": "국제 연합",
     "type": "LEAGUE_PROJECT_UNITED_NATIONS",
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "Trader Sid's, Inc.",
-    "name": "Trader Sid's, Inc.",
+    "nameFormatted": "시드 무역 주식회사",
+    "name": "시드 무역 주식회사",
     "type": "CORPORATION_TRADER_SIDS",
     "page": "corporations"
   },
   {
-    "nameFormatted": "Centaurus Extractors, Inc.",
-    "name": "Centaurus Extractors, Inc.",
+    "nameFormatted": "센타우리 개발 주식회사",
+    "name": "센타우리 개발 주식회사",
     "type": "CORPORATION_CENTAURUS_EXTRACTORS",
     "page": "corporations"
   },
   {
-    "nameFormatted": "Hexxon Refinery, Inc.",
-    "name": "Hexxon Refinery, Inc.",
+    "nameFormatted": "헥손 정유 주식회사",
+    "name": "헥손 정유 주식회사",
     "type": "CORPORATION_HEXXON_REFINERY",
     "page": "corporations"
   },
   {
-    "nameFormatted": "Giorgio Armeier, Inc.",
-    "name": "Giorgio Armeier, Inc.",
+    "nameFormatted": "조르지오 아르미에 주식회사",
+    "name": "조르지오 아르미에 주식회사",
     "type": "CORPORATION_GIORGIO_ARMEIER",
     "page": "corporations"
   },
   {
-    "nameFormatted": "Firaxite Materials, Inc.",
-    "name": "Firaxite Materials, Inc.",
+    "nameFormatted": "파이락사이트 소재 주식회사",
+    "name": "파이락사이트 소재 주식회사",
     "type": "CORPORATION_FIRAXITE_MATERIALS",
     "page": "corporations"
   },
   {
-    "nameFormatted": "TwoKay Foods, Inc.",
-    "name": "TwoKay Foods, Inc.",
+    "nameFormatted": "투케이 푸드 주식회사",
+    "name": "투케이 푸드 주식회사",
     "type": "CORPORATION_TWOKAY_FOODS",
     "page": "corporations"
   },
   {
-    "nameFormatted": "Civilized Jewelers, Inc.",
-    "name": "Civilized Jewelers, Inc.",
+    "nameFormatted": "시빌 보석 주식회사",
+    "name": "시빌 보석 주식회사",
     "type": "CORPORATION_CIVILIZED_JEWELERS",
     "page": "corporations"
   },
   {
-    "nameFormatted": "Laborer",
-    "name": "Laborer",
+    "nameFormatted": "근로자",
+    "name": "근로자",
     "type": "SPECIALIST_CITIZEN",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Writer",
-    "name": "Writer",
+    "nameFormatted": "작가",
+    "name": "작가",
     "type": "SPECIALIST_WRITER",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Artist",
-    "name": "Artist",
+    "nameFormatted": "예술가",
+    "name": "예술가",
     "type": "SPECIALIST_ARTIST",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Musician",
-    "name": "Musician",
+    "nameFormatted": "음악가",
+    "name": "음악가",
     "type": "SPECIALIST_MUSICIAN",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Scientist",
-    "name": "Scientist",
+    "nameFormatted": "과학자",
+    "name": "과학자",
     "type": "SPECIALIST_SCIENTIST",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Merchant",
-    "name": "Merchant",
+    "nameFormatted": "상인",
+    "name": "상인",
     "type": "SPECIALIST_MERCHANT",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Engineer",
-    "name": "Engineer",
+    "nameFormatted": "기술자",
+    "name": "기술자",
     "type": "SPECIALIST_ENGINEER",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Civil Servant",
-    "name": "Civil Servant",
+    "nameFormatted": "공무원",
+    "name": "공무원",
     "type": "SPECIALIST_CIVIL_SERVANT",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great Artist",
-    "name": "Great Artist",
+    "nameFormatted": "위대한 예술가",
+    "name": "위대한 예술가",
     "type": "UNIT_ARTIST",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great Scientist",
-    "name": "Great Scientist",
+    "nameFormatted": "위대한 과학자",
+    "name": "위대한 과학자",
     "type": "UNIT_SCIENTIST",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great Merchant",
-    "name": "Great Merchant",
+    "nameFormatted": "위대한 상인",
+    "name": "위대한 상인",
     "type": "UNIT_MERCHANT",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great Engineer",
-    "name": "Great Engineer",
+    "nameFormatted": "위대한 기술자",
+    "name": "위대한 기술자",
     "type": "UNIT_ENGINEER",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great General",
-    "name": "Great General",
+    "nameFormatted": "위대한 장군",
+    "name": "위대한 장군",
     "type": "UNIT_GREAT_GENERAL",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Mongolian)</span> Khan",
-    "name": "[COLOR_POSITIVE_TEXT](Mongolian)[ENDCOLOR] Khan",
+    "nameFormatted": "<span class=\"positive\">([COLOR:170:100:0:255]몽골</span>의) 칸",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:100:0:255]몽골[ENDCOLOR]의)[ENDCOLOR] 칸",
     "type": "UNIT_MONGOLIAN_KHAN",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great Prophet",
-    "name": "Great Prophet",
+    "nameFormatted": "위대한 선지자",
+    "name": "위대한 선지자",
     "type": "UNIT_PROPHET",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great Admiral",
-    "name": "Great Admiral",
+    "nameFormatted": "위대한 제독",
+    "name": "위대한 제독",
     "type": "UNIT_GREAT_ADMIRAL",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Venetian)</span> Merchant of Venice",
-    "name": "[COLOR_POSITIVE_TEXT](Venetian)[ENDCOLOR] Merchant of Venice",
+    "nameFormatted": "<span class=\"positive\">([COLOR:173:112:215:255]베네치아</span>의) 베니스의 상인",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:173:112:215:255]베네치아[ENDCOLOR]의)[ENDCOLOR] 베니스의 상인",
     "type": "UNIT_VENETIAN_MERCHANT",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great Writer",
-    "name": "Great Writer",
+    "nameFormatted": "위대한 작가",
+    "name": "위대한 작가",
     "type": "UNIT_WRITER",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great Musician",
-    "name": "Great Musician",
+    "nameFormatted": "위대한 음악가",
+    "name": "위대한 음악가",
     "type": "UNIT_MUSICIAN",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "Great Diplomat",
-    "name": "Great Diplomat",
+    "nameFormatted": "위대한 외교관",
+    "name": "위대한 외교관",
     "type": "UNIT_GREAT_DIPLOMAT",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Iroquois)</span> Tadodaho",
-    "name": "[COLOR_POSITIVE_TEXT](Iroquois)[ENDCOLOR] Tadodaho",
+    "nameFormatted": "<span class=\"positive\">([COLOR:150:150:160:255]이로쿼이</span>의) 도다호",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 도다호",
     "type": "UNIT_TADODAHO",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(Zulu)</span> InDuna",
-    "name": "[COLOR_POSITIVE_TEXT](Zulu)[ENDCOLOR] InDuna",
+    "nameFormatted": "<span class=\"positive\">([COLOR:170:120:80:255]줄루</span>의) 인두나",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:120:80:255]줄루[ENDCOLOR]의)[ENDCOLOR] 인두나",
     "type": "UNIT_INDUNA",
     "page": "greatPeople"
   }
