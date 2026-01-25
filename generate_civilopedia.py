@@ -25,14 +25,14 @@ from wand.image import Image as WandImage
 
 
 # Load localization strings
-def load_localization(lang='en_US'):
+def load_localization(lang='ko_KR'):
     """Load localization strings from JSON file"""
     loc_path = Path(__file__).parent / 'Text' / lang / 'UI.json'
     with open(loc_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
 # Load English localization
-LOC = load_localization('en_US')
+LOC = load_localization('ko_KR')
 
 # JSON Input file name
 JSON_INPUT_FILE_NAME = "civilopedia_export.json"
