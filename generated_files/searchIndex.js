@@ -30,7 +30,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">도시와 전투 부대</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">도시와 전투 부대</span>",
     "name": "[COLOR_YELLOW]도시와 전투 부대[ENDCOLOR]",
     "type": "CONCEPT_CITY_COMBATUNITS",
     "page": "concepts"
@@ -54,7 +54,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">유닛이나 건물 구매하기</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">유닛이나 건물 구매하기</span>",
     "name": "[COLOR_YELLOW]유닛이나 건물 구매하기[ENDCOLOR]",
     "type": "CONCEPT_CITY_PURCHASEITEM",
     "page": "concepts"
@@ -96,7 +96,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">전문가</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">전문가</span>",
     "name": "[COLOR_YELLOW]전문가[ENDCOLOR]",
     "type": "CONCEPT_CITY_SPECIALISTS",
     "page": "concepts"
@@ -108,7 +108,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">전문가의 장점</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">전문가의 장점</span>",
     "name": "[COLOR_YELLOW]전문가의 장점[ENDCOLOR]",
     "type": "CONCEPT_CITY_SPECIALISTS_BENEFIT",
     "page": "concepts"
@@ -282,7 +282,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">근접 전투의 결과</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">근접 전투의 결과</span>",
     "name": "[COLOR_YELLOW]근접 전투의 결과[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_MELEE_RESULTS",
     "page": "concepts"
@@ -336,7 +336,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">요새</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">요새</span>",
     "name": "[COLOR_YELLOW]요새[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_BONUSES_FORT",
     "page": "concepts"
@@ -396,13 +396,13 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">도시와 주둔군</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">도시와 주둔군</span>",
     "name": "[COLOR_YELLOW]도시와 주둔군[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_CITY_GARRISON",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">도시로 공격하기</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">도시로 공격하기</span>",
     "name": "[COLOR_YELLOW]도시로 공격하기[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_CITY_BOMBARD",
     "page": "concepts"
@@ -426,7 +426,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">공성 유닛</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">공성 유닛</span>",
     "name": "[COLOR_YELLOW]공성 유닛[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_SIEGE",
     "page": "concepts"
@@ -444,7 +444,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">피해 회복하기</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">피해 회복하기</span>",
     "name": "[COLOR_YELLOW]피해 회복하기[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_UNIT_GROUND_HEALING_DAMAGE",
     "page": "concepts"
@@ -468,7 +468,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">전투를 통하여 경험치 얻기</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">전투를 통하여 경험치 얻기</span>",
     "name": "[COLOR_YELLOW]전투를 통하여 경험치 얻기[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_EXPERIENCE_ACCUMULATING_COMBAT",
     "page": "concepts"
@@ -570,7 +570,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">\"국왕 경축일\"</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">\"국왕 경축일\"</span>",
     "name": "[COLOR_YELLOW]\"국왕 경축일\"[ENDCOLOR]",
     "type": "CONCEPT_RESOURCES_CITY_REQUESTS",
     "page": "concepts"
@@ -624,7 +624,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">도로와 도시 연결</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">도로와 도시 연결</span>",
     "name": "[COLOR_YELLOW]도로와 도시 연결[ENDCOLOR]",
     "type": "CONCEPT_WORKERS_ROADS_TRADE_ROUTES",
     "page": "concepts"
@@ -786,7 +786,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">개척자와 식량 산출량</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">개척자와 식량 산출량</span>",
     "name": "[COLOR_YELLOW]개척자와 식량 산출량[ENDCOLOR]",
     "type": "CONCEPT_FOOD_AND_CITY_GROWTH_SETTLERS",
     "page": "concepts"
@@ -960,7 +960,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">문화 승리</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">문화 승리</span>",
     "name": "[COLOR_YELLOW]문화 승리[ENDCOLOR]",
     "type": "CONCEPT_VICTORY_VICTORY_CULTURAL",
     "page": "concepts"
@@ -1020,7 +1020,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">문화 승리</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">문화 승리</span>",
     "name": "[COLOR_YELLOW]문화 승리[ENDCOLOR]",
     "type": "CONCEPT_CULTURE_VICTORY",
     "page": "concepts"
@@ -1056,7 +1056,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">전쟁 점수</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">전쟁 점수</span>",
     "name": "[COLOR_GREEN]전쟁 점수[ENDCOLOR]",
     "type": "CONCEPT_DIPLOMACY_PEACE",
     "page": "concepts"
@@ -1158,19 +1158,19 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">행복도</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">행복도</span>",
     "name": "[COLOR_GREEN]행복도[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">불행을 야기하는 것</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">불행을 야기하는 것</span>",
     "name": "[COLOR_GREEN]불행을 야기하는 것[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_CAUSES_UNHAPPINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">행복을 만드는 것</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">행복을 만드는 것</span>",
     "name": "[COLOR_GREEN]행복을 만드는 것[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_CAUSES_HAPPINESS",
     "page": "concepts"
@@ -1236,19 +1236,19 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">자유</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">자유</span>",
     "name": "[COLOR_YELLOW]자유[ENDCOLOR]",
     "type": "CONCEPT_SOCIAL_POLICY_BRANCH_FREEDOM",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">질서</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">질서</span>",
     "name": "[COLOR_YELLOW]질서[ENDCOLOR]",
     "type": "CONCEPT_SOCIAL_POLICY_BRANCH_ORDER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">전제</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">전제</span>",
     "name": "[COLOR_YELLOW]전제[ENDCOLOR]",
     "type": "CONCEPT_SOCIAL_POLICY_BRANCH_AUTOCRACY",
     "page": "concepts"
@@ -1284,7 +1284,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">마을</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">마을</span>",
     "name": "[COLOR_GREEN]마을[ENDCOLOR]",
     "type": "CONCEPT_GOLD_TRADING_POST",
     "page": "concepts"
@@ -1302,7 +1302,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">도시 연결</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">도시 연결</span>",
     "name": "[COLOR_YELLOW]도시 연결[ENDCOLOR]",
     "type": "CONCEPT_GOLD_TRADE_ROUTES",
     "page": "concepts"
@@ -1380,7 +1380,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">유닛, 건물, 불가사의 구매</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">유닛, 건물, 불가사의 구매</span>",
     "name": "[COLOR_YELLOW]유닛, 건물, 불가사의 구매[ENDCOLOR]",
     "type": "CONCEPT_GOLD_PURCHASE_UNITS_BUILDINGS_WONDERS",
     "page": "concepts"
@@ -1482,7 +1482,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">전문가와 도시 성장</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">전문가와 도시 성장</span>",
     "name": "[COLOR_GREEN]전문가와 도시 성장[ENDCOLOR]",
     "type": "CONCEPT_BUILDINGS_SPECIALISTS",
     "page": "concepts"
@@ -1530,13 +1530,13 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위인</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위인</span>",
     "name": "[COLOR_YELLOW]위인[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위인 탄생</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위인 탄생</span>",
     "name": "[COLOR_YELLOW]위인 탄생[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GENERATING",
     "page": "concepts"
@@ -1548,7 +1548,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">특수 시설</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">특수 시설</span>",
     "name": "[COLOR_YELLOW]특수 시설[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_SPECIAL_IMPROVEMENT",
     "page": "concepts"
@@ -1566,31 +1566,31 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위대한 예술가</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위대한 예술가</span>",
     "name": "[COLOR_YELLOW]위대한 예술가[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ARTIST",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위대한 기술자</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위대한 기술자</span>",
     "name": "[COLOR_YELLOW]위대한 기술자[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_ENGINEER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위대한 상인</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위대한 상인</span>",
     "name": "[COLOR_YELLOW]위대한 상인[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MERCHANT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위대한 과학자</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위대한 과학자</span>",
     "name": "[COLOR_YELLOW]위대한 과학자[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_SCIENTIST",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위대한 장군</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위대한 장군</span>",
     "name": "[COLOR_YELLOW]위대한 장군[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_GENERAL",
     "page": "concepts"
@@ -1638,7 +1638,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">외교 임무와 문명</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">외교 임무와 문명</span>",
     "name": "[COLOR_GREEN]외교 임무와 문명[ENDCOLOR]",
     "type": "CONCEPT_CITY_STATE_INFLUENCE_GIVE_GOLD",
     "page": "concepts"
@@ -2160,7 +2160,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">야만인 유닛</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">야만인 유닛</span>",
     "name": "[COLOR_YELLOW]야만인 유닛[ENDCOLOR]",
     "type": "CONCEPT_BARBARIANS_UNITS",
     "page": "concepts"
@@ -2178,7 +2178,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">경험치 제한</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">경험치 제한</span>",
     "name": "[COLOR_YELLOW]경험치 제한[ENDCOLOR]",
     "type": "CONCEPT_BARBARIANS_EXPERIENCE_POINT_LIMITS",
     "page": "concepts"
@@ -2298,7 +2298,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">스파이와 도시 국가</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">스파이와 도시 국가</span>",
     "name": "[COLOR_YELLOW]스파이와 도시 국가[ENDCOLOR]",
     "type": "CONCEPT_ESPIONAGE_RIG_ELECTION",
     "page": "concepts"
@@ -2448,7 +2448,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위대한 제독</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위대한 제독</span>",
     "name": "[COLOR_YELLOW]위대한 제독[ENDCOLOR]",
     "type": "CONCEPT_GREAT_ADMIRAL",
     "page": "concepts"
@@ -2484,7 +2484,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">관광</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">관광</span>",
     "name": "[COLOR_YELLOW]관광[ENDCOLOR]",
     "type": "CONCEPT_CULTURE_TOURISM",
     "page": "concepts"
@@ -2550,7 +2550,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">이념</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">이념</span>",
     "name": "[COLOR_YELLOW]이념[ENDCOLOR]",
     "type": "CONCEPT_SOCIAL_POLICY_BRANCH_IDEOLOGY",
     "page": "concepts"
@@ -2568,13 +2568,13 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위대한 작가</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위대한 작가</span>",
     "name": "[COLOR_YELLOW]위대한 작가[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_WRITER",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">위대한 음악가</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">위대한 음악가</span>",
     "name": "[COLOR_YELLOW]위대한 음악가[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_GREAT_PEOPLE_GREAT_MUSICIAN",
     "page": "concepts"
@@ -2646,7 +2646,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">결의안</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">결의안</span>",
     "name": "[COLOR_YELLOW]결의안[ENDCOLOR]",
     "type": "CONCEPT_CONGRESS_RESOLUTIONS",
     "page": "concepts"
@@ -2658,7 +2658,7 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">대표단</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">대표단</span>",
     "name": "[COLOR_YELLOW]대표단[ENDCOLOR]",
     "type": "CONCEPT_CONGRESS_DELEGATES",
     "page": "concepts"
@@ -2676,469 +2676,469 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">국제 연합</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">국제 연합</span>",
     "name": "[COLOR_YELLOW]국제 연합[ENDCOLOR]",
     "type": "CONCEPT_CONGRESS_UN",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">외교 승리</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">외교 승리</span>",
     "name": "[COLOR_YELLOW]외교 승리[ENDCOLOR]",
     "type": "CONCEPT_CONGRESS_VICTORY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">테마와 테마보너스</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">테마와 테마보너스</span>",
     "name": "[COLOR_YELLOW]테마와 테마보너스[ENDCOLOR]",
     "type": "CONCEPT_THEMING_BONUSES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">단축키</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">단축키</span>",
     "name": "[COLOR_GREEN]단축키[ENDCOLOR]",
     "type": "CONCEPT_SHORTCUTS_INTRODUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">도시 단축키</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">도시 단축키</span>",
     "name": "[COLOR_GREEN]도시 단축키[ENDCOLOR]",
     "type": "CONCEPT_SHORTCUTS_CITY_VIEW",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">기본 단축키</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">기본 단축키</span>",
     "name": "[COLOR_GREEN]기본 단축키[ENDCOLOR]",
     "type": "CONCEPT_SHORTCUTS_WORLD_VIEW",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">시대별 보정</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">시대별 보정</span>",
     "name": "[COLOR_GREEN]시대별 보정[ENDCOLOR]",
     "type": "CONCEPT_CITIES_YIELDS_SCALING_WITH_ERA",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">역사적 사건</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">역사적 사건</span>",
     "name": "[COLOR_GREEN]역사적 사건[ENDCOLOR]",
     "type": "CONCEPT_HISTORIC_EVENT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">저항</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">저항</span>",
     "name": "[COLOR_GREEN]저항[ENDCOLOR]",
     "type": "CONCEPT_RESISTANCE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">반란군</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">반란군</span>",
     "name": "[COLOR_GREEN]반란군[ENDCOLOR]",
     "type": "CONCEPT_PARTISANS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">전쟁 피로도</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">전쟁 피로도</span>",
     "name": "[COLOR_GREEN]전쟁 피로도[ENDCOLOR]",
     "type": "CONCEPT_COMBAT_WAR_WEARINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">군사 보급</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">군사 보급</span>",
     "name": "[COLOR_GREEN]군사 보급[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_MILITARY_SUPPLY",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">도시의 지역 행복</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">도시의 지역 행복</span>",
     "name": "[COLOR_GREEN]도시의 지역 행복[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_LOCAL_HAPPINESS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">요구 임계값 계산</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">요구 임계값 계산</span>",
     "name": "[COLOR_GREEN]요구 임계값 계산[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_NEED_THRESHOLDS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">괴뢰 도시의 불행</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">괴뢰 도시의 불행</span>",
     "name": "[COLOR_GREEN]괴뢰 도시의 불행[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_PUPPET_CITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">점령되어 저항하는 도시</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">점령되어 저항하는 도시</span>",
     "name": "[COLOR_GREEN]점령되어 저항하는 도시[ENDCOLOR]",
     "type": "CONCEPT_HAPPINESS_OCCUPIED_CITIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">운하</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">운하</span>",
     "name": "[COLOR_GREEN]운하[ENDCOLOR]",
     "type": "CONCEPT_CANALS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">도시 국가 대사관</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">도시 국가 대사관</span>",
     "name": "[COLOR_GREEN]도시 국가 대사관[ENDCOLOR]",
     "type": "CONCEPT_CITY_STATE_EMBASSIES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">위대한 외교관</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">위대한 외교관</span>",
     "name": "[COLOR_GREEN]위대한 외교관[ENDCOLOR]",
     "type": "CONCEPT_GREAT_DIPLOMAT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">공무원</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">공무원</span>",
     "name": "[COLOR_GREEN]공무원[ENDCOLOR]",
     "type": "CONCEPT_SPECIALISTS_AND_GREAT_PEOPLE_SPECIALISTS_CIVIL_SERVANT",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">황금기 점수</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">황금기 점수</span>",
     "name": "[COLOR_YELLOW]황금기 점수[ENDCOLOR]",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_GOLDEN_AGE",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">생산</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">생산</span>",
     "name": "[COLOR_YELLOW]생산[ENDCOLOR]",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_PRODUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"yellow\">타일</span>",
+    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">타일</span>",
     "name": "[COLOR_YELLOW]타일[ENDCOLOR]",
     "type": "CONCEPT_ANCIENT_RUINS_BENEFITS_TILES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">지도 거래</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">지도 거래</span>",
     "name": "[COLOR_GREEN]지도 거래[ENDCOLOR]",
     "type": "CONCEPT_DIPLOMACY_MAP_TRADING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">기술 거래</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">기술 거래</span>",
     "name": "[COLOR_GREEN]기술 거래[ENDCOLOR]",
     "type": "CONCEPT_DIPLOMACY_TECH_TRADING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">종속국 협정</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">종속국 협정</span>",
     "name": "[COLOR_GREEN]종속국 협정[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_OVERVIEW",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">종속국 얻기</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">종속국 얻기</span>",
     "name": "[COLOR_GREEN]종속국 얻기[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_OBTAINING_VASSALS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">종속국 협정 끝내기</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">종속국 협정 끝내기</span>",
     "name": "[COLOR_GREEN]종속국 협정 끝내기[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_ENDING_VASSALS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">종속국의 이점</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">종속국의 이점</span>",
     "name": "[COLOR_GREEN]종속국의 이점[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_VASSAL_BENEFITS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">종속국에 세금 부과</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">종속국에 세금 부과</span>",
     "name": "[COLOR_GREEN]종속국에 세금 부과[ENDCOLOR]",
     "type": "CONCEPT_VASSALAGE_VASSAL_TAXES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">기업</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">기업</span>",
     "name": "[COLOR_GREEN]기업[ENDCOLOR]",
     "type": "CONCEPT_CORPORATION_INTRODUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">독점</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">독점</span>",
     "name": "[COLOR_GREEN]독점[ENDCOLOR]",
     "type": "CONCEPT_MONOPOLY_INTRODUCTION",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">기업 확장</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">기업 확장</span>",
     "name": "[COLOR_GREEN]기업 확장[ENDCOLOR]",
     "type": "CONCEPT_CORPORATION_SPREADING",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">기업 종류</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">기업 종류</span>",
     "name": "[COLOR_GREEN]기업 종류[ENDCOLOR]",
     "type": "CONCEPT_CORPORATION_TYPES",
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span class=\"green\">스파이 점수</span>",
+    "nameFormatted": "<span style=\"color: rgba(0, 255, 0, 1)\">스파이 점수</span>",
     "name": "[COLOR_GREEN]스파이 점수[ENDCOLOR]",
     "type": "CONCEPT_SPY_POINTS",
     "page": "concepts"
   },
   {
-    "nameFormatted": "[COLOR:70:120:200:255]미국",
+    "nameFormatted": "<span style=\"color: rgba(70, 120, 200, 1.0)\">미국</span>",
     "name": "[COLOR:70:120:200:255]미국[ENDCOLOR]",
     "type": "CIVILIZATION_AMERICA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:100:150:100:255]아라비아",
+    "nameFormatted": "<span style=\"color: rgba(100, 150, 100, 1.0)\">아라비아</span>",
     "name": "[COLOR:100:150:100:255]아라비아[ENDCOLOR]",
     "type": "CIVILIZATION_ARABIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:140:80:80:255]아즈텍",
+    "nameFormatted": "<span style=\"color: rgba(140, 80, 80, 1.0)\">아즈텍</span>",
     "name": "[COLOR:140:80:80:255]아즈텍[ENDCOLOR]",
     "type": "CIVILIZATION_AZTEC",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:90:210:90:255]중국",
+    "nameFormatted": "<span style=\"color: rgba(90, 210, 90, 1.0)\">중국</span>",
     "name": "[COLOR:90:210:90:255]중국[ENDCOLOR]",
     "type": "CIVILIZATION_CHINA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:240:220:70:255]이집트",
+    "nameFormatted": "<span style=\"color: rgba(240, 220, 70, 1.0)\">이집트</span>",
     "name": "[COLOR:240:220:70:255]이집트[ENDCOLOR]",
     "type": "CIVILIZATION_EGYPT",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:190:80:70:255]영국",
+    "nameFormatted": "<span style=\"color: rgba(190, 80, 70, 1.0)\">영국</span>",
     "name": "[COLOR:190:80:70:255]영국[ENDCOLOR]",
     "type": "CIVILIZATION_ENGLAND",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:70:160:220:255]프랑스",
+    "nameFormatted": "<span style=\"color: rgba(70, 160, 220, 1.0)\">프랑스</span>",
     "name": "[COLOR:70:160:220:255]프랑스[ENDCOLOR]",
     "type": "CIVILIZATION_FRANCE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:120:120:120:255]독일",
+    "nameFormatted": "<span style=\"color: rgba(120, 120, 120, 1.0)\">독일</span>",
     "name": "[COLOR:120:120:120:255]독일[ENDCOLOR]",
     "type": "CIVILIZATION_GERMANY",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:130:190:230:255]그리스",
+    "nameFormatted": "<span style=\"color: rgba(130, 190, 230, 1.0)\">그리스</span>",
     "name": "[COLOR:130:190:230:255]그리스[ENDCOLOR]",
     "type": "CIVILIZATION_GREECE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:60:210:60:255]인도",
+    "nameFormatted": "<span style=\"color: rgba(60, 210, 60, 1.0)\">인도</span>",
     "name": "[COLOR:60:210:60:255]인도[ENDCOLOR]",
     "type": "CIVILIZATION_INDIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:150:150:160:255]이로쿼이",
+    "nameFormatted": "<span style=\"color: rgba(150, 150, 160, 1.0)\">이로쿼이</span>",
     "name": "[COLOR:150:150:160:255]이로쿼이[ENDCOLOR]",
     "type": "CIVILIZATION_IROQUOIS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:255:0:0:255]일본",
+    "nameFormatted": "<span style=\"color: rgba(255, 0, 0, 1.0)\">일본</span>",
     "name": "[COLOR:255:0:0:255]일본[ENDCOLOR]",
     "type": "CIVILIZATION_JAPAN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:60:140:70:255]오스만",
+    "nameFormatted": "<span style=\"color: rgba(60, 140, 70, 1.0)\">오스만</span>",
     "name": "[COLOR:60:140:70:255]오스만[ENDCOLOR]",
     "type": "CIVILIZATION_OTTOMAN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:230:50:0:255]페르시아",
+    "nameFormatted": "<span style=\"color: rgba(230, 50, 0, 1.0)\">페르시아</span>",
     "name": "[COLOR:230:50:0:255]페르시아[ENDCOLOR]",
     "type": "CIVILIZATION_PERSIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:150:120:255:255]로마",
+    "nameFormatted": "<span style=\"color: rgba(150, 120, 255, 1.0)\">로마</span>",
     "name": "[COLOR:150:120:255:255]로마[ENDCOLOR]",
     "type": "CIVILIZATION_ROME",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:240:210:110:255]러시아",
+    "nameFormatted": "<span style=\"color: rgba(240, 210, 110, 1.0)\">러시아</span>",
     "name": "[COLOR:240:210:110:255]러시아[ENDCOLOR]",
     "type": "CIVILIZATION_RUSSIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:255:210:0:255]시암",
+    "nameFormatted": "<span style=\"color: rgba(255, 210, 0, 1.0)\">시암</span>",
     "name": "[COLOR:255:210:0:255]시암[ENDCOLOR]",
     "type": "CIVILIZATION_SIAM",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:220:140:10:255]송가이",
+    "nameFormatted": "<span style=\"color: rgba(220, 140, 10, 1.0)\">송가이</span>",
     "name": "[COLOR:220:140:10:255]송가이[ENDCOLOR]",
     "type": "CIVILIZATION_SONGHAI",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:170:100:0:255]몽골",
+    "nameFormatted": "<span style=\"color: rgba(170, 100, 0, 1.0)\">몽골</span>",
     "name": "[COLOR:170:100:0:255]몽골[ENDCOLOR]",
     "type": "CIVILIZATION_MONGOL",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:200:230:0:255]잉카",
+    "nameFormatted": "<span style=\"color: rgba(200, 230, 0, 1.0)\">잉카</span>",
     "name": "[COLOR:200:230:0:255]잉카[ENDCOLOR]",
     "type": "CIVILIZATION_INCA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:255:60:90:255]스페인",
+    "nameFormatted": "<span style=\"color: rgba(255, 60, 90, 1.0)\">스페인</span>",
     "name": "[COLOR:255:60:90:255]스페인[ENDCOLOR]",
     "type": "CIVILIZATION_SPAIN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:236:150:58:255]폴리네시아",
+    "nameFormatted": "<span style=\"color: rgba(236, 150, 58, 1.0)\">폴리네시아</span>",
     "name": "[COLOR:236:150:58:255]폴리네시아[ENDCOLOR]",
     "type": "CIVILIZATION_POLYNESIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:220:100:10:255]덴마크",
+    "nameFormatted": "<span style=\"color: rgba(220, 100, 10, 1.0)\">덴마크</span>",
     "name": "[COLOR:220:100:10:255]덴마크[ENDCOLOR]",
     "type": "CIVILIZATION_DENMARK",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:255:0:50:255]한국",
+    "nameFormatted": "<span style=\"color: rgba(255, 0, 50, 1.0)\">한국</span>",
     "name": "[COLOR:255:0:50:255]한국[ENDCOLOR]",
     "type": "CIVILIZATION_KOREA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:50:120:120:255]바빌론",
+    "nameFormatted": "<span style=\"color: rgba(50, 120, 120, 1.0)\">바빌론</span>",
     "name": "[COLOR:50:120:120:255]바빌론[ENDCOLOR]",
     "type": "CIVILIZATION_BABYLON",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:245:119:119:255]오스트리아",
+    "nameFormatted": "<span style=\"color: rgba(245, 119, 119, 1.0)\">오스트리아</span>",
     "name": "[COLOR:245:119:119:255]오스트리아[ENDCOLOR]",
     "type": "CIVILIZATION_AUSTRIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:204:227:248:255]비잔티움",
+    "nameFormatted": "<span style=\"color: rgba(204, 227, 248, 1.0)\">비잔티움</span>",
     "name": "[COLOR:204:227:248:255]비잔티움[ENDCOLOR]",
     "type": "CIVILIZATION_BYZANTIUM",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:124:35:181:255]카르타고",
+    "nameFormatted": "<span style=\"color: rgba(124, 35, 181, 1.0)\">카르타고</span>",
     "name": "[COLOR:124:35:181:255]카르타고[ENDCOLOR]",
     "type": "CIVILIZATION_CARTHAGE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:156:213:189:255]켈트",
+    "nameFormatted": "<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>",
     "name": "[COLOR:156:213:189:255]켈트[ENDCOLOR]",
     "type": "CIVILIZATION_CELTS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:44:101:39:255]에티오피아",
+    "nameFormatted": "<span style=\"color: rgba(44, 101, 39, 1.0)\">에티오피아</span>",
     "name": "[COLOR:44:101:39:255]에티오피아[ENDCOLOR]",
     "type": "CIVILIZATION_ETHIOPIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:200:199:188:255]훈",
+    "nameFormatted": "<span style=\"color: rgba(200, 199, 188, 1.0)\">훈</span>",
     "name": "[COLOR:200:199:188:255]훈[ENDCOLOR]",
     "type": "CIVILIZATION_HUNS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:216:176:137:255]마야",
+    "nameFormatted": "<span style=\"color: rgba(216, 176, 137, 1.0)\">마야</span>",
     "name": "[COLOR:216:176:137:255]마야[ENDCOLOR]",
     "type": "CIVILIZATION_MAYA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:255:151:66:255]네덜란드",
+    "nameFormatted": "<span style=\"color: rgba(255, 151, 66, 1.0)\">네덜란드</span>",
     "name": "[COLOR:255:151:66:255]네덜란드[ENDCOLOR]",
     "type": "CIVILIZATION_NETHERLANDS",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:70:98:191:255]스웨덴",
+    "nameFormatted": "<span style=\"color: rgba(70, 98, 191, 1.0)\">스웨덴</span>",
     "name": "[COLOR:70:98:191:255]스웨덴[ENDCOLOR]",
     "type": "CIVILIZATION_SWEDEN",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:255:189:25:255]아시리아",
+    "nameFormatted": "<span style=\"color: rgba(255, 189, 25, 1.0)\">아시리아</span>",
     "name": "[COLOR:255:189:25:255]아시리아[ENDCOLOR]",
     "type": "CIVILIZATION_ASSYRIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:150:190:30:255]브라질",
+    "nameFormatted": "<span style=\"color: rgba(150, 190, 30, 1.0)\">브라질</span>",
     "name": "[COLOR:150:190:30:255]브라질[ENDCOLOR]",
     "type": "CIVILIZATION_BRAZIL",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:68:193:203:255]인도네시아",
+    "nameFormatted": "<span style=\"color: rgba(68, 193, 203, 1.0)\">인도네시아</span>",
     "name": "[COLOR:68:193:203:255]인도네시아[ENDCOLOR]",
     "type": "CIVILIZATION_INDONESIA",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:150:0:0:255]모로코",
+    "nameFormatted": "<span style=\"color: rgba(150, 0, 0, 1.0)\">모로코</span>",
     "name": "[COLOR:150:0:0:255]모로코[ENDCOLOR]",
     "type": "CIVILIZATION_MOROCCO",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:210:45:30:255]폴란드",
+    "nameFormatted": "<span style=\"color: rgba(210, 45, 30, 1.0)\">폴란드</span>",
     "name": "[COLOR:210:45:30:255]폴란드[ENDCOLOR]",
     "type": "CIVILIZATION_POLAND",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:35:70:180:255]포르투갈",
+    "nameFormatted": "<span style=\"color: rgba(35, 70, 180, 1.0)\">포르투갈</span>",
     "name": "[COLOR:35:70:180:255]포르투갈[ENDCOLOR]",
     "type": "CIVILIZATION_PORTUGAL",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:88:255:243:255]쇼쇼니",
+    "nameFormatted": "<span style=\"color: rgba(88, 255, 243, 1.0)\">쇼쇼니</span>",
     "name": "[COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]",
     "type": "CIVILIZATION_SHOSHONE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:173:112:215:255]베네치아",
+    "nameFormatted": "<span style=\"color: rgba(173, 112, 215, 1.0)\">베네치아</span>",
     "name": "[COLOR:173:112:215:255]베네치아[ENDCOLOR]",
     "type": "CIVILIZATION_VENICE",
     "page": "civilizations"
   },
   {
-    "nameFormatted": "[COLOR:170:120:80:255]줄루",
+    "nameFormatted": "<span style=\"color: rgba(170, 120, 80, 1.0)\">줄루</span>",
     "name": "[COLOR:170:120:80:255]줄루[ENDCOLOR]",
     "type": "CIVILIZATION_ZULU",
     "page": "civilizations"
@@ -3492,7 +3492,7 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:190:80:70:255]영국</span>의) 전열함",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(190, 80, 70, 1.0)\">영국</span>의)</span> 전열함",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 전열함",
     "type": "UNIT_ENGLISH_SHIPOFTHELINE",
     "page": "units"
@@ -3654,7 +3654,7 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:240:210:110:255]러시아</span>의) 코사크",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(240, 210, 110, 1.0)\">러시아</span>의)</span> 코사크",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:210:110:255]러시아[ENDCOLOR]의)[ENDCOLOR] 코사크",
     "type": "UNIT_RUSSIAN_COSSACK",
     "page": "units"
@@ -3690,19 +3690,19 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:120:200:255]미국</span>의) 민병대",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 120, 200, 1.0)\">미국</span>의)</span> 민병대",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:120:200:255]미국[ENDCOLOR]의)[ENDCOLOR] 민병대",
     "type": "UNIT_AMERICAN_MINUTEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:160:220:255]프랑스</span>의) 총사대",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 160, 220, 1.0)\">프랑스</span>의)</span> 총사대",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:160:220:255]프랑스[ENDCOLOR]의)[ENDCOLOR] 총사대",
     "type": "UNIT_FRENCH_MUSKETEER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:60:140:70:255]오스만</span>의) 예니체리",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 140, 70, 1.0)\">오스만</span>의)</span> 예니체리",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:140:70:255]오스만[ENDCOLOR]의)[ENDCOLOR] 예니체리",
     "type": "UNIT_OTTOMAN_JANISSARY",
     "page": "units"
@@ -3714,7 +3714,7 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:0:255]일본</span>의) 사무라이",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 0, 1.0)\">일본</span>의)</span> 사무라이",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 사무라이",
     "type": "UNIT_JAPANESE_SAMURAI",
     "page": "units"
@@ -3732,19 +3732,19 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:100:150:100:255]아라비아</span>의) 낙타궁병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(100, 150, 100, 1.0)\">아라비아</span>의)</span> 낙타궁병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:100:150:100:255]아라비아[ENDCOLOR]의)[ENDCOLOR] 낙타궁병",
     "type": "UNIT_ARABIAN_CAMELARCHER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:210:0:255]시암</span>의) 나레수안 전투코끼리",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 210, 0, 1.0)\">시암</span>의)</span> 나레수안 전투코끼리",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:210:0:255]시암[ENDCOLOR]의)[ENDCOLOR] 나레수안 전투코끼리",
     "type": "UNIT_SIAMESE_WARELEPHANT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:220:140:10:255]송가이</span>의) 만데칼루 기병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(220, 140, 10, 1.0)\">송가이</span>의)</span> 만데칼루 기병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:140:10:255]송가이[ENDCOLOR]의)[ENDCOLOR] 만데칼루 기병",
     "type": "UNIT_SONGHAI_MUSLIMCAVALRY",
     "page": "units"
@@ -3756,7 +3756,7 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:90:210:90:255]중국</span>의) 연노병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(90, 210, 90, 1.0)\">중국</span>의)</span> 연노병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:90:210:90:255]중국[ENDCOLOR]의)[ENDCOLOR] 연노병",
     "type": "UNIT_CHINESE_CHUKONU",
     "page": "units"
@@ -3774,7 +3774,7 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:120:120:120:255]독일</span>의) 란츠크네히트",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(120, 120, 120, 1.0)\">독일</span>의)</span> 란츠크네히트",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:120:120:120:255]독일[ENDCOLOR]의)[ENDCOLOR] 란츠크네히트",
     "type": "UNIT_GERMAN_LANDSKNECHT",
     "page": "units"
@@ -3786,7 +3786,7 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:120:255:255]로마</span>의) 발리스타",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 120, 255, 1.0)\">로마</span>의)</span> 발리스타",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR]의)[ENDCOLOR] 발리스타",
     "type": "UNIT_ROMAN_BALLISTA",
     "page": "units"
@@ -3810,13 +3810,13 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:150:160:255]이로쿼이</span>의) 모호크 전사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 150, 160, 1.0)\">이로쿼이</span>의)</span> 모호크 전사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 모호크 전사",
     "type": "UNIT_IROQUOIAN_MOHAWKWARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:120:255:255]로마</span>의) 군단병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 120, 255, 1.0)\">로마</span>의)</span> 군단병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR]의)[ENDCOLOR] 군단병",
     "type": "UNIT_ROMAN_LEGION",
     "page": "units"
@@ -3828,13 +3828,13 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:240:220:70:255]이집트</span>의) 이륜전차",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(240, 220, 70, 1.0)\">이집트</span>의)</span> 이륜전차",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:220:70:255]이집트[ENDCOLOR]의)[ENDCOLOR] 이륜전차",
     "type": "UNIT_EGYPTIAN_WARCHARIOT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:60:210:60:255]인도</span>의) 나가말라",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 210, 60, 1.0)\">인도</span>의)</span> 나가말라",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 나가말라",
     "type": "UNIT_INDIAN_WARELEPHANT",
     "page": "units"
@@ -3846,13 +3846,13 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:130:190:230:255]그리스</span>의) 호플리테스",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(130, 190, 230, 1.0)\">그리스</span>의)</span> 호플리테스",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:130:190:230:255]그리스[ENDCOLOR]의)[ENDCOLOR] 호플리테스",
     "type": "UNIT_GREEK_HOPLITE",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:230:50:0:255]페르시아</span>의) 이모탈",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(230, 50, 0, 1.0)\">페르시아</span>의)</span> 이모탈",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:230:50:0:255]페르시아[ENDCOLOR]의)[ENDCOLOR] 이모탈",
     "type": "UNIT_PERSIAN_IMMORTAL",
     "page": "units"
@@ -3876,37 +3876,37 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:140:80:80:255]아즈텍</span>의) 재규어 전사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(140, 80, 80, 1.0)\">아즈텍</span>의)</span> 재규어 전사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:140:80:80:255]아즈텍[ENDCOLOR]의)[ENDCOLOR] 재규어 전사",
     "type": "UNIT_AZTEC_JAGUAR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 야만인 전사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 야만인 전사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 야만인 전사",
     "type": "UNIT_BARBARIAN_WARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 갤리",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 갤리",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 갤리",
     "type": "UNIT_GALLEY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 궁병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 궁병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 궁병",
     "type": "UNIT_BARBARIAN_ARCHER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 창병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 창병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 창병",
     "type": "UNIT_BARBARIAN_SPEARMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 검사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 검사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 검사",
     "type": "UNIT_BARBARIAN_SWORDSMAN",
     "page": "units"
@@ -3930,19 +3930,19 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:60:90:255]스페인</span>의) 콩키스타도르",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 60, 90, 1.0)\">스페인</span>의)</span> 콩키스타도르",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:60:90:255]스페인[ENDCOLOR]의)[ENDCOLOR] 콩키스타도르",
     "type": "UNIT_SPANISH_CONQUISTADOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:236:150:58:255]폴리네시아</span>의) 마오리 전사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(236, 150, 58, 1.0)\">폴리네시아</span>의)</span> 마오리 전사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:236:150:58:255]폴리네시아[ENDCOLOR]의)[ENDCOLOR] 마오리 전사",
     "type": "UNIT_POLYNESIAN_MAORI_WARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:220:100:10:255]덴마크</span>의) 광전사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(220, 100, 10, 1.0)\">덴마크</span>의)</span> 광전사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:100:10:255]덴마크[ENDCOLOR]의)[ENDCOLOR] 광전사",
     "type": "UNIT_DANISH_BERSERKER",
     "page": "units"
@@ -3954,67 +3954,67 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:50:255]한국</span>의) 거북선",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 50, 1.0)\">한국</span>의)</span> 거북선",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:50:255]한국[ENDCOLOR]의)[ENDCOLOR] 거북선",
     "type": "UNIT_KOREAN_TURTLE_SHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:50:255]한국</span>의) 화차",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 50, 1.0)\">한국</span>의)</span> 화차",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:50:255]한국[ENDCOLOR]의)[ENDCOLOR] 화차",
     "type": "UNIT_KOREAN_HWACHA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:50:120:120:255]바빌론</span>의) 바빌론 궁병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(50, 120, 120, 1.0)\">바빌론</span>의)</span> 바빌론 궁병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:50:120:120:255]바빌론[ENDCOLOR]의)[ENDCOLOR] 바빌론 궁병",
     "type": "UNIT_BABYLONIAN_BOWMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 픽트족 전사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 픽트족 전사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 픽트족 전사",
     "type": "UNIT_CELT_PICTISH_WARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:216:176:137:255]마야</span>의) 아틀라틀 투척병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(216, 176, 137, 1.0)\">마야</span>의)</span> 아틀라틀 투척병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:216:176:137:255]마야[ENDCOLOR]의)[ENDCOLOR] 아틀라틀 투척병",
     "type": "UNIT_MAYAN_ATLATLIST",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:204:227:248:255]비잔티움</span>의) 드로몬",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(204, 227, 248, 1.0)\">비잔티움</span>의)</span> 드로몬",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:204:227:248:255]비잔티움[ENDCOLOR]의)[ENDCOLOR] 드로몬",
     "type": "UNIT_BYZANTINE_DROMON",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:204:227:248:255]비잔티움</span>의) 카타프락토이",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(204, 227, 248, 1.0)\">비잔티움</span>의)</span> 카타프락토이",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:204:227:248:255]비잔티움[ENDCOLOR]의)[ENDCOLOR] 카타프락토이",
     "type": "UNIT_BYZANTINE_CATAPHRACT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:124:35:181:255]카르타고</span>의) 아틀라스 코끼리",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(124, 35, 181, 1.0)\">카르타고</span>의)</span> 아틀라스 코끼리",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 아틀라스 코끼리",
     "type": "UNIT_CARTHAGINIAN_FOREST_ELEPHANT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:124:35:181:255]카르타고</span>의) 오단노선",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(124, 35, 181, 1.0)\">카르타고</span>의)</span> 오단노선",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 오단노선",
     "type": "UNIT_CARTHAGINIAN_QUINQUEREME",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:200:199:188:255]훈</span>의) 궁기병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 199, 188, 1.0)\">훈</span>의)</span> 궁기병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:199:188:255]훈[ENDCOLOR]의)[ENDCOLOR] 궁기병",
     "type": "UNIT_HUN_HORSE_ARCHER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:245:119:119:255]오스트리아</span>의) 후사르",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(245, 119, 119, 1.0)\">오스트리아</span>의)</span> 후사르",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:245:119:119:255]오스트리아[ENDCOLOR]의)[ENDCOLOR] 후사르",
     "type": "UNIT_AUSTRIAN_HUSSAR",
     "page": "units"
@@ -4026,13 +4026,13 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:98:191:255]스웨덴</span>의) 카롤린넬",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 98, 191, 1.0)\">스웨덴</span>의)</span> 카롤린넬",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:98:191:255]스웨덴[ENDCOLOR]의)[ENDCOLOR] 카롤린넬",
     "type": "UNIT_SWEDISH_CAROLEAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:98:191:255]스웨덴</span>의) 하카펠리타",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 98, 191, 1.0)\">스웨덴</span>의)</span> 하카펠리타",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:98:191:255]스웨덴[ENDCOLOR]의)[ENDCOLOR] 하카펠리타",
     "type": "UNIT_SWEDISH_HAKKAPELIITTA",
     "page": "units"
@@ -4044,7 +4044,7 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:151:66:255]네덜란드</span>의) 제고이센",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 151, 66, 1.0)\">네덜란드</span>의)</span> 제고이센",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:151:66:255]네덜란드[ENDCOLOR]의)[ENDCOLOR] 제고이센",
     "type": "UNIT_DUTCH_SEA_BEGGAR",
     "page": "units"
@@ -4122,13 +4122,13 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:170:120:80:255]줄루</span>의) 임피",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(170, 120, 80, 1.0)\">줄루</span>의)</span> 임피",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:120:80:255]줄루[ENDCOLOR]의)[ENDCOLOR] 임피",
     "type": "UNIT_ZULU_IMPI",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:210:45:30:255]폴란드</span>의) 윙드 후사르",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(210, 45, 30, 1.0)\">폴란드</span>의)</span> 윙드 후사르",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR]의)[ENDCOLOR] 윙드 후사르",
     "type": "UNIT_POLISH_WINGED_HUSSAR",
     "page": "units"
@@ -4152,7 +4152,7 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:189:25:255]아시리아</span>의) 공성탑",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 189, 25, 1.0)\">아시리아</span>의)</span> 공성탑",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:189:25:255]아시리아[ENDCOLOR]의)[ENDCOLOR] 공성탑",
     "type": "UNIT_ASSYRIAN_SIEGE_TOWER",
     "page": "units"
@@ -4164,19 +4164,19 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:35:70:180:255]포르투갈</span>의) 나우",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(35, 70, 180, 1.0)\">포르투갈</span>의)</span> 나우",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]포르투갈[ENDCOLOR]의)[ENDCOLOR] 나우",
     "type": "UNIT_PORTUGUESE_NAU",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:0:0:255]모로코</span>의) 베르베르 기병대",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 0, 0, 1.0)\">모로코</span>의)</span> 베르베르 기병대",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:0:0:255]모로코[ENDCOLOR]의)[ENDCOLOR] 베르베르 기병대",
     "type": "UNIT_BERBER_CAVALRY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:173:112:215:255]베네치아</span>의) 베네치안 갈레아스",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(173, 112, 215, 1.0)\">베네치아</span>의)</span> 베네치안 갈레아스",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:173:112:215:255]베네치아[ENDCOLOR]의)[ENDCOLOR] 베네치안 갈레아스",
     "type": "UNIT_VENETIAN_GALLEASS",
     "page": "units"
@@ -4188,7 +4188,7 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:88:255:243:255]쇼쇼니</span>의) 코만치 기마병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(88, 255, 243, 1.0)\">쇼쇼니</span>의)</span> 코만치 기마병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]의)[ENDCOLOR] 코만치 기마병",
     "type": "UNIT_SHOSHONE_COMANCHE_RIDERS",
     "page": "units"
@@ -4200,19 +4200,19 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:68:193:203:255]인도네시아</span>의) 크리스 검사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(68, 193, 203, 1.0)\">인도네시아</span>의)</span> 크리스 검사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:68:193:203:255]인도네시아[ENDCOLOR]의)[ENDCOLOR] 크리스 검사",
     "type": "UNIT_KRIS_SWORDSMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 기마병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 기마병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 기마병",
     "type": "UNIT_BARBARIAN_HORSEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(<span class=\"negative\">야만족</span>의)</span> 도끼병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 도끼병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 도끼병",
     "type": "UNIT_BARBARIAN_AXMAN",
     "page": "units"
@@ -4344,247 +4344,247 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:189:25:255]아시리아</span>의) 철제 전차",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 189, 25, 1.0)\">아시리아</span>의)</span> 철제 전차",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:189:25:255]아시리아[ENDCOLOR]의)[ENDCOLOR] 철제 전차",
     "type": "UNIT_IRON_CHARIOT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:124:35:181:255]카르타고</span>의) 아사무",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(124, 35, 181, 1.0)\">카르타고</span>의)</span> 아사무",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 아사무",
     "type": "UNIT_ASAMU",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:60:140:70:255]오스만</span>의) 대형 사석포",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 140, 70, 1.0)\">오스만</span>의)</span> 대형 사석포",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:140:70:255]오스만[ENDCOLOR]의)[ENDCOLOR] 대형 사석포",
     "type": "UNIT_GREAT_BOMBARD",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:173:112:215:255]베네치아</span>의) 푸스타",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(173, 112, 215, 1.0)\">베네치아</span>의)</span> 푸스타",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:173:112:215:255]베네치아[ENDCOLOR]의)[ENDCOLOR] 푸스타",
     "type": "UNIT_FUSTA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:120:200:255]미국</span>의) 모니터함",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 120, 200, 1.0)\">미국</span>의)</span> 모니터함",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:120:200:255]미국[ENDCOLOR]의)[ENDCOLOR] 모니터함",
     "type": "UNIT_MONITOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:100:150:100:255]아라비아</span>의) 하심 레이더",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(100, 150, 100, 1.0)\">아라비아</span>의)</span> 하심 레이더",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:100:150:100:255]아라비아[ENDCOLOR]의)[ENDCOLOR] 하심 레이더",
     "type": "UNIT_HASHEMITE_RAIDER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:245:119:119:255]오스트리아</span>의) 그렌처",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(245, 119, 119, 1.0)\">오스트리아</span>의)</span> 그렌처",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:245:119:119:255]오스트리아[ENDCOLOR]의)[ENDCOLOR] 그렌처",
     "type": "UNIT_GRENZER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:140:80:80:255]아즈텍</span>의) 오토미",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(140, 80, 80, 1.0)\">아즈텍</span>의)</span> 오토미",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:140:80:80:255]아즈텍[ENDCOLOR]의)[ENDCOLOR] 오토미",
     "type": "UNIT_OTOMI",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:50:120:120:255]바빌론</span>의) 사붐 키비툼",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(50, 120, 120, 1.0)\">바빌론</span>의)</span> 사붐 키비툼",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:50:120:120:255]바빌론[ENDCOLOR]의)[ENDCOLOR] 사붐 키비툼",
     "type": "UNIT_SABUM_KIBITUM",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:190:30:255]브라질</span>의) 반데이란테",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 190, 30, 1.0)\">브라질</span>의)</span> 반데이란테",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:190:30:255]브라질[ENDCOLOR]의)[ENDCOLOR] 반데이란테",
     "type": "UNIT_BANDEIRANTE",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:190:30:255]브라질</span>의) 아마조나스",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 190, 30, 1.0)\">브라질</span>의)</span> 아마조나스",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:190:30:255]브라질[ENDCOLOR]의)[ENDCOLOR] 아마조나스",
     "type": "UNIT_AMAZONAS",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 낫전차",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 낫전차",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 낫전차",
     "type": "UNIT_SCYTHED_CHARIOT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:90:210:90:255]중국</span>의) 보선",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(90, 210, 90, 1.0)\">중국</span>의)</span> 보선",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:90:210:90:255]중국[ENDCOLOR]의)[ENDCOLOR] 보선",
     "type": "UNIT_TREASURE_SHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:220:100:10:255]덴마크</span>의) 랑스킵",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(220, 100, 10, 1.0)\">덴마크</span>의)</span> 랑스킵",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:100:10:255]덴마크[ENDCOLOR]의)[ENDCOLOR] 랑스킵",
     "type": "UNIT_LONGSHIP",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:240:220:70:255]이집트</span>의) 맘루크",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(240, 220, 70, 1.0)\">이집트</span>의)</span> 맘루크",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:220:70:255]이집트[ENDCOLOR]의)[ENDCOLOR] 맘루크",
     "type": "UNIT_MAMLUK",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:190:80:70:255]영국</span>의) 레드코트",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(190, 80, 70, 1.0)\">영국</span>의)</span> 레드코트",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 레드코트",
     "type": "UNIT_REDCOAT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:44:101:39:255]에티오피아</span>의) 체와",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(44, 101, 39, 1.0)\">에티오피아</span>의)</span> 체와",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:44:101:39:255]에티오피아[ENDCOLOR]의)[ENDCOLOR] 체와",
     "type": "UNIT_CHEWA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:44:101:39:255]에티오피아</span>의) 오로모족 기병대",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(44, 101, 39, 1.0)\">에티오피아</span>의)</span> 오로모족 기병대",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:44:101:39:255]에티오피아[ENDCOLOR]의)[ENDCOLOR] 오로모족 기병대",
     "type": "UNIT_OROMO_CAVALRY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:160:220:255]프랑스</span>의) 스패드 S.VII",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 160, 220, 1.0)\">프랑스</span>의)</span> 스패드 S.VII",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:160:220:255]프랑스[ENDCOLOR]의)[ENDCOLOR] 스패드 S.VII",
     "type": "UNIT_SPAD",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:120:120:120:255]독일</span>의) 크루프 포",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(120, 120, 120, 1.0)\">독일</span>의)</span> 크루프 포",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:120:120:120:255]독일[ENDCOLOR]의)[ENDCOLOR] 크루프 포",
     "type": "UNIT_KRUPP_GUN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:130:190:230:255]그리스</span>의) 클레프테스",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(130, 190, 230, 1.0)\">그리스</span>의)</span> 클레프테스",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:130:190:230:255]그리스[ENDCOLOR]의)[ENDCOLOR] 클레프테스",
     "type": "UNIT_KLEPHT",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:200:199:188:255]훈</span>의) 타르칸",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 199, 188, 1.0)\">훈</span>의)</span> 타르칸",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:199:188:255]훈[ENDCOLOR]의)[ENDCOLOR] 타르칸",
     "type": "UNIT_TARKHAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:200:230:0:255]잉카</span>의) 와라칵",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 230, 0, 1.0)\">잉카</span>의)</span> 와라칵",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 와라칵",
     "type": "UNIT_WARAKAQ",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:200:230:0:255]잉카</span>의) 잉티 철퇴병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 230, 0, 1.0)\">잉카</span>의)</span> 잉티 철퇴병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 잉티 철퇴병",
     "type": "UNIT_INTI_MACEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:60:210:60:255]인도</span>의) 다누르다라",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 210, 60, 1.0)\">인도</span>의)</span> 다누르다라",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 다누르다라",
     "type": "UNIT_DHANURDHARA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:68:193:203:255]인도네시아</span>의) 종",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(68, 193, 203, 1.0)\">인도네시아</span>의)</span> 종",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:68:193:203:255]인도네시아[ENDCOLOR]의)[ENDCOLOR] 종",
     "type": "UNIT_DJONG",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:150:160:255]이로쿼이</span>의) 프라울러",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 150, 160, 1.0)\">이로쿼이</span>의)</span> 프라울러",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 프라울러",
     "type": "UNIT_PROWLER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:0:255]일본</span>의) 야마토급 전함",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 0, 1.0)\">일본</span>의)</span> 야마토급 전함",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 야마토급 전함",
     "type": "UNIT_YAMATO",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:216:176:137:255]마야</span>의) 홀칸",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(216, 176, 137, 1.0)\">마야</span>의)</span> 홀칸",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:216:176:137:255]마야[ENDCOLOR]의)[ENDCOLOR] 홀칸",
     "type": "UNIT_HOLKAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:170:100:0:255]몽골</span>의) 검은 터그",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(170, 100, 0, 1.0)\">몽골</span>의)</span> 검은 터그",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:100:0:255]몽골[ENDCOLOR]의)[ENDCOLOR] 검은 터그",
     "type": "UNIT_BLACK_TUG",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:0:0:255]모로코</span>의) 커세어",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 0, 0, 1.0)\">모로코</span>의)</span> 커세어",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:0:0:255]모로코[ENDCOLOR]의)[ENDCOLOR] 커세어",
     "type": "UNIT_CORSAIR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:151:66:255]네덜란드</span>의) 고덴닥",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 151, 66, 1.0)\">네덜란드</span>의)</span> 고덴닥",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:151:66:255]네덜란드[ENDCOLOR]의)[ENDCOLOR] 고덴닥",
     "type": "UNIT_GOEDENDAG",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:230:50:0:255]페르시아</span>의) 키질바시",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(230, 50, 0, 1.0)\">페르시아</span>의)</span> 키질바시",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:230:50:0:255]페르시아[ENDCOLOR]의)[ENDCOLOR] 키질바시",
     "type": "UNIT_QIZILBASH",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:210:45:30:255]폴란드</span>의) 판체르니",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(210, 45, 30, 1.0)\">폴란드</span>의)</span> 판체르니",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR]의)[ENDCOLOR] 판체르니",
     "type": "UNIT_PANCERNY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:236:150:58:255]폴리네시아</span>의) 바카 누이",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(236, 150, 58, 1.0)\">폴리네시아</span>의)</span> 바카 누이",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:236:150:58:255]폴리네시아[ENDCOLOR]의)[ENDCOLOR] 바카 누이",
     "type": "UNIT_VAKA_NUI",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:35:70:180:255]포르투갈</span>의) 카사도르",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(35, 70, 180, 1.0)\">포르투갈</span>의)</span> 카사도르",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]포르투갈[ENDCOLOR]의)[ENDCOLOR] 카사도르",
     "type": "UNIT_CACADOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:240:210:110:255]러시아</span>의) 리꼼",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(240, 210, 110, 1.0)\">러시아</span>의)</span> 리꼼",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:210:110:255]러시아[ENDCOLOR]의)[ENDCOLOR] 리꼼",
     "type": "UNIT_LICORNE",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:88:255:243:255]쇼쇼니</span>의) 오하무페",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(88, 255, 243, 1.0)\">쇼쇼니</span>의)</span> 오하무페",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]의)[ENDCOLOR] 오하무페",
     "type": "UNIT_YELLOW_BROW",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:210:0:255]시암</span>의) 쓰아멉",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 210, 0, 1.0)\">시암</span>의)</span> 쓰아멉",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:210:0:255]시암[ENDCOLOR]의)[ENDCOLOR] 쓰아멉",
     "type": "UNIT_SUEA_MOP",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:220:140:10:255]송가이</span>의) 소파",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(220, 140, 10, 1.0)\">송가이</span>의)</span> 소파",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:140:10:255]송가이[ENDCOLOR]의)[ENDCOLOR] 소파",
     "type": "UNIT_SOFA",
     "page": "units"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:60:90:255]스페인</span>의) 아르마다",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 60, 90, 1.0)\">스페인</span>의)</span> 아르마다",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:60:90:255]스페인[ENDCOLOR]의)[ENDCOLOR] 아르마다",
     "type": "UNIT_ARMADA",
     "page": "units"
@@ -4608,43 +4608,43 @@ window.globalSearchIndex = [
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:60:210:60:255]인도</span>의) 무굴 요새",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 210, 60, 1.0)\">인도</span>의)</span> 무굴 요새",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 무굴 요새",
     "type": "BUILDING_MUGHAL_FORT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:240:210:110:255]러시아</span>의) 오스트로그",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(240, 210, 110, 1.0)\">러시아</span>의)</span> 오스트로그",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:210:110:255]러시아[ENDCOLOR]의)[ENDCOLOR] 오스트로그",
     "type": "BUILDING_KREPOST",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:150:160:255]이로쿼이</span>의) 롱하우스",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 150, 160, 1.0)\">이로쿼이</span>의)</span> 롱하우스",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 롱하우스",
     "type": "BUILDING_LONGHOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:100:150:100:255]아라비아</span>의) 바자",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(100, 150, 100, 1.0)\">아라비아</span>의)</span> 바자",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:100:150:100:255]아라비아[ENDCOLOR]의)[ENDCOLOR] 바자",
     "type": "BUILDING_BAZAAR",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:230:50:0:255]페르시아</span>의) 사트라프 관청",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(230, 50, 0, 1.0)\">페르시아</span>의)</span> 사트라프 관청",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:230:50:0:255]페르시아[ENDCOLOR]의)[ENDCOLOR] 사트라프 관청",
     "type": "BUILDING_SATRAPS_COURT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:210:0:255]시암</span>의) 와트",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 210, 0, 1.0)\">시암</span>의)</span> 와트",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:210:0:255]시암[ENDCOLOR]의)[ENDCOLOR] 와트",
     "type": "BUILDING_WAT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:220:140:10:255]송가이</span>의) 타브야",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(220, 140, 10, 1.0)\">송가이</span>의)</span> 타브야",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:140:10:255]송가이[ENDCOLOR]의)[ENDCOLOR] 타브야",
     "type": "BUILDING_MUD_PYRAMID_MOSQUE",
     "page": "buildings"
@@ -4920,13 +4920,13 @@ window.globalSearchIndex = [
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:50:120:120:255]바빌론</span>의) 바빌론 성벽",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(50, 120, 120, 1.0)\">바빌론</span>의)</span> 바빌론 성벽",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:50:120:120:255]바빌론[ENDCOLOR]의)[ENDCOLOR] 바빌론 성벽",
     "type": "BUILDING_WALLS_OF_BABYLON",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 연회장",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 연회장",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 연회장",
     "type": "BUILDING_CEILIDH_HALL",
     "page": "buildings"
@@ -4986,31 +4986,31 @@ window.globalSearchIndex = [
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:44:101:39:255]에티오피아</span>의) 스텔레",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(44, 101, 39, 1.0)\">에티오피아</span>의)</span> 스텔레",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:44:101:39:255]에티오피아[ENDCOLOR]의)[ENDCOLOR] 스텔레",
     "type": "BUILDING_STELE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:170:120:80:255]줄루</span>의) 이칸다",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(170, 120, 80, 1.0)\">줄루</span>의)</span> 이칸다",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:120:80:255]줄루[ENDCOLOR]의)[ENDCOLOR] 이칸다",
     "type": "BUILDING_IKANDA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:210:45:30:255]폴란드</span>의) 공작의 마구간",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(210, 45, 30, 1.0)\">폴란드</span>의)</span> 공작의 마구간",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR]의)[ENDCOLOR] 공작의 마구간",
     "type": "BUILDING_DUCAL_STABLE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:68:193:203:255]인도네시아</span>의) 찬디",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(68, 193, 203, 1.0)\">인도네시아</span>의)</span> 찬디",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:68:193:203:255]인도네시아[ENDCOLOR]의)[ENDCOLOR] 찬디",
     "type": "BUILDING_CANDI",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:120:120:120:255]독일</span>의) 한자",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(120, 120, 120, 1.0)\">독일</span>의)</span> 한자",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:120:120:120:255]독일[ENDCOLOR]의)[ENDCOLOR] 한자",
     "type": "BUILDING_HANSE",
     "page": "buildings"
@@ -5052,7 +5052,7 @@ window.globalSearchIndex = [
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:130:190:230:255]그리스</span>의) 파르테논 신전",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(130, 190, 230, 1.0)\">그리스</span>의)</span> 파르테논 신전",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:130:190:230:255]그리스[ENDCOLOR]의)[ENDCOLOR] 파르테논 신전",
     "type": "BUILDING_PARTHENON",
     "page": "buildings"
@@ -5160,211 +5160,211 @@ window.globalSearchIndex = [
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:120:200:255]미국</span>의) 홈스테드",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 120, 200, 1.0)\">미국</span>의)</span> 홈스테드",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:120:200:255]미국[ENDCOLOR]의)[ENDCOLOR] 홈스테드",
     "type": "BUILDING_HOMESTEAD",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:100:150:100:255]아라비아</span>의) 비마리스탄",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(100, 150, 100, 1.0)\">아라비아</span>의)</span> 비마리스탄",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:100:150:100:255]아라비아[ENDCOLOR]의)[ENDCOLOR] 비마리스탄",
     "type": "BUILDING_BIMARISTAN",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:189:25:255]아시리아</span>의) 라마수 관문",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 189, 25, 1.0)\">아시리아</span>의)</span> 라마수 관문",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:189:25:255]아시리아[ENDCOLOR]의)[ENDCOLOR] 라마수 관문",
     "type": "BUILDING_LAMASSU_GATE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:245:119:119:255]오스트리아</span>의) 슈탄드쉬첸",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(245, 119, 119, 1.0)\">오스트리아</span>의)</span> 슈탄드쉬첸",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:245:119:119:255]오스트리아[ENDCOLOR]의)[ENDCOLOR] 슈탄드쉬첸",
     "type": "BUILDING_SCHUTZENSTAND",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:140:80:80:255]아즈텍</span>의) 텔포치칼리",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(140, 80, 80, 1.0)\">아즈텍</span>의)</span> 텔포치칼리",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:140:80:80:255]아즈텍[ENDCOLOR]의)[ENDCOLOR] 텔포치칼리",
     "type": "BUILDING_TELPOCHCALLI",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:190:30:255]브라질</span>의) 엠브라파",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 190, 30, 1.0)\">브라질</span>의)</span> 엠브라파",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:190:30:255]브라질[ENDCOLOR]의)[ENDCOLOR] 엠브라파",
     "type": "BUILDING_EMBRAPA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:204:227:248:255]비잔티움</span>의) 테트라콘치",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(204, 227, 248, 1.0)\">비잔티움</span>의)</span> 테트라콘치",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:204:227:248:255]비잔티움[ENDCOLOR]의)[ENDCOLOR] 테트라콘치",
     "type": "BUILDING_TETRACONCH",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:90:210:90:255]중국</span>의) 과거 고사장",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(90, 210, 90, 1.0)\">중국</span>의)</span> 과거 고사장",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:90:210:90:255]중국[ENDCOLOR]의)[ENDCOLOR] 과거 고사장",
     "type": "BUILDING_EXAMINATION_HALL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:220:100:10:255]덴마크</span>의) 룬스톤",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(220, 100, 10, 1.0)\">덴마크</span>의)</span> 룬스톤",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:100:10:255]덴마크[ENDCOLOR]의)[ENDCOLOR] 룬스톤",
     "type": "BUILDING_RUNESTONE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:220:100:10:255]덴마크</span>의) 안델스베베겔세",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(220, 100, 10, 1.0)\">덴마크</span>의)</span> 안델스베베겔세",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:100:10:255]덴마크[ENDCOLOR]의)[ENDCOLOR] 안델스베베겔세",
     "type": "BUILDING_ANDELSBEVAEGELSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:240:220:70:255]이집트</span>의) 나일 강 수위계",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(240, 220, 70, 1.0)\">이집트</span>의)</span> 나일 강 수위계",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:220:70:255]이집트[ENDCOLOR]의)[ENDCOLOR] 나일 강 수위계",
     "type": "BUILDING_NILOMETER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:190:80:70:255]영국</span>의) 증기 방앗간",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(190, 80, 70, 1.0)\">영국</span>의)</span> 증기 방앗간",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 증기 방앗간",
     "type": "BUILDING_STEAM_MILL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:160:220:255]프랑스</span>의) 살롱",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 160, 220, 1.0)\">프랑스</span>의)</span> 살롱",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:160:220:255]프랑스[ENDCOLOR]의)[ENDCOLOR] 살롱",
     "type": "BUILDING_SALON",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:120:120:120:255]독일</span>의) 양조장",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(120, 120, 120, 1.0)\">독일</span>의)</span> 양조장",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:120:120:120:255]독일[ENDCOLOR]의)[ENDCOLOR] 양조장",
     "type": "BUILDING_BREWHOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:130:190:230:255]그리스</span>의) 김나시온",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(130, 190, 230, 1.0)\">그리스</span>의)</span> 김나시온",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:130:190:230:255]그리스[ENDCOLOR]의)[ENDCOLOR] 김나시온",
     "type": "BUILDING_GYMNASION",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:200:230:0:255]잉카</span>의) 퀄카",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 230, 0, 1.0)\">잉카</span>의)</span> 퀄카",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 퀄카",
     "type": "BUILDING_QULLQA",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:60:210:60:255]인도</span>의) 하라파 저수지",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 210, 60, 1.0)\">인도</span>의)</span> 하라파 저수지",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 하라파 저수지",
     "type": "BUILDING_HARAPPAN_RESERVOIR",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:0:255]일본</span>의) 도장",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 0, 1.0)\">일본</span>의)</span> 도장",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 도장",
     "type": "BUILDING_DOJO",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:0:255]일본</span>의) 가부키 극장",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 0, 1.0)\">일본</span>의)</span> 가부키 극장",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 가부키 극장",
     "type": "BUILDING_KABUKI_THEATER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:50:255]한국</span>의) 서원",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 50, 1.0)\">한국</span>의)</span> 서원",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:50:255]한국[ENDCOLOR]의)[ENDCOLOR] 서원",
     "type": "BUILDING_SEOWON",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:0:50:255]한국</span>의) 재벌",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 50, 1.0)\">한국</span>의)</span> 재벌",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:50:255]한국[ENDCOLOR]의)[ENDCOLOR] 재벌",
     "type": "BUILDING_CHAEBOL",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:216:176:137:255]마야</span>의) 피츠 코트",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(216, 176, 137, 1.0)\">마야</span>의)</span> 피츠 코트",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:216:176:137:255]마야[ENDCOLOR]의)[ENDCOLOR] 피츠 코트",
     "type": "BUILDING_PITZ_COURT",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:170:100:0:255]몽골</span>의) 게르",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(170, 100, 0, 1.0)\">몽골</span>의)</span> 게르",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:100:0:255]몽골[ENDCOLOR]의)[ENDCOLOR] 게르",
     "type": "BUILDING_GER",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:0:0:255]모로코</span>의) 리야드",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 0, 0, 1.0)\">모로코</span>의)</span> 리야드",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:0:0:255]모로코[ENDCOLOR]의)[ENDCOLOR] 리야드",
     "type": "BUILDING_RIAD",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:151:66:255]네덜란드</span>의) 도엘렌",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 151, 66, 1.0)\">네덜란드</span>의)</span> 도엘렌",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:151:66:255]네덜란드[ENDCOLOR]의)[ENDCOLOR] 도엘렌",
     "type": "BUILDING_DOELEN",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:60:140:70:255]오스만</span>의) 공성 주조 공장",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 140, 70, 1.0)\">오스만</span>의)</span> 공성 주조 공장",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:140:70:255]오스만[ENDCOLOR]의)[ENDCOLOR] 공성 주조 공장",
     "type": "BUILDING_SIEGE_FOUNDRY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:210:45:30:255]폴란드</span>의) 바비칸",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(210, 45, 30, 1.0)\">폴란드</span>의)</span> 바비칸",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR]의)[ENDCOLOR] 바비칸",
     "type": "BUILDING_BARBICAN",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:236:150:58:255]폴리네시아</span>의) 마라이",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(236, 150, 58, 1.0)\">폴리네시아</span>의)</span> 마라이",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:236:150:58:255]폴리네시아[ENDCOLOR]의)[ENDCOLOR] 마라이",
     "type": "BUILDING_MARAE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:240:210:110:255]러시아</span>의) 포고스트",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(240, 210, 110, 1.0)\">러시아</span>의)</span> 포고스트",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:210:110:255]러시아[ENDCOLOR]의)[ENDCOLOR] 포고스트",
     "type": "BUILDING_POGOST",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:88:255:243:255]쇼쇼니</span>의) 버팔로 파운드",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(88, 255, 243, 1.0)\">쇼쇼니</span>의)</span> 버팔로 파운드",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]의)[ENDCOLOR] 버팔로 파운드",
     "type": "BUILDING_BUFFALO_POUND",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:210:0:255]시암</span>의) 코끼리 야영지",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 210, 0, 1.0)\">시암</span>의)</span> 코끼리 야영지",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:210:0:255]시암[ENDCOLOR]의)[ENDCOLOR] 코끼리 야영지",
     "type": "BUILDING_ELEPHANT_CAMP",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:220:140:10:255]송가이</span>의) 구메이",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(220, 140, 10, 1.0)\">송가이</span>의)</span> 구메이",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:220:140:10:255]송가이[ENDCOLOR]의)[ENDCOLOR] 구메이",
     "type": "BUILDING_GUMEY",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:60:90:255]스페인</span>의) 투우장",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 60, 90, 1.0)\">스페인</span>의)</span> 투우장",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:60:90:255]스페인[ENDCOLOR]의)[ENDCOLOR] 투우장",
     "type": "BUILDING_BULLRING",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:98:191:255]스웨덴</span>의) 바스투",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 98, 191, 1.0)\">스웨덴</span>의)</span> 바스투",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:98:191:255]스웨덴[ENDCOLOR]의)[ENDCOLOR] 바스투",
     "type": "BUILDING_BASTU",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:170:120:80:255]줄루</span>의) 이지코",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(170, 120, 80, 1.0)\">줄루</span>의)</span> 이지코",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:120:80:255]줄루[ENDCOLOR]의)[ENDCOLOR] 이지코",
     "type": "BUILDING_IZIKO",
     "page": "buildings"
@@ -5388,13 +5388,13 @@ window.globalSearchIndex = [
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:245:119:119:255]오스트리아</span>의) 발하우스플라츠",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(245, 119, 119, 1.0)\">오스트리아</span>의)</span> 발하우스플라츠",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:245:119:119:255]오스트리아[ENDCOLOR]의)[ENDCOLOR] 발하우스플라츠",
     "type": "BUILDING_BALLHAUSPLATZ",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:98:191:255]스웨덴</span>의) 노벨상 위원회",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 98, 191, 1.0)\">스웨덴</span>의)</span> 노벨상 위원회",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:98:191:255]스웨덴[ENDCOLOR]의)[ENDCOLOR] 노벨상 위원회",
     "type": "BUILDING_NOBEL_COMMITTEE",
     "page": "buildings"
@@ -5880,7 +5880,7 @@ window.globalSearchIndex = [
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:189:25:255]아시리아</span>의) 왕립 도서관",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 189, 25, 1.0)\">아시리아</span>의)</span> 왕립 도서관",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:189:25:255]아시리아[ENDCOLOR]의)[ENDCOLOR] 왕립 도서관",
     "type": "BUILDING_ROYAL_LIBRARY",
     "page": "wonders"
@@ -5946,55 +5946,55 @@ window.globalSearchIndex = [
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:120:200:255]미국</span>의) 독립 기념관",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 120, 200, 1.0)\">미국</span>의)</span> 독립 기념관",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:120:200:255]미국[ENDCOLOR]의)[ENDCOLOR] 독립 기념관",
     "type": "BUILDING_INDEPENDENCE_HALL",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:140:80:80:255]아즈텍</span>의) 우에이 테오칼리",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(140, 80, 80, 1.0)\">아즈텍</span>의)</span> 우에이 테오칼리",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:140:80:80:255]아즈텍[ENDCOLOR]의)[ENDCOLOR] 우에이 테오칼리",
     "type": "BUILDING_HUEY_TEOCALLI",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:50:120:120:255]바빌론</span>의) 에테멘앙키",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(50, 120, 120, 1.0)\">바빌론</span>의)</span> 에테멘앙키",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:50:120:120:255]바빌론[ENDCOLOR]의)[ENDCOLOR] 에테멘앙키",
     "type": "BUILDING_ETEMENANKI",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:124:35:181:255]카르타고</span>의) 그레이트 코톤",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(124, 35, 181, 1.0)\">카르타고</span>의)</span> 그레이트 코톤",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 그레이트 코톤",
     "type": "BUILDING_GREAT_COTHON",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:190:80:70:255]영국</span>의) 화이트 타워",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(190, 80, 70, 1.0)\">영국</span>의)</span> 화이트 타워",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 화이트 타워",
     "type": "BUILDING_WHITE_TOWER",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:200:199:188:255]훈</span>의) 울티쿠",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 199, 188, 1.0)\">훈</span>의)</span> 울티쿠",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:199:188:255]훈[ENDCOLOR]의)[ENDCOLOR] 울티쿠",
     "type": "BUILDING_ULTICUR",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:35:70:180:255]포르투갈</span>의) 코임브라 대학교",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(35, 70, 180, 1.0)\">포르투갈</span>의)</span> 코임브라 대학교",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]포르투갈[ENDCOLOR]의)[ENDCOLOR] 코임브라 대학교",
     "type": "BUILDING_UNIVERSITY_OF_COIMBRA",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:120:255:255]로마</span>의) 포르닉스",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 120, 255, 1.0)\">로마</span>의)</span> 포르닉스",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR]의)[ENDCOLOR] 포르닉스",
     "type": "BUILDING_FORNIX",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:173:112:215:255]베네치아</span>의) 피아자 산 마르코",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(173, 112, 215, 1.0)\">베네치아</span>의)</span> 피아자 산 마르코",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:173:112:215:255]베네치아[ENDCOLOR]의)[ENDCOLOR] 피아자 산 마르코",
     "type": "BUILDING_PIAZZA_SAN_MARCO",
     "page": "wonders"
@@ -6228,7 +6228,7 @@ window.globalSearchIndex = [
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:170:100:0:255]몽골</span>의) 야사 채택",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(170, 100, 0, 1.0)\">몽골</span>의)</span> 야사 채택",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:100:0:255]몽골[ENDCOLOR]의)[ENDCOLOR] 야사 채택",
     "type": "PROJECT_YASSA",
     "page": "wonders"
@@ -7050,307 +7050,307 @@ window.globalSearchIndex = [
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 아방가르드",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 아방가르드",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 아방가르드",
     "type": "POLICY_OPEN_SOCIETY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 독창적 표현",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 독창적 표현",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 독창적 표현",
     "type": "POLICY_CREATIVE_EXPRESSION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 시민 사회",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 시민 사회",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 시민 사회",
     "type": "POLICY_CIVIL_SOCIETY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 징집",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 징집",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 징집",
     "type": "POLICY_VOLUNTEER_ARMY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 비밀 공작",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 비밀 공작",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 비밀 공작",
     "type": "POLICY_COVERT_ACTION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 자결권",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 자결권",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 자결권",
     "type": "POLICY_URBANIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 자본주의",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 자본주의",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 자본주의",
     "type": "POLICY_CAPITALISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 경제 동맹",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 경제 동맹",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 경제 동맹",
     "type": "POLICY_ECONOMIC_UNION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 최상의 시간",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 최상의 시간",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 최상의 시간",
     "type": "POLICY_THEIR_FINEST_HOUR",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 보통선거",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 보통선거",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 보통선거",
     "type": "POLICY_UNIVERSAL_SUFFRAGE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 뉴딜 정책",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 뉴딜 정책",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 뉴딜 정책",
     "type": "POLICY_NEW_DEAL",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 민주주의 군수창고",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 민주주의 군수창고",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 민주주의 군수창고",
     "type": "POLICY_ARSENAL_DEMOCRACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> 미디어 문화",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(3)</span> 미디어 문화",
     "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 미디어 문화",
     "type": "POLICY_MEDIA_CULTURE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> 봉쇄 정책",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(3)</span> 봉쇄 정책",
     "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 봉쇄 정책",
     "type": "POLICY_TREATY_ORGANIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> 우주 사업 조달",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(3)</span> 우주 사업 조달",
     "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 우주 사업 조달",
     "type": "POLICY_SPACE_PROCUREMENTS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 인민 영웅",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 인민 영웅",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 인민 영웅",
     "type": "POLICY_HERO_OF_THE_PEOPLE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 인민군",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 인민군",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 인민군",
     "type": "POLICY_SOCIALIST_REALISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 공산주의",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 공산주의",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 공산주의",
     "type": "POLICY_SKYSCRAPERS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 대조국전쟁",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 대조국전쟁",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 대조국전쟁",
     "type": "POLICY_PATRIOTIC_WAR",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 이중 간첩",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 이중 간첩",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 이중 간첩",
     "type": "POLICY_DOUBLE_AGENTS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 대약진 운동",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 대약진 운동",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 대약진 운동",
     "type": "POLICY_YOUNG_PIONEERS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 과학 아카데미",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 과학 아카데미",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 과학 아카데미",
     "type": "POLICY_ACADEMY_SCIENCES",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 프롤레타리아 독재",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 프롤레타리아 독재",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 프롤레타리아 독재",
     "type": "POLICY_PARTY_LEADERSHIP",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 재정착",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 재정착",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 재정착",
     "type": "POLICY_RESETTLEMENT",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> 사회주의 리얼리즘",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(3)</span> 사회주의 리얼리즘",
     "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 사회주의 리얼리즘",
     "type": "POLICY_CULTURAL_REVOLUTION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 노동자 시설",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 노동자 시설",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 노동자 시설",
     "type": "POLICY_WORKERS_FACULTIES",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 5개년 계획",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 5개년 계획",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 5개년 계획",
     "type": "POLICY_FIVE_YEAR_PLAN",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 문화대혁명",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 문화대혁명",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 문화대혁명",
     "type": "POLICY_DICTATORSHIP_PROLETARIAT",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> 철의 장막",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(3)</span> 철의 장막",
     "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 철의 장막",
     "type": "POLICY_IRON_CURTAIN",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> 우주비행 개척자",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(3)</span> 우주비행 개척자",
     "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 우주비행 개척자",
     "type": "POLICY_SPACEFLIGHT_PIONEERS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 정예 부대",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 정예 부대",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 정예 부대",
     "type": "POLICY_ELITE_FORCES",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 군산복합체",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 군산복합체",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 군산복합체",
     "type": "POLICY_MOBILIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 공동전선",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 공동전선",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 공동전선",
     "type": "POLICY_UNITED_FRONT",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 미래파",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 미래파",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 미래파",
     "type": "POLICY_FUTURISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 레벤스라움",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 레벤스라움",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 레벤스라움",
     "type": "POLICY_INDUSTRIAL_ESPIONAGE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> 제공권",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(3)</span> 제공권",
     "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 제공권",
     "type": "POLICY_MILITARISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 신세계 질서",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 신세계 질서",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 신세계 질서",
     "type": "POLICY_FORTIFIED_BORDERS",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 전격전",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 전격전",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 전격전",
     "type": "POLICY_LIGHTNING_WARFARE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 경찰국가",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 경찰국가",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 경찰국가",
     "type": "POLICY_POLICE_STATE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 마레 노스트룸",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 마레 노스트룸",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 마레 노스트룸",
     "type": "POLICY_NATIONALISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 제삼의 수단",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 제삼의 수단",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 제삼의 수단",
     "type": "POLICY_THIRD_ALTERNATIVE",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 총력전",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 총력전",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 총력전",
     "type": "POLICY_TOTAL_WAR",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> 개인 숭배",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(3)</span> 개인 숭배",
     "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 개인 숭배",
     "type": "POLICY_CULT_PERSONALITY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(3)</span> 공영권",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(3)</span> 공영권",
     "name": "[COLOR_POSITIVE_TEXT](3)[ENDCOLOR] 공영권",
     "type": "POLICY_GUNBOAT_DIPLOMACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 군인 정신",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 군인 정신",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 군인 정신",
     "type": "POLICY_NEW_ORDER",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 국민 의료보험",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 국민 의료보험",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 국민 의료보험",
     "type": "POLICY_UNIVERSAL_HEALTHCARE_F",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 평화, 대지, 빵",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 평화, 대지, 빵",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 평화, 대지, 빵",
     "type": "POLICY_UNIVERSAL_HEALTHCARE_O",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(1)</span> 혹독한 처사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(1)</span> 혹독한 처사",
     "name": "[COLOR_POSITIVE_TEXT](1)[ENDCOLOR] 혹독한 처사",
     "type": "POLICY_UNIVERSAL_HEALTHCARE_A",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 다국적주의",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 다국적주의",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 다국적주의",
     "type": "POLICY_GLOBALIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 국유화",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 국유화",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 국유화",
     "type": "POLICY_NATIONALIZATION",
     "page": "policies"
   },
   {
-    "nameFormatted": "<span class=\"positive\">(2)</span> 신디칼리즘",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(2)</span> 신디칼리즘",
     "name": "[COLOR_POSITIVE_TEXT](2)[ENDCOLOR] 신디칼리즘",
     "type": "POLICY_INFILTRATION",
     "page": "policies"
@@ -7770,67 +7770,67 @@ window.globalSearchIndex = [
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 모리안, 투쟁의 인도자",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 모리안, 투쟁의 인도자",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 모리안, 투쟁의 인도자",
     "type": "BELIEF_MORRIGAN",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 에포나, 위대한 암말",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 에포나, 위대한 암말",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 에포나, 위대한 암말",
     "type": "BELIEF_EPONA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 누아다, 은색 팔의 신",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 누아다, 은색 팔의 신",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 누아다, 은색 팔의 신",
     "type": "BELIEF_NUADA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 케르눈노스, 뿔난 사슴의 신",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 케르눈노스, 뿔난 사슴의 신",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 케르눈노스, 뿔난 사슴의 신",
     "type": "BELIEF_CERNUNNOS",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 루, 만능의 신",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 루, 만능의 신",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 루, 만능의 신",
     "type": "BELIEF_LUGH",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 리아논, 군주의 신",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 리아논, 군주의 신",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 리아논, 군주의 신",
     "type": "BELIEF_RHIANNON",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 마나난, 바다의 아들",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 마나난, 바다의 아들",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 마나난, 바다의 아들",
     "type": "BELIEF_MANANNAN",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 오그마, 깨달은 자",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 오그마, 깨달은 자",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 오그마, 깨달은 자",
     "type": "BELIEF_OGMA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 브란, 잠자는 수호자",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 브란, 잠자는 수호자",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 브란, 잠자는 수호자",
     "type": "BELIEF_BRAN",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 다그다, 만물의 아버지",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 다그다, 만물의 아버지",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 다그다, 만물의 아버지",
     "type": "BELIEF_DAGDA",
     "page": "beliefs"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 카이아흐, 겨울의 여신",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 카이아흐, 겨울의 여신",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 카이아흐, 겨울의 여신",
     "type": "BELIEF_CAILLEACH",
     "page": "beliefs"
@@ -8070,7 +8070,7 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "<span class=\"positive\">두 번</span> 공격함",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">두 번</span> 공격함",
     "name": "[COLOR_POSITIVE_TEXT]두 번[ENDCOLOR] 공격함",
     "type": "PROMOTION_SECOND_ATTACK",
     "page": "promotions"
@@ -8772,7 +8772,7 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "⚔️방어력 보너스 없음",
+    "nameFormatted": "<img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC8UlEQVR4nO3UW0jTYRzG8SenLdDEDnTQtHOEnbtK6qKzRkZiV2HQgS4iosxIiqKipANEEjWyw0xsplm5DlpOp9M5zTZ1bpbaQSOY2/zrNuc22MB4YmJ3Qf91GX3hvf3we19efsD/Qmg8gHkAkgFsApAAIAJ/mWQMnDppUvTWjIzUVp3uOTWaEiYlLa8KDw9PAjARQHgo6ITIyMilq1cnHkxOXvs081hG4O3bAvb0tnLQ8Y1v3pQyLS3FtXDhnNyEhOmpUql0NgCpGHjJhi1rOu/JL7Hs5W2qqgtp7qhkm7GEbSYlnUMW9gs2ampVPH8+cyQxcXY9gAVi4N05106xruklX1XmU9ekYF9fDf0BM/vsapo+lPK7xUC3x0635xtzcg4TwE4x8PF7D29QpS6gqaOULtc7erxGutwGDgw20eFopN1eza5PSpq7VMy7ey4I7xMDn7x15yprax6wt+c1bbZ6Wqy17BcaODjQSKfrPX2+dvYLWrYYy3j5SmYQThcDH8mVXWSVWk6tTs7Pnyv45Ws5LRYNnc5muocN9PqMtAs6fugqZ3b2/h8A1omB95w6d5RqzSOWKa/T3FFGk+kZe3tVdA3p6fOZRk/wJp3dFUxP32gDMF8MvHnHrm2srCpkSfG10ambm4v4sfMFhz0tDAQ+0uttpdXWwK5uNWNjp90c+9N/bPGshDihoDCX5a/zWFR0iXXafLa1l9DjMXJkpJtOl47CgJkvlI9GAGwAECYGjpZIJNcPHMqgrukp8/MvsOhxDvWG4tEn8PuNFIR3HBqyMiVlcw2AWIgsLDj1jLjYnrz7V9jY+Jgy2WlWqmR0DzfT422h3++gQqEIAFgf6t6YAIlk56JVywLKCjkNeiXVNXfpcBpI+qjXv2dUVFQ2gJhQ0F9Fh0mlh1euWxMofCKj1WqkPyBQq9UwPj5eASAOf9k4AJPDIiL2Tps5w33mbBazThz5MSUmRg5gbqibDb8p+JVWANgOYC2A6WNr9R/rJz6xvxYGelJbAAAAAElFTkSuQmCC\" class=\"civ5-icon\" alt=\"\" />방어력 보너스 없음",
     "name": "[ICON_STRENGTH]방어력 보너스 없음",
     "type": "PROMOTION_NO_DEFENSIVE_BONUSES",
     "page": "promotions"
@@ -8796,7 +8796,7 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "지형에 상없이 타일마다 👣이동력 <span class=\"positive\">1</span> 소모",
+    "nameFormatted": "지형에 상없이 타일마다 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC10lEQVR4nM2UW0iTYRyHf322b04y14nKgkXgzARZTDO1rDQwKSvMoLnKNGJ4Edhp1k1KSa2IIIq0cmJ0cEqWUml5zjYtN1vlCSS6CyEMrKSNJv3iBS+8yilCPbcfPLzv+3/+H/CPUQNYCWApAHmmpLO1Wk1KdvbO92p1SAmAZTMlVup02tzi4jPejRujPQAyAQTNiFivjzB/+PCIbnctNZrQYQCbAAROR6YAoAIQIN5Upws/4XDc5djYAOvrS6lWhwwCiJnOey83mw+ZAcQBmB8VtSq9pubqb4+nl15vD63WIgYHB70EEClmMBXxloaG2z9LSgq/AtgLYHVm5rbK/v7nHB11c2TExQsXjlOtDrYBWDF+M7/YPzDwjMPDTlosZs+4PM5k2tvsctVwdPQth4bszM01UKEIuAxgib/irMHB5/T5PvLLl9e0WPKF3AAgwWQytjnsFRz55uSnT01MT08mgLzxxsVs/sqB3t5aejz9/PHdzc+f23n6tEnUsA5AbEZGSk9nh41DQ+18667m5qS1vwMD5QIA8yY9sc12md2uh+zpe8J2+wOui9d5ARwW4tTUxL66F1a+dlXT9a6WBuMOyirZ7s/yZJWWFrLDcZ+NTWWMi9NRpZJFBbvTdm1ufVJ3ky2v7rO9s5JHjmVTVsriNidFQZOJ99lsl9jWdpcJCWsoSVKHJEkH9+zZ6njRcJvNrXfoeFPFs+ePUqmUvwPIAbAAgDSZONlyMc+7IVHvkyTJAcCo10fWdzmr2NJazo5OG6/dKGCIeq4PQD6AhfCT0KSk2FNBgYrrANZLkpRjtZ6j3VHBN11VvFdxhUtDF4saxPflAGb5K1YAmANgEYC5Wq0mr6y8iM7uaj6tu8WIyDAhfQwgfKqbNxE5LExz/OatQjY232H8hhghFQXo/en2b8jR0ZHG4uKCXwbjdiHtGu95Wn83TEBMWmxVMoA0AKtmQvr/8Qd5Sy/4HmT7HwAAAABJRU5ErkJggg==\" class=\"civ5-icon\" alt=\"\" />이동력 <span style=\"color: rgba(128, 255, 26, 1)\">1</span> 소모",
     "name": "지형에 상없이 타일마다 [ICON_MOVES]이동력 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 소모",
     "type": "PROMOTION_FLAT_MOVEMENT_COST",
     "page": "promotions"
@@ -8838,13 +8838,13 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "공격 시 ⚔️전투력 보너스 (<span class=\"positive\">+25%</span>)",
+    "nameFormatted": "공격 시 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC8UlEQVR4nO3UW0jTYRzG8SenLdDEDnTQtHOEnbtK6qKzRkZiV2HQgS4iosxIiqKipANEEjWyw0xsplm5DlpOp9M5zTZ1bpbaQSOY2/zrNuc22MB4YmJ3Qf91GX3hvf3we19efsD/Qmg8gHkAkgFsApAAIAJ/mWQMnDppUvTWjIzUVp3uOTWaEiYlLa8KDw9PAjARQHgo6ITIyMilq1cnHkxOXvs081hG4O3bAvb0tnLQ8Y1v3pQyLS3FtXDhnNyEhOmpUql0NgCpGHjJhi1rOu/JL7Hs5W2qqgtp7qhkm7GEbSYlnUMW9gs2ampVPH8+cyQxcXY9gAVi4N05106xruklX1XmU9ekYF9fDf0BM/vsapo+lPK7xUC3x0635xtzcg4TwE4x8PF7D29QpS6gqaOULtc7erxGutwGDgw20eFopN1eza5PSpq7VMy7ey4I7xMDn7x15yprax6wt+c1bbZ6Wqy17BcaODjQSKfrPX2+dvYLWrYYy3j5SmYQThcDH8mVXWSVWk6tTs7Pnyv45Ws5LRYNnc5muocN9PqMtAs6fugqZ3b2/h8A1omB95w6d5RqzSOWKa/T3FFGk+kZe3tVdA3p6fOZRk/wJp3dFUxP32gDMF8MvHnHrm2srCpkSfG10ambm4v4sfMFhz0tDAQ+0uttpdXWwK5uNWNjp90c+9N/bPGshDihoDCX5a/zWFR0iXXafLa1l9DjMXJkpJtOl47CgJkvlI9GAGwAECYGjpZIJNcPHMqgrukp8/MvsOhxDvWG4tEn8PuNFIR3HBqyMiVlcw2AWIgsLDj1jLjYnrz7V9jY+Jgy2WlWqmR0DzfT422h3++gQqEIAFgf6t6YAIlk56JVywLKCjkNeiXVNXfpcBpI+qjXv2dUVFQ2gJhQ0F9Fh0mlh1euWxMofCKj1WqkPyBQq9UwPj5eASAOf9k4AJPDIiL2Tps5w33mbBazThz5MSUmRg5gbqibDb8p+JVWANgOYC2A6WNr9R/rJz6xvxYGelJbAAAAAElFTkSuQmCC\" class=\"civ5-icon\" alt=\"\" />전투력 보너스 (<span style=\"color: rgba(128, 255, 26, 1)\">+25%</span>)",
     "name": "공격 시 [ICON_STRENGTH]전투력 보너스 ([COLOR_POSITIVE_TEXT]+25%[ENDCOLOR])",
     "type": "PROMOTION_ATTACK_BONUS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "약탈 시 👣이동력 소모 없음",
+    "nameFormatted": "약탈 시 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC10lEQVR4nM2UW0iTYRyHf322b04y14nKgkXgzARZTDO1rDQwKSvMoLnKNGJ4Edhp1k1KSa2IIIq0cmJ0cEqWUml5zjYtN1vlCSS6CyEMrKSNJv3iBS+8yilCPbcfPLzv+3/+H/CPUQNYCWApAHmmpLO1Wk1KdvbO92p1SAmAZTMlVup02tzi4jPejRujPQAyAQTNiFivjzB/+PCIbnctNZrQYQCbAAROR6YAoAIQIN5Upws/4XDc5djYAOvrS6lWhwwCiJnOey83mw+ZAcQBmB8VtSq9pubqb4+nl15vD63WIgYHB70EEClmMBXxloaG2z9LSgq/AtgLYHVm5rbK/v7nHB11c2TExQsXjlOtDrYBWDF+M7/YPzDwjMPDTlosZs+4PM5k2tvsctVwdPQth4bszM01UKEIuAxgib/irMHB5/T5PvLLl9e0WPKF3AAgwWQytjnsFRz55uSnT01MT08mgLzxxsVs/sqB3t5aejz9/PHdzc+f23n6tEnUsA5AbEZGSk9nh41DQ+18667m5qS1vwMD5QIA8yY9sc12md2uh+zpe8J2+wOui9d5ARwW4tTUxL66F1a+dlXT9a6WBuMOyirZ7s/yZJWWFrLDcZ+NTWWMi9NRpZJFBbvTdm1ufVJ3ky2v7rO9s5JHjmVTVsriNidFQZOJ99lsl9jWdpcJCWsoSVKHJEkH9+zZ6njRcJvNrXfoeFPFs+ePUqmUvwPIAbAAgDSZONlyMc+7IVHvkyTJAcCo10fWdzmr2NJazo5OG6/dKGCIeq4PQD6AhfCT0KSk2FNBgYrrANZLkpRjtZ6j3VHBN11VvFdxhUtDF4saxPflAGb5K1YAmANgEYC5Wq0mr6y8iM7uaj6tu8WIyDAhfQwgfKqbNxE5LExz/OatQjY232H8hhghFQXo/en2b8jR0ZHG4uKCXwbjdiHtGu95Wn83TEBMWmxVMoA0AKtmQvr/8Qd5Sy/4HmT7HwAAAABJRU5ErkJggg==\" class=\"civ5-icon\" alt=\"\" />이동력 소모 없음",
     "name": "약탈 시 [ICON_MOVES]이동력 소모 없음",
     "type": "PROMOTION_FREE_PILLAGE_MOVES",
     "page": "promotions"
@@ -8880,25 +8880,25 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "유닛 <span class=\"positive\">1개</span> 배치 가능",
+    "nameFormatted": "유닛 <span style=\"color: rgba(128, 255, 26, 1)\">1개</span> 배치 가능",
     "name": "유닛 [COLOR_POSITIVE_TEXT]1개[ENDCOLOR] 배치 가능",
     "type": "PROMOTION_CARGO_I",
     "page": "promotions"
   },
   {
-    "nameFormatted": "유닛 <span class=\"positive\">2개</span> 배치 가능",
+    "nameFormatted": "유닛 <span style=\"color: rgba(128, 255, 26, 1)\">2개</span> 배치 가능",
     "name": "유닛 [COLOR_POSITIVE_TEXT]2개[ENDCOLOR] 배치 가능",
     "type": "PROMOTION_CARGO_II",
     "page": "promotions"
   },
   {
-    "nameFormatted": "유닛 <span class=\"positive\">3개</span> 배치 가능",
+    "nameFormatted": "유닛 <span style=\"color: rgba(128, 255, 26, 1)\">3개</span> 배치 가능",
     "name": "유닛 [COLOR_POSITIVE_TEXT]3개[ENDCOLOR] 배치 가능",
     "type": "PROMOTION_CARGO_III",
     "page": "promotions"
   },
   {
-    "nameFormatted": "유닛 <span class=\"positive\">4개</span> 배치 가능",
+    "nameFormatted": "유닛 <span style=\"color: rgba(128, 255, 26, 1)\">4개</span> 배치 가능",
     "name": "유닛 [COLOR_POSITIVE_TEXT]4개[ENDCOLOR] 배치 가능",
     "type": "PROMOTION_CARGO_IV",
     "page": "promotions"
@@ -10878,13 +10878,13 @@ window.globalSearchIndex = [
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:200:230:0:255]잉카</span>의) 파타파타",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 230, 0, 1.0)\">잉카</span>의)</span> 파타파타",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 파타파타",
     "type": "IMPROVEMENT_TERRACE_FARM",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:236:150:58:255]폴리네시아</span>의) 모아이",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(236, 150, 58, 1.0)\">폴리네시아</span>의)</span> 모아이",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:236:150:58:255]폴리네시아[ENDCOLOR]의)[ENDCOLOR] 모아이",
     "type": "IMPROVEMENT_MOAI",
     "page": "improvements"
@@ -10896,7 +10896,7 @@ window.globalSearchIndex = [
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:151:66:255]네덜란드</span>의) 간척지",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 151, 66, 1.0)\">네덜란드</span>의)</span> 간척지",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:151:66:255]네덜란드[ENDCOLOR]의)[ENDCOLOR] 간척지",
     "type": "IMPROVEMENT_POLDER",
     "page": "improvements"
@@ -10908,25 +10908,25 @@ window.globalSearchIndex = [
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:190:30:255]브라질</span>의) 브라질 소방목 벌목장",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 190, 30, 1.0)\">브라질</span>의)</span> 브라질 소방목 벌목장",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:190:30:255]브라질[ENDCOLOR]의)[ENDCOLOR] 브라질 소방목 벌목장",
     "type": "IMPROVEMENT_BRAZILWOOD_CAMP",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:0:0:255]모로코</span>의) 카스바",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 0, 0, 1.0)\">모로코</span>의)</span> 카스바",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:0:0:255]모로코[ENDCOLOR]의)[ENDCOLOR] 카스바",
     "type": "IMPROVEMENT_KASBAH",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:35:70:180:255]포르투갈</span>의) 페이토리아",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(35, 70, 180, 1.0)\">포르투갈</span>의)</span> 페이토리아",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]포르투갈[ENDCOLOR]의)[ENDCOLOR] 페이토리아",
     "type": "IMPROVEMENT_FEITORIA",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:70:160:220:255]프랑스</span>의) 샤토",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(70, 160, 220, 1.0)\">프랑스</span>의)</span> 샤토",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:70:160:220:255]프랑스[ENDCOLOR]의)[ENDCOLOR] 샤토",
     "type": "IMPROVEMENT_CHATEAU",
     "page": "improvements"
@@ -10944,31 +10944,31 @@ window.globalSearchIndex = [
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:204:227:248:255]비잔티움</span>의) 애플렉톤",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(204, 227, 248, 1.0)\">비잔티움</span>의)</span> 애플렉톤",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:204:227:248:255]비잔티움[ENDCOLOR]의)[ENDCOLOR] 애플렉톤",
     "type": "IMPROVEMENT_APLEKTON",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:230:50:0:255]페르시아</span>의) 차르바그",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(230, 50, 0, 1.0)\">페르시아</span>의)</span> 차르바그",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:230:50:0:255]페르시아[ENDCOLOR]의)[ENDCOLOR] 차르바그",
     "type": "IMPROVEMENT_CHARBAGH",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:200:199:188:255]훈</span>의) 에키",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 199, 188, 1.0)\">훈</span>의)</span> 에키",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:199:188:255]훈[ENDCOLOR]의)[ENDCOLOR] 에키",
     "type": "IMPROVEMENT_EKI",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:88:255:243:255]쇼쇼니</span>의) 티피",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(88, 255, 243, 1.0)\">쇼쇼니</span>의)</span> 티피",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:88:255:243:255]쇼쇼니[ENDCOLOR]의)[ENDCOLOR] 티피",
     "type": "IMPROVEMENT_VP_ENCAMPMENT",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:255:60:90:255]스페인</span>의) 하시엔다",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 60, 90, 1.0)\">스페인</span>의)</span> 하시엔다",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:60:90:255]스페인[ENDCOLOR]의)[ENDCOLOR] 하시엔다",
     "type": "IMPROVEMENT_HACIENDA",
     "page": "improvements"
@@ -10980,31 +10980,31 @@ window.globalSearchIndex = [
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:68:193:203:255]인도네시아</span>의) 캄퐁",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(68, 193, 203, 1.0)\">인도네시아</span>의)</span> 캄퐁",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:68:193:203:255]인도네시아[ENDCOLOR]의)[ENDCOLOR] 캄퐁",
     "type": "IMPROVEMENT_KAMPONG",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:216:176:137:255]마야</span>의) 쿠나",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(216, 176, 137, 1.0)\">마야</span>의)</span> 쿠나",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:216:176:137:255]마야[ENDCOLOR]의)[ENDCOLOR] 쿠나",
     "type": "IMPROVEMENT_KUNA",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:44:101:39:255]에티오피아</span>의) 암굴 교회",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(44, 101, 39, 1.0)\">에티오피아</span>의)</span> 암굴 교회",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:44:101:39:255]에티오피아[ENDCOLOR]의)[ENDCOLOR] 암굴 교회",
     "type": "IMPROVEMENT_MONOLITHIC_CHURCH",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:240:220:70:255]이집트</span>의) 오벨리스크",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(240, 220, 70, 1.0)\">이집트</span>의)</span> 오벨리스크",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:240:220:70:255]이집트[ENDCOLOR]의)[ENDCOLOR] 오벨리스크",
     "type": "IMPROVEMENT_OBELISK",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:156:213:189:255]켈트</span>의) 오피둠",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(156, 213, 189, 1.0)\">켈트</span>의)</span> 오피둠",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:156:213:189:255]켈트[ENDCOLOR]의)[ENDCOLOR] 오피둠",
     "type": "IMPROVEMENT_OPPIDUM",
     "page": "improvements"
@@ -11016,19 +11016,19 @@ window.globalSearchIndex = [
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:90:210:90:255]중국</span>의) 쓰허위안",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(90, 210, 90, 1.0)\">중국</span>의)</span> 쓰허위안",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:90:210:90:255]중국[ENDCOLOR]의)[ENDCOLOR] 쓰허위안",
     "type": "IMPROVEMENT_SIHEYUAN",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:60:140:70:255]오스만</span>의) 테르사네",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 140, 70, 1.0)\">오스만</span>의)</span> 테르사네",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:140:70:255]오스만[ENDCOLOR]의)[ENDCOLOR] 테르사네",
     "type": "IMPROVEMENT_TERSANE",
     "page": "improvements"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:120:255:255]로마</span>의) 빌라",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 120, 255, 1.0)\">로마</span>의)</span> 빌라",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR]의)[ENDCOLOR] 빌라",
     "type": "IMPROVEMENT_VILLA",
     "page": "improvements"
@@ -12294,7 +12294,7 @@ window.globalSearchIndex = [
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:170:100:0:255]몽골</span>의) 칸",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(170, 100, 0, 1.0)\">몽골</span>의)</span> 칸",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:100:0:255]몽골[ENDCOLOR]의)[ENDCOLOR] 칸",
     "type": "UNIT_MONGOLIAN_KHAN",
     "page": "greatPeople"
@@ -12312,7 +12312,7 @@ window.globalSearchIndex = [
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:173:112:215:255]베네치아</span>의) 베니스의 상인",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(173, 112, 215, 1.0)\">베네치아</span>의)</span> 베니스의 상인",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:173:112:215:255]베네치아[ENDCOLOR]의)[ENDCOLOR] 베니스의 상인",
     "type": "UNIT_VENETIAN_MERCHANT",
     "page": "greatPeople"
@@ -12336,13 +12336,13 @@ window.globalSearchIndex = [
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:150:150:160:255]이로쿼이</span>의) 도다호",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 150, 160, 1.0)\">이로쿼이</span>의)</span> 도다호",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 도다호",
     "type": "UNIT_TADODAHO",
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "<span class=\"positive\">([COLOR:170:120:80:255]줄루</span>의) 인두나",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(170, 120, 80, 1.0)\">줄루</span>의)</span> 인두나",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:170:120:80:255]줄루[ENDCOLOR]의)[ENDCOLOR] 인두나",
     "type": "UNIT_INDUNA",
     "page": "greatPeople"
