@@ -874,6 +874,9 @@ footer {
     color: #333;
     font-weight: 600;
 }
+.civ5-icon {
+    vertical-align: middle;
+}
 """
 
 
@@ -1993,73 +1996,57 @@ SIDEBAR_TEMPLATE = """<!DOCTYPE html>
 
 
 
+import re
+import json
+
+def load_json_data(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return {}
+
 def convert_civ5_formatting(text):
-    """Convert Civilization V formatting codes to HTML"""
     if not text:
         return text
 
-    import re
+    colors_dict = load_json_data('./colors.json')
+    icons_dict = load_json_data('./icons.json')
 
-    # Replace [NEWLINE] with <br>
     text = text.replace('[NEWLINE]', '<br>')
     text = text.replace('[TAB]', '&emsp;')
 
-    # Remove LINK tags (they appear as [LINK=XXX]text[\LINK])
+    def replace_icon(match):
+        full_tag = match.group(0)   # [ICON_RESEARCH]
+        icon_name = match.group(1)  # ICON_RESEARCH
+        
+        return icons_dict.get(icon_name, full_tag)
+
+    text = re.sub(r'\[(ICON_[A-Z0-9_]+)\]', replace_icon, text)
+
+    def replace_rgba_color(match):
+        r, g, b, a = match.groups()
+        alpha = round(int(a) / 255, 2)
+        return f'<span style="color: rgba({r}, {g}, {b}, {alpha})">'
+    
+    text = re.sub(r'\[COLOR:(\d+):(\d+):(\d+):(\d+)\]', replace_rgba_color, text)
+
+    def replace_named_color(match):
+        full_tag = match.group(0)    # [COLOR_WHITE]
+        color_name = match.group(1)   # COLOR_WHITE
+        
+        rgba_val = colors_dict.get(color_name)
+        if rgba_val:
+            return f'<span style="color: {rgba_val}">'
+        return full_tag
+
+    text = re.sub(r'\[(COLOR_[A-Z0-9_]+)\]', replace_named_color, text)
+
+    text = text.replace('[ENDCOLOR]', '</span>')
     text = re.sub(r'\[LINK=.*?\](.*?)\[\\LINK\]', r'\1', text)
-
-    # Replace color tags
-    text = re.sub(r'\[COLOR_POSITIVE_TEXT\](.*?)\[ENDCOLOR\]', r'<span class="positive">\1</span>', text)
-    text = re.sub(r'\[COLOR_NEGATIVE_TEXT\](.*?)\[ENDCOLOR\]', r'<span class="negative">\1</span>', text)
-    text = re.sub(r'\[COLOR_WARNING_TEXT\](.*?)\[ENDCOLOR\]', r'<span class="warning">\1</span>', text)
-    text = re.sub(r'\[COLOR_CYAN\](.*?)\[ENDCOLOR\]', r'<span class="cyan">\1</span>', text)
-    text = re.sub(r'\[COLOR_YELLOW\](.*?)\[ENDCOLOR\]', r'<span class="yellow">\1</span>', text)
-    text = re.sub(r'\[COLOR_GREEN\](.*?)\[ENDCOLOR\]', r'<span class="green">\1</span>', text)
-    text = re.sub(r'\[COLOR_MAGENTA\](.*?)\[ENDCOLOR\]', r'<span class="magenta">\1</span>', text)
-    text = re.sub(r'\[COLOR_WHITE\](.*?)\[ENDCOLOR\]', r'<span class="white">\1</span>', text)
-    text = re.sub(r'\[COLOR_PLAYER_DARK_GREEN_TEXT\](.*?)\[ENDCOLOR\]', r'<span class="player-dark-green">\1</span>', text)
-    text = re.sub(r'\[COLOR_YIELD_FOOD\](.*?)\[ENDCOLOR\]', r'<span class="yield-food">\1</span>', text)
-    text = re.sub(r'\[COLOR_YIELD_PRODUCTION\](.*?)\[ENDCOLOR\]', r'<span class="yield-production">\1</span>', text)
-    text = re.sub(r'\[COLOR_YIELD_GOLD\](.*?)\[ENDCOLOR\]', r'<span class="yield-gold">\1</span>', text)
-    text = re.sub(r'\[COLOR_YIELD_SCIENCE\](.*?)\[ENDCOLOR\]', r'<span class="yield-science">\1</span>', text)
-    text = re.sub(r'\[COLOR_YIELD_CULTURE\](.*?)\[ENDCOLOR\]', r'<span class="yield-culture">\1</span>', text)
-    text = re.sub(r'\[COLOR_YIELD_FAITH\](.*?)\[ENDCOLOR\]', r'<span class="yield-faith">\1</span>', text)
-
-    # Replace icon tags with emoji/text equivalents
-    text = text.replace('[ICON_PRODUCTION]', '🔨')
-    text = text.replace('[ICON_FOOD]', '🌾')
-    text = text.replace('[ICON_GOLD]', '💰')
-    text = text.replace('[ICON_RESEARCH]', '⚗️')
-    text = text.replace('[ICON_CULTURE]', '🎵')
-    text = text.replace('[ICON_PEACE]', '🕊️')
-    text = text.replace('[ICON_FAITH]', '🕊️')
-    text = text.replace('[ICON_TOURISM]', '🗿')
-    text = text.replace('[ICON_HAPPINESS_1]', '😊')
-    text = text.replace('[ICON_UNHAPPINESS]', '😞')
-    text = text.replace('[ICON_STRENGTH]', '⚔️')
-    text = text.replace('[ICON_MOVES]', '👣')
-    text = text.replace('[ICON_RANGE_STRENGTH]', '🏹')
-    text = text.replace('[ICON_GREAT_PEOPLE]', '⭐')
-    text = text.replace('[ICON_GOLDEN_AGE]', '🌟')
-    text = text.replace('[ICON_CAPITAL]', '🏛️')
-    text = text.replace('[ICON_TRADE]', '💱')
-    text = text.replace('[ICON_CONNECTED]', '🔗')
-    text = text.replace('[ICON_BULLET]', '• ')
-    text = text.replace('[ICON_PUPPET]', '🎭')
-    text = text.replace('[ICON_SPY]', '🕵️')
-    text = text.replace('[ICON_RES_MARRIAGE]', '💍')
-    text = text.replace('[ICON_TROPHY_GOLD]', '🥇')
-    text = text.replace('[ICON_TROPHY_SILVER]', '🥈')
-    text = text.replace('[ICON_TROPHY_BRONZE]', '🥉')
-
-    # Replace resource icons with text
-    text = re.sub(r'\[ICON_RES_([A-Z_]+)\]', '', text)
-
-    # Remove any remaining unknown tags
-    text = re.sub(r'\[ICON_[A-Z_0-9]+\]', '', text)
-
-    # Remove standalone color tags (not paired with ENDCOLOR)
-    text = re.sub(r'\[COLOR_[A-Z_]+\]', '', text)
-    text = text.replace('[ENDCOLOR]', '')
+    
+    text = re.sub(r'\[ICON_[A-Z0-9_]+\]', '', text)
+    text = re.sub(r'\[COLOR_[A-Z0-9_]+\]', '', text)
 
     return text
 
