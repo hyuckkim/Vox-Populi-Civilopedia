@@ -30,12 +30,6 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(255, 255, 0, 1)\">도시와 전투 부대</span>",
-    "name": "[COLOR_YELLOW]도시와 전투 부대[ENDCOLOR]",
-    "type": "CONCEPT_CITY_COMBATUNITS",
-    "page": "concepts"
-  },
-  {
     "nameFormatted": "도시에서 생산하기",
     "name": "도시에서 생산하기",
     "type": "CONCEPT_CITY_CONSTRUCTION",
@@ -618,8 +612,8 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "도로 건설에 소요되는 시간",
-    "name": "도로 건설에 소요되는 시간",
+    "nameFormatted": "도로 건설에 소요되 시간",
+    "name": "도로 건설에 소요되 시간",
     "type": "CONCEPT_WORKERS_ROADS_TIME",
     "page": "concepts"
   },
@@ -870,8 +864,8 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "어떤 기술이 개발 가능한가요?",
-    "name": "어떤 기술이 개발 가능한가요?",
+    "nameFormatted": "어떤 기술이 개 가능한가요?",
+    "name": "어떤 기술이 개 가능한가요?",
     "type": "CONCEPT_TECHNOLOGY_AVAILABLE",
     "page": "concepts"
   },
@@ -1770,8 +1764,8 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "도로 철도",
-    "name": "도로 철도",
+    "nameFormatted": "도로와 철도",
+    "name": "도로와 철도",
     "type": "CONCEPT_MOVEMENT_ROADS_AND_RAILROADS",
     "page": "concepts"
   },
@@ -1950,8 +1944,8 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "공중 유닛 겹기",
-    "name": "공중 유닛 겹기",
+    "nameFormatted": "공중 유닛 겹치기",
+    "name": "공중 유닛 겹치기",
     "type": "CONCEPT_AIR_POWER_STACKING",
     "page": "concepts"
   },
@@ -2604,8 +2598,8 @@ window.globalSearchIndex = [
     "page": "concepts"
   },
   {
-    "nameFormatted": "건물로 보너스 수익 획득",
-    "name": "건물로 보너스 수익 획득",
+    "nameFormatted": "건물로 보너스 수익 득",
+    "name": "건물로 보너스 수익 득",
     "type": "CONCEPT_TRADE_BOOST",
     "page": "concepts"
   },
@@ -3318,8 +3312,8 @@ window.globalSearchIndex = [
     "page": "civilizations"
   },
   {
-    "nameFormatted": "마리아 레지아",
-    "name": "마리아 레지아",
+    "nameFormatted": "마리아 테레지아",
+    "name": "마리아 테레지아",
     "type": "LEADER_MARIA",
     "page": "civilizations"
   },
@@ -3762,8 +3756,8 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "장궁병",
-    "name": "장궁병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(190, 80, 70, 1.0)\">영국</span>의)</span> 장궁병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 장궁병",
     "type": "UNIT_ENGLISH_LONGBOWMAN",
     "page": "units"
   },
@@ -4350,12 +4344,6 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(124, 35, 181, 1.0)\">카르타고</span>의)</span> 아사무",
-    "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 아사무",
-    "type": "UNIT_ASAMU",
-    "page": "units"
-  },
-  {
     "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 140, 70, 1.0)\">오스만</span>의)</span> 대형 사석포",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:140:70:255]오스만[ENDCOLOR]의)[ENDCOLOR] 대형 사석포",
     "type": "UNIT_GREAT_BOMBARD",
@@ -4434,12 +4422,6 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(190, 80, 70, 1.0)\">영국</span>의)</span> 레드코트",
-    "name": "[COLOR_POSITIVE_TEXT]([COLOR:190:80:70:255]영국[ENDCOLOR]의)[ENDCOLOR] 레드코트",
-    "type": "UNIT_REDCOAT",
-    "page": "units"
-  },
-  {
     "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(44, 101, 39, 1.0)\">에티오피아</span>의)</span> 체와",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR:44:101:39:255]에티오피아[ENDCOLOR]의)[ENDCOLOR] 체와",
     "type": "UNIT_CHEWA",
@@ -4506,9 +4488,9 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 0, 1.0)\">일본</span>의)</span> 야마토급 전함",
-    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 야마토급 전함",
-    "type": "UNIT_YAMATO",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 0, 0, 1.0)\">일본</span>의)</span> 미카사",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:255:0:0:255]일본[ENDCOLOR]의)[ENDCOLOR] 미카사",
+    "type": "UNIT_MIKASA",
     "page": "units"
   },
   {
@@ -4602,14 +4584,26 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
+    "nameFormatted": "레드코트",
+    "name": "레드코트",
+    "type": "UNIT_REDCOAT",
+    "page": "units"
+  },
+  {
+    "nameFormatted": "Yamato",
+    "name": "Yamato",
+    "type": "UNIT_YAMATO",
+    "page": "units"
+  },
+  {
     "nameFormatted": "법원",
     "name": "법원",
     "type": "BUILDING_COURTHOUSE",
     "page": "buildings"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 210, 60, 1.0)\">인도</span>의)</span> 무굴 요새",
-    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 무굴 요새",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(60, 210, 60, 1.0)\">인도</span>의)</span> 킬라",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:60:210:60:255]인도[ENDCOLOR]의)[ENDCOLOR] 킬라",
     "type": "BUILDING_MUGHAL_FORT",
     "page": "buildings"
   },
@@ -4932,8 +4926,8 @@ window.globalSearchIndex = [
     "page": "buildings"
   },
   {
-    "nameFormatted": "원형극장",
-    "name": "원형극장",
+    "nameFormatted": "극장",
+    "name": "극장",
     "type": "BUILDING_AMPHITHEATER",
     "page": "buildings"
   },
@@ -5127,6 +5121,12 @@ window.globalSearchIndex = [
     "nameFormatted": "통신사",
     "name": "통신사",
     "type": "BUILDING_WIRE_SERVICE",
+    "page": "buildings"
+  },
+  {
+    "nameFormatted": "쇼핑몰",
+    "name": "쇼핑몰",
+    "type": "BUILDING_SHOPPING_MALL",
     "page": "buildings"
   },
   {
@@ -5370,6 +5370,12 @@ window.globalSearchIndex = [
     "page": "buildings"
   },
   {
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(124, 35, 181, 1.0)\">카르타고</span>의)</span> 토펫펫",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:124:35:181:255]카르타고[ENDCOLOR]의)[ENDCOLOR] 토펫펫",
+    "type": "BUILDING_TOPHET",
+    "page": "buildings"
+  },
+  {
     "nameFormatted": "법무소",
     "name": "법무소",
     "type": "BUILDING_SCRIVENERS_OFFICE",
@@ -5538,6 +5544,12 @@ window.globalSearchIndex = [
     "page": "buildings"
   },
   {
+    "nameFormatted": "포풀리 제약 오피스",
+    "name": "포풀리 제약 오피스",
+    "type": "BUILDING_POPULI_MEDICINE",
+    "page": "buildings"
+  },
+  {
     "nameFormatted": "시드 무역 프랜차이즈",
     "name": "시드 무역 프랜차이즈",
     "type": "BUILDING_TRADER_SIDS_FRANCHISE",
@@ -5577,6 +5589,12 @@ window.globalSearchIndex = [
     "nameFormatted": "시빌 보석 프랜차이즈",
     "name": "시빌 보석 프랜차이즈",
     "type": "BUILDING_CIVILIZED_JEWELERS_FRANCHISE",
+    "page": "buildings"
+  },
+  {
+    "nameFormatted": "포풀리 제약 프랜차이즈",
+    "name": "포풀리 제약 프랜차이즈",
+    "type": "BUILDING_POPULI_MEDICINE_FRANCHISE",
     "page": "buildings"
   },
   {
@@ -5982,14 +6000,14 @@ window.globalSearchIndex = [
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(35, 70, 180, 1.0)\">포르투갈</span>의)</span> 코임브라 대학교",
-    "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]포르투갈[ENDCOLOR]의)[ENDCOLOR] 코임브라 대학교",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(35, 70, 180, 1.0)\">르투갈</span>의)</span> 코임브라 대학교",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:35:70:180:255]르투갈[ENDCOLOR]의)[ENDCOLOR] 코임브라 대학교",
     "type": "BUILDING_UNIVERSITY_OF_COIMBRA",
     "page": "wonders"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 120, 255, 1.0)\">로마</span>의)</span> 포르닉스",
-    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR]의)[ENDCOLOR] 포르닉스",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 120, 255, 1.0)\">로마</span>)</span> 포르닉스",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:120:255:255]로마[ENDCOLOR])[ENDCOLOR] 포르닉스",
     "type": "BUILDING_FORNIX",
     "page": "wonders"
   },
@@ -6051,6 +6069,12 @@ window.globalSearchIndex = [
     "nameFormatted": "유럽 입자물리 연구소",
     "name": "유럽 입자물리 연구소",
     "type": "BUILDING_CERN",
+    "page": "wonders"
+  },
+  {
+    "nameFormatted": "세계무역센터",
+    "name": "세계무역센터",
+    "type": "BUILDING_WORLD_TRADE_CENTER",
     "page": "wonders"
   },
   {
@@ -6201,6 +6225,12 @@ window.globalSearchIndex = [
     "nameFormatted": "시빌 보석 본부",
     "name": "시빌 보석 본부",
     "type": "BUILDING_CIVILIZED_JEWELERS_HQ",
+    "page": "wonders"
+  },
+  {
+    "nameFormatted": "포풀리 제약 본부",
+    "name": "포풀리 제약 본부",
+    "type": "BUILDING_POPULI_MEDICINE_HQ",
     "page": "wonders"
   },
   {
@@ -6852,14 +6882,14 @@ window.globalSearchIndex = [
     "page": "policies"
   },
   {
-    "nameFormatted": "신성한 권리",
-    "name": "신성한 권리",
+    "nameFormatted": "영지",
+    "name": "영지",
     "type": "POLICY_THEOCRACY",
     "page": "policies"
   },
   {
-    "nameFormatted": "영지",
-    "name": "영지",
+    "nameFormatted": "신성한 권리",
+    "name": "신성한 권리",
     "type": "POLICY_REFORMATION",
     "page": "policies"
   },
@@ -6930,14 +6960,14 @@ window.globalSearchIndex = [
     "page": "policies"
   },
   {
-    "nameFormatted": "자유무역",
-    "name": "자유무역",
+    "nameFormatted": "보조금",
+    "name": "보조금",
     "type": "POLICY_CARAVANS",
     "page": "policies"
   },
   {
-    "nameFormatted": "보호무역주의",
-    "name": "보호무역주의",
+    "nameFormatted": "금본위제",
+    "name": "금본위제",
     "type": "POLICY_PROTECTIONISM",
     "page": "policies"
   },
@@ -6948,32 +6978,32 @@ window.globalSearchIndex = [
     "page": "policies"
   },
   {
-    "nameFormatted": "과학혁명",
-    "name": "과학혁명",
+    "nameFormatted": "자유주의",
+    "name": "자유주의",
     "type": "POLICY_SECULARISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "계몽",
-    "name": "계몽",
+    "nameFormatted": "의무 교육",
+    "name": "의무 교육",
     "type": "POLICY_HUMANISM",
     "page": "policies"
   },
   {
-    "nameFormatted": "자유사상",
-    "name": "자유사상",
+    "nameFormatted": "세속주의",
+    "name": "세속주의",
     "type": "POLICY_FREE_THOUGHT",
     "page": "policies"
   },
   {
-    "nameFormatted": "천부인권",
-    "name": "천부인권",
+    "nameFormatted": "노예 해방",
+    "name": "노예 해방",
     "type": "POLICY_SOVEREIGNTY",
     "page": "policies"
   },
   {
-    "nameFormatted": "경험주의",
-    "name": "경험주의",
+    "nameFormatted": "고용법",
+    "name": "고용법",
     "type": "POLICY_SCIENTIFIC_REVOLUTION",
     "page": "policies"
   },
@@ -8094,6 +8124,12 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
+    "nameFormatted": "전투용 카누",
+    "name": "전투용 카누",
+    "type": "PROMOTION_WAR_CANOES",
+    "page": "promotions"
+  },
+  {
     "nameFormatted": "창 던지기",
     "name": "창 던지기",
     "type": "PROMOTION_ANTI_GUNPOWDER",
@@ -8700,12 +8736,6 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "전투용 카누",
-    "name": "전투용 카누",
-    "type": "PROMOTION_WAR_CANOES",
-    "page": "promotions"
-  },
-  {
     "nameFormatted": "원주민 언어",
     "name": "원주민 언어",
     "type": "PROMOTION_GOODY_HUT_PICKER",
@@ -8796,8 +8826,8 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "지형에 상없이 타일마다 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC10lEQVR4nM2UW0iTYRyHf322b04y14nKgkXgzARZTDO1rDQwKSvMoLnKNGJ4Edhp1k1KSa2IIIq0cmJ0cEqWUml5zjYtN1vlCSS6CyEMrKSNJv3iBS+8yilCPbcfPLzv+3/+H/CPUQNYCWApAHmmpLO1Wk1KdvbO92p1SAmAZTMlVup02tzi4jPejRujPQAyAQTNiFivjzB/+PCIbnctNZrQYQCbAAROR6YAoAIQIN5Upws/4XDc5djYAOvrS6lWhwwCiJnOey83mw+ZAcQBmB8VtSq9pubqb4+nl15vD63WIgYHB70EEClmMBXxloaG2z9LSgq/AtgLYHVm5rbK/v7nHB11c2TExQsXjlOtDrYBWDF+M7/YPzDwjMPDTlosZs+4PM5k2tvsctVwdPQth4bszM01UKEIuAxgib/irMHB5/T5PvLLl9e0WPKF3AAgwWQytjnsFRz55uSnT01MT08mgLzxxsVs/sqB3t5aejz9/PHdzc+f23n6tEnUsA5AbEZGSk9nh41DQ+18667m5qS1vwMD5QIA8yY9sc12md2uh+zpe8J2+wOui9d5ARwW4tTUxL66F1a+dlXT9a6WBuMOyirZ7s/yZJWWFrLDcZ+NTWWMi9NRpZJFBbvTdm1ufVJ3ky2v7rO9s5JHjmVTVsriNidFQZOJ99lsl9jWdpcJCWsoSVKHJEkH9+zZ6njRcJvNrXfoeFPFs+ePUqmUvwPIAbAAgDSZONlyMc+7IVHvkyTJAcCo10fWdzmr2NJazo5OG6/dKGCIeq4PQD6AhfCT0KSk2FNBgYrrANZLkpRjtZ6j3VHBN11VvFdxhUtDF4saxPflAGb5K1YAmANgEYC5Wq0mr6y8iM7uaj6tu8WIyDAhfQwgfKqbNxE5LExz/OatQjY232H8hhghFQXo/en2b8jR0ZHG4uKCXwbjdiHtGu95Wn83TEBMWmxVMoA0AKtmQvr/8Qd5Sy/4HmT7HwAAAABJRU5ErkJggg==\" class=\"civ5-icon\" alt=\"\" />이동력 <span style=\"color: rgba(128, 255, 26, 1)\">1</span> 소모",
-    "name": "지형에 상없이 타일마다 [ICON_MOVES]이동력 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 소모",
+    "nameFormatted": "지형에 상관없이 타일마다 <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC10lEQVR4nM2UW0iTYRyHf322b04y14nKgkXgzARZTDO1rDQwKSvMoLnKNGJ4Edhp1k1KSa2IIIq0cmJ0cEqWUml5zjYtN1vlCSS6CyEMrKSNJv3iBS+8yilCPbcfPLzv+3/+H/CPUQNYCWApAHmmpLO1Wk1KdvbO92p1SAmAZTMlVup02tzi4jPejRujPQAyAQTNiFivjzB/+PCIbnctNZrQYQCbAAROR6YAoAIQIN5Upws/4XDc5djYAOvrS6lWhwwCiJnOey83mw+ZAcQBmB8VtSq9pubqb4+nl15vD63WIgYHB70EEClmMBXxloaG2z9LSgq/AtgLYHVm5rbK/v7nHB11c2TExQsXjlOtDrYBWDF+M7/YPzDwjMPDTlosZs+4PM5k2tvsctVwdPQth4bszM01UKEIuAxgib/irMHB5/T5PvLLl9e0WPKF3AAgwWQytjnsFRz55uSnT01MT08mgLzxxsVs/sqB3t5aejz9/PHdzc+f23n6tEnUsA5AbEZGSk9nh41DQ+18667m5qS1vwMD5QIA8yY9sc12md2uh+zpe8J2+wOui9d5ARwW4tTUxL66F1a+dlXT9a6WBuMOyirZ7s/yZJWWFrLDcZ+NTWWMi9NRpZJFBbvTdm1ufVJ3ky2v7rO9s5JHjmVTVsriNidFQZOJ99lsl9jWdpcJCWsoSVKHJEkH9+zZ6njRcJvNrXfoeFPFs+ePUqmUvwPIAbAAgDSZONlyMc+7IVHvkyTJAcCo10fWdzmr2NJazo5OG6/dKGCIeq4PQD6AhfCT0KSk2FNBgYrrANZLkpRjtZ6j3VHBN11VvFdxhUtDF4saxPflAGb5K1YAmANgEYC5Wq0mr6y8iM7uaj6tu8WIyDAhfQwgfKqbNxE5LExz/OatQjY232H8hhghFQXo/en2b8jR0ZHG4uKCXwbjdiHtGu95Wn83TEBMWmxVMoA0AKtmQvr/8Qd5Sy/4HmT7HwAAAABJRU5ErkJggg==\" class=\"civ5-icon\" alt=\"\" />이동력 <span style=\"color: rgba(128, 255, 26, 1)\">1</span> 소모",
+    "name": "지형에 상관없이 타일마다 [ICON_MOVES]이동력 [COLOR_POSITIVE_TEXT]1[ENDCOLOR] 소모",
     "type": "PROMOTION_FLAT_MOVEMENT_COST",
     "page": "promotions"
   },
@@ -9432,9 +9462,15 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "유산탄",
-    "name": "유산탄",
-    "type": "PROMOTION_SHRAPNEL_ROUNDS",
+    "nameFormatted": "산탄 I",
+    "name": "산탄 I",
+    "type": "PROMOTION_SHRAPNEL_ROUNDS_1",
+    "page": "promotions"
+  },
+  {
+    "nameFormatted": "산탄 II",
+    "name": "산탄 II",
+    "type": "PROMOTION_SHRAPNEL_ROUNDS_2",
     "page": "promotions"
   },
   {
@@ -9522,9 +9558,9 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "초원의 유목민",
-    "name": "초원의 유목민",
-    "type": "PROMOTION_MONGOL_TERROR",
+    "nameFormatted": "봉합 카누",
+    "name": "봉합 카누",
+    "type": "PROMOTION_SEWN_CANOES",
     "page": "promotions"
   },
   {
@@ -9984,8 +10020,8 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "공성 일제 사격",
-    "name": "공성 일제 사격",
+    "nameFormatted": "신기전",
+    "name": "신기전",
     "type": "PROMOTION_SIEGE_VOLLEY",
     "page": "promotions"
   },
@@ -10059,12 +10095,6 @@ window.globalSearchIndex = [
     "nameFormatted": "그리스의 불",
     "name": "그리스의 불",
     "type": "PROMOTION_GREEK_FIRE",
-    "page": "promotions"
-  },
-  {
-    "nameFormatted": "엘리사의 간계",
-    "name": "엘리사의 간계",
-    "type": "PROMOTION_ELISHAS_GUILE",
     "page": "promotions"
   },
   {
@@ -10170,9 +10200,9 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "거함거포주의",
-    "name": "거함거포주의",
-    "type": "PROMOTION_TAIKAN_KYOHO",
+    "nameFormatted": "함대결전",
+    "name": "함대결전",
+    "type": "PROMOTION_KANTAI_KESSEN",
     "page": "promotions"
   },
   {
@@ -10266,6 +10296,12 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
+    "nameFormatted": "Cíbola",
+    "name": "Cíbola",
+    "type": "PROMOTION_CIBOLA",
+    "page": "promotions"
+  },
+  {
     "nameFormatted": "성모 마리아",
     "name": "성모 마리아",
     "type": "PROMOTION_SANTA_MARIA",
@@ -10281,6 +10317,12 @@ window.globalSearchIndex = [
     "nameFormatted": "아쟁쿠르",
     "name": "아쟁쿠르",
     "type": "PROMOTION_AGINCOURT",
+    "page": "promotions"
+  },
+  {
+    "nameFormatted": "거함거포주의",
+    "name": "거함거포주의",
+    "type": "PROMOTION_TAIKAN_KYOHO",
     "page": "promotions"
   },
   {
@@ -12216,6 +12258,12 @@ window.globalSearchIndex = [
     "page": "corporations"
   },
   {
+    "nameFormatted": "포풀리 제약",
+    "name": "포풀리 제약",
+    "type": "CORPORATION_POPULI_MEDICINE",
+    "page": "corporations"
+  },
+  {
     "nameFormatted": "근로자",
     "name": "근로자",
     "type": "SPECIALIST_CITIZEN",
@@ -12336,8 +12384,8 @@ window.globalSearchIndex = [
     "page": "greatPeople"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 150, 160, 1.0)\">이로쿼이</span>의)</span> 도다호",
-    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 도다호",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(150, 150, 160, 1.0)\">이로쿼이</span>의)</span> 타도다호",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:150:150:160:255]이로쿼이[ENDCOLOR]의)[ENDCOLOR] 타도다호",
     "type": "UNIT_TADODAHO",
     "page": "greatPeople"
   },
