@@ -19118,7 +19118,7 @@
       "BuildingClass": "BUILDINGCLASS_CIRCUS"
     },
     {
-      "EraName": "고대 대",
+      "EraName": "고대 시대",
       "Maintenance": 1,
       "Cost": 110,
       "Strategy": "대장간은 근처의 [ICON_RES_IRON] 철과 [ICON_RES_COPPER] 구리를 강화하고, 광산에 [ICON_PRODUCTION] 생산을 제공합니다.",
