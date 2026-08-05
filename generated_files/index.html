@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vox Populi 시빌로피디아</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Vox Populi 시빌로피디아</h1>
+            <div class="search-container">
+                <input type="text" id="globalSearch" placeholder="시빌로피디아 검색... (S키)" autocomplete="off">
+                <div id="searchResults" class="search-results"></div>
+            </div>
+            <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation menu">☰</button>
+        </header>
+
+        <nav class="main-nav">
+            <a href="index.html" class="active">문명 백과사전 홈페이지</a>
+            <a href="concepts.html">게임 개념</a>
+            <a href="civilizations.html">문명과 지도자</a>
+            <a href="units.html">유닛</a>
+            <a href="buildings.html">건물</a>
+            <a href="wonders.html">불가사의</a>
+            <a href="technologies.html">기술</a>
+            <a href="policies.html">사회 정책</a>
+            <a href="beliefs.html">종교</a>
+            <a href="promotions.html">승급</a>
+            <a href="resources.html">자원</a>
+            <a href="improvements.html">시설</a>
+            <a href="terrain.html">지형과 특징</a>
+            <a href="greatPeople.html">전문가와 위인</a>
+            <a href="cityStates.html">도시 국가</a>
+            <a href="worldCongress.html">세계 의회</a>
+            <a href="corporations.html">기업</a>
+        </nav>
+
+        <main>
+            <section class="welcome">
+                <h2>시빌로피디아에 오신 걸 환영합니다.</h2>
+                <p>현재 버전: 5.1</p>
+ 
+                <div class="text-box" style="margin-top: 1.5rem;">
+                    <br>&emsp;&emsp;"애국자는 어디를 가든 자신이 가장 사랑하는 최고의 나라는 고향이라고 말한다."<br>&emsp;&emsp;  - 올리버 골드스미스<br>&emsp;
+                </div>
+                <div class="text-box" style="margin-top: 1.5rem;">
+                    문명 백과사전에 잘 오셨습니다! 여기서 게임에 대한 자세한 설명을 찾아볼 수 있습니다. 특정 주제에 대한 항목을 검색하려면 "검색" 버튼을 이용해 주십시오. 화면 상단의 주제를 클릭하면, 해당하는 각 항목으로 이동하게 됩니다. 화면의 왼쪽에 있는 탐색바를 통해 항목의 세부 내용을 찾아볼 수 있습니다.<br><br>화면 왼쪽 상단에 위치한 "앞으로" "뒤로" 버튼을 이용하시면 탐색에 도움이 될 것입니다. "X" 버튼을 누르시면 문명 백과사전을 닫고 게임으로 돌아갑니다.<br><br>Vox populi에 잘 오셨습니다. Vox Populi는 게임을 완전히 바꾸어, 정책, 지도자, 건물, 불가사의 등을 완전히 뒤바꾸는 모드입니다. <span style="color: rgba(255, 255, 0, 1)">Vox Populi에서 바뀐 내용은 시빌로피디아에서 노란색으로 하이라이트됩니다</span>.<span style="color: rgba(0, 255, 0, 1)"> 게임의 완전히 새로운 내용 또는 완전히 바뀐 내용은 초록색으로 하이라이트됩니다</span>.<br><br><br><span style="color: rgba(128, 255, 26, 1)">문명메트로폴리스 2016 한글 패치 v2.4</span><br><span style="color: rgba(255, 0, 255, 1)">디시인사이드 문명 갤러리 Vox populi 한글패치</span>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>Vox Populi 시빌로피디아 - Version 5.1</p>
+        </footer>
+    </div>
+    <script src="searchIndex.js"></script>
+    <script>
+        // Search functionality for index page
+        const searchInput = document.getElementById('globalSearch');
+        const searchResults = document.getElementById('searchResults');
+        let selectedIndex = -1;
+
+        if (searchInput && window.globalSearchIndex) {
+            searchInput.addEventListener('input', function(e) {
+                const query = e.target.value.trim().toLowerCase();
+                selectedIndex = -1; // Reset selection on new input
+
+                if (query.length < 2) {
+                    searchResults.style.display = 'none';
+                    searchResults.innerHTML = '';
+                    return;
+                }
+
+                // Search for matches in article titles across all categories
+                const matches = window.globalSearchIndex.filter(article =>
+                    article.name.toLowerCase().includes(query)
+                ).slice(0, 10); // Limit to 10 results
+
+                if (matches.length > 0) {
+                    // Clear previous results
+                    searchResults.innerHTML = '';
+
+                    // Create and append each result element
+                    matches.forEach(match => {
+                        const resultDiv = document.createElement('div');
+                        resultDiv.className = 'search-result-item';
+                        resultDiv.setAttribute('data-page', match.page);
+                        resultDiv.setAttribute('data-type', match.type);
+
+                        const strong = document.createElement('strong');
+                        strong.innerHTML = match.nameFormatted; // Use formatted name with HTML/colors
+                        resultDiv.appendChild(strong);
+
+                        // Add click handler
+                        resultDiv.addEventListener('click', function() {
+                            navigateToArticle(match.page, match.type);
+                        });
+
+                        searchResults.appendChild(resultDiv);
+                    });
+                    searchResults.style.display = 'block';
+                } else {
+                    searchResults.innerHTML = '<div class="search-result-item no-results">검색 결과 없음</div>';
+                    searchResults.style.display = 'block';
+                }
+            });
+
+            // Keyboard navigation
+            searchInput.addEventListener('keydown', function(e) {
+                const items = searchResults.querySelectorAll('.search-result-item:not(.no-results)');
+
+                if (items.length === 0) return;
+
+                if (e.key === 'ArrowDown') {
+                    e.preventDefault();
+                    selectedIndex = Math.min(selectedIndex + 1, items.length - 1);
+                    updateSelection(items);
+                } else if (e.key === 'ArrowUp') {
+                    e.preventDefault();
+                    selectedIndex = Math.max(selectedIndex - 1, -1);
+                    updateSelection(items);
+                } else if (e.key === 'Enter') {
+                    e.preventDefault();
+                    if (selectedIndex >= 0 && selectedIndex < items.length) {
+                        const selectedItem = items[selectedIndex];
+                        const page = selectedItem.getAttribute('data-page');
+                        const type = selectedItem.getAttribute('data-type');
+                        navigateToArticle(page, type);
+                    }
+                } else if (e.key === 'Escape') {
+                    searchResults.style.display = 'none';
+                    selectedIndex = -1;
+                }
+            });
+
+            function updateSelection(items) {
+                items.forEach((item, index) => {
+                    if (index === selectedIndex) {
+                        item.classList.add('selected');
+                        item.scrollIntoView({ block: 'nearest' });
+                    } else {
+                        item.classList.remove('selected');
+                    }
+                });
+            }
+
+            // Close search results when clicking outside
+            document.addEventListener('click', function(e) {
+                if (!e.target.closest('.search-container')) {
+                    searchResults.style.display = 'none';
+                    selectedIndex = -1;
+                }
+            });
+
+            // Prevent closing when clicking inside search container
+            searchInput.addEventListener('click', function(e) {
+                e.stopPropagation();
+            });
+        }
+
+        // Global keyboard shortcut: Press 'S' to focus search
+        document.addEventListener('keydown', function(e) {
+            // Check if 'S' key is pressed and search input is not already focused
+            if (e.key === 's' || e.key === 'S') {
+                // Don't trigger if user is typing in an input field
+                if (document.activeElement.tagName === 'INPUT' ||
+                    document.activeElement.tagName === 'TEXTAREA' ||
+                    document.activeElement.isContentEditable) {
+                    return;
+                }
+                e.preventDefault();
+                searchInput.focus();
+            }
+        });
+
+        function navigateToArticle(page, itemType) {
+            window.location.href = page + '.html#item-' + itemType;
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // Mobile navigation toggle
+        const navToggle = document.getElementById('navToggle');
+        const mainNav = document.querySelector('.main-nav');
+
+        if (navToggle) {
+            navToggle.addEventListener('click', function(e) {
+                e.preventDefault();
+                mainNav.classList.toggle('open');
+                document.body.classList.toggle('nav-open');
+            });
+        }
+
+        // Close nav when clicking a link
+        if (mainNav) {
+            const navLinks = mainNav.querySelectorAll('a');
+            navLinks.forEach(link => {
+                link.addEventListener('click', function() {
+                    mainNav.classList.remove('open');
+                    document.body.classList.remove('nav-open');
+                });
+            });
+        }
+
+        // Close nav when clicking outside
+        document.addEventListener('click', function(e) {
+            if (mainNav && mainNav.classList.contains('open')) {
+                if (!e.target.closest('.main-nav') && !e.target.closest('.nav-toggle')) {
+                    mainNav.classList.remove('open');
+                    document.body.classList.remove('nav-open');
+                }
+            }
+        });
+    </script>
+</body>
+</html>
