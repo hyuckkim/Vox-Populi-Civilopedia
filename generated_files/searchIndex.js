@@ -3876,31 +3876,31 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 야만인 전사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 76, 76, 1)\">야만족</span>의)</span> 야만인 전사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 야만인 전사",
     "type": "UNIT_BARBARIAN_WARRIOR",
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 갤리",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 76, 76, 1)\">야만족</span>의)</span> 갤리",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 갤리",
     "type": "UNIT_GALLEY",
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 궁병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 76, 76, 1)\">야만족</span>의)</span> 궁병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 궁병",
     "type": "UNIT_BARBARIAN_ARCHER",
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 창병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 76, 76, 1)\">야만족</span>의)</span> 창병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 창병",
     "type": "UNIT_BARBARIAN_SPEARMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 검사",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 76, 76, 1)\">야만족</span>의)</span> 검사",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 검사",
     "type": "UNIT_BARBARIAN_SWORDSMAN",
     "page": "units"
@@ -4122,8 +4122,8 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(210, 45, 30, 1.0)\">폴란드</span>)</span> 윙드 후사르",
-    "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR])[ENDCOLOR] 윙드 후사르",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(210, 45, 30, 1.0)\">폴란드</span>의)</span> 윙드 후사르",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:210:45:30:255]폴란드[ENDCOLOR]의)[ENDCOLOR] 윙드 후사르",
     "type": "UNIT_POLISH_WINGED_HUSSAR",
     "page": "units"
   },
@@ -4200,13 +4200,13 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 기마병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 76, 76, 1)\">야만족</span>의)</span> 기마병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 기마병",
     "type": "UNIT_BARBARIAN_HORSEMAN",
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 77, 77, 1)\">야만족</span>의)</span> 도끼병",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(255, 76, 76, 1)\">야만족</span>의)</span> 도끼병",
     "name": "[COLOR_POSITIVE_TEXT]([COLOR_NEGATIVE_TEXT]야만족[ENDCOLOR]의)[ENDCOLOR] 도끼병",
     "type": "UNIT_BARBARIAN_AXMAN",
     "page": "units"
@@ -4464,8 +4464,8 @@ window.globalSearchIndex = [
     "page": "units"
   },
   {
-    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 230, 0, 1.0)\">잉카</span>의)</span> 잉티 철퇴",
-    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 잉티 철퇴",
+    "nameFormatted": "<span style=\"color: rgba(128, 255, 26, 1)\">(<span style=\"color: rgba(200, 230, 0, 1.0)\">잉카</span>의)</span> 잉티 철퇴병",
+    "name": "[COLOR_POSITIVE_TEXT]([COLOR:200:230:0:255]잉카[ENDCOLOR]의)[ENDCOLOR] 잉티 철퇴병",
     "type": "UNIT_INTI_MACEMAN",
     "page": "units"
   },
@@ -6612,8 +6612,8 @@ window.globalSearchIndex = [
     "page": "technologies"
   },
   {
-    "nameFormatted": "생물학",
-    "name": "생물학",
+    "nameFormatted": "생물",
+    "name": "생물",
     "type": "TECH_BIOLOGY",
     "page": "technologies"
   },
@@ -8898,7 +8898,7 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "<span class=\"icon-wrap\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC8UlEQVR4nO3UW0jTYRzG8SenLdDEDnTQtHOEnbtK6qKzRkZiV2HQgS4iosxIiqKipANEEjWyw0xsplm5DlpOp9M5zTZ1bpbaQSOY2/zrNuc22MB4YmJ3Qf91GX3hvf3we19efsD/Qmg8gHkAkgFsApAAIAJ/mWQMnDppUvTWjIzUVp3uOTWaEiYlLa8KDw9PAjARQHgo6ITIyMilq1cnHkxOXvs081hG4O3bAvb0tnLQ8Y1v3pQyLS3FtXDhnNyEhOmpUql0NgCpGHjJhi1rOu/JL7Hs5W2qqgtp7qhkm7GEbSYlnUMW9gs2ampVPH8+cyQxcXY9gAVi4N05106xruklX1XmU9ekYF9fDf0BM/vsapo+lPK7xUC3x0635xtzcg4TwE4x8PF7D29QpS6gqaOULtc7erxGutwGDgw20eFopN1eza5PSpq7VMy7ey4I7xMDn7x15yprax6wt+c1bbZ6Wqy17BcaODjQSKfrPX2+dvYLWrYYy3j5SmYQThcDH8mVXWSVWk6tTs7Pnyv45Ws5LRYNnc5muocN9PqMtAs6fugqZ3b2/h8A1omB95w6d5RqzSOWKa/T3FFGk+kZe3tVdA3p6fOZRk/wJp3dFUxP32gDMF8MvHnHrm2srCpkSfG10ambm4v4sfMFhz0tDAQ+0uttpdXWwK5uNWNjp90c+9N/bPGshDihoDCX5a/zWFR0iXXafLa1l9DjMXJkpJtOl47CgJkvlI9GAGwAECYGjpZIJNcPHMqgrukp8/MvsOhxDvWG4tEn8PuNFIR3HBqyMiVlcw2AWIgsLDj1jLjYnrz7V9jY+Jgy2WlWqmR0DzfT422h3++gQqEIAFgf6t6YAIlk56JVywLKCjkNeiXVNXfpcBpI+qjXv2dUVFQ2gJhQ0F9Fh0mlh1euWxMofCKj1WqkPyBQq9UwPj5eASAOf9k4AJPDIiL2Tps5w33mbBazThz5MSUmRg5gbqibDb8p+JVWANgOYC2A6WNr9R/rJz6xvxYGelJbAAAAAElFTkSuQmCC\" class=\"civ5-icon\" alt=\"\" /><span class=\"icon-alt\">:c5strength:</span></span>방어력 보너스 없음",
+    "nameFormatted": "<span class=\"icon-wrap\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAC5UlEQVR4nO2UzWtcVRiHn3vuvTPTzEdmMpMhoYlpRWcaS6MWAgmIKForKLpt6cKFO3FVwY3Z9W9QbLGixYUaJIJVi7TGhlraRCnUTLQ0CCGTm8kkmblJm9x77keOZBihSDDTrFz4HDi738PvPRxe+J8mGrsTAXqAx4EAuAssAj57QG8Kc5lM6qVTp1799dq1r9T4+OdqeHjgB8MwhoEkYDxM41g8Hn+sWOwb6uzMHO8/dOC14y8fixSKR2hv72Dy5hTnzn1sl0p/fCKlc2Vpyf5NSlkB5G7iw88fGxo9eeKV/lwuQ7wtRXdXniCwQUQ50DeI7+nMTN/mp6vfh6OjYz/PzMy9Ccw+KNlplIEXXnyuv9A/wPr6KvG4INthks09wWq9ynz5Oun0QY4OPsnRwYJumt6zIyMfHG5F3JXP55Gbdfr2J3ikpxfDjOG4kojRRk/3PnzfxrLK+Ftt5Dpz25nMPyU7iQ3pephaQLJtH67rEToOpmGiawJNN0gmO9FElPmFFWq19e1M43oQsYPYCbY8AqVRXqxy7959nM1NfC9A6Dq6LlCNI4jFItj1tS2g2orYXlpaQegRVpbruFKyueHieR6aEBh6BA2BCkOEpjE7O1dt/utdxZVS6S6Br/DcEHutjuNIHNdptDUMA6WCRmONKDduTH/ZauPyranby5XKKolEO/NzFq4nkZ6LxvZT6Hi+g2G0c+f3xdCyql8DG62IrcWFyoWJ67+QzmaRMmShbDUmEEIQBA6BrxMxc3x49tOrwB1gqxXx/TAMP/rum/E/p0uzFIsF7PoGtVqNIHTwg5BUqsDFiz96ly5dPgMs8xDE0PXXC08fkWPfnldTk2Pq8pWzarU2pZTaUJOTN1UikXgXSLMHUiIafeupZ4bkhS/eV5Z1S7myqiYmxlVvb+9nwH72iAZ0CNN8I9/dtfbeyGl1+p23w2w6fR44+G+b7e/wbiSBR5s72W7uhBUg3Gvj/yZ/AZ7cOCjd6x1sAAAAAElFTkSuQmCC\" class=\"civ5-icon\" alt=\"\" /><span class=\"icon-alt\">:c5strength:</span></span>방어력 보너스 없음",
     "name": "[ICON_STRENGTH]방어력 보너스 없음",
     "type": "PROMOTION_NO_DEFENSIVE_BONUSES",
     "page": "promotions"
@@ -8964,13 +8964,13 @@ window.globalSearchIndex = [
     "page": "promotions"
   },
   {
-    "nameFormatted": "공격 시 <span class=\"icon-wrap\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC8UlEQVR4nO3UW0jTYRzG8SenLdDEDnTQtHOEnbtK6qKzRkZiV2HQgS4iosxIiqKipANEEjWyw0xsplm5DlpOp9M5zTZ1bpbaQSOY2/zrNuc22MB4YmJ3Qf91GX3hvf3we19efsD/Qmg8gHkAkgFsApAAIAJ/mWQMnDppUvTWjIzUVp3uOTWaEiYlLa8KDw9PAjARQHgo6ITIyMilq1cnHkxOXvs081hG4O3bAvb0tnLQ8Y1v3pQyLS3FtXDhnNyEhOmpUql0NgCpGHjJhi1rOu/JL7Hs5W2qqgtp7qhkm7GEbSYlnUMW9gs2ampVPH8+cyQxcXY9gAVi4N05106xruklX1XmU9ekYF9fDf0BM/vsapo+lPK7xUC3x0635xtzcg4TwE4x8PF7D29QpS6gqaOULtc7erxGutwGDgw20eFopN1eza5PSpq7VMy7ey4I7xMDn7x15yprax6wt+c1bbZ6Wqy17BcaODjQSKfrPX2+dvYLWrYYy3j5SmYQThcDH8mVXWSVWk6tTs7Pnyv45Ws5LRYNnc5muocN9PqMtAs6fugqZ3b2/h8A1omB95w6d5RqzSOWKa/T3FFGk+kZe3tVdA3p6fOZRk/wJp3dFUxP32gDMF8MvHnHrm2srCpkSfG10ambm4v4sfMFhz0tDAQ+0uttpdXWwK5uNWNjp90c+9N/bPGshDihoDCX5a/zWFR0iXXafLa1l9DjMXJkpJtOl47CgJkvlI9GAGwAECYGjpZIJNcPHMqgrukp8/MvsOhxDvWG4tEn8PuNFIR3HBqyMiVlcw2AWIgsLDj1jLjYnrz7V9jY+Jgy2WlWqmR0DzfT422h3++gQqEIAFgf6t6YAIlk56JVywLKCjkNeiXVNXfpcBpI+qjXv2dUVFQ2gJhQ0F9Fh0mlh1euWxMofCKj1WqkPyBQq9UwPj5eASAOf9k4AJPDIiL2Tps5w33mbBazThz5MSUmRg5gbqibDb8p+JVWANgOYC2A6WNr9R/rJz6xvxYGelJbAAAAAElFTkSuQmCC\" class=\"civ5-icon\" alt=\"\" /><span class=\"icon-alt\">:c5strength:</span></span>전투력 보너스 (<span style=\"color: rgba(128, 255, 26, 1)\">+25%</span>)",
+    "nameFormatted": "공격 시 <span class=\"icon-wrap\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAC5UlEQVR4nO2UzWtcVRiHn3vuvTPTzEdmMpMhoYlpRWcaS6MWAgmIKForKLpt6cKFO3FVwY3Z9W9QbLGixYUaJIJVi7TGhlraRCnUTLQ0CCGTm8kkmblJm9x77keOZBihSDDTrFz4HDi738PvPRxe+J8mGrsTAXqAx4EAuAssAj57QG8Kc5lM6qVTp1799dq1r9T4+OdqeHjgB8MwhoEkYDxM41g8Hn+sWOwb6uzMHO8/dOC14y8fixSKR2hv72Dy5hTnzn1sl0p/fCKlc2Vpyf5NSlkB5G7iw88fGxo9eeKV/lwuQ7wtRXdXniCwQUQ50DeI7+nMTN/mp6vfh6OjYz/PzMy9Ccw+KNlplIEXXnyuv9A/wPr6KvG4INthks09wWq9ynz5Oun0QY4OPsnRwYJumt6zIyMfHG5F3JXP55Gbdfr2J3ikpxfDjOG4kojRRk/3PnzfxrLK+Ftt5Dpz25nMPyU7iQ3pephaQLJtH67rEToOpmGiawJNN0gmO9FElPmFFWq19e1M43oQsYPYCbY8AqVRXqxy7959nM1NfC9A6Dq6LlCNI4jFItj1tS2g2orYXlpaQegRVpbruFKyueHieR6aEBh6BA2BCkOEpjE7O1dt/utdxZVS6S6Br/DcEHutjuNIHNdptDUMA6WCRmONKDduTH/ZauPyranby5XKKolEO/NzFq4nkZ6LxvZT6Hi+g2G0c+f3xdCyql8DG62IrcWFyoWJ67+QzmaRMmShbDUmEEIQBA6BrxMxc3x49tOrwB1gqxXx/TAMP/rum/E/p0uzFIsF7PoGtVqNIHTwg5BUqsDFiz96ly5dPgMs8xDE0PXXC08fkWPfnldTk2Pq8pWzarU2pZTaUJOTN1UikXgXSLMHUiIafeupZ4bkhS/eV5Z1S7myqiYmxlVvb+9nwH72iAZ0CNN8I9/dtfbeyGl1+p23w2w6fR44+G+b7e/wbiSBR5s72W7uhBUg3Gvj/yZ/AZ7cOCjd6x1sAAAAAElFTkSuQmCC\" class=\"civ5-icon\" alt=\"\" /><span class=\"icon-alt\">:c5strength:</span></span>전투력 보너스 (<span style=\"color: rgba(128, 255, 26, 1)\">+25%</span>)",
     "name": "공격 시 [ICON_STRENGTH]전투력 보너스 ([COLOR_POSITIVE_TEXT]+25%[ENDCOLOR])",
     "type": "PROMOTION_ATTACK_BONUS",
     "page": "promotions"
   },
   {
-    "nameFormatted": "약탈 시 <span class=\"icon-wrap\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC10lEQVR4nM2UW0iTYRyHf322b04y14nKgkXgzARZTDO1rDQwKSvMoLnKNGJ4Edhp1k1KSa2IIIq0cmJ0cEqWUml5zjYtN1vlCSS6CyEMrKSNJv3iBS+8yilCPbcfPLzv+3/+H/CPUQNYCWApAHmmpLO1Wk1KdvbO92p1SAmAZTMlVup02tzi4jPejRujPQAyAQTNiFivjzB/+PCIbnctNZrQYQCbAAROR6YAoAIQIN5Upws/4XDc5djYAOvrS6lWhwwCiJnOey83mw+ZAcQBmB8VtSq9pubqb4+nl15vD63WIgYHB70EEClmMBXxloaG2z9LSgq/AtgLYHVm5rbK/v7nHB11c2TExQsXjlOtDrYBWDF+M7/YPzDwjMPDTlosZs+4PM5k2tvsctVwdPQth4bszM01UKEIuAxgib/irMHB5/T5PvLLl9e0WPKF3AAgwWQytjnsFRz55uSnT01MT08mgLzxxsVs/sqB3t5aejz9/PHdzc+f23n6tEnUsA5AbEZGSk9nh41DQ+18667m5qS1vwMD5QIA8yY9sc12md2uh+zpe8J2+wOui9d5ARwW4tTUxL66F1a+dlXT9a6WBuMOyirZ7s/yZJWWFrLDcZ+NTWWMi9NRpZJFBbvTdm1ufVJ3ky2v7rO9s5JHjmVTVsriNidFQZOJ99lsl9jWdpcJCWsoSVKHJEkH9+zZ6njRcJvNrXfoeFPFs+ePUqmUvwPIAbAAgDSZONlyMc+7IVHvkyTJAcCo10fWdzmr2NJazo5OG6/dKGCIeq4PQD6AhfCT0KSk2FNBgYrrANZLkpRjtZ6j3VHBN11VvFdxhUtDF4saxPflAGb5K1YAmANgEYC5Wq0mr6y8iM7uaj6tu8WIyDAhfQwgfKqbNxE5LExz/OatQjY232H8hhghFQXo/en2b8jR0ZHG4uKCXwbjdiHtGu95Wn83TEBMWmxVMoA0AKtmQvr/8Qd5Sy/4HmT7HwAAAABJRU5ErkJggg==\" class=\"civ5-icon\" alt=\"\" /><span class=\"icon-alt\">:c5moves:</span></span>이동력 소모 없음",
+    "nameFormatted": "약탈 시 <span class=\"icon-wrap\"><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAADDklEQVR4nNWVW2xUVRSGvzmdG8PUGS+JRSUlhtaIafowpniJl4IEEkIwCEmBICEoE0hMiJchPGgbU+iYyItVHMGgL4VyDU0w1oYW5NJxmMLIWNqEauODdSi9DZ1Tp3NO5yxykuOLCXUo+OBK9tve3/7X2mv9G/6jsBW4zw88BGSBEUC7H5fby8tLl27atPKq3++LAI8XckgpYE+Rx+N6sqqq8qnKyrKNwCuA5971gisQeDqUTJ6QRKJFSksfGwZeBdwzUewAZplqAcnnDSOTmaCiopxI5OOH/X7fPqACcN4t+NFQaPM7QBXgNQxb/9DQqOh6nurqhezZ80FZcbHnU6DMfIO7Sf+1trb9f0UidWYH1AAL1q1bfrinp1VUNSHpdJc0NLwnfn9xMzDPyqyg2NDb+50MD8clHA5lLfjzwWBNe1fXSVHVK5JKXZCtW9eKw1FkKi8pFLzx+vVW0fVf5ebNnyQc3mHC1wIvBoPrz168cEjSt+LS339aVq1aLMB2YI71NtPGm93dLZLN9khmPCEDA+dk586g2Q3PAQtXr176S7SzWVKpc3IlcVyqF1UZbrezFnjwb8CdCm/r7u4jN6njnOVibCzDmR9jXqsTkhMTWWUsM4FtYAi73U7JnBKbYWMJ8DUwNh0YVVXJ5XKMpsf56MPPuPpzTwwYXfF6dXjLlpoFbo8bTZ+i6eApjh9rHdFyWos18tMqznu9HjTdoK62kVgsGQW+WbNm2btvvf3GC3aHE5fTQXt7lH1fNGW0nBYCTHD632q8OPzJ9smXXg7oiqJcBNYHAs98fyl+RDrOfCud0WZp3FsrPv8DOrADeOSfgDsp7m37IVp3+VLyCcMwmhVFKd+2rWaZpuWZPdtD329/sLs+wq30+FdAk+V4BYGHOjpin1tjnZs/f+6ztiIbLreTwcERdtV/SerPwZNAI3DDHPtCwbq1VNMPRCjStSnSaZXdDfvpvdZnlqce6AemZmqb+HzeG0Ze9AMHjtJ5Ph4H3geuWZfP+AdRTFMy/cLy4T7gd2CyEFH/n7gN6rxAdMdMupUAAAAASUVORK5CYII=\" class=\"civ5-icon\" alt=\"\" /><span class=\"icon-alt\">:c5moves:</span></span>이동력 소모 없음",
     "name": "약탈 시 [ICON_MOVES]이동력 소모 없음",
     "type": "PROMOTION_FREE_PILLAGE_MOVES",
     "page": "promotions"
@@ -11226,8 +11226,8 @@ window.globalSearchIndex = [
     "page": "terrain"
   },
   {
-    "nameFormatted": "연안",
-    "name": "연안",
+    "nameFormatted": "안",
+    "name": "안",
     "type": "TERRAIN_COAST",
     "page": "terrain"
   },
@@ -11466,8 +11466,8 @@ window.globalSearchIndex = [
     "page": "cityStates"
   },
   {
-    "nameFormatted": "브뤼셀",
-    "name": "브뤼셀",
+    "nameFormatted": "브셀",
+    "name": "브셀",
     "type": "MINOR_CIV_BRUSSELS",
     "page": "cityStates"
   },
@@ -12300,8 +12300,8 @@ window.globalSearchIndex = [
     "page": "worldCongress"
   },
   {
-    "nameFormatted": "국제 우주 정거",
-    "name": "국제 우주 정거",
+    "nameFormatted": "국제 우주 정거장",
+    "name": "국제 우주 정거장",
     "type": "LEAGUE_PROJECT_INTERNATIONAL_SPACE_STATION",
     "page": "worldCongress"
   },
